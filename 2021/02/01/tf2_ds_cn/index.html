@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+
+<html lang="zh-CN">
+
+<head>
+  
+  <title>TF2社区服务器开服教程 - 咖啡厅&amp;MidHeart</title>
+  <meta charset="UTF-8">
+  <meta name="description" content="我用来乱写东西的">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+  
+  
+
+  <link rel="shortcut icon" href="https://fp1.fghrsh.net/2021/02/01/88d2862f7861dff06a9456610a269573.jpg" type="image/png" />
+  <meta name="description" content="TF2社区服务器开服教程一. 前言写在开头，由于国内TF2社区不断地缩小，流失的玩家数量比不上新加入的玩家数量，所以你在一腔热血之开服时最好还是思考一下：是不是我真的想当服主？我有什么办法让玩家来玩我的服务器？有不少需要你操心的东西。假如你只是想建一个朋友玩玩的服务器就好，那可以不用太理会上面的问题。 下面的教程，不需要你明白得任何的编程知识，只要跟着一步一步做，你也可以开起自己的服务器。 假如你">
+<meta property="og:type" content="article">
+<meta property="og:title" content="TF2社区服务器开服教程">
+<meta property="og:url" content="https://midheart.club/2021/02/01/tf2_ds_cn/index.html">
+<meta property="og:site_name" content="咖啡厅&amp;MidHeart">
+<meta property="og:description" content="TF2社区服务器开服教程一. 前言写在开头，由于国内TF2社区不断地缩小，流失的玩家数量比不上新加入的玩家数量，所以你在一腔热血之开服时最好还是思考一下：是不是我真的想当服主？我有什么办法让玩家来玩我的服务器？有不少需要你操心的东西。假如你只是想建一个朋友玩玩的服务器就好，那可以不用太理会上面的问题。 下面的教程，不需要你明白得任何的编程知识，只要跟着一步一步做，你也可以开起自己的服务器。 假如你">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://fp1.fghrsh.net/2021/01/31/b1b59e341e5b9c26d5114342b024cd57.png">
+<meta property="og:image" content="https://fp1.fghrsh.net/2021/01/31/de54c7bf2ad55d5570d34528589bae0e.png">
+<meta property="og:image" content="https://dzfiles.93x.net/data/attachment/forum/201706/30/190053ptxhvi4triv66dr6.jpg">
+<meta property="og:image" content="https://fp1.fghrsh.net/2021/01/31/bd7cc202d7171bc6d6c0287247c73e2e.png">
+<meta property="article:published_time" content="2021-01-31T16:38:57.000Z">
+<meta property="article:modified_time" content="2021-01-31T17:28:47.500Z">
+<meta property="article:author" content="热可可">
+<meta property="article:tag" content="TF2">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://fp1.fghrsh.net/2021/01/31/b1b59e341e5b9c26d5114342b024cd57.png">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/combine/npm/highlight.js@9.15.8/styles/atom-one-dark.css,gh/nexmoe/nexmoe.github.io@latest/lib/mdui_043tiny/css/mdui.css,gh/nexmoe/nexmoe.github.io@latest/lib/iconfont/iconfont.css,gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css?v=233" crossorigin>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/justifiedGallery@3.8.1/dist/css/justifiedGallery.min.css">
+  
+  <link rel="stylesheet" href="/css/style.css?v=1612147286613">
+<meta name="generator" content="Hexo 5.3.0"></head>
+
+<body class="mdui-drawer-body-left">
+  
+  <div id="nexmoe-background">
+    <div class="nexmoe-bg" style="background-image: url(https://fp1.fghrsh.net/2021/01/31/36ef561f5e9b1bdaa67676f0a09cc371.png)"></div>
+    <div class="mdui-appbar mdui-shadow-0">
+      <div class="mdui-toolbar">
+        <a mdui-drawer="{target: '#drawer', swipe: true}" title="menu" class="mdui-btn mdui-btn-icon mdui-ripple"><i class="mdui-icon nexmoefont icon-menu"></i></a>
+        <div class="mdui-toolbar-spacer"></div>
+        <!--<a href="javascript:;" class="mdui-btn mdui-btn-icon"><i class="mdui-icon material-icons">search</i></a>-->
+        <a href="/" title="热可可" class="mdui-btn mdui-btn-icon"><img src="https://fp1.fghrsh.net/2021/02/01/1ba1fd3836bb069183ad17f831f6d2b7.jpg" alt="热可可"></a>
+       </div>
+    </div>
+  </div>
+  <div id="nexmoe-header">
+      <div class="nexmoe-drawer mdui-drawer" id="drawer">
+    <div class="nexmoe-avatar mdui-ripple">
+        <a href="/" title="热可可">
+            <img src="https://fp1.fghrsh.net/2021/02/01/1ba1fd3836bb069183ad17f831f6d2b7.jpg" alt="热可可" alt="热可可">
+        </a>
+    </div>
+    <div class="nexmoe-count">
+        <div><span>文章</span>1</div>
+        <div><span>标签</span>0</div>
+        <div><span>分类</span>0</div>
+    </div>
+    <div class="nexmoe-list mdui-list" mdui-collapse="{accordion: true}">
+        
+        <a class="nexmoe-list-item mdui-list-item mdui-ripple" href="/" title="回到首页">
+            <i class="mdui-list-item-icon nexmoefont icon-home"></i>
+            <div class="mdui-list-item-content">
+                回到首页
+            </div>
+        </a>
+        
+        <a class="nexmoe-list-item mdui-list-item mdui-ripple" href="/about" title="关于博客">
+            <i class="mdui-list-item-icon nexmoefont icon-info-circle"></i>
+            <div class="mdui-list-item-content">
+                关于博客
+            </div>
+        </a>
+        
+        <a class="nexmoe-list-item mdui-list-item mdui-ripple" href="/PY" title="我的朋友">
+            <i class="mdui-list-item-icon nexmoefont icon-coffee"></i>
+            <div class="mdui-list-item-content">
+                我的朋友
+            </div>
+        </a>
+        
+    </div>
+    <aside id="nexmoe-sidebar">
+  
+  <div class="nexmoe-widget-wrap">
+    <div class="nexmoe-widget nexmoe-search">
+        <form id="search_form" action_e="https://cn.bing.com/search?q=site:midheart.club" onsubmit="return search();">
+            <label><input id="search_value" name="q" type="search" placeholder="搜索"></label>
+        </form>
+    </div>
+</div>
+  
+  <div class="nexmoe-widget-wrap">
+    <div class="nexmoe-widget nexmoe-social">
+        <a class="mdui-ripple" href="https://qm.qq.com/cgi-bin/qm/qr?k=fLOvaiD8CZDKV_vkTvKoKDiFEyJH3F1h&jump_from=webapi" target="_blank" mdui-tooltip="{content: 'QQ群'}" style="color: rgb(249, 174, 8);background-color: rgba(249, 174, 8, .1);">
+            <i class="nexmoefont icon-QQ"></i>
+        </a><a class="mdui-ripple" href="https://space.bilibili.com/4213943" target="_blank" mdui-tooltip="{content: '哔哩哔哩'}" style="color: rgb(231, 106, 141);background-color: rgba(231, 106, 141, .15);">
+            <i class="nexmoefont icon-bilibili"></i>
+        </a>
+    </div>
+</div>
+  
+  
+
+  
+  
+  
+  
+  <div class="nexmoe-widget-wrap">
+    <h3 class="nexmoe-widget-title">文章归档</h3>
+    <div class="nexmoe-widget">
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2021/">2021</a><span class="archive-list-count">1</span></li></ul>
+    </div>
+  </div>
+
+
+<style>
+.nexmoe-widget .archive-list-count{
+	position : absolute;
+	right: 15px;
+	top:9px;
+	color: #DDD;
+}
+</style>
+
+  
+</aside>
+    <div class="nexmoe-copyright">
+        &copy; 2021 热可可
+        Powered by <a href="http://hexo.io/" target="_blank">Hexo</a>
+        & <a href="https://github.com/theme-nexmoe/hexo-theme-nexmoe" target="_blank">Nexmoe</a>
+    </div>
+</div><!-- .nexmoe-drawer -->
+  </div>
+  <div id="nexmoe-content">
+    <div class="nexmoe-primary">
+        <div class="nexmoe-post">
+  
+      <div class="nexmoe-post-cover" style="padding-bottom: 66.66666666666666%;"> 
+          <img data-src="https://fp1.fghrsh.net/2021/01/31/36ef561f5e9b1bdaa67676f0a09cc371.png" data-sizes="auto" alt="TF2社区服务器开服教程" class="lazyload">
+          <h1>TF2社区服务器开服教程</h1>
+      </div>
+  
+  
+  <div class="nexmoe-post-meta nexmoe-rainbow" style="margin:10px 0!important;">
+    <a><i class="nexmoefont icon-calendar-fill"></i>2021年02月01日</a>
+    <a><i class="nexmoefont icon-areachart"></i>3.6k 字</a>
+    <a><i class="nexmoefont icon-time-circle-fill"></i>大概 15 分钟</a>
+</div>
+
+  <div class="nexmoe-post-right">
+    
+  </div>
+
+  <article>
+    <h1><span id="tf2社区服务器开服教程">TF2社区服务器开服教程</span></h1><h2><span id="一-前言">一. 前言</span></h2><p>写在开头，由于国内TF2社区不断地缩小，流失的玩家数量比不上新加入的玩家数量，所以你在一腔热血之开服时最好还是思考一下：是不是我真的想当服主？我有什么办法让玩家来玩我的服务器？有不少需要你操心的东西。假如你只是想建一个朋友玩玩的服务器就好，那可以不用太理会上面的问题。</p>
+<p>下面的教程，<strong>不需要</strong>你明白得任何的编程知识，只要跟着一步一步做，你也可以开起自己的服务器。</p>
+<p>假如你发现了有疏忽的地方，或者是有不懂的地方，欢迎进行PR和issue。<a id="more"></a></p>
+<!-- toc -->
+
+<ul>
+<li><a href="#%E4%BA%8C-%E5%89%8D%E7%BD%AE%E6%9D%A1%E4%BB%B6">二. 前置条件</a></li>
+<li><a href="#%E4%B8%89-%E8%B4%AD%E7%BD%AE%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8vps">三. 购置云服务器/VPS</a></li>
+<li><a href="#%E5%9B%9B-%E9%85%8D%E7%BD%AE%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E5%AE%89%E5%85%A8%E7%BB%84%E9%9D%9E%E5%BF%85%E8%A6%81%E4%BD%86%E5%BE%88%E9%87%8D%E8%A6%81">四. 配置云服务器的安全组（非必要但很重要）</a></li>
+<li><a href="#%E4%BA%94-%E5%AE%89%E8%A3%85tf2%E6%9C%8D%E5%8A%A1%E5%99%A8">五. 安装TF2服务器</a><ul>
+<li><a href="#a-windows%E7%B3%BB%E7%BB%9F">A. Windows系统</a><ul>
+<li><a href="#a-%E4%BD%BF%E7%94%A8%E4%BE%BF%E6%8D%B7%E7%9A%84srcds_manager%E8%BD%AF%E4%BB%B6%E6%9D%A5%E5%AE%89%E8%A3%85%E6%9C%8D%E5%8A%A1%E5%99%A8">a. 使用便捷的srcds_manager软件来安装服务器</a></li>
+<li><a href="#b-%E6%89%8B%E5%8A%A8%E5%AE%89%E8%A3%85%E6%9C%8D%E5%8A%A1%E5%99%A8">b. 手动安装服务器</a><ul>
+<li><a href="#1-%E8%BF%9B%E5%85%A5%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2">1. 进入远程桌面</a></li>
+<li><a href="#2-%E4%B8%8B%E8%BD%BD%E5%B9%B6%E5%AE%89%E8%A3%85steamcmd%E5%B7%A5%E5%85%B7">2. 下载并安装SteamCMD工具</a></li>
+<li><a href="#3-%E5%88%9B%E5%BB%BAsteamcmd%E8%84%9A%E6%9C%AC">3. 创建SteamCMD脚本</a></li>
+<li><a href="#4-%E5%88%9B%E5%BB%BAsteamcmd%E6%9B%B4%E6%96%B0%E8%84%9A%E6%9C%AC">4. 创建SteamCMD更新脚本</a></li>
+<li><a href="#5-%E5%BC%80%E5%A7%8B%E4%B8%8B%E8%BD%BD%E6%9B%B4%E6%96%B0">5. 开始下载/更新</a></li>
+<li><a href="#6-%E5%88%9B%E5%BB%BA%E8%BF%90%E8%A1%8C%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E5%BF%AB%E6%8D%B7%E6%96%B9%E5%BC%8F">6. 创建运行服务器的快捷方式</a></li>
+<li><a href="#7-%E5%88%9B%E5%BB%BA%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6">7. 创建服务器配置文件</a></li>
+<li><a href="#8-%E5%90%AF%E5%8A%A8%E6%9C%8D%E5%8A%A1%E5%99%A8">8. 启动服务器</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#b-linux%E7%B3%BB%E7%BB%9F">B. Linux系统</a><ul>
+<li><a href="#a-%E4%BD%BF%E7%94%A8lgsm%E8%84%9A%E6%9C%AC%E5%BF%AB%E6%8D%B7%E5%AE%89%E8%A3%85%E6%9C%8D%E5%8A%A1%E5%99%A8">a. 使用LGSM脚本快捷安装服务器</a><ul>
+<li><a href="#1-%E5%AE%89%E8%A3%85%E5%89%8D%E7%BD%AE">1. 安装前置</a></li>
+<li><a href="#2-%E5%AE%89%E8%A3%85tf2%E6%9C%8D%E5%8A%A1%E5%99%A8">2. 安装TF2服务器</a></li>
+<li><a href="#3-%E5%9F%BA%E6%9C%AC%E7%94%A8%E6%B3%95">3. 基本用法</a></li>
+</ul>
+</li>
+<li><a href="#b-%E6%89%8B%E5%8A%A8%E5%AE%89%E8%A3%85%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%86%9F%E6%82%89linux%E7%B3%BB%E7%BB%9F%E6%97%B6">b. 手动安装服务器（熟悉Linux系统时）</a><ul>
+<li><a href="#%E4%BD%BF%E7%94%A8docker">※. 使用Docker</a></li>
+<li><a href="#1-%E5%89%8D%E7%BD%AE">1. 前置</a></li>
+<li><a href="#2-%E4%B8%8B%E8%BD%BD%E5%92%8C%E5%AE%89%E8%A3%85steamcmd%E5%B7%A5%E5%85%B7">2. 下载和安装SteamCMD工具</a></li>
+<li><a href="#3-%E4%B8%8B%E8%BD%BD%E6%9C%8D%E5%8A%A1%E5%99%A8">3. 下载服务器</a></li>
+<li><a href="#4-%E5%88%9B%E5%BB%BA%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6">4. 创建服务器配置文件</a></li>
+<li><a href="#5-%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AAshell%E8%84%9A%E6%9C%AC%E6%9D%A5%E8%BF%90%E8%A1%8C%E6%9C%8D%E5%8A%A1%E5%99%A8">5. 创建一个shell脚本来运行服务器</a></li>
+<li><a href="#6-%E5%B7%A5%E5%85%B7">6. 工具</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#%E5%85%AD-%E6%88%91%E6%83%B3%E8%A3%85%E5%90%84%E7%A7%8D%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E6%8F%92%E4%BB%B6">六. 我想装各种服务器的插件</a></li>
+<li><a href="#%E4%B8%83-%E7%96%91%E9%9A%BE%E8%A7%A3%E7%AD%94">七. 疑难解答</a></li>
+</ul>
+<!-- tocstop -->
+
+<h2><span id="二-前置条件">二. 前置条件</span></h2><ul>
+<li><p>金钱，假如你是一名学生或者新用户，那你通常只需要几百块即可租到一台一年的云服务器。</p>
+</li>
+<li><p>耐心，既然是一步一步做的教程，你当然得有耐心。</p>
+</li>
+<li><p>基础的电脑知识。例如解压和编辑文本。</p>
+</li>
+</ul>
+<h2><span id="三-购置云服务器vps">三. 购置云服务器/VPS</span></h2><p>一般来说，不推荐个人用户使用阿里云，但是阿里云已经是个人用户能买到的不错的国内服务了。在此教程中，将以阿里云的云服务器为例。首先你得有一个阿里云账号，有的话你可以直接登录或用第三方登录，不然你得先注册一个。</p>
+<p><a target="_blank" rel="noopener" href="https://account.aliyun.com/register/register.htm">注册链接(定向到阿里云)</a></p>
+<p>阿里云一般会给新用户极大的优惠力度。你可以在阿里云首页的左上角”<a target="_blank" rel="noopener" href="https://www.aliyun.com/activity">最新活动</a>“里面看到各种优惠活动。按照你自己喜欢的活动进入即可。对于TF2服务器来说，你只需要一个1核2G内存的云服务器即可满足需要，假如你要承载24~32人的服务器，那十分建议使用<strong>5M</strong>的带宽，不然玩家多起来就会很卡。你可以在活动中的ECS区中挑选 “ECS突发性能 t5” 来购买。此实例的好处是，带宽可以进行临时调整来满足玩家多的时候的负载。关于地域选择，一般选择离你近的地域。根据咖啡厅2021年1月的数据，下载流量排行前五的为广东、浙江、境外、山东、湖北，你可以以此作为参考。</p>
+<p>在购买之前，会需要你进行实名认证。按照步骤做就可以了。</p>
+<p>一般来说只需要注意你的配置为1核2G内存、5M的带宽（也可以选择1或2然后在需要这么多人的时候进行临时调整）、地域、大约40G的硬盘和操作系统。假如你图形化的操作页面，选择Windows；想要节省更多的服务器资源，选择Linux。我选择了Linux的发行版Centos7。</p>
+<p>在付款之后，你终于获得了你的第一台云服务器。</p>
+<h2><span id="四-配置云服务器的安全组非必要但很重要">四. 配置云服务器的安全组（非必要但很重要）</span></h2><p>在购买了云服务器之后，你可以得到你的云服务器的公网IP、内存等各种情况。默认的情况下，服务器的安全组是开放所有端口，这是不安全的，因此我们需要设置一套自己的安全组。</p>
+<p>在阿里云控制台进入“云服务器ECS”，在“网络与安全”中点击“安全组”，进入安全组页面。</p>
+<p><img data-fancybox="gallery" data-sizes="auto" data-src="https://fp1.fghrsh.net/2021/01/31/b1b59e341e5b9c26d5114342b024cd57.png" alt="安全组列表" class="lazyload"></p>
+<p>点击右上角的“创建安全组”，按照以下图片进行配置。</p>
+<p><img data-fancybox="gallery" data-sizes="auto" data-src="https://fp1.fghrsh.net/2021/01/31/de54c7bf2ad55d5570d34528589bae0e.png" alt="安全组配置" class="lazyload"></p>
+<p>检查无误后点击“创建安全组”，即可成功创建专用于TF2服务器的安全组。</p>
+<p>点击“实例与镜像”中的实例，点击你刚刚购买的实例，进入实例信息。点击上方的安全组。点击“加入安全组”，将你刚刚做好的安全组添加到实例中，然后移除默认的安全组，即可完成。</p>
+<p>完成了安全组设定之后，就准备开始操作实例了。</p>
+<h2><span id="五-安装tf2服务器">五. 安装TF2服务器</span></h2><h3><span id="a-windows系统">A. Windows系统</span></h3><h4><span id="a-使用便捷的srcds_manager软件来安装服务器">a. 使用便捷的srcds_manager软件来安装服务器</span></h4><p>下载链接</p>
+<p><a target="_blank" rel="noopener" href="https://bbs.93x.net/forum.php?mod=viewthread&tid=95246">https://bbs.93x.net/forum.php?mod=viewthread&amp;tid=95246</a></p>
+<p><img data-fancybox="gallery" data-sizes="auto" data-src="https://dzfiles.93x.net/data/attachment/forum/201706/30/190053ptxhvi4triv66dr6.jpg" alt="我觉得已经很简单了" class="lazyload"></p>
+<p>点击下载服务器，选择APPID为232250的服务器下载即可。然后设置啥的都有图示，这里不会细说。</p>
+<h4><span id="b-手动安装服务器">b. 手动安装服务器</span></h4><h5><span id="1-进入远程桌面">1. 进入远程桌面</span></h5><p>假如你选择使用Windows Server系统，那你可以使用图形化界面来管理服务器。在此教程中，服务器将安装在目录 <code>C:\hlserver</code> 中。首先你需要登入你的实例，你可以直接使用阿里云提供的VNC的方式进入你的云服务器；也可以选择RDP（远程桌面连接）的方式来进入你的实例。</p>
+<p>VNC登入方式安全简单，仅需在实例信息界面点击登录，点击VNC方式即可。</p>
+<p>RDP登入，需要你在远程桌面连接程序中输入云服务器的外网IP，系统用户名和密码。假如你忘记了密码，你就需要重置密码。</p>
+<h5><span id="2-下载并安装steamcmd工具">2. 下载并安装SteamCMD工具</span></h5><p>给你的SteamCMD创建一个目录，如 <code>C:\steamcmd</code> 。然后使用此链接下载。</p>
+<p><a target="_blank" rel="noopener" href="https://steamcdn-a.akamaihd.net/client/installer/steamcmd.zip">https://steamcdn-a.akamaihd.net/client/installer/steamcmd.zip</a></p>
+<p>解压zip压缩文件到目录中。</p>
+<h5><span id="3-创建steamcmd脚本">3. 创建SteamCMD脚本</span></h5><p>在你刚刚解压工具的目录中创建一个文本文档，名为 <code>tf2_ds.txt</code> 。编辑文本为以下内容。</p>
+<pre><code>@ShutdownOnFailedCommand 1
+@NoPromptForPassword 1
+login anonymous
+force_install_dir c:\hlserver\
+app_update 232250
+quit
+</code></pre>
+<p>保存。</p>
+<h5><span id="4-创建steamcmd更新脚本">4. 创建SteamCMD更新脚本</span></h5><p>使用记事本、Notepad3等文本编辑工具创建一个名为 <code>update.bat</code> 的文件。编辑文本为以下内容。</p>
+<pre><code>@echo off 
+start steamcmd +login anonymous +force_install_dir C:\hlserver +app_update 232250
+</code></pre>
+<h5><span id="5-开始下载更新">5. 开始下载/更新</span></h5><p>运行 <code>update.bat</code> 开始下载，内容将超过8GB，因此你可能需要等待几小时。有时候，会因为网络问题而中断，你可能需要<strong>多次</strong>运行更新脚本直到出现了 <code>Success! App &#39;232250&#39; fully installed.</code> 的字样才算完成了下载/更新。</p>
+<p>每次服务器需要更新时，你都可以运行更新脚本进行更新。</p>
+<h5><span id="6-创建运行服务器的快捷方式">6. 创建运行服务器的快捷方式</span></h5><p>在你的安装TF2服务器的目录下，右键点击hl2.exe，创建快捷方式。重命名其为 <code>Start Server</code> 或其他你喜欢的名字。右键此快捷方式，点击属性。在“目标”文本框中，在srcds.exe后面加一个空格，然后输入以下内容。</p>
+<pre><code>-console -game tf +maxplayers 24 -port 27015 +map cp_dustbowl
+</code></pre>
+<p><img data-fancybox="gallery" data-sizes="auto" data-src="https://fp1.fghrsh.net/2021/01/31/bd7cc202d7171bc6d6c0287247c73e2e.png" alt="快捷方式" class="lazyload"></p>
+<p>点击“确定”。</p>
+<p>假如有好奇心，这是各种命令行的意思。</p>
+<ul>
+<li><code>-console</code> - 以控制台方式运行服务器，可节省资源。</li>
+<li><code>-game tf</code> - 设定运行的游戏为军团要塞。</li>
+<li><code>+maxplayers 24</code> - 设定最大玩家数为24.</li>
+<li><code>-port 27015</code> - 绑定到指定的端口(27015是默认)。</li>
+<li><code>+map cp_dustbowl</code> - 指定服务器启动时运行的地图。</li>
+</ul>
+<h5><span id="7-创建服务器配置文件">7. 创建服务器配置文件</span></h5><p>进入你的服务器安装目录，进入 <code>tf/cfg</code> 文件夹。使用记事本或Notepad3等文本编辑软件创建 <code>server.cfg</code> 。并编辑此文件输入以下内容。</p>
+<pre><code>// 显示在服务器浏览器和计分版的服务器名字
+hostname &quot;你的服务器名字&quot;
+
+// 留空即没有服务器密码
+sv_password &quot;&quot;
+// 使用控制台rcon权限的密码
+rcon_password &quot;Your_Rcon_Password&quot;
+
+// 每次地图轮换的时间，按分钟计时。0为不轮换地图。
+mp_timelimit 30
+// 每次地图轮换所需的回合数。0为无限制。
+mp_maxrounds 10
+
+// 允许客户端上传定制文件(比如喷漆)
+sv_allowupload 1
+// 允许客户端下载定制文件 (比如喷漆，自定义地图，自定义内容等等)
+sv_allowdownload 1
+// 最大允许上传的文件大小，按MB计算 (可选)
+net_maxfilesize 15
+</code></pre>
+<p>一个包含更多服务器控制台变量版本的server.cfg将在仓库中可供下载，你只需要编辑。</p>
+<h5><span id="8-启动服务器">8. 启动服务器</span></h5><p>运行 <code>Start Server.ink</code> 快捷方式</p>
+<h3><span id="b-linux系统">B. Linux系统</span></h3><p>Linux系统比Windows更稳定，更少占用，当然对初学者也需要一点点的钻研心态。如果可以，最好还有一点英语基础比较好。</p>
+<p>如何管理云服务器上的文件？你可以使用软件WinSCP，一个开源的图形化SFTP客户端。添加云服务器的外网IP为站点，以SFTP协议登入。</p>
+<h4><span id="a-使用lgsm脚本快捷安装服务器">a. 使用LGSM脚本快捷安装服务器</span></h4><p>如何登入Linux系统的云服务器，你当然还是可以使用阿里云提供的网页工具，或者使用例如putty的SSH工具。关于如何使用putty，这里贴一个外部链接。</p>
+<p><a target="_blank" rel="noopener" href="https://blog.csdn.net/pdcfighting/article/details/80003379">https://blog.csdn.net/pdcfighting/article/details/80003379</a></p>
+<p>虽然Linux系统有各种不同的发行版，但操作方法大致是差不多的。此教程对于不知道如何操作Linux的人来说也可以使用。并且十分方便快捷。在此处，我们使用 Linux Game Server Managers 制作的便捷的脚本。</p>
+<p><a target="_blank" rel="noopener" href="https://linuxgsm.com/lgsm/tf2server/">https://linuxgsm.com/lgsm/tf2server/</a></p>
+<p>在示例中，我们使用的是<strong>CentOS 7</strong>。</p>
+<h5><span id="1-安装前置">1. 安装前置</span></h5><p>使用root登入后，输入以下代码执行。</p>
+<pre><code>yum install epel-release
+</code></pre>
+<p>然后输入以下代码执行。</p>
+<pre><code>yum install curl wget tar bzip2 gzip unzip python3 binutils bc jq tmux glibc.i686 libstdc++
+</code></pre>
+<p>然后输入以下代码执行。</p>
+<pre><code>yum install libstdc++.i686 libcurl.i686
+</code></pre>
+<h5><span id="2-安装tf2服务器">2. 安装TF2服务器</span></h5><p>创建一个新的用户，名为tf2server</p>
+<pre><code>adduser tf2server
+</code></pre>
+<p>给tf2server设置一个密码</p>
+<pre><code>passwd tf2server
+</code></pre>
+<p>方便的话，我们可以给这个新用户添加sudo权限，以方便后期的操作。关于如何sudo的操作，参考外部链接。</p>
+<p><a target="_blank" rel="noopener" href="https://blog.csdn.net/qq_39290007/article/details/81125750">https://blog.csdn.net/qq_39290007/article/details/81125750</a></p>
+<p>假如你不知道如何在Linux环境下编辑文本，也可以顺手用搜索引擎来搜索答案。</p>
+<p>登入到tf2server。</p>
+<pre><code>su - tf2server
+</code></pre>
+<p>下载linuxgsm.sh</p>
+<pre><code>wget -O linuxgsm.sh https://linuxgsm.sh &amp;&amp; chmod +x linuxgsm.sh &amp;&amp; bash linuxgsm.sh tf2server
+</code></pre>
+<p>运行安装脚本并跟随提示来安装</p>
+<pre><code>./tf2server install
+</code></pre>
+<p>当问你Y/N（即是或否时），你都可以选择Y，并不会有什么严重的后果。</p>
+<p>安装的过程中，你可能会遇到一个问题，即无法从Github上获取文件，这是因为Github的某些域名与中国大陆的网络的相性并不好。你可以使用host来解决这个问题。你可以使用我仓库中的host文件。放到etc文件夹即可。</p>
+<h5><span id="3-基本用法">3. 基本用法</span></h5><p>你需要以tf2server的用户执行以下指令。</p>
+<p>你可以直接查看所有指令的说明。</p>
+<pre><code>./tf2server
+</code></pre>
+<p>想启动服务器，只需输入以下代码执行。</p>
+<pre><code>./tf2server start
+</code></pre>
+<p>停止服务器。</p>
+<pre><code>./tf2server stop
+</code></pre>
+<p>重启服务器。</p>
+<pre><code>./tf2server restart
+</code></pre>
+<p>打开控制台。</p>
+<pre><code>./tf2server console
+</code></pre>
+<blockquote>
+<p>当你要退出控制台时，使用CTRL+B+D。使用CTRL+C会关闭服务器进程。</p>
+</blockquote>
+<p>更新服务器。</p>
+<pre><code>./tf2server update
+</code></pre>
+<p>跳过更新检查快进到SteamCMD的更新。</p>
+<pre><code>./tf2server force-update
+</code></pre>
+<p>验证服务器文件完整性。</p>
+<pre><code>./tf2server validate
+</code></pre>
+<h4><span id="b-手动安装服务器熟悉linux系统时">b. 手动安装服务器（熟悉Linux系统时）</span></h4><p>仍然以 CentOS 7 64-bit 为例，假如你有兴趣，可以直接看我在TF2Wiki上的低劣的翻译页面。以下内容也几乎全部来自TF2Wiki。</p>
+<p><a target="_blank" rel="noopener" href="https://wiki.teamfortress.com/wiki/Linux_dedicated_server/zh-hans">https://wiki.teamfortress.com/wiki/Linux_dedicated_server/zh-hans</a></p>
+<h5><span id="使用docker">※. 使用Docker</span></h5><p>假如你打算使用Docker。</p>
+<pre><code>docker run -d --net=host --name=tf2-dedicated -e SRCDS_TOKEN=&#123;YOURTOKEN&#125; cm2network/tf2
+</code></pre>
+<p>SRCDS_TOKEN 需要你去自己在Steam获取</p>
+<p><a target="_blank" rel="noopener" href="https://steamcommunity.com/dev/managegameservers">https://steamcommunity.com/dev/managegameservers</a></p>
+<p>容器会在开始时自动升级游戏，假如有更新时，重启容器即可。</p>
+<p>配置文件位于: <em>/home/steam/tf2-dedicated/tf/cfg</em></p>
+<p>如果要启动另一个实例，可以增加环境变量，使用 -e (–env):</p>
+<pre><code>docker run -d --net=host -e SRCDS_PORT=27016 -e SRCDS_TV_PORT=27021 -e SRCDS_TOKEN=&#123;YOURTOKEN&#125; --name=tf2-dedicated2 cm2network/tf2
+</code></pre>
+<p>你可以在这里找到相关的Docker Hub页面: <a target="_blank" rel="noopener" href="https://hub.docker.com/r/cm2network/tf2/">https://hub.docker.com/r/cm2network/tf2/</a></p>
+<h5><span id="1-前置">1. 前置</span></h5><ul>
+<li><p>对目录的写入权限</p>
+</li>
+<li><p>版本大于或等于2.3.6的 <code>glibc</code></p>
+</li>
+<li><p>不少于8GB的空余硬盘容量</p>
+</li>
+<li><p>安装特定的package</p>
+<pre><code>yum install ncompress libgcc.x86_64 libgcc.i686 glibc.i686 zlib.i686 ncurses-libs.i686
+</code></pre>
+</li>
+</ul>
+<h5><span id="2-下载和安装steamcmd工具">2. 下载和安装SteamCMD工具</span></h5><ul>
+<li>创建一个新的用户，名为tf2server</li>
+</ul>
+<pre><code>adduser tf2server
+</code></pre>
+<ul>
+<li>给tf2server设置一个密码</li>
+</ul>
+<pre><code>passwd tf2server
+</code></pre>
+<ul>
+<li>创建一个目录，如./hlserver</li>
+</ul>
+<pre><code>mkdir ./hlserver
+</code></pre>
+<ul>
+<li>进入这个目录</li>
+</ul>
+<pre><code>cd hlserver
+</code></pre>
+<ul>
+<li>下载 steamcmd_linux.tar.gz :</li>
+</ul>
+<pre><code>$ wget https://steamcdn-a.akamaihd.net/client/installer/steamcmd_linux.tar.gz
+</code></pre>
+<ul>
+<li>使用tar命令解压到工作目录:</li>
+</ul>
+<pre><code>tar zxf steamcmd_linux.tar.gz
+</code></pre>
+<h5><span id="3-下载服务器">3. 下载服务器</span></h5><ul>
+<li>使用这个代码下载最新服务器：</li>
+</ul>
+<pre><code>./steamcmd.sh +login anonymous +force_install_dir ./hlserver +app_update 232250 +quit
+</code></pre>
+<ul>
+<li>你以后也可以执行此代码来更新服务器。</li>
+<li><strong>假如你发现错误 “Error! App ‘232250’ state is 0x202 after update job.”</strong></li>
+</ul>
+<p>表示你没有足够的硬盘空间</p>
+<ul>
+<li><strong>假如你有错误显示 <code>/something/linux32/steamcmd - No such file or directory</code></strong></li>
+</ul>
+<p>表示你的前置没有安装好</p>
+<h5><span id="4-创建服务器配置文件">4. 创建服务器配置文件</span></h5><h5><span id="5-创建一个shell脚本来运行服务器">5. 创建一个shell脚本来运行服务器</span></h5><p>创建 ‘./hlserver/tf2.sh’ 并编辑。</p>
+<pre><code>#!/bin/sh
+tf2/srcds_run -console -game tf +sv_pure 1 +randommap +maxplayers 24 +sv_setsteamaccount [STEAMTOKEN]
+</code></pre>
+<p>STEAMTOKEN 可以为空，你可以在 <a target="_blank" rel="noopener" href="https://steamcommunity.com/dev/managegameservers">https://steamcommunity.com/dev/managegameservers</a> 获取</p>
+<pre><code>chmod u+x tf2.sh
+</code></pre>
+<p>运行以启动服务器。</p>
+<pre><code>./tf2.sh
+</code></pre>
+<h5><span id="6-工具">6. 工具</span></h5><p>许多服务器管理员使用screen或tmux来运行服务器，以保证在结束SSH对话时不会把服务器进程关掉。</p>
+<h2><span id="六-我想装各种服务器的插件">六. 我想装各种服务器的插件</span></h2><h2><span id="七-疑难解答">七. 疑难解答</span></h2>
+  </article>
+
+  
+    
+  <div class="nexmoe-post-copyright">
+    <strong>本文作者：</strong>热可可<br>
+    <strong>本文链接：</strong><a href="https://midheart.club/2021/02/01/tf2_ds_cn/" title="https:&#x2F;&#x2F;midheart.club&#x2F;2021&#x2F;02&#x2F;01&#x2F;tf2_ds_cn&#x2F;" target="_blank" rel="noopener">https:&#x2F;&#x2F;midheart.club&#x2F;2021&#x2F;02&#x2F;01&#x2F;tf2_ds_cn&#x2F;</a><br>
+    
+      <strong>版权声明：</strong>本文采用 <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/cn/deed.zh" target="_blank">CC BY-NC-SA 3.0 CN</a> 协议进行许可
+    
+  </div>
+
+
+  
+  
+  <div class="nexmoe-post-meta nexmoe-rainbow">
+    
+    
+</div>
+
+  <div class="nexmoe-post-footer">
+    <section class="nexmoe-comment">
+    <div class="valine"></div>
+<script src='https://cdn.jsdelivr.net/npm/valine@1.3.9/dist/Valine.min.js'></script>
+<script>
+    // 使用方法 https://valine.js.org/quickstart.html
+    new Valine({
+        el: '.valine',
+        appId: 'T4vtYcEbb8cs6S3726q8AIT1-gzGzoHsz',
+        appKey: 'cyyi5Kc2QEoLfI9eIF4BjJnp'
+    })
+</script>
+</section>
+  </div>
+</div>
+    </div>
+  </div>
+  <script src="https://cdn.jsdelivr.net/combine/npm/lazysizes@5.1.0/lazysizes.min.js,gh/highlightjs/cdn-release@9.15.8/build/highlight.min.js,npm/mdui@0.4.3/dist/js/mdui.min.js?v=1"></script>
+<script>
+	hljs.initHighlightingOnLoad();
+</script>
+
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+
+
+<script src="https://cdn.jsdelivr.net/gh/xtaodada/xtaodada.github.io@0.0.2/copy.js"></script>
+ <script src="/js/app.js?v=1612147286613"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/justifiedGallery@3.8.1/dist/js/jquery.justifiedGallery.min.js"></script>
+<script>
+	$(".justified-gallery").justifiedGallery({
+		rowHeight: 200,
+		margins: 10,
+	});
+</script>
+
+  
+
+
+
+
+
+</body>
+
+</html>
