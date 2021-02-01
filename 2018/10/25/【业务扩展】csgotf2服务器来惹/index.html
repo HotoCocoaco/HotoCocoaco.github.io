@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+
+<html lang="zh-CN">
+
+<head>
+  
+  <title>用srcds架设CSGO和TF2服务器 - 咖啡厅&amp;MidHeart</title>
+  <meta charset="UTF-8">
+  <meta name="description" content="我用来乱写东西的">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+  
+  
+
+  <link rel="shortcut icon" href="https://fp1.fghrsh.net/2021/02/01/88d2862f7861dff06a9456610a269573.jpg" type="image/png" />
+  <meta name="description" content="暂时无货  一般来说都是用srcds架设，除了csgo因为使用的是source2013所以好像有不同的构建。不过全部都可以通过steamcmd来进行下载的">
+<meta property="og:type" content="article">
+<meta property="og:title" content="用srcds架设CSGO和TF2服务器">
+<meta property="og:url" content="https://midheart.club/2018/10/25/%E3%80%90%E4%B8%9A%E5%8A%A1%E6%89%A9%E5%B1%95%E3%80%91csgotf2%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9D%A5%E6%83%B9/index.html">
+<meta property="og:site_name" content="咖啡厅&amp;MidHeart">
+<meta property="og:description" content="暂时无货  一般来说都是用srcds架设，除了csgo因为使用的是source2013所以好像有不同的构建。不过全部都可以通过steamcmd来进行下载的">
+<meta property="og:locale" content="zh_CN">
+<meta property="article:published_time" content="2018-10-24T16:05:48.000Z">
+<meta property="article:modified_time" content="2021-02-01T03:08:48.835Z">
+<meta property="article:author" content="热可可">
+<meta property="article:tag" content="TF2">
+<meta name="twitter:card" content="summary">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/combine/npm/highlight.js@9.15.8/styles/atom-one-dark.css,gh/nexmoe/nexmoe.github.io@latest/lib/mdui_043tiny/css/mdui.css,gh/nexmoe/nexmoe.github.io@latest/lib/iconfont/iconfont.css,gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css?v=233" crossorigin>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/justifiedGallery@3.8.1/dist/css/justifiedGallery.min.css">
+  
+  <link rel="stylesheet" href="/css/style.css?v=1612149315197">
+<meta name="generator" content="Hexo 5.3.0"></head>
+
+<body class="mdui-drawer-body-left">
+  
+  <div id="nexmoe-background">
+    <div class="nexmoe-bg" style="background-image: url(https://fp1.fghrsh.net/2021/01/31/36ef561f5e9b1bdaa67676f0a09cc371.png)"></div>
+    <div class="mdui-appbar mdui-shadow-0">
+      <div class="mdui-toolbar">
+        <a mdui-drawer="{target: '#drawer', swipe: true}" title="menu" class="mdui-btn mdui-btn-icon mdui-ripple"><i class="mdui-icon nexmoefont icon-menu"></i></a>
+        <div class="mdui-toolbar-spacer"></div>
+        <!--<a href="javascript:;" class="mdui-btn mdui-btn-icon"><i class="mdui-icon material-icons">search</i></a>-->
+        <a href="/" title="热可可" class="mdui-btn mdui-btn-icon"><img src="https://fp1.fghrsh.net/2021/02/01/1ba1fd3836bb069183ad17f831f6d2b7.jpg" alt="热可可"></a>
+       </div>
+    </div>
+  </div>
+  <div id="nexmoe-header">
+      <div class="nexmoe-drawer mdui-drawer" id="drawer">
+    <div class="nexmoe-avatar mdui-ripple">
+        <a href="/" title="热可可">
+            <img src="https://fp1.fghrsh.net/2021/02/01/1ba1fd3836bb069183ad17f831f6d2b7.jpg" alt="热可可" alt="热可可">
+        </a>
+    </div>
+    <div class="nexmoe-count">
+        <div><span>文章</span>108</div>
+        <div><span>标签</span>5</div>
+        <div><span>分类</span>6</div>
+    </div>
+    <div class="nexmoe-list mdui-list" mdui-collapse="{accordion: true}">
+        
+        <a class="nexmoe-list-item mdui-list-item mdui-ripple" href="/" title="回到首页">
+            <i class="mdui-list-item-icon nexmoefont icon-home"></i>
+            <div class="mdui-list-item-content">
+                回到首页
+            </div>
+        </a>
+        
+        <a class="nexmoe-list-item mdui-list-item mdui-ripple" href="/about" title="关于博客">
+            <i class="mdui-list-item-icon nexmoefont icon-info-circle"></i>
+            <div class="mdui-list-item-content">
+                关于博客
+            </div>
+        </a>
+        
+        <a class="nexmoe-list-item mdui-list-item mdui-ripple" href="/PY" title="我的朋友">
+            <i class="mdui-list-item-icon nexmoefont icon-coffee"></i>
+            <div class="mdui-list-item-content">
+                我的朋友
+            </div>
+        </a>
+        
+    </div>
+    <aside id="nexmoe-sidebar">
+  
+  <div class="nexmoe-widget-wrap">
+    <div class="nexmoe-widget nexmoe-search">
+        <form id="search_form" action_e="https://cn.bing.com/search?q=site:midheart.club" onsubmit="return search();">
+            <label><input id="search_value" name="q" type="search" placeholder="搜索"></label>
+        </form>
+    </div>
+</div>
+  
+  <div class="nexmoe-widget-wrap">
+    <div class="nexmoe-widget nexmoe-social">
+        <a class="mdui-ripple" href="https://qm.qq.com/cgi-bin/qm/qr?k=fLOvaiD8CZDKV_vkTvKoKDiFEyJH3F1h&jump_from=webapi" target="_blank" mdui-tooltip="{content: 'QQ群'}" style="color: rgb(249, 174, 8);background-color: rgba(249, 174, 8, .1);">
+            <i class="nexmoefont icon-QQ"></i>
+        </a><a class="mdui-ripple" href="https://space.bilibili.com/4213943" target="_blank" mdui-tooltip="{content: '哔哩哔哩'}" style="color: rgb(231, 106, 141);background-color: rgba(231, 106, 141, .15);">
+            <i class="nexmoefont icon-bilibili"></i>
+        </a>
+    </div>
+</div>
+  
+  
+  <div class="nexmoe-widget-wrap">
+    <h3 class="nexmoe-widget-title">文章分类</h3>
+    <div class="nexmoe-widget">
+
+      <ul class="category-list">
+
+        
+
+
+        
+
+        
+
+        <li class="category-list-item">
+          <a class="category-list-link" href="/categories/FF2更新日志/">FF2更新日志</a>
+          <span class="category-list-count">16</span>
+        </li>
+
+        
+
+        <li class="category-list-item">
+          <a class="category-list-link" href="/categories/TF2更新/">TF2更新</a>
+          <span class="category-list-count">2</span>
+        </li>
+
+        
+
+        <li class="category-list-item">
+          <a class="category-list-link" href="/categories/TF2职业战队/">TF2职业战队</a>
+          <span class="category-list-count">2</span>
+        </li>
+
+        
+
+        <li class="category-list-item">
+          <a class="category-list-link" href="/categories/uncategorized/">uncategorized</a>
+          <span class="category-list-count">69</span>
+        </li>
+
+        
+
+        <li class="category-list-item">
+          <a class="category-list-link" href="/categories/感谢/">感谢</a>
+          <span class="category-list-count">3</span>
+        </li>
+
+        
+
+        <li class="category-list-item">
+          <a class="category-list-link" href="/categories/服务器/">服务器</a>
+          <span class="category-list-count">15</span>
+        </li>
+
+        
+      </ul>
+
+    </div>
+  </div>
+
+
+  
+  
+  <div class="nexmoe-widget-wrap">
+    <div id="randomtagcloud" class="nexmoe-widget tagcloud nexmoe-rainbow">
+      <a href="/tags/TF2/" style="font-size: 20px;">TF2</a> <a href="/tags/%E5%86%9B%E5%9B%A2%E8%A6%81%E5%A1%9E2/" style="font-size: 20px;">军团要塞2</a> <a href="/tags/%E5%92%96%E5%95%A1%E5%8E%85/" style="font-size: 10px;">咖啡厅</a> <a href="/tags/%E5%92%96%E5%95%A1%E5%B8%81/" style="font-size: 10px;">咖啡币</a> <a href="/tags/%E5%95%86%E5%BA%97/" style="font-size: 10px;">商店</a>
+    </div>
+    
+  </div>
+
+  
+  
+  <div class="nexmoe-widget-wrap">
+    <h3 class="nexmoe-widget-title">文章归档</h3>
+    <div class="nexmoe-widget">
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2021/">2021</a><span class="archive-list-count">4</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2020/">2020</a><span class="archive-list-count">39</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2019/">2019</a><span class="archive-list-count">27</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/">2018</a><span class="archive-list-count">38</span></li></ul>
+    </div>
+  </div>
+
+
+<style>
+.nexmoe-widget .archive-list-count{
+	position : absolute;
+	right: 15px;
+	top:9px;
+	color: #DDD;
+}
+</style>
+
+  
+</aside>
+    <div class="nexmoe-copyright">
+        &copy; 2021 热可可
+        Powered by <a href="http://hexo.io/" target="_blank">Hexo</a>
+        & <a href="https://github.com/theme-nexmoe/hexo-theme-nexmoe" target="_blank">Nexmoe</a>
+    </div>
+</div><!-- .nexmoe-drawer -->
+  </div>
+  <div id="nexmoe-content">
+    <div class="nexmoe-primary">
+        <div class="nexmoe-post">
+  
+      <div class="nexmoe-post-cover" style="padding-bottom: 66.66666666666666%;"> 
+          <img data-src="https://fp1.fghrsh.net/2021/01/31/36ef561f5e9b1bdaa67676f0a09cc371.png" data-sizes="auto" alt="用srcds架设CSGO和TF2服务器" class="lazyload">
+          <h1>用srcds架设CSGO和TF2服务器</h1>
+      </div>
+  
+  
+  <div class="nexmoe-post-meta nexmoe-rainbow" style="margin:10px 0!important;">
+    <a><i class="nexmoefont icon-calendar-fill"></i>2018年10月25日</a>
+    <a><i class="nexmoefont icon-areachart"></i>263 字</a>
+    <a><i class="nexmoefont icon-time-circle-fill"></i>大概 1 分钟</a>
+</div>
+
+  <div class="nexmoe-post-right">
+    
+  </div>
+
+  <article>
+    <p>暂时无货</p>
+<hr>
+<p>一般来说都是用srcds架设，除了csgo因为使用的是source2013所以好像有不同的构建。不过全部都可以通过steamcmd来进行下载的</p>
+<a id="more"></a>
+<p>这里承接CSGO和TF2的服务器<del>可以帮忙安装Sourcemod Metamod等等插件核心 可以帮忙定制</del>你想要的插件咱有空可以帮你找~ 因为是小本生意，建议不要大肆宣传否则DDOS连环无限打call 到时候我就不得不关闭你的服务器或者你愿意提价来保护你的服务器 当然了~在这里 服务器的价格会比淘宝的低 TF2：16人服 160元/月 24人服 200元/月 32人服 220元/月（MVM服为32人） CSGO：10人服 90元/月 12人服 100元/月  14人服 180元/月 下载通道是免费共享的。我已经付过钱了。 需要请联系咱 QQ:515753611 Email: <a href="mailto:&#x68;&#111;&#116;&#x6f;&#99;&#111;&#x63;&#x6f;&#x61;&#x40;&#118;&#x69;&#112;&#46;&#x71;&#113;&#x2e;&#x63;&#111;&#x6d;">&#x68;&#111;&#116;&#x6f;&#99;&#111;&#x63;&#x6f;&#x61;&#x40;&#118;&#x69;&#112;&#46;&#x71;&#113;&#x2e;&#x63;&#111;&#x6d;</a> 全国正常延迟一般不超过90</p>
+
+  </article>
+
+  
+    
+  <div class="nexmoe-post-copyright">
+    <strong>本文作者：</strong>热可可<br>
+    <strong>本文链接：</strong><a href="https://midheart.club/2018/10/25/%E3%80%90%E4%B8%9A%E5%8A%A1%E6%89%A9%E5%B1%95%E3%80%91csgotf2%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9D%A5%E6%83%B9/" title="https:&#x2F;&#x2F;midheart.club&#x2F;2018&#x2F;10&#x2F;25&#x2F;%E3%80%90%E4%B8%9A%E5%8A%A1%E6%89%A9%E5%B1%95%E3%80%91csgotf2%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9D%A5%E6%83%B9&#x2F;" target="_blank" rel="noopener">https:&#x2F;&#x2F;midheart.club&#x2F;2018&#x2F;10&#x2F;25&#x2F;%E3%80%90%E4%B8%9A%E5%8A%A1%E6%89%A9%E5%B1%95%E3%80%91csgotf2%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9D%A5%E6%83%B9&#x2F;</a><br>
+    
+      <strong>版权声明：</strong>本文采用 <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/cn/deed.zh" target="_blank">CC BY-NC-SA 3.0 CN</a> 协议进行许可
+    
+  </div>
+
+
+  
+  
+  <div class="nexmoe-post-meta nexmoe-rainbow">
+    
+        <a class="nexmoefont icon-appstore-fill -link" href="/categories/uncategorized/">uncategorized</a>
+    
+    
+</div>
+
+  <div class="nexmoe-post-footer">
+    <section class="nexmoe-comment">
+    <div class="valine"></div>
+<script src='https://cdn.jsdelivr.net/npm/valine@1.3.9/dist/Valine.min.js'></script>
+<script>
+    // 使用方法 https://valine.js.org/quickstart.html
+    new Valine({
+        el: '.valine',
+        appId: 'T4vtYcEbb8cs6S3726q8AIT1-gzGzoHsz',
+        appKey: 'cyyi5Kc2QEoLfI9eIF4BjJnp'
+    })
+</script>
+</section>
+  </div>
+</div>
+    </div>
+  </div>
+  <script src="https://cdn.jsdelivr.net/combine/npm/lazysizes@5.1.0/lazysizes.min.js,gh/highlightjs/cdn-release@9.15.8/build/highlight.min.js,npm/mdui@0.4.3/dist/js/mdui.min.js?v=1"></script>
+<script>
+	hljs.initHighlightingOnLoad();
+</script>
+
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+
+
+<script src="https://cdn.jsdelivr.net/gh/xtaodada/xtaodada.github.io@0.0.2/copy.js"></script>
+ <script src="/js/app.js?v=1612149315199"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/justifiedGallery@3.8.1/dist/js/jquery.justifiedGallery.min.js"></script>
+<script>
+	$(".justified-gallery").justifiedGallery({
+		rowHeight: 200,
+		margins: 10,
+	});
+</script>
+
+  
+
+
+
+
+
+</body>
+
+</html>
