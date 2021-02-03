@@ -24,7 +24,7 @@
 <meta property="og:image" content="https://dzfiles.93x.net/data/attachment/forum/201706/30/190053ptxhvi4triv66dr6.jpg">
 <meta property="og:image" content="https://fp1.fghrsh.net/2021/01/31/bd7cc202d7171bc6d6c0287247c73e2e.png">
 <meta property="article:published_time" content="2021-01-31T16:38:57.000Z">
-<meta property="article:modified_time" content="2021-02-01T05:58:48.144Z">
+<meta property="article:modified_time" content="2021-02-03T03:11:42.199Z">
 <meta property="article:author" content="热可可">
 <meta property="article:tag" content="技术分享">
 <meta name="twitter:card" content="summary">
@@ -32,7 +32,7 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/combine/npm/highlight.js@9.15.8/styles/atom-one-dark.css,gh/nexmoe/nexmoe.github.io@latest/lib/mdui_043tiny/css/mdui.css,gh/nexmoe/nexmoe.github.io@latest/lib/iconfont/iconfont.css,gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css?v=233" crossorigin>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/justifiedGallery@3.8.1/dist/css/justifiedGallery.min.css">
   
-  <link rel="stylesheet" href="/css/style.css?v=1612172797441">
+  <link rel="stylesheet" href="/css/style.css?v=1612322517910">
 <meta name="generator" content="Hexo 5.3.0"></head>
 
 <body class="mdui-drawer-body-left">
@@ -159,8 +159,8 @@
   
   <div class="nexmoe-post-meta nexmoe-rainbow" style="margin:10px 0!important;">
     <a><i class="nexmoefont icon-calendar-fill"></i>2021年02月01日</a>
-    <a><i class="nexmoefont icon-areachart"></i>4.4k 字</a>
-    <a><i class="nexmoefont icon-time-circle-fill"></i>大概 18 分钟</a>
+    <a><i class="nexmoefont icon-areachart"></i>5.1k 字</a>
+    <a><i class="nexmoefont icon-time-circle-fill"></i>大概 21 分钟</a>
 </div>
 
   <div class="nexmoe-post-right">
@@ -218,8 +218,25 @@
 <li><a href="#a-%E5%AE%89%E8%A3%85sm%E5%92%8Cmm">A. 安装SM和MM</a></li>
 <li><a href="#b-%E5%AE%89%E8%A3%85%E6%8F%92%E4%BB%B6">B. 安装插件</a></li>
 <li><a href="#c-%E7%89%B9%E5%AE%9A%E6%B8%B8%E6%88%8F%E6%A8%A1%E5%BC%8F%E7%9A%84%E5%AE%89%E8%A3%85%E5%AE%9E%E4%BE%8B">C. 特定游戏模式的安装实例</a><ul>
-<li><a href="#a-vshff2">a. VSH/FF2</a></li>
-<li><a href="#b-slender-fortress-%E6%9A%97%E9%AC%BC%E8%A6%81%E5%A1%9E">b. Slender Fortress 暗鬼要塞</a></li>
+<li><a href="#a-vshff2">a. VSH/FF2</a><ul>
+<li><a href="#1-%E5%AE%89%E8%A3%85%E6%8F%92%E4%BB%B6">1. 安装插件</a></li>
+<li><a href="#2-%E8%87%AA%E5%AE%9A%E4%B9%89%E5%86%85%E5%AE%B9">2. 自定义内容</a></li>
+<li><a href="#3-%E5%9C%A8%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%AA%8C%E8%AF%81%E6%98%AF%E5%90%A6%E6%88%90%E5%8A%9F">3. 在服务器验证是否成功</a></li>
+<li><a href="#4-%E6%80%8E%E4%B9%88%E6%B7%BB%E5%8A%A0%E5%85%B6%E4%BB%96%E7%9A%84boss">4. 怎么添加其他的Boss？</a></li>
+<li><a href="#5-%E6%9B%B4%E5%A4%9A">5. 更多</a></li>
+</ul>
+</li>
+<li><a href="#b-slender-fortress-%E6%9A%97%E9%AC%BC%E8%A6%81%E5%A1%9E">b. Slender Fortress 暗鬼要塞</a><ul>
+<li><a href="#1-%E5%AE%89%E8%A3%85%E6%8F%92%E4%BB%B6-1">1. 安装插件</a></li>
+<li><a href="#2-%E8%87%AA%E5%AE%9A%E4%B9%89%E5%86%85%E5%AE%B9-1">2. 自定义内容</a><ul>
+<li><a href="#%E6%A8%A1%E5%9E%8B-%E8%B4%B4%E5%9B%BE-%E9%9F%B3%E6%95%88">模型、贴图、音效</a></li>
+<li><a href="#%E5%9C%B0%E5%9B%BE">地图</a></li>
+</ul>
+</li>
+<li><a href="#3-%E5%87%86%E5%A4%87%E6%9C%8D%E5%8A%A1%E5%99%A8">3. 准备服务器</a></li>
+<li><a href="#3-%E7%BB%93%E8%AE%BA">3. 结论</a></li>
+</ul>
+</li>
 </ul>
 </li>
 </ul>
@@ -257,7 +274,7 @@
 <p>点击“实例与镜像”中的实例，点击你刚刚购买的实例，进入实例信息。点击上方的安全组。点击“加入安全组”，将你刚刚做好的安全组添加到实例中，然后移除默认的安全组，即可完成。</p>
 <p>完成了安全组设定之后，就准备开始操作实例了。</p>
 <h2><span id="五-安装tf2服务器">五. 安装TF2服务器</span></h2><h3><span id="a-windows系统">A. Windows系统</span></h3><h4><span id="a-使用便捷的srcds_manager软件来安装服务器">a. 使用便捷的srcds_manager软件来安装服务器</span></h4><p>下载链接</p>
-<p><a target="_blank" rel="noopener" href="https://bbs.93x.net/forum.php?mod=viewthread&tid=95246">https://bbs.93x.net/forum.php?mod=viewthread&amp;tid=95246</a></p>
+<p><a target="_blank" rel="noopener" href="https://bbs.93x.net/forum.php?mod=viewthread&tid=95246">帖子链接</a></p>
 <p><img data-fancybox="gallery" data-sizes="auto" data-src="https://dzfiles.93x.net/data/attachment/forum/201706/30/190053ptxhvi4triv66dr6.jpg" alt="我觉得已经很简单了" class="lazyload"></p>
 <p>点击下载服务器，选择APPID为232250的服务器下载即可。然后设置啥的都有图示，这里不会细说。</p>
 <h4><span id="b-手动安装服务器">b. 手动安装服务器</span></h4><h5><span id="1-进入远程桌面">1. 进入远程桌面</span></h5><p>假如你选择使用Windows Server系统，那你可以使用图形化界面来管理服务器。在此教程中，服务器将安装在目录 <code>C:\hlserver</code> 中。首先你需要登入你的实例，你可以直接使用阿里云提供的VNC的方式进入你的云服务器；也可以选择RDP（远程桌面连接）的方式来进入你的实例。</p>
@@ -320,9 +337,9 @@ net_maxfilesize 15
 <h3><span id="b-linux系统">B. Linux系统</span></h3><p>Linux系统比Windows更稳定，更少占用，当然对初学者也需要一点点的钻研心态。如果可以，最好还有一点英语基础比较好。</p>
 <p>如何管理云服务器上的文件？你可以使用软件WinSCP，一个开源的图形化SFTP客户端。添加云服务器的外网IP为站点，以SFTP协议登入。</p>
 <h4><span id="a-使用lgsm脚本快捷安装服务器">a. 使用LGSM脚本快捷安装服务器</span></h4><p>如何登入Linux系统的云服务器，你当然还是可以使用阿里云提供的网页工具，或者使用例如putty的SSH工具。关于如何使用putty，这里贴一个外部链接。</p>
-<p><a target="_blank" rel="noopener" href="https://blog.csdn.net/pdcfighting/article/details/80003379">https://blog.csdn.net/pdcfighting/article/details/80003379</a></p>
+<p><a target="_blank" rel="noopener" href="https://blog.csdn.net/pdcfighting/article/details/80003379">CSDN</a></p>
 <p>虽然Linux系统有各种不同的发行版，但操作方法大致是差不多的。此教程对于不知道如何操作Linux的人来说也可以使用。并且十分方便快捷。在此处，我们使用 Linux Game Server Managers 制作的便捷的脚本。</p>
-<p><a target="_blank" rel="noopener" href="https://linuxgsm.com/lgsm/tf2server/">https://linuxgsm.com/lgsm/tf2server/</a></p>
+<p><a target="_blank" rel="noopener" href="https://linuxgsm.com/lgsm/tf2server/">LGSM-tf2server</a></p>
 <p>在示例中，我们使用的是<strong>CentOS 7</strong>。</p>
 <h5><span id="1-安装前置">1. 安装前置</span></h5><p>使用root登入后，输入以下代码执行。</p>
 <pre><code>yum install epel-release
@@ -340,7 +357,7 @@ net_maxfilesize 15
 <pre><code>passwd tf2server
 </code></pre>
 <p>方便的话，我们可以给这个新用户添加sudo权限，以方便后期的操作。关于如何sudo的操作，参考外部链接。</p>
-<p><a target="_blank" rel="noopener" href="https://blog.csdn.net/qq_39290007/article/details/81125750">https://blog.csdn.net/qq_39290007/article/details/81125750</a></p>
+<p><a target="_blank" rel="noopener" href="https://blog.csdn.net/qq_39290007/article/details/81125750">CSDN</a></p>
 <p>假如你不知道如何在Linux环境下编辑文本，也可以顺手用搜索引擎来搜索答案。</p>
 <p>登入到tf2server。</p>
 <pre><code>su - tf2server
@@ -382,7 +399,7 @@ net_maxfilesize 15
 <pre><code>./tf2server validate
 </code></pre>
 <h4><span id="b-手动安装服务器熟悉linux系统时">b. 手动安装服务器（熟悉Linux系统时）</span></h4><p>仍然以 CentOS 7 64-bit 为例，假如你有兴趣，可以直接看我在TF2Wiki上的低劣的翻译页面。以下内容也几乎全部来自TF2Wiki。</p>
-<p><a target="_blank" rel="noopener" href="https://wiki.teamfortress.com/wiki/Linux_dedicated_server/zh-hans">https://wiki.teamfortress.com/wiki/Linux_dedicated_server/zh-hans</a></p>
+<p><a target="_blank" rel="noopener" href="https://wiki.teamfortress.com/wiki/Linux_dedicated_server/zh-hans">Linux_dedicated_server/zh-hans</a></p>
 <h5><span id="使用docker">※. 使用Docker</span></h5><p>假如你打算使用Docker。</p>
 <pre><code>docker run -d --net=host --name=tf2-dedicated -e SRCDS_TOKEN=&#123;YOURTOKEN&#125; cm2network/tf2
 </code></pre>
@@ -462,16 +479,49 @@ tf2/srcds_run -console -game tf +sv_pure 1 +randommap +maxplayers 24 +sv_setstea
 </code></pre>
 <h5><span id="6-工具">6. 工具</span></h5><p>许多服务器管理员使用screen或tmux来运行服务器，以保证在结束SSH对话时不会把服务器进程关掉。</p>
 <h2><span id="六-我想装各种服务器的插件">六. 我想装各种服务器的插件</span></h2><h3><span id="a-安装sm和mm">A. 安装SM和MM</span></h3><p>你想要在服务器运行各种插件脚本？Sourcemod是大多数服务器的选择。在安装Sourcemod之前，你需要安装Metamod。</p>
-<p>Sourcemod稳定版下载：<a target="_blank" rel="noopener" href="https://www.sourcemod.net/downloads.php?branch=stable">https://www.sourcemod.net/downloads.php?branch=stable</a></p>
-<p>Metamod稳定版下载：<a target="_blank" rel="noopener" href="http://www.metamodsource.net/downloads.php?branch=stable">http://www.metamodsource.net/downloads.php?branch=stable</a></p>
+<p>Sourcemod稳定版下载：<a target="_blank" rel="noopener" href="https://www.sourcemod.net/downloads.php?branch=stable">SM Stable</a></p>
+<p>Metamod稳定版下载：<a target="_blank" rel="noopener" href="http://www.metamodsource.net/downloads.php?branch=stable">MM Stable</a></p>
 <p>下载好两个压缩包，解压到服务器安装目录的tf文件夹下。如 <code>C:\hlserver\tf</code> </p>
 <p>解压完后，你的tf文件夹下应该会有addons文件夹，在cfg文件夹中应该会有一个sourcemod子文件夹。这样子你就算安装完成了。</p>
 <h3><span id="b-安装插件">B. 安装插件</span></h3><p>AlliedModders是一个开源脚本交流论坛，你可以在里面找到许多人创作的插件。</p>
-<p>论坛首页：<a target="_blank" rel="noopener" href="https://forums.alliedmods.net/index.php">https://forums.alliedmods.net/index.php</a></p>
-<p>插件搜索：<a target="_blank" rel="noopener" href="https://www.sourcemod.net/plugins.php">https://www.sourcemod.net/plugins.php</a></p>
+<p>论坛首页：<a target="_blank" rel="noopener" href="https://forums.alliedmods.net/index.php">AlliedModders</a></p>
+<p>插件搜索：<a target="_blank" rel="noopener" href="https://www.sourcemod.net/plugins.php">Sourcemod Plugins</a></p>
 <p>一般来说，插件的安装方法是把你下载的smx文件放在 tf/addons/sourcemod/plugins </p>
 <p>但在安装之前你都有必要好好看插件的说明，并按照说明的步骤来安装。</p>
-<h3><span id="c-特定游戏模式的安装实例">C. 特定游戏模式的安装实例</span></h3><h4><span id="a-vshff2">a. VSH/FF2</span></h4><h4><span id="b-slender-fortress-暗鬼要塞">b. Slender Fortress 暗鬼要塞</span></h4><h2><span id="七-疑难解答">七. 疑难解答</span></h2><h3><span id="a-玩家出现了missing-map的错误">A. 玩家出现了missing map的错误</span></h3><p>意思为客户端没能找到这个地图，一般是下载错误，或是服务器没有正确设置好FastDL所导致的。</p>
+<h3><span id="c-特定游戏模式的安装实例">C. 特定游戏模式的安装实例</span></h3><h4><span id="a-vshff2">a. VSH/FF2</span></h4><h5><span id="1-安装插件">1. 安装插件</span></h5><p>安装 <a target="_blank" rel="noopener" href="https://forums.alliedmods.net/showthread.php?t=115100">TF2Items</a></p>
+<p>安装 <a target="_blank" rel="noopener" href="https://forums.alliedmods.net/showthread.php?t=210221">TF2Attributes</a> (推荐)</p>
+<p>安装 <a target="_blank" rel="noopener" href="https://forums.alliedmods.net/showthread.php?t=170630">SteamTools</a> (推荐)</p>
+<p>安装 <a target="_blank" rel="noopener" href="https://forums.alliedmods.net/showthread.php?p=1017585">Goomba Stomp</a> (可选)</p>
+<p>安装 <a target="_blank" rel="noopener" href="https://forums.alliedmods.net/showthread.php?p=666222">RTD</a> (可选)</p>
+<p>进入 <a target="_blank" rel="noopener" href="https://github.com/50DKP/FF2-Official">FF2-Official仓库</a></p>
+<p>点击右手边的Releases</p>
+<p>最新的稳定版为 FF2 1.10.14 。点击 freak_fortress_2.zip 。下载，解压。</p>
+<h5><span id="2-自定义内容">2. 自定义内容</span></h5><p>将addons文件夹复制到 hlserver/tf 文件夹下，与原有的addons合并。</p>
+<p>将materials, models, sound文件夹复制到 hlserver/tf/download 下。这样做可以更好地管理自定义内容。你可以在download文件夹下新建一个子文件夹maps，把你的自定义地图也放在里面。别忘记编辑mapcycle.txt。推荐的做法是专门写一个mapcycle_ff2.txt，然后在server.cfg最后加入 <code>mapcyclefile mapcycle_ff2.txt</code> 。</p>
+<h5><span id="3-在服务器验证是否成功">3. 在服务器验证是否成功</span></h5><p>开启服务器，切换地图为任意一个arena地图。</p>
+<h5><span id="4-怎么添加其他的boss">4. 怎么添加其他的Boss？</span></h5><p>通常来说，把作者给你的文件丢进去服务器即可，你可能还需要手动把资源文件进行bz2压缩并上传到FastDL服务器。如同之前一样，推荐把自定义文件放在tf/download而不是tf文件夹下。</p>
+<p>别忘记编辑 <code>/addons/sourcemod/configs/freak_fortress_2/characters.cfg</code> 把新的boss配置文件名添加进去。</p>
+<p>运行这种自定义内容多的插件，一般都把sv_pure设为0比较方便。</p>
+<h5><span id="5-更多">5. 更多</span></h5><p>假如你有其他更多疑问，移步到 <a target="_blank" rel="noopener" href="https://github.com/50DKP/FF2-Official/wiki">Wiki</a></p>
+<h4><span id="b-slender-fortress-暗鬼要塞">b. Slender Fortress 暗鬼要塞</span></h4><h5><span id="1-安装插件">1. 安装插件</span></h5><p>考虑到有的人使用Windows Server来开服务器，可以使用Slender Fortress Modified。以下内容来自其Wiki。</p>
+<p>安装 <a target="_blank" rel="noopener" href="https://forums.alliedmods.net/showthread.php?t=210221">TF2Attributes</a></p>
+<p>安装 <a target="_blank" rel="noopener" href="https://forums.alliedmods.net/showthread.php?t=115100">TF2Items</a></p>
+<p>安装 <a target="_blank" rel="noopener" href="https://github.com/peace-maker/DHooks2/releases">DHooks</a></p>
+<p>安装 <a target="_blank" rel="noopener" href="https://github.com/Kenzzer/sourcepawn-navmesh">Sourcepawn Navmesh</a> 假如这个使用的时候你有问题，可以下载这个替代 <a target="_blank" rel="noopener" href="https://www.dropbox.com/s/v7a8psuqbpvln22/Sourcepawn%20Navmesh%20Alt.zip?dl=0">Dropbox</a> </p>
+<p>安装 <a target="_blank" rel="noopener" href="https://forums.alliedmods.net/showthread.php?t=170630">SteamTools</a> 可以在此下载正常运作的INC文件 <a target="_blank" rel="noopener" href="https://www.dropbox.com/s/5f1x3ya9nxqxqwn/Steamtools%20INC.zip?dl=0">Dropbox</a></p>
+<p>安装 <a target="_blank" rel="noopener" href="https://forums.alliedmods.net/showthread.php?t=185016">More Colors</a> 可以在此下载正常运作的INC文件 <a target="_blank" rel="noopener" href="https://www.dropbox.com/s/j0qz4lg7u64gj17/Native%20Votes%20INC.zip?dl=0">Dropbox</a></p>
+<p>下载自定义文件，解压到 tf/download 下。<a target="_blank" rel="noopener" href="https://www.dropbox.com/s/cg1qyyvs4z3oxct/SF2%20Modified%20Content.zip?dl=0">Dropbox</a> </p>
+<p>插件本体可在仓库找到 <a target="_blank" rel="noopener" href="https://github.com/Mentrillum/Slender-Fortress-Modified-Versions/releases">Releases</a></p>
+<h5><span id="2-自定义内容">2. 自定义内容</span></h5><h6><span id="模型-贴图-音效">模型、贴图、音效</span></h6><p>在上面你已经解压到tf/download下了，但是别忘记进行bz2压缩然后上传到FastDL服务器。</p>
+<h6><span id="地图">地图</span></h6><p>地图可以放在tf/maps下；也可以放在tf/download/maps下，但是别忘记了nav文件（nav文件要放在tf/maps），不然boss不会动。</p>
+<h5><span id="3-准备服务器">3. 准备服务器</span></h5><p>编辑你的mapcycle.txt文件，都换成Slender模式的地图。推荐的做法是专门写一个mapcycle_sf2.txt，然后在server.cfg最后加入 <code>mapcyclefile mapcycle_sf2.txt</code> 。</p>
+<p>在你的server.cfg最后输入这两行命令</p>
+<pre><code>tv_enable 1
+tv_name &quot;SlenderTV&quot; //随便取名
+</code></pre>
+<p>这样子Boss的击杀能够显示在右上角，但这不是必要的。</p>
+<h5><span id="3-结论">3. 结论</span></h5><p>假如没有啥错误的话，你的服务器应该是可以玩的了。如果你有更多的问题，可以到 <a target="_blank" rel="noopener" href="https://github.com/Mentrillum/Slender-Fortress-Modified-Versions/wiki">SF-M Wiki</a> 去看看。</p>
+<h2><span id="七-疑难解答">七. 疑难解答</span></h2><h3><span id="a-玩家出现了missing-map的错误">A. 玩家出现了missing map的错误</span></h3><p>意思为客户端没能找到这个地图，一般是下载错误，或是服务器没有正确设置好FastDL所导致的。</p>
 <pre><code>sv_allowdownload 1
 sv_downloadurl &quot;http://yourfastdlsite.com/tf&quot;
 </code></pre>
@@ -529,7 +579,7 @@ sv_downloadurl &quot;http://yourfastdlsite.com/tf&quot;
 
 
 <script src="https://cdn.jsdelivr.net/gh/xtaodada/xtaodada.github.io@0.0.2/copy.js"></script>
- <script src="/js/app.js?v=1612172797442"></script>
+ <script src="/js/app.js?v=1612322517911"></script>
 
 <script src="https://cdn.jsdelivr.net/npm/justifiedGallery@3.8.1/dist/js/jquery.justifiedGallery.min.js"></script>
 <script>
