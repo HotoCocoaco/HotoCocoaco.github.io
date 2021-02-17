@@ -33,21 +33,6 @@
       </tags>
   </entry>
   <entry>
-    <title>咖啡厅雪糕跳跃服</title>
-    <url>/2021/02/11/newtf2jumpserver/</url>
-    <content><![CDATA[<p>好耶，新的服务器开了。是跳跃服，雪糕跳跃服。</p>
-<p>点击右边连接服务器。<a href="steam://connect/47.115.144.75:27015">点我连接雪糕跳跃服</a></p>
-<p>感谢Zero的赞助。</p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-        <tag>云服务器</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>咖啡厅服务器更新 v0.1</title>
     <url>/2021/02/11/update-v0-1/</url>
     <content><![CDATA[<p>不是说新年新气象嘛，乘着我用了三年的主机和FF2服务器终于在3月要关闭了，这里已经做好了数据迁移服务，大家不用担心~</p>
@@ -62,6 +47,21 @@
       </categories>
       <tags>
         <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>咖啡厅雪糕跳跃服</title>
+    <url>/2021/02/11/newtf2jumpserver/</url>
+    <content><![CDATA[<p>好耶，新的服务器开了。是跳跃服，雪糕跳跃服。</p>
+<p>点击右边连接服务器。<a href="steam://connect/47.115.144.75:27015">点我连接雪糕跳跃服</a></p>
+<p>感谢Zero的赞助。</p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+        <tag>云服务器</tag>
       </tags>
   </entry>
   <entry>
