@@ -1,68 +1,93 @@
-
-<!DOCTYPE html>
-<html lang="zh-CN" class="loading">
-<head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>TF2社区服务器开服教程 - 咖啡厅&amp;MidHeart</title>
-    <meta name="apple-mobile-web-app-capable" content="yes" />
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <meta name="google" content="notranslate" />
-    <meta name="keywords" content="TF2, Cocoa, Sourcemod, 军团要塞2, 咖啡厅, MidHeart,"> 
-    <meta name="description" content="我用来乱写东西的,TF2社区服务器开服教程一. 前言写在开头，由于国内TF2社区不断地缩小，流失的玩家数量比不上新加入的玩家数量，所以你在一腔热血之开服时最好还是思考一下：是不是我真的想当服主？我有什么办法让玩家来玩,"> 
-    <meta name="author" content="热可可"> 
-    <link rel="alternative" href="atom.xml" title="咖啡厅&amp;MidHeart" type="application/atom+xml"> 
-    <link rel="icon" href="/img/favicon.png"> 
-    
-    
-<link rel="stylesheet" href="/css/diaspora.css">
-
-	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    <script>
-         (adsbygoogle = window.adsbygoogle || []).push({
-              google_ad_client: "ca-pub-8691406134231910",
-              enable_page_level_ads: true
-         });
-    </script>
-    <script async custom-element="amp-auto-ads"
-        src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js">
-    </script>
-<meta name="generator" content="Hexo 5.3.0"></head>
-
-<body class="loading">
-    <span id="config-title" style="display:none">咖啡厅&amp;MidHeart</span>
-    <div id="loader"></div>
-    <div id="single">
-    <div id="top" style="display: block;">
-    <div class="bar" style="width: 0;"></div>
-    <a class="iconfont icon-home image-icon" href="javascript:;" data-url="https://midheart.club"></a>
-    <div title="播放/暂停" class="iconfont icon-play"></div>
-    <h3 class="subtitle">TF2社区服务器开服教程</h3>
-    <div class="social">
-        <div>
-            <div class="share">
-                <a title="获取二维码" class="iconfont icon-scan" href="javascript:;"></a>
-            </div>
-            <div id="qr"></div>
-        </div>
-    </div>
-    <div class="scrollbar"></div>
-</div>
-
-    <div class="section">
-        <div class="article">
-    <div class='main'>
-        <h1 class="title">TF2社区服务器开服教程</h1>
-        <div class="stuff">
-            <span>二月 01, 2021</span>
-            
-  <ul class="post-tags-list" itemprop="keywords"><li class="post-tags-list-item"><a class="post-tags-list-link" href="/tags/TF2/" rel="tag">TF2</a></li><li class="post-tags-list-item"><a class="post-tags-list-link" href="/tags/%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8/" rel="tag">云服务器</a></li></ul>
-
-
-        </div>
-        <div class="content markdown">
-            <h1><span id="tf2社区服务器开服教程">TF2社区服务器开服教程</span></h1><h2><span id="一-前言">一. 前言</span></h2><p>写在开头，由于国内TF2社区不断地缩小，流失的玩家数量比不上新加入的玩家数量，所以你在一腔热血之开服时最好还是思考一下：是不是我真的想当服主？我有什么办法让玩家来玩我的服务器？有不少需要你操心的东西。假如你只是想建一个朋友玩玩的服务器就好，那可以不用太理会上面的问题。</p>
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>TF2特效帽子效果预览</title>
+    <url>/2021/02/01/tf2-unusual-cn/</url>
+    <content><![CDATA[<h1><span id="tf2特效帽子效果预览">TF2特效帽子效果预览</span></h1><p>以下是TF2特效帽的预览。图片来源于TF2Wiki，你可以直接访问：<a href="https://wiki.teamfortress.com/wiki/Unusual">Unusual - Team Fortress Wiki</a></p>
+<p>下面是使用了国内的图床的相册，点击链接进入相册可以看中文名字。</p>
+<p>按照更新系列分类。<a id="more"></a></p>
+<p><a href="https://img.fghrsh.net/album/LHjGT">第一代</a></p>
+<p><a href="https://img.fghrsh.net/album/LHRVu">第二代</a></p>
+<p><a href="https://img.fghrsh.net/album/LHMt0">第三代</a></p>
+<p><a href="https://img.fghrsh.net/album/LHT5j">夏日2020包</a></p>
+<p><a href="https://img.fghrsh.net/album/LHhW1">非常恐怖的万圣节特约</a></p>
+<p><a href="https://img.fghrsh.net/album/LHw25">幽灵万圣节特约</a></p>
+<p><a href="https://img.fghrsh.net/album/LHNsB">尖叫要塞5</a></p>
+<p><a href="https://img.fghrsh.net/album/LHQaW">尖叫要塞6</a></p>
+<p><a href="https://img.fghrsh.net/album/LHcDY">尖叫要塞7</a></p>
+<p><a href="https://img.fghrsh.net/album/LHshz">尖叫要塞8</a></p>
+<p><a href="https://img.fghrsh.net/album/LHXG4">尖叫要塞10</a></p>
+<p><a href="https://img.fghrsh.net/album/LHYdc">尖叫要塞11</a></p>
+<p><a href="https://img.fghrsh.net/album/LHetI">尖叫要塞12</a></p>
+<p><a href="https://img.fghrsh.net/album/LH35J">圣诞2019</a></p>
+<p><a href="https://img.fghrsh.net/album/LH5fw">圣诞2020</a></p>
+<p><a href="https://img.fghrsh.net/album/LHH2Z">机械舞更新</a></p>
+<p><a href="https://img.fghrsh.net/album/LHrsG">End of the Line 更新</a></p>
+<p><a href="https://img.fghrsh.net/album/LH0qK">入侵更新</a></p>
+]]></content>
+      <categories>
+        <category>商店预览</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>咖啡厅雪糕跳跃服</title>
+    <url>/2021/02/11/newtf2jumpserver/</url>
+    <content><![CDATA[<p>好耶，新的服务器开了。是跳跃服，雪糕跳跃服。</p>
+<p>点击右边连接服务器。<a href="steam://connect/47.115.144.75:27015">点我连接雪糕跳跃服</a></p>
+<p>感谢Zero的赞助。</p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+        <tag>云服务器</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>咖啡厅服务器更新 v0.1</title>
+    <url>/2021/02/11/update-v0-1/</url>
+    <content><![CDATA[<p>不是说新年新气象嘛，乘着我用了三年的主机和FF2服务器终于在3月要关闭了，这里已经做好了数据迁移服务，大家不用担心~</p>
+<ul>
+<li>更新封禁系统 <a href="https://bans.midheart.club/">bans.midheart.club</a></li>
+<li>将SZF服（僵尸模式）纳入统一管理，增加商店。</li>
+</ul>
+<p>还有兴趣多开一个模式的服务器，有啥建议可以和我说。</p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>咖啡厅模型预览</title>
+    <url>/2021/02/17/tf2modelsreview/</url>
+    <content><![CDATA[<p>点击看大图</p>
+<h1><span id="artifact纸片人">Artifact纸片人</span></h1><p><a href="https://img.fghrsh.net/image/JGp5W"><img src="https://fp1.fghrsh.net/2021/02/17/f07822c012e48566e102453b56666d86.th.png" alt="f07822c012e48566e102453b56666d86.th.png"></a> <a href="https://img.fghrsh.net/image/JGcjB"><img src="https://fp1.fghrsh.net/2021/02/17/63cb8b05c1278070bf52c78ca6e35263.th.png" alt="63cb8b05c1278070bf52c78ca6e35263.th.png"></a> <a href="https://img.fghrsh.net/image/JGNd5"><img src="https://fp1.fghrsh.net/2021/02/17/fa31f97079e9db7ce528f0cad1933f6f.th.png" alt="fa31f97079e9db7ce528f0cad1933f6f.th.png"></a> <a href="https://img.fghrsh.net/image/JGmG1"><img src="https://fp1.fghrsh.net/2021/02/17/18eccc13711c979760086a17941cc419.th.png" alt="18eccc13711c979760086a17941cc419.th.png"></a> <a href="https://img.fghrsh.net/image/JGwwj"><img src="https://fp1.fghrsh.net/2021/02/17/b3d431bf24b34b8cf4a6eacc90abe283.th.png" alt="b3d431bf24b34b8cf4a6eacc90abe283.th.png"></a> <a href="https://img.fghrsh.net/image/JGTD0"><img src="https://fp1.fghrsh.net/2021/02/17/92e55eff2fcbc59873d47fff1ecaadeb.th.png" alt="92e55eff2fcbc59873d47fff1ecaadeb.th.png"></a> <a href="https://img.fghrsh.net/image/JGMau"><img src="https://fp1.fghrsh.net/2021/02/17/9bed2633db903b4923cabdb717fc8056.th.png" alt="9bed2633db903b4923cabdb717fc8056.th.png"></a> <a href="https://img.fghrsh.net/image/JGKsT"><img src="https://fp1.fghrsh.net/2021/02/17/251d49ec37388bfb3606c62e7281e0a1.th.png" alt="251d49ec37388bfb3606c62e7281e0a1.th.png"></a> <a href="https://img.fghrsh.net/image/JGj27"><img src="https://fp1.fghrsh.net/2021/02/17/521d9b58e4c87d985c88e045babc22e3.th.png" alt="521d9b58e4c87d985c88e045babc22e3.th.png"></a> <a href="https://img.fghrsh.net/image/JGtWv"><img src="https://fp1.fghrsh.net/2021/02/17/0da294c7e63e416b3586cd8891801d79.th.png" alt="0da294c7e63e416b3586cd8891801d79.th.png"></a> <a href="https://img.fghrsh.net/image/JGP5N"><img src="https://fp1.fghrsh.net/2021/02/17/727eb3abd10031f3a16f0aa68a89d3f9.th.png" alt="727eb3abd10031f3a16f0aa68a89d3f9.th.png"></a> <a href="https://img.fghrsh.net/image/JGLta"><img src="https://fp1.fghrsh.net/2021/02/17/ab0957ffc537f8e264d77c14c3ab5681.th.png" alt="ab0957ffc537f8e264d77c14c3ab5681.th.png"></a> <a href="https://img.fghrsh.net/image/J8lVU"><img src="https://fp1.fghrsh.net/2021/02/17/a18f88a0d4877a59d4d4628b127a5eaa.th.png" alt="a18f88a0d4877a59d4d4628b127a5eaa.th.png"></a> <a href="https://img.fghrsh.net/image/J89Gs"><img src="https://fp1.fghrsh.net/2021/02/17/92f39a054a4b6fdbc6ef8895e3f30b00.th.png" alt="92f39a054a4b6fdbc6ef8895e3f30b00.th.png"></a> <a href="https://img.fghrsh.net/image/J82hA"><img src="https://fp1.fghrsh.net/2021/02/17/c7b81bf76aab58e4dd08b5f2a9848aeb.th.png" alt="c7b81bf76aab58e4dd08b5f2a9848aeb.th.png"></a> <a href="https://img.fghrsh.net/image/J8bv9"><img src="https://fp1.fghrsh.net/2021/02/17/be7d068fdfc05b78d5d5eb0b45198ecc.th.png" alt="be7d068fdfc05b78d5d5eb0b45198ecc.th.png"></a> <a href="https://img.fghrsh.net/image/J8Uae"><img src="https://fp1.fghrsh.net/2021/02/17/a4a9ed66b4f093f645fe443636eb12b7.th.png" alt="a4a9ed66b4f093f645fe443636eb12b7.th.png"></a> <a href="https://img.fghrsh.net/image/J8Opg"><img src="https://fp1.fghrsh.net/2021/02/17/15c1ff08c5234a135ebbd67565f3f2e2.th.png" alt="15c1ff08c5234a135ebbd67565f3f2e2.th.png"></a></p>
+<h1><span id="机器人大军">机器人大军</span></h1><p>都是TF2MVM模式的机器人，我觉得就不用放预览图了</p>
+<p><a href="https://img.fghrsh.net/image/J8D2P"><img src="http://fp1.fghrsh.net/2021/02/17/76734c002b90aaf0b1f52ff6190d7673.md.png" alt="76734c002b90aaf0b1f52ff6190d7673.md.png"></a></p>
+<h1><span id="自定义系列">自定义系列</span></h1><p>为什么叫自定义？因为我也不知道叫什么好。</p>
+<p><a href="https://img.fghrsh.net/image/JijRZ"><img src="https://fp1.fghrsh.net/2021/02/17/459d62a825b893dbfbe2777fe3e4d25f.th.png" alt="459d62a825b893dbfbe2777fe3e4d25f.th.png"></a> <a href="https://img.fghrsh.net/image/JiPyw"><img src="https://fp1.fghrsh.net/2021/02/17/63c62eec354af8015043b0abe56c5cb1.th.png" alt="63c62eec354af8015043b0abe56c5cb1.th.png"></a> <a href="https://img.fghrsh.net/image/JiL7J"><img src="https://fp1.fghrsh.net/2021/02/17/80af352cc2dcdb041de6b329543083da.th.png" alt="80af352cc2dcdb041de6b329543083da.th.png"></a> <a href="https://img.fghrsh.net/image/JiBmI"><img src="https://fp1.fghrsh.net/2021/02/17/a3277a6cfdd35f5f5cbe22a4c617164a.th.png" alt="a3277a6cfdd35f5f5cbe22a4c617164a.th.png"></a> <a href="https://img.fghrsh.net/image/JG9Oc"><img src="https://fp1.fghrsh.net/2021/02/17/5d4e90a92edca98f6f534d9bc1ea38f5.th.png" alt="5d4e90a92edca98f6f534d9bc1ea38f5.th.png"></a> <a href="https://img.fghrsh.net/image/JG244"><img src="https://fp1.fghrsh.net/2021/02/17/08124c054afc62f824c15d857f4cc9b7.th.png" alt="08124c054afc62f824c15d857f4cc9b7.th.png"></a> <a href="https://img.fghrsh.net/image/JGzXz"><img src="https://fp1.fghrsh.net/2021/02/17/685397cbc36c69435b4df75cd36b628c.th.png" alt="685397cbc36c69435b4df75cd36b628c.th.png"></a> <a href="https://img.fghrsh.net/image/JGUlY"><img src="https://fp1.fghrsh.net/2021/02/17/bd31bc5ed6f6f411d3dc91dd450d735a.th.png" alt="bd31bc5ed6f6f411d3dc91dd450d735a.th.png"></a> <a href="https://img.fghrsh.net/image/JGOgW"><img src="https://fp1.fghrsh.net/2021/02/17/32f6db4baa16c7d1d86724fa3e9cf45e.th.png" alt="32f6db4baa16c7d1d86724fa3e9cf45e.th.png"></a> <a href="https://img.fghrsh.net/image/JGInB"><img src="https://fp1.fghrsh.net/2021/02/17/8183f1d21a37cf78ed5b8bb6855f2f73.th.png" alt="8183f1d21a37cf78ed5b8bb6855f2f73.th.png"></a> <a href="https://img.fghrsh.net/image/JGDR5"><img src="https://fp1.fghrsh.net/2021/02/17/42ac21a57cfcdb9c0b0012918ed68f62.th.png" alt="42ac21a57cfcdb9c0b0012918ed68f62.th.png"></a> <a href="https://img.fghrsh.net/image/JGou1"><img src="https://fp1.fghrsh.net/2021/02/17/3111c01c19d3726780b590f0795ad7cc.th.png" alt="3111c01c19d3726780b590f0795ad7cc.th.png"></a> <a href="https://img.fghrsh.net/image/JGZ7j"><img src="https://fp1.fghrsh.net/2021/02/17/162caa8d38e3ab84949ef7d3e7436bda.th.png" alt="162caa8d38e3ab84949ef7d3e7436bda.th.png"></a> <a href="https://img.fghrsh.net/image/JGym0"><img src="https://fp1.fghrsh.net/2021/02/17/d0af1be39506cb79ee61cfd859691563.th.png" alt="d0af1be39506cb79ee61cfd859691563.th.png"></a> <a href="https://img.fghrsh.net/image/JGdIu"><img src="https://fp1.fghrsh.net/2021/02/17/4fd7c53249d1e08ca2c8e1b2dbb4db24.th.png" alt="4fd7c53249d1e08ca2c8e1b2dbb4db24.th.png"></a> <a href="https://img.fghrsh.net/image/JGV4T"><img src="https://fp1.fghrsh.net/2021/02/17/5159d39db93a7d5fbf3eaa005372e3f3.th.png" alt="5159d39db93a7d5fbf3eaa005372e3f3.th.png"></a> <a href="https://img.fghrsh.net/image/JGEX7"><img src="https://fp1.fghrsh.net/2021/02/17/e4111d07dadd0c533cfe19851aaba9c3.th.png" alt="e4111d07dadd0c533cfe19851aaba9c3.th.png"></a> <a href="https://img.fghrsh.net/image/JGx9v"><img src="https://fp1.fghrsh.net/2021/02/17/c7390b3d9085489771dcf3ad64c3d971.th.png" alt="c7390b3d9085489771dcf3ad64c3d971.th.png"></a> <a href="https://img.fghrsh.net/image/JGggN"><img src="https://fp1.fghrsh.net/2021/02/17/cdb1c14125661f215fb3b30fe09f927f.th.png" alt="cdb1c14125661f215fb3b30fe09f927f.th.png"></a> <a href="https://img.fghrsh.net/image/JGfHa"><img src="https://fp1.fghrsh.net/2021/02/17/4a2681165a56c0eebda14db515188588.th.png" alt="4a2681165a56c0eebda14db515188588.th.png"></a> <a href="https://img.fghrsh.net/image/JGWjU"><img src="https://fp1.fghrsh.net/2021/02/17/5d558acedf5a3ccf53fefab1767007b2.th.png" alt="5d558acedf5a3ccf53fefab1767007b2.th.png"></a> <a href="https://img.fghrsh.net/image/JGAus"><img src="https://fp1.fghrsh.net/2021/02/17/c624d71285cc91c8c1900a03342d5ea5.th.png" alt="c624d71285cc91c8c1900a03342d5ea5.th.png"></a> <a href="https://img.fghrsh.net/image/JG6iA"><img src="https://fp1.fghrsh.net/2021/02/17/4876400b11d22fe01a3416b73ac2db0e.th.png" alt="4876400b11d22fe01a3416b73ac2db0e.th.png"></a> <a href="https://img.fghrsh.net/image/JG4w9"><img src="https://fp1.fghrsh.net/2021/02/17/5232addb495530376efe94035d06d591.th.png" alt="5232addb495530376efe94035d06d591.th.png"></a> <a href="https://img.fghrsh.net/image/JGaIe"><img src="https://fp1.fghrsh.net/2021/02/17/dd8ea4ceb49c37aefc435347265637c7.th.png" alt="dd8ea4ceb49c37aefc435347265637c7.th.png"></a> <a href="https://img.fghrsh.net/image/JGSqg"><img src="https://fp1.fghrsh.net/2021/02/17/23ca13ae00f5799250f2d0af8f74cdb9.th.png" alt="23ca13ae00f5799250f2d0af8f74cdb9.th.png"></a> <a href="https://img.fghrsh.net/image/JGJXP"><img src="https://fp1.fghrsh.net/2021/02/17/2cc55831a33f1dbbbf58a8e735ef9150.th.png" alt="2cc55831a33f1dbbbf58a8e735ef9150.th.png"></a> <a href="https://img.fghrsh.net/image/JG79n"><img src="https://fp1.fghrsh.net/2021/02/17/77eccd81b6c8fccd835dc8447d35c33c.th.png" alt="77eccd81b6c8fccd835dc8447d35c33c.th.png"></a> <a href="https://img.fghrsh.net/image/JGifV"><img src="https://fp1.fghrsh.net/2021/02/17/6d4f98cebfaad8e4512527dec2321365.th.png" alt="6d4f98cebfaad8e4512527dec2321365.th.png"></a> <a href="https://img.fghrsh.net/image/JGGHK"><img src="https://fp1.fghrsh.net/2021/02/17/11c531ded9ab16e310c7626eabc25f19.th.png" alt="11c531ded9ab16e310c7626eabc25f19.th.png"></a> <a href="https://img.fghrsh.net/image/JG8jG"><img src="https://fp1.fghrsh.net/2021/02/17/34b1729e6c677b57b8a3ebc64c9d98f7.th.png" alt="34b1729e6c677b57b8a3ebc64c9d98f7.th.png"></a> <a href="https://img.fghrsh.net/image/JGrdZ"><img src="https://fp1.fghrsh.net/2021/02/17/7d4db7d05b216120cfdfd10f87947921.th.png" alt="7d4db7d05b216120cfdfd10f87947921.th.png"></a> <a href="https://img.fghrsh.net/image/JGniw"><img src="https://fp1.fghrsh.net/2021/02/17/bfd8892d3973bb0482fa0aafc813c76b.th.png" alt="bfd8892d3973bb0482fa0aafc813c76b.th.png"></a> <a href="https://img.fghrsh.net/image/JGHwJ"><img src="https://fp1.fghrsh.net/2021/02/17/d2c3f8d8e9813a1e386d6730e0d4e6f5.th.png" alt="d2c3f8d8e9813a1e386d6730e0d4e6f5.th.png"></a> <a href="https://img.fghrsh.net/image/JG3DI"><img src="https://fp1.fghrsh.net/2021/02/17/4d9e5f8eaac09fbc8ac507cba854f615.th.png" alt="4d9e5f8eaac09fbc8ac507cba854f615.th.png"></a> <a href="https://img.fghrsh.net/image/JGeqc"><img src="https://fp1.fghrsh.net/2021/02/17/d311c3146af91f76b3954345b3343d95.th.png" alt="d311c3146af91f76b3954345b3343d95.th.png"></a> <a href="https://img.fghrsh.net/image/JGks4"><img src="https://fp1.fghrsh.net/2021/02/17/c2a761ab799f98afb57b6fc00003f431.th.png" alt="c2a761ab799f98afb57b6fc00003f431.th.png"></a> <a href="https://img.fghrsh.net/image/JGX2z"><img src="https://fp1.fghrsh.net/2021/02/17/c893753d97b9cdf22f7110a9bb453cad.th.png" alt="c893753d97b9cdf22f7110a9bb453cad.th.png"></a> <a href="https://img.fghrsh.net/image/JGsfY"><img src="https://fp1.fghrsh.net/2021/02/17/eb452100588764cd5777711522259309.th.png" alt="eb452100588764cd5777711522259309.th.png"></a></p>
+<h1><span id="可可自制系列">可可自制系列</span></h1><p>从我一开始不熟悉到后面熟悉的模型，初期做的很差不建议买，比如2233娘和红豆水手服之类的。</p>
+<p><a href="https://img.fghrsh.net/image/Ji8C0"><img src="https://fp1.fghrsh.net/2021/02/17/d993735af8e01dad703e742506ab325d.th.png" alt="d993735af8e01dad703e742506ab325d.th.png"></a> <a href="https://img.fghrsh.net/image/Ji0Nu"><img src="https://fp1.fghrsh.net/2021/02/17/fae3df78079c2c2cc95d71c966514126.th.png" alt="fae3df78079c2c2cc95d71c966514126.th.png"></a> <a href="https://img.fghrsh.net/image/JinUT"><img src="https://fp1.fghrsh.net/2021/02/17/60de8c8f21d5210585daa956934f1659.th.png" alt="60de8c8f21d5210585daa956934f1659.th.png"></a> <a href="https://img.fghrsh.net/image/JiH67"><img src="https://fp1.fghrsh.net/2021/02/17/64e034a3445ca84a8c452d59bb58a045.th.png" alt="64e034a3445ca84a8c452d59bb58a045.th.png"></a> <a href="https://img.fghrsh.net/image/Ji5Yv"><img src="https://fp1.fghrsh.net/2021/02/17/0e6124e73799e5ce5bb745b320f65391.th.png" alt="0e6124e73799e5ce5bb745b320f65391.th.png"></a> <a href="https://img.fghrsh.net/image/Ji3BN"><img src="https://fp1.fghrsh.net/2021/02/17/f501ca3f8e62de4ae7f5aad8d5070ea6.th.png" alt="f501ca3f8e62de4ae7f5aad8d5070ea6.th.png"></a> <a href="https://img.fghrsh.net/image/Jikxa"><img src="https://fp1.fghrsh.net/2021/02/17/64acdd4b92d2552c758d796155bba40e.th.png" alt="64acdd4b92d2552c758d796155bba40e.th.png"></a> <a href="https://img.fghrsh.net/image/JiYnU"><img src="https://fp1.fghrsh.net/2021/02/17/132f3c4fd9be64c47d6122ae4cdf2609.th.png" alt="132f3c4fd9be64c47d6122ae4cdf2609.th.png"></a> <a href="https://img.fghrsh.net/image/JiXKs"><img src="https://fp1.fghrsh.net/2021/02/17/c172039df08b2154d94f22d1a203ff3a.th.png" alt="c172039df08b2154d94f22d1a203ff3a.th.png"></a> <a href="https://img.fghrsh.net/image/JipyA"><img src="https://fp1.fghrsh.net/2021/02/17/ee9a06859006f4c52266d81ee8a39904.th.png" alt="ee9a06859006f4c52266d81ee8a39904.th.png"></a> <a href="https://img.fghrsh.net/image/Jic79"><img src="https://fp1.fghrsh.net/2021/02/17/03dd6ea82db1a81a266b8b0076c4cd78.th.png" alt="03dd6ea82db1a81a266b8b0076c4cd78.th.png"></a> <a href="https://img.fghrsh.net/image/JiQNe"><img src="https://fp1.fghrsh.net/2021/02/17/082b4e560cbc81d4af97d590f0c98bbd.th.png" alt="082b4e560cbc81d4af97d590f0c98bbd.th.png"></a> <a href="https://img.fghrsh.net/image/JimOg"><img src="https://fp1.fghrsh.net/2021/02/17/f2c37ac00829f484f9611b31649bffaa.th.png" alt="f2c37ac00829f484f9611b31649bffaa.th.png"></a> <a href="https://img.fghrsh.net/image/Jiw6P"><img src="https://fp1.fghrsh.net/2021/02/17/fbf4232d6aa784009f0c7e216ac5713b.th.png" alt="fbf4232d6aa784009f0c7e216ac5713b.th.png"></a> <a href="https://img.fghrsh.net/image/JihYn"><img src="https://fp1.fghrsh.net/2021/02/17/f9a946fd69f468b4fe10e14e09e422a4.th.png" alt="f9a946fd69f468b4fe10e14e09e422a4.th.png"></a> <a href="https://img.fghrsh.net/image/JiMlV"><img src="https://fp1.fghrsh.net/2021/02/17/b880f6f30003db9c32de31b17f1ac04d.th.png" alt="b880f6f30003db9c32de31b17f1ac04d.th.png"></a> <a href="https://img.fghrsh.net/image/JiKxK"><img src="https://fp1.fghrsh.net/2021/02/17/b6447e74f2b595c4dbcffc79b192b84d.th.png" alt="b6447e74f2b595c4dbcffc79b192b84d.th.png"></a> <a href="https://img.fghrsh.net/image/JiRnG"><img src="https://fp1.fghrsh.net/2021/02/17/d27ca6d5e8402a1c45910e86d4463cef.th.png" alt="d27ca6d5e8402a1c45910e86d4463cef.th.png"></a></p>
+<h1><span id="自制新增系列">自制新增系列</span></h1><p>2021年之后我做的新模型的图片会在这里。</p>
+]]></content>
+      <categories>
+        <category>商店预览</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>TF2社区服务器开服教程</title>
+    <url>/2021/02/01/tf2_ds_cn/</url>
+    <content><![CDATA[<h1><span id="tf2社区服务器开服教程">TF2社区服务器开服教程</span></h1><h2><span id="一-前言">一. 前言</span></h2><p>写在开头，由于国内TF2社区不断地缩小，流失的玩家数量比不上新加入的玩家数量，所以你在一腔热血之开服时最好还是思考一下：是不是我真的想当服主？我有什么办法让玩家来玩我的服务器？有不少需要你操心的东西。假如你只是想建一个朋友玩玩的服务器就好，那可以不用太理会上面的问题。</p>
 <p>下面的教程，<strong>不需要</strong>你明白得任何的编程知识，只要跟着一步一步做，你也可以开起自己的服务器。</p>
 <p>假如你发现了有疏忽的地方，或者是有不懂的地方，欢迎进行PR和issue。<a id="more"></a></p>
 <!-- toc -->
@@ -154,8 +179,8 @@
 </li>
 </ul>
 <h2><span id="三-购置云服务器vps">三. 购置云服务器/VPS</span></h2><p>一般来说，不推荐个人用户使用阿里云，但是阿里云已经是个人用户能买到的不错的国内服务了。在此教程中，将以阿里云的云服务器为例。首先你得有一个阿里云账号，有的话你可以直接登录或用第三方登录，不然你得先注册一个。</p>
-<p><a target="_blank" rel="noopener" href="https://account.aliyun.com/register/register.htm">注册链接(定向到阿里云)</a></p>
-<p>阿里云一般会给新用户极大的优惠力度。你可以在阿里云首页的左上角”<a target="_blank" rel="noopener" href="https://www.aliyun.com/activity">最新活动</a>“里面看到各种优惠活动。按照你自己喜欢的活动进入即可。对于TF2服务器来说，你只需要一个1核2G内存的云服务器即可满足需要，假如你要承载24~32人的服务器，那十分建议使用<strong>5M</strong>的带宽，不然玩家多起来就会很卡。你可以在活动中的ECS区中挑选 “ECS突发性能 t5” 来购买。此实例的好处是，带宽可以进行临时调整来满足玩家多的时候的负载。关于地域选择，一般选择离你近的地域。根据咖啡厅2021年1月的数据，下载流量排行前五的为广东、浙江、境外、山东、湖北，你可以以此作为参考。</p>
+<p><a href="https://account.aliyun.com/register/register.htm">注册链接(定向到阿里云)</a></p>
+<p>阿里云一般会给新用户极大的优惠力度。你可以在阿里云首页的左上角”<a href="https://www.aliyun.com/activity">最新活动</a>“里面看到各种优惠活动。按照你自己喜欢的活动进入即可。对于TF2服务器来说，你只需要一个1核2G内存的云服务器即可满足需要，假如你要承载24~32人的服务器，那十分建议使用<strong>5M</strong>的带宽，不然玩家多起来就会很卡。你可以在活动中的ECS区中挑选 “ECS突发性能 t5” 来购买。此实例的好处是，带宽可以进行临时调整来满足玩家多的时候的负载。关于地域选择，一般选择离你近的地域。根据咖啡厅2021年1月的数据，下载流量排行前五的为广东、浙江、境外、山东、湖北，你可以以此作为参考。</p>
 <p>在购买之前，会需要你进行实名认证。按照步骤做就可以了。</p>
 <p>一般来说只需要注意你的配置为1核2G内存、5M的带宽（也可以选择1或2然后在需要这么多人的时候进行临时调整）、地域、大约40G的硬盘和操作系统。假如你图形化的操作页面，选择Windows；想要节省更多的服务器资源，选择Linux。我选择了Linux的发行版Centos7。</p>
 <p>在付款之后，你终于获得了你的第一台云服务器。</p>
@@ -168,14 +193,14 @@
 <p>点击“实例与镜像”中的实例，点击你刚刚购买的实例，进入实例信息。点击上方的安全组。点击“加入安全组”，将你刚刚做好的安全组添加到实例中，然后移除默认的安全组，即可完成。</p>
 <p>完成了安全组设定之后，就准备开始操作实例了。</p>
 <h2><span id="五-安装tf2服务器">五. 安装TF2服务器</span></h2><h3><span id="a-windows系统">A. Windows系统</span></h3><h4><span id="a-使用便捷的srcds_manager软件来安装服务器">a. 使用便捷的srcds_manager软件来安装服务器</span></h4><p>下载链接</p>
-<p><a target="_blank" rel="noopener" href="https://bbs.93x.net/forum.php?mod=viewthread&tid=95246">帖子链接</a></p>
+<p><a href="https://bbs.93x.net/forum.php?mod=viewthread&tid=95246">帖子链接</a></p>
 <p><img src="https://dzfiles.93x.net/data/attachment/forum/201706/30/190053ptxhvi4triv66dr6.jpg" alt="我觉得已经很简单了"></p>
 <p>点击下载服务器，选择APPID为232250的服务器下载即可。然后设置啥的都有图示，这里不会细说。</p>
 <h4><span id="b-手动安装服务器">b. 手动安装服务器</span></h4><h5><span id="1-进入远程桌面">1. 进入远程桌面</span></h5><p>假如你选择使用Windows Server系统，那你可以使用图形化界面来管理服务器。在此教程中，服务器将安装在目录 <code>C:\hlserver</code> 中。首先你需要登入你的实例，你可以直接使用阿里云提供的VNC的方式进入你的云服务器；也可以选择RDP（远程桌面连接）的方式来进入你的实例。</p>
 <p>VNC登入方式安全简单，仅需在实例信息界面点击登录，点击VNC方式即可。</p>
 <p>RDP登入，需要你在远程桌面连接程序中输入云服务器的外网IP，系统用户名和密码。假如你忘记了密码，你就需要重置密码。</p>
 <h5><span id="2-下载并安装steamcmd工具">2. 下载并安装SteamCMD工具</span></h5><p>给你的SteamCMD创建一个目录，如 <code>C:\steamcmd</code> 。然后使用此链接下载。</p>
-<p><a target="_blank" rel="noopener" href="https://steamcdn-a.akamaihd.net/client/installer/steamcmd.zip">https://steamcdn-a.akamaihd.net/client/installer/steamcmd.zip</a></p>
+<p><a href="https://steamcdn-a.akamaihd.net/client/installer/steamcmd.zip">https://steamcdn-a.akamaihd.net/client/installer/steamcmd.zip</a></p>
 <p>解压zip压缩文件到目录中。</p>
 <h5><span id="3-创建steamcmd脚本已非必要">3. 创建SteamCMD脚本(已非必要)</span></h5><p>在你刚刚解压工具的目录中创建一个文本文档，名为 <code>tf2_ds.txt</code> 。编辑文本为以下内容。</p>
 <pre><code>@ShutdownOnFailedCommand 1
@@ -231,9 +256,9 @@ net_maxfilesize 15
 <h3><span id="b-linux系统">B. Linux系统</span></h3><p>Linux系统比Windows更稳定，更少占用，当然对初学者也需要一点点的钻研心态。如果可以，最好还有一点英语基础比较好。</p>
 <p>如何管理云服务器上的文件？你可以使用软件WinSCP，一个开源的图形化SFTP客户端。添加云服务器的外网IP为站点，以SFTP协议登入。</p>
 <h4><span id="a-使用lgsm脚本快捷安装服务器">a. 使用LGSM脚本快捷安装服务器</span></h4><p>如何登入Linux系统的云服务器，你当然还是可以使用阿里云提供的网页工具，或者使用例如putty的SSH工具。关于如何使用putty，这里贴一个外部链接。</p>
-<p><a target="_blank" rel="noopener" href="https://blog.csdn.net/pdcfighting/article/details/80003379">CSDN</a></p>
+<p><a href="https://blog.csdn.net/pdcfighting/article/details/80003379">CSDN</a></p>
 <p>虽然Linux系统有各种不同的发行版，但操作方法大致是差不多的。此教程对于不知道如何操作Linux的人来说也可以使用。并且十分方便快捷。在此处，我们使用 Linux Game Server Managers 制作的便捷的脚本。</p>
-<p><a target="_blank" rel="noopener" href="https://linuxgsm.com/lgsm/tf2server/">LGSM-tf2server</a></p>
+<p><a href="https://linuxgsm.com/lgsm/tf2server/">LGSM-tf2server</a></p>
 <p>在示例中，我们使用的是<strong>CentOS 7</strong>。</p>
 <h5><span id="1-安装前置">1. 安装前置</span></h5><p>使用root登入后，输入以下代码执行。</p>
 <pre><code>yum install epel-release
@@ -251,7 +276,7 @@ net_maxfilesize 15
 <pre><code>passwd tf2server
 </code></pre>
 <p>方便的话，我们可以给这个新用户添加sudo权限，以方便后期的操作。关于如何sudo的操作，参考外部链接。</p>
-<p><a target="_blank" rel="noopener" href="https://blog.csdn.net/qq_39290007/article/details/81125750">CSDN</a></p>
+<p><a href="https://blog.csdn.net/qq_39290007/article/details/81125750">CSDN</a></p>
 <p>假如你不知道如何在Linux环境下编辑文本，也可以顺手用搜索引擎来搜索答案。</p>
 <p>登入到tf2server。</p>
 <pre><code>su - tf2server
@@ -293,18 +318,18 @@ net_maxfilesize 15
 <pre><code>./tf2server validate
 </code></pre>
 <h4><span id="b-手动安装服务器熟悉linux系统时">b. 手动安装服务器（熟悉Linux系统时）</span></h4><p>仍然以 CentOS 7 64-bit 为例，假如你有兴趣，可以直接看我在TF2Wiki上的低劣的翻译页面。以下内容也几乎全部来自TF2Wiki。</p>
-<p><a target="_blank" rel="noopener" href="https://wiki.teamfortress.com/wiki/Linux_dedicated_server/zh-hans">Linux_dedicated_server/zh-hans</a></p>
+<p><a href="https://wiki.teamfortress.com/wiki/Linux_dedicated_server/zh-hans">Linux_dedicated_server/zh-hans</a></p>
 <h5><span id="使用docker">※. 使用Docker</span></h5><p>假如你打算使用Docker。</p>
 <pre><code>docker run -d --net=host --name=tf2-dedicated -e SRCDS_TOKEN=&#123;YOURTOKEN&#125; cm2network/tf2
 </code></pre>
 <p>SRCDS_TOKEN 需要你去自己在Steam获取</p>
-<p><a target="_blank" rel="noopener" href="https://steamcommunity.com/dev/managegameservers">https://steamcommunity.com/dev/managegameservers</a></p>
+<p><a href="https://steamcommunity.com/dev/managegameservers">https://steamcommunity.com/dev/managegameservers</a></p>
 <p>容器会在开始时自动升级游戏，假如有更新时，重启容器即可。</p>
 <p>配置文件位于: <em>/home/steam/tf2-dedicated/tf/cfg</em></p>
 <p>如果要启动另一个实例，可以增加环境变量，使用 -e (–env):</p>
 <pre><code>docker run -d --net=host -e SRCDS_PORT=27016 -e SRCDS_TV_PORT=27021 -e SRCDS_TOKEN=&#123;YOURTOKEN&#125; --name=tf2-dedicated2 cm2network/tf2
 </code></pre>
-<p>你可以在这里找到相关的Docker Hub页面: <a target="_blank" rel="noopener" href="https://hub.docker.com/r/cm2network/tf2/">https://hub.docker.com/r/cm2network/tf2/</a></p>
+<p>你可以在这里找到相关的Docker Hub页面: <a href="https://hub.docker.com/r/cm2network/tf2/">https://hub.docker.com/r/cm2network/tf2/</a></p>
 <h5><span id="1-前置">1. 前置</span></h5><ul>
 <li><p>对目录的写入权限</p>
 </li>
@@ -365,7 +390,7 @@ net_maxfilesize 15
 <pre><code>#!/bin/sh
 tf2/srcds_run -console -game tf +sv_pure 1 +randommap +maxplayers 24 +sv_setsteamaccount [STEAMTOKEN]
 </code></pre>
-<p>STEAMTOKEN 可以为空，你可以在 <a target="_blank" rel="noopener" href="https://steamcommunity.com/dev/managegameservers">https://steamcommunity.com/dev/managegameservers</a> 获取</p>
+<p>STEAMTOKEN 可以为空，你可以在 <a href="https://steamcommunity.com/dev/managegameservers">https://steamcommunity.com/dev/managegameservers</a> 获取</p>
 <pre><code>chmod u+x tf2.sh
 </code></pre>
 <p>运行以启动服务器。</p>
@@ -373,21 +398,21 @@ tf2/srcds_run -console -game tf +sv_pure 1 +randommap +maxplayers 24 +sv_setstea
 </code></pre>
 <h5><span id="6-工具">6. 工具</span></h5><p>许多服务器管理员使用screen或tmux来运行服务器，以保证在结束SSH对话时不会把服务器进程关掉。</p>
 <h2><span id="六-我想装各种服务器的插件">六. 我想装各种服务器的插件</span></h2><h3><span id="a-安装sm和mm">A. 安装SM和MM</span></h3><p>你想要在服务器运行各种插件脚本？Sourcemod是大多数服务器的选择。在安装Sourcemod之前，你需要安装Metamod。</p>
-<p>Sourcemod稳定版下载：<a target="_blank" rel="noopener" href="https://www.sourcemod.net/downloads.php?branch=stable">SM Stable</a></p>
-<p>Metamod稳定版下载：<a target="_blank" rel="noopener" href="http://www.metamodsource.net/downloads.php?branch=stable">MM Stable</a></p>
+<p>Sourcemod稳定版下载：<a href="https://www.sourcemod.net/downloads.php?branch=stable">SM Stable</a></p>
+<p>Metamod稳定版下载：<a href="http://www.metamodsource.net/downloads.php?branch=stable">MM Stable</a></p>
 <p>下载好两个压缩包，解压到服务器安装目录的tf文件夹下。如 <code>C:\hlserver\tf</code> </p>
 <p>解压完后，你的tf文件夹下应该会有addons文件夹，在cfg文件夹中应该会有一个sourcemod子文件夹。这样子你就算安装完成了。</p>
 <h3><span id="b-安装插件">B. 安装插件</span></h3><p>AlliedModders是一个开源脚本交流论坛，你可以在里面找到许多人创作的插件。</p>
-<p>论坛首页：<a target="_blank" rel="noopener" href="https://forums.alliedmods.net/index.php">AlliedModders</a></p>
-<p>插件搜索：<a target="_blank" rel="noopener" href="https://www.sourcemod.net/plugins.php">Sourcemod Plugins</a></p>
+<p>论坛首页：<a href="https://forums.alliedmods.net/index.php">AlliedModders</a></p>
+<p>插件搜索：<a href="https://www.sourcemod.net/plugins.php">Sourcemod Plugins</a></p>
 <p>一般来说，插件的安装方法是把你下载的smx文件放在 tf/addons/sourcemod/plugins </p>
 <p>但在安装之前你都有必要好好看插件的说明，并按照说明的步骤来安装。</p>
-<h3><span id="c-特定游戏模式的安装实例">C. 特定游戏模式的安装实例</span></h3><h4><span id="a-vshff2">a. VSH/FF2</span></h4><h5><span id="1-安装插件">1. 安装插件</span></h5><p>安装 <a target="_blank" rel="noopener" href="https://forums.alliedmods.net/showthread.php?t=115100">TF2Items</a></p>
-<p>安装 <a target="_blank" rel="noopener" href="https://forums.alliedmods.net/showthread.php?t=210221">TF2Attributes</a> (推荐)</p>
-<p>安装 <a target="_blank" rel="noopener" href="https://forums.alliedmods.net/showthread.php?t=170630">SteamTools</a> (推荐)</p>
-<p>安装 <a target="_blank" rel="noopener" href="https://forums.alliedmods.net/showthread.php?p=1017585">Goomba Stomp</a> (可选)</p>
-<p>安装 <a target="_blank" rel="noopener" href="https://forums.alliedmods.net/showthread.php?p=666222">RTD</a> (可选)</p>
-<p>进入 <a target="_blank" rel="noopener" href="https://github.com/50DKP/FF2-Official">FF2-Official仓库</a></p>
+<h3><span id="c-特定游戏模式的安装实例">C. 特定游戏模式的安装实例</span></h3><h4><span id="a-vshff2">a. VSH/FF2</span></h4><h5><span id="1-安装插件">1. 安装插件</span></h5><p>安装 <a href="https://forums.alliedmods.net/showthread.php?t=115100">TF2Items</a></p>
+<p>安装 <a href="https://forums.alliedmods.net/showthread.php?t=210221">TF2Attributes</a> (推荐)</p>
+<p>安装 <a href="https://forums.alliedmods.net/showthread.php?t=170630">SteamTools</a> (推荐)</p>
+<p>安装 <a href="https://forums.alliedmods.net/showthread.php?p=1017585">Goomba Stomp</a> (可选)</p>
+<p>安装 <a href="https://forums.alliedmods.net/showthread.php?p=666222">RTD</a> (可选)</p>
+<p>进入 <a href="https://github.com/50DKP/FF2-Official">FF2-Official仓库</a></p>
 <p>点击右手边的Releases</p>
 <p>最新的稳定版为 FF2 1.10.14 。点击 freak_fortress_2.zip 。下载，解压。</p>
 <h5><span id="2-自定义内容">2. 自定义内容</span></h5><p>将addons文件夹复制到 hlserver/tf 文件夹下，与原有的addons合并。</p>
@@ -396,16 +421,16 @@ tf2/srcds_run -console -game tf +sv_pure 1 +randommap +maxplayers 24 +sv_setstea
 <h5><span id="4-怎么添加其他的boss">4. 怎么添加其他的Boss？</span></h5><p>通常来说，把作者给你的文件丢进去服务器即可，你可能还需要手动把资源文件进行bz2压缩并上传到FastDL服务器。如同之前一样，推荐把自定义文件放在tf/download而不是tf文件夹下。</p>
 <p>别忘记编辑 <code>/addons/sourcemod/configs/freak_fortress_2/characters.cfg</code> 把新的boss配置文件名添加进去。</p>
 <p>运行这种自定义内容多的插件，一般都把sv_pure设为0比较方便。</p>
-<h5><span id="5-更多">5. 更多</span></h5><p>假如你有其他更多疑问，移步到 <a target="_blank" rel="noopener" href="https://github.com/50DKP/FF2-Official/wiki">Wiki</a></p>
+<h5><span id="5-更多">5. 更多</span></h5><p>假如你有其他更多疑问，移步到 <a href="https://github.com/50DKP/FF2-Official/wiki">Wiki</a></p>
 <h4><span id="b-slender-fortress-暗鬼要塞">b. Slender Fortress 暗鬼要塞</span></h4><h5><span id="1-安装插件">1. 安装插件</span></h5><p>考虑到有的人使用Windows Server来开服务器，可以使用Slender Fortress Modified。以下内容来自其Wiki。</p>
-<p>安装 <a target="_blank" rel="noopener" href="https://forums.alliedmods.net/showthread.php?t=210221">TF2Attributes</a></p>
-<p>安装 <a target="_blank" rel="noopener" href="https://forums.alliedmods.net/showthread.php?t=115100">TF2Items</a></p>
-<p>安装 <a target="_blank" rel="noopener" href="https://github.com/peace-maker/DHooks2/releases">DHooks</a></p>
-<p>安装 <a target="_blank" rel="noopener" href="https://github.com/Kenzzer/sourcepawn-navmesh">Sourcepawn Navmesh</a> 假如这个使用的时候你有问题，可以下载这个替代 <a target="_blank" rel="noopener" href="https://www.dropbox.com/s/v7a8psuqbpvln22/Sourcepawn%20Navmesh%20Alt.zip?dl=0">Dropbox</a> </p>
-<p>安装 <a target="_blank" rel="noopener" href="https://forums.alliedmods.net/showthread.php?t=170630">SteamTools</a> 可以在此下载正常运作的INC文件 <a target="_blank" rel="noopener" href="https://www.dropbox.com/s/5f1x3ya9nxqxqwn/Steamtools%20INC.zip?dl=0">Dropbox</a></p>
-<p>安装 <a target="_blank" rel="noopener" href="https://forums.alliedmods.net/showthread.php?t=185016">More Colors</a> 可以在此下载正常运作的INC文件 <a target="_blank" rel="noopener" href="https://www.dropbox.com/s/j0qz4lg7u64gj17/Native%20Votes%20INC.zip?dl=0">Dropbox</a></p>
-<p>下载自定义文件，解压到 tf/download 下。<a target="_blank" rel="noopener" href="https://www.dropbox.com/s/cg1qyyvs4z3oxct/SF2%20Modified%20Content.zip?dl=0">Dropbox</a> </p>
-<p>插件本体可在仓库找到 <a target="_blank" rel="noopener" href="https://github.com/Mentrillum/Slender-Fortress-Modified-Versions/releases">Releases</a></p>
+<p>安装 <a href="https://forums.alliedmods.net/showthread.php?t=210221">TF2Attributes</a></p>
+<p>安装 <a href="https://forums.alliedmods.net/showthread.php?t=115100">TF2Items</a></p>
+<p>安装 <a href="https://github.com/peace-maker/DHooks2/releases">DHooks</a></p>
+<p>安装 <a href="https://github.com/Kenzzer/sourcepawn-navmesh">Sourcepawn Navmesh</a> 假如这个使用的时候你有问题，可以下载这个替代 <a href="https://www.dropbox.com/s/v7a8psuqbpvln22/Sourcepawn%20Navmesh%20Alt.zip?dl=0">Dropbox</a> </p>
+<p>安装 <a href="https://forums.alliedmods.net/showthread.php?t=170630">SteamTools</a> 可以在此下载正常运作的INC文件 <a href="https://www.dropbox.com/s/5f1x3ya9nxqxqwn/Steamtools%20INC.zip?dl=0">Dropbox</a></p>
+<p>安装 <a href="https://forums.alliedmods.net/showthread.php?t=185016">More Colors</a> 可以在此下载正常运作的INC文件 <a href="https://www.dropbox.com/s/j0qz4lg7u64gj17/Native%20Votes%20INC.zip?dl=0">Dropbox</a></p>
+<p>下载自定义文件，解压到 tf/download 下。<a href="https://www.dropbox.com/s/cg1qyyvs4z3oxct/SF2%20Modified%20Content.zip?dl=0">Dropbox</a> </p>
+<p>插件本体可在仓库找到 <a href="https://github.com/Mentrillum/Slender-Fortress-Modified-Versions/releases">Releases</a></p>
 <h5><span id="2-自定义内容">2. 自定义内容</span></h5><h6><span id="模型-贴图-音效">模型、贴图、音效</span></h6><p>在上面你已经解压到tf/download下了，但是别忘记进行bz2压缩然后上传到FastDL服务器。</p>
 <h6><span id="地图">地图</span></h6><p>地图可以放在tf/maps下；也可以放在tf/download/maps下，但是别忘记了nav文件（nav文件要放在tf/maps），不然boss不会动。</p>
 <h5><span id="3-准备服务器">3. 准备服务器</span></h5><p>编辑你的mapcycle.txt文件，都换成Slender模式的地图。推荐的做法是专门写一个mapcycle_sf2.txt，然后在server.cfg最后加入 <code>mapcyclefile mapcycle_sf2.txt</code> 。</p>
@@ -414,7 +439,7 @@ tf2/srcds_run -console -game tf +sv_pure 1 +randommap +maxplayers 24 +sv_setstea
 tv_name &quot;SlenderTV&quot; //随便取名
 </code></pre>
 <p>这样子Boss的击杀能够显示在右上角，但这不是必要的。</p>
-<h5><span id="3-结论">3. 结论</span></h5><p>假如没有啥错误的话，你的服务器应该是可以玩的了。如果你有更多的问题，可以到 <a target="_blank" rel="noopener" href="https://github.com/Mentrillum/Slender-Fortress-Modified-Versions/wiki">SF-M Wiki</a> 去看看。</p>
+<h5><span id="3-结论">3. 结论</span></h5><p>假如没有啥错误的话，你的服务器应该是可以玩的了。如果你有更多的问题，可以到 <a href="https://github.com/Mentrillum/Slender-Fortress-Modified-Versions/wiki">SF-M Wiki</a> 去看看。</p>
 <h2><span id="七-疑难解答">七. 疑难解答</span></h2><h3><span id="a-玩家出现了missing-map的错误">A. 玩家出现了missing map的错误</span></h3><p>意思为客户端没能找到这个地图，一般是下载错误，或是服务器没有正确设置好FastDL所导致的。</p>
 <pre><code>sv_allowdownload 1
 sv_downloadurl &quot;http://yourfastdlsite.com/tf&quot;
@@ -423,113 +448,13 @@ sv_downloadurl &quot;http://yourfastdlsite.com/tf&quot;
 <p>你可以使用Apache或Nginx等软件建立站点，把文件放在对应的位置，然后你在浏览器测试是否能够正常下载。也可以去购买云服务商的存储服务。</p>
 <p>建议把下载站点与游戏服务器分开架设，这样子玩家下载的时候不会影响正常游玩的玩家。</p>
 <h4><span id="但是我是个小白完全不懂建站这些怎么办">※. 但是我是个小白，完全不懂建站这些怎么办？</span></h4><p>一般来说，我建议你去学习一下，百度搜索能出来许多有用的文章。但若你没有耐心去学，也可以去购买存储服务如腾讯云的对象存储，假如你的文件不多，购买一个虚拟主机也是可以的。要做的只是确保客户端能通过网址获得需要的文件。不过，你也可以手动发文件给玩家，比如QQ群等方式。</p>
-
-            <!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
-            <audio id="audio" loop="1" preload="auto" controls="controls" data-autoplay="false">
-                <source type="audio/mpeg" src="">
-            </audio>
-            
-                <ul id="audio-list" style="display:none">
-                    
-                        
-                            <li title='0' data-url='http://link.hhtjim.com/163/425570952.mp3'></li>
-                        
-                    
-                        
-                            <li title='1' data-url='http://link.hhtjim.com/163/425570952.mp3'></li>
-                        
-                    
-                </ul>
-            
-        </div>
-        
-    <div id='gitalk-container' class="comment link"
-		data-enable='false'
-        data-ae='false'
-        data-ci=''
-        data-cs=''
-        data-r=''
-        data-o=''
-        data-a=''
-        data-d='false'
-    >查看评论</div>
-
-
-    </div>
-    
-</div>
-
-
-    </div>
-</div>
-</body>
-
-
-<script src="//lib.baomitu.com/jquery/1.8.3/jquery.min.js"></script>
-<script src="/js/plugin.js"></script>
-<script src="/js/typed.js"></script>
-<script src="/js/diaspora.js"></script>
-
-
-<link rel="stylesheet" href="/photoswipe/photoswipe.css">
-<link rel="stylesheet" href="/photoswipe/default-skin/default-skin.css">
-
-
-<script src="/photoswipe/photoswipe.min.js"></script>
-<script src="/photoswipe/photoswipe-ui-default.min.js"></script>
-
-
-<!-- Root element of PhotoSwipe. Must have class pswp. -->
-<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
-    <!-- Background of PhotoSwipe. 
-         It's a separate element as animating opacity is faster than rgba(). -->
-    <div class="pswp__bg"></div>
-    <!-- Slides wrapper with overflow:hidden. -->
-    <div class="pswp__scroll-wrap">
-        <!-- Container that holds slides. 
-            PhotoSwipe keeps only 3 of them in the DOM to save memory.
-            Don't modify these 3 pswp__item elements, data is added later on. -->
-        <div class="pswp__container">
-            <div class="pswp__item"></div>
-            <div class="pswp__item"></div>
-            <div class="pswp__item"></div>
-        </div>
-        <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
-        <div class="pswp__ui pswp__ui--hidden">
-            <div class="pswp__top-bar">
-                <!--  Controls are self-explanatory. Order can be changed. -->
-                <div class="pswp__counter"></div>
-                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
-                <button class="pswp__button pswp__button--share" title="Share"></button>
-                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
-                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
-                <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
-                <!-- element will get class pswp__preloader--active when preloader is running -->
-                <div class="pswp__preloader">
-                    <div class="pswp__preloader__icn">
-                      <div class="pswp__preloader__cut">
-                        <div class="pswp__preloader__donut"></div>
-                      </div>
-                    </div>
-                </div>
-            </div>
-            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
-                <div class="pswp__share-tooltip"></div> 
-            </div>
-            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
-            </button>
-            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
-            </button>
-            <div class="pswp__caption">
-                <div class="pswp__caption__center"></div>
-            </div>
-        </div>
-    </div>
-</div>
-
-
-
-
-
-
-</html>
+]]></content>
+      <categories>
+        <category>技术分享</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+        <tag>云服务器</tag>
+      </tags>
+  </entry>
+</search>
