@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>咖啡厅雪糕跳跃服</title>
+    <url>/2021/02/11/newtf2jumpserver/</url>
+    <content><![CDATA[<p>好耶，新的服务器开了。是跳跃服，雪糕跳跃服。</p>
+<p>点击右边连接服务器。<a href="steam://connect/47.115.144.75:27015">点我连接雪糕跳跃服</a></p>
+<p>感谢Zero的赞助。</p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+        <tag>云服务器</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>TF2特效帽子效果预览</title>
     <url>/2021/02/01/tf2-unusual-cn/</url>
     <content><![CDATA[<h1><span id="tf2特效帽子效果预览">TF2特效帽子效果预览</span></h1><p>以下是TF2特效帽的预览。图片来源于TF2Wiki，你可以直接访问：<a href="https://wiki.teamfortress.com/wiki/Unusual">Unusual - Team Fortress Wiki</a></p>
@@ -51,6 +66,23 @@
       </tags>
   </entry>
   <entry>
+    <title>咖啡厅服务器更新 v0.1</title>
+    <url>/2021/02/11/update-v0-1/</url>
+    <content><![CDATA[<p>不是说新年新气象嘛，乘着我用了三年的主机和FF2服务器终于在3月要关闭了，这里已经做好了数据迁移服务，大家不用担心~</p>
+<ul>
+<li>更新封禁系统 <a href="https://bans.midheart.club/">bans.midheart.club</a></li>
+<li>将SZF服（僵尸模式）纳入统一管理，增加商店。</li>
+</ul>
+<p>还有兴趣多开一个模式的服务器，有啥建议可以和我说。</p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>咖啡厅模型预览</title>
     <url>/2021/02/17/tf2modelsreview/</url>
     <content><![CDATA[<p><strong>点击进入相册</strong></p>
@@ -75,43 +107,11 @@
       </tags>
   </entry>
   <entry>
-    <title>咖啡厅雪糕跳跃服</title>
-    <url>/2021/02/11/newtf2jumpserver/</url>
-    <content><![CDATA[<p>好耶，新的服务器开了。是跳跃服，雪糕跳跃服。</p>
-<p>点击右边连接服务器。<a href="steam://connect/47.115.144.75:27015">点我连接雪糕跳跃服</a></p>
-<p>感谢Zero的赞助。</p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-        <tag>云服务器</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>咖啡厅的暗鬼要塞服务器开服了</title>
     <url>/2021/02/18/tf2newslenderserver/</url>
     <content><![CDATA[<p>我又蹭到别人的学生机啦<del>既然这么好以后都蹭好啦</del></p>
 <p>暗鬼要塞服务器，只装了基本的游戏内容和地图，用腾讯云cdn加速下载，点击下面的链接即可进服务器。</p>
 <p><a href="steam://connect/42.193.131.170:27015">点我连接巧克力暗鬼服</a></p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>咖啡厅服务器更新 v0.1</title>
-    <url>/2021/02/11/update-v0-1/</url>
-    <content><![CDATA[<p>不是说新年新气象嘛，乘着我用了三年的主机和FF2服务器终于在3月要关闭了，这里已经做好了数据迁移服务，大家不用担心~</p>
-<ul>
-<li>更新封禁系统 <a href="https://bans.midheart.club/">bans.midheart.club</a></li>
-<li>将SZF服（僵尸模式）纳入统一管理，增加商店。</li>
-</ul>
-<p>还有兴趣多开一个模式的服务器，有啥建议可以和我说。</p>
 ]]></content>
       <categories>
         <category>更新日志</category>
@@ -154,6 +154,17 @@
 <li>Core Pack 增加Boss：Bad Batter、Guilt、Frank Manera、Patriarch and Fleshpound</li>
 <li>增加地图：slender_backrooms_b2、slender_badlands_survive_v3、slender_badwater_basin_wip、slender_biotics_lab_v1b</li>
 <li>增加玩家在默认情况下可以留守的时间10秒。</li>
+</ul>
+<h2><span id="2021224">2021/2/24</span></h2><ul>
+<li>分开了两个Boss组，在地图投票时可以进行投票。<ul>
+<li>Boss组1：Flesh Clown、Fleshpound、Frank Manera、Guardian、Guilt、Hans Volter、OI 2 Insanity、Jaraxxus、Marcus、The Patriarch、Quadralex、Rage Sniper、Sawrunner、Suicide Squidward</li>
+<li>Boss组2：Armless、Bad Batter、BEN Drowned、Big Smoke、Chaos Insurgency、Charlie Metson Jr.、Chris Walker、Corrupted Woody Redux、Corrupted Jessie(有可能成为Woody的伙伴)、Craig、Death Claw、Ethre、Snatcher</li>
+<li>核心组（不可投票，系统随时加载）：包括基础的Slender、Rake、和天使。还有地图限定的如FNAF2、SCPCB、拳击场地图的Boss也在里面。</li>
+</ul>
+</li>
+<li>新增了Boss：Squidward Suicide、Craig</li>
+<li>增加地图：slender_bowser_castle_b1b、slender_broken_v2、slender_cliffroad_b3</li>
+<li>削弱了Snatcher的小弟数量，从12修改为6。</li>
 </ul>
 ]]></content>
       <categories>
