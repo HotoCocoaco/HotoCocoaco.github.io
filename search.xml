@@ -1,21 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>咖啡厅雪糕跳跃服</title>
-    <url>/2021/02/11/newtf2jumpserver/</url>
-    <content><![CDATA[<p>好耶，新的服务器开了。是跳跃服，雪糕跳跃服。</p>
-<p>点击右边连接服务器。<a href="steam://connect/47.115.144.75:27015">点我连接雪糕跳跃服</a></p>
-<p>感谢Zero的赞助。</p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-        <tag>云服务器</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>TF2特效帽子效果预览</title>
     <url>/2021/02/01/tf2-unusual-cn/</url>
     <content><![CDATA[<h1><span id="tf2特效帽子效果预览">TF2特效帽子效果预览</span></h1><p>以下是TF2特效帽的预览。图片来源于TF2Wiki，你可以直接访问：<a href="https://wiki.teamfortress.com/wiki/Unusual">Unusual - Team Fortress Wiki</a></p>
@@ -66,20 +51,18 @@
       </tags>
   </entry>
   <entry>
-    <title>咖啡厅服务器更新 v0.1</title>
-    <url>/2021/02/11/update-v0-1/</url>
-    <content><![CDATA[<p>不是说新年新气象嘛，乘着我用了三年的主机和FF2服务器终于在3月要关闭了，这里已经做好了数据迁移服务，大家不用担心~</p>
-<ul>
-<li>更新封禁系统 <a href="https://bans.midheart.club/">bans.midheart.club</a></li>
-<li>将SZF服（僵尸模式）纳入统一管理，增加商店。</li>
-</ul>
-<p>还有兴趣多开一个模式的服务器，有啥建议可以和我说。</p>
+    <title>咖啡厅雪糕跳跃服</title>
+    <url>/2021/02/11/newtf2jumpserver/</url>
+    <content><![CDATA[<p>好耶，新的服务器开了。是跳跃服，雪糕跳跃服。</p>
+<p>点击右边连接服务器。<a href="steam://connect/47.115.144.75:27015">点我连接雪糕跳跃服</a></p>
+<p>感谢Zero的赞助。</p>
 ]]></content>
       <categories>
         <category>更新日志</category>
       </categories>
       <tags>
         <tag>TF2</tag>
+        <tag>云服务器</tag>
       </tags>
   </entry>
   <entry>
@@ -101,6 +84,23 @@
 ]]></content>
       <categories>
         <category>咖啡厅预览</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>咖啡厅服务器更新 v0.1</title>
+    <url>/2021/02/11/update-v0-1/</url>
+    <content><![CDATA[<p>不是说新年新气象嘛，乘着我用了三年的主机和FF2服务器终于在3月要关闭了，这里已经做好了数据迁移服务，大家不用担心~</p>
+<ul>
+<li>更新封禁系统 <a href="https://bans.midheart.club/">bans.midheart.club</a></li>
+<li>将SZF服（僵尸模式）纳入统一管理，增加商店。</li>
+</ul>
+<p>还有兴趣多开一个模式的服务器，有啥建议可以和我说。</p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
       </categories>
       <tags>
         <tag>TF2</tag>
@@ -165,6 +165,7 @@
 <li>新增了Boss：Squidward Suicide、Craig</li>
 <li>增加地图：slender_bowser_castle_b1b、slender_broken_v2、slender_cliffroad_b3</li>
 <li>削弱了Snatcher的小弟数量，从12修改为6。</li>
+<li>增加Boss组3：Dead By Daylight Pyramid Head、Queen Vanessa、Neighbor、Bill Cipher、Bulldozer and Skulldozer、Cartoon Cat、Flesher、Half-Life 2 D0g</li>
 </ul>
 ]]></content>
       <categories>
