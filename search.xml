@@ -51,6 +51,23 @@
       </tags>
   </entry>
   <entry>
+    <title>咖啡厅服务器更新 v0.1</title>
+    <url>/2021/02/11/update-v0-1/</url>
+    <content><![CDATA[<p>不是说新年新气象嘛，乘着我用了三年的主机和FF2服务器终于在3月要关闭了，这里已经做好了数据迁移服务，大家不用担心~</p>
+<ul>
+<li>更新封禁系统 <a href="https://bans.midheart.club/">bans.midheart.club</a></li>
+<li>将SZF服（僵尸模式）纳入统一管理，增加商店。</li>
+</ul>
+<p>还有兴趣多开一个模式的服务器，有啥建议可以和我说。</p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>咖啡厅雪糕跳跃服</title>
     <url>/2021/02/11/newtf2jumpserver/</url>
     <content><![CDATA[<p>好耶，新的服务器开了。是跳跃服，雪糕跳跃服。</p>
@@ -66,14 +83,44 @@
       </tags>
   </entry>
   <entry>
-    <title>咖啡厅服务器更新 v0.1</title>
-    <url>/2021/02/11/update-v0-1/</url>
-    <content><![CDATA[<p>不是说新年新气象嘛，乘着我用了三年的主机和FF2服务器终于在3月要关闭了，这里已经做好了数据迁移服务，大家不用担心~</p>
-<ul>
-<li>更新封禁系统 <a href="https://bans.midheart.club/">bans.midheart.club</a></li>
-<li>将SZF服（僵尸模式）纳入统一管理，增加商店。</li>
+    <title>咖啡厅暗鬼服更新日志</title>
+    <url>/2021/02/22/tf2sf2serverupdatelog/</url>
+    <content><![CDATA[<h1><span id="更新日志">更新日志</span></h1><p>以后暗鬼服的更新日志直接在这里写。请时常查看本页面是否有更新。</p>
+<h2><span id="2021221">2021/2/21</span></h2><ul>
+<li>创建了本日志，之前的更新记录我忘记次序了所以就这样吧。</li>
 </ul>
-<p>还有兴趣多开一个模式的服务器，有啥建议可以和我说。</p>
+<h2><span id="2021222">2021/2/22</span></h2><ul>
+<li>Core Pack 增加Boss：Marcus、Chaos Insurgency Soldiers</li>
+<li>增加地图：slender_2fort_b1、slender_4way_v3_fix、slender_abandoned_offices_v2、slender_aquatica_v5b、slender_assault_final、slender_asylum_redux_fix2</li>
+<li>Core Pack 增加Boss：Ethre、Hans Volter、Quadralex、BEN Drowned - 14:19</li>
+</ul>
+<h2><span id="2021223">2021/2/23</span></h2><ul>
+<li>Core Pack 增加Boss：Bad Batter、Guilt、Frank Manera、Patriarch and Fleshpound</li>
+<li>增加地图：slender_backrooms_b2、slender_badlands_survive_v3、slender_badwater_basin_wip、slender_biotics_lab_v1b</li>
+<li>增加玩家在默认情况下可以留守的时间10秒。</li>
+</ul>
+<h2><span id="2021224">2021/2/24</span></h2><ul>
+<li>分开了两个Boss组，在地图投票时可以进行投票。<ul>
+<li>Boss组1：Flesh Clown、Fleshpound、Frank Manera、Guardian、Guilt、Hans Volter、OI 2 Insanity、Jaraxxus、Marcus、The Patriarch、Quadralex、Rage Sniper、Sawrunner、Suicide Squidward</li>
+<li>Boss组2：Armless、Bad Batter、BEN Drowned、Big Smoke、Chaos Insurgency、Charlie Metson Jr.、Chris Walker、Corrupted Woody Redux、Corrupted Jessie(有可能成为Woody的伙伴)、Craig、Death Claw、Ethre、Snatcher</li>
+<li>核心组（不可投票，系统随时加载）：包括基础的Slender、Rake、和天使。还有地图限定的如FNAF2、SCPCB、拳击场地图的Boss也在里面。</li>
+</ul>
+</li>
+<li>新增了Boss：Squidward Suicide、Craig</li>
+<li>增加地图：slender_bowser_castle_b1b、slender_broken_v2、slender_cliffroad_b3</li>
+<li>削弱了Snatcher的小弟数量，从12修改为6。</li>
+<li>增加Boss组3：Dead By Daylight Pyramid Head、Queen Vanessa、Neighbor、Bill Cipher、Bulldozer and Skulldozer、Cartoon Cat、Flesher、Half-Life 2 D0g、Reinforced Blood Golem、Team Killer、Horseless Headless Horsemann、Handsome Jack</li>
+</ul>
+<h2><span id="2021225">2021/2/25</span></h2><ul>
+<li>增加Boss组4：Dr Trager、Sett、Jhin、Woormy Charles、Memphis Tennessee、Tinky Winky</li>
+<li>增加地图：slender_clinic_b2、slender_cry_of_fear_a3、slender_dawn_b2f</li>
+<li>削弱InSanity的视野和速度。</li>
+</ul>
+<h2><span id="2021226">2021/2/26</span></h2><ul>
+<li>Boss组4：增加Villager、Ghost、Skeleton、meem</li>
+<li>增加Boss组5：Emily、Garg、Horror、Lucy、Moarg、黑山基地的僵尸</li>
+<li>增加地图：slender_de_dust2_a1_fix1、slender_deathrun_a3_fix、slender_desecration_b2b、slender_lobbys_b2</li>
+</ul>
 ]]></content>
       <categories>
         <category>更新日志</category>
@@ -119,48 +166,6 @@
 ]]></content>
       <categories>
         <category>技术分享</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>咖啡厅暗鬼服更新日志</title>
-    <url>/2021/02/22/tf2sf2serverupdatelog/</url>
-    <content><![CDATA[<h1><span id="更新日志">更新日志</span></h1><p>以后暗鬼服的更新日志直接在这里写。请时常查看本页面是否有更新。</p>
-<h2><span id="2021221">2021/2/21</span></h2><ul>
-<li>创建了本日志，之前的更新记录我忘记次序了所以就这样吧。</li>
-</ul>
-<h2><span id="2021222">2021/2/22</span></h2><ul>
-<li>Core Pack 增加Boss：Marcus、Chaos Insurgency Soldiers</li>
-<li>增加地图：slender_2fort_b1、slender_4way_v3_fix、slender_abandoned_offices_v2、slender_aquatica_v5b、slender_assault_final、slender_asylum_redux_fix2</li>
-<li>Core Pack 增加Boss：Ethre、Hans Volter、Quadralex、BEN Drowned - 14:19</li>
-</ul>
-<h2><span id="2021223">2021/2/23</span></h2><ul>
-<li>Core Pack 增加Boss：Bad Batter、Guilt、Frank Manera、Patriarch and Fleshpound</li>
-<li>增加地图：slender_backrooms_b2、slender_badlands_survive_v3、slender_badwater_basin_wip、slender_biotics_lab_v1b</li>
-<li>增加玩家在默认情况下可以留守的时间10秒。</li>
-</ul>
-<h2><span id="2021224">2021/2/24</span></h2><ul>
-<li>分开了两个Boss组，在地图投票时可以进行投票。<ul>
-<li>Boss组1：Flesh Clown、Fleshpound、Frank Manera、Guardian、Guilt、Hans Volter、OI 2 Insanity、Jaraxxus、Marcus、The Patriarch、Quadralex、Rage Sniper、Sawrunner、Suicide Squidward</li>
-<li>Boss组2：Armless、Bad Batter、BEN Drowned、Big Smoke、Chaos Insurgency、Charlie Metson Jr.、Chris Walker、Corrupted Woody Redux、Corrupted Jessie(有可能成为Woody的伙伴)、Craig、Death Claw、Ethre、Snatcher</li>
-<li>核心组（不可投票，系统随时加载）：包括基础的Slender、Rake、和天使。还有地图限定的如FNAF2、SCPCB、拳击场地图的Boss也在里面。</li>
-</ul>
-</li>
-<li>新增了Boss：Squidward Suicide、Craig</li>
-<li>增加地图：slender_bowser_castle_b1b、slender_broken_v2、slender_cliffroad_b3</li>
-<li>削弱了Snatcher的小弟数量，从12修改为6。</li>
-<li>增加Boss组3：Dead By Daylight Pyramid Head、Queen Vanessa、Neighbor、Bill Cipher、Bulldozer and Skulldozer、Cartoon Cat、Flesher、Half-Life 2 D0g、Reinforced Blood Golem、Team Killer、Horseless Headless Horsemann、Handsome Jack</li>
-</ul>
-<h2><span id="2021225">2021/2/25</span></h2><ul>
-<li>增加Boss组4：Dr Trager、Sett、Jhin、Woormy Charles、Memphis Tennessee、Tinky Winky</li>
-<li>增加地图：slender_clinic_b2、slender_cry_of_fear_a3、slender_dawn_b2f</li>
-<li>削弱InSanity的视野和速度。</li>
-</ul>
-]]></content>
-      <categories>
-        <category>更新日志</category>
       </categories>
       <tags>
         <tag>TF2</tag>
