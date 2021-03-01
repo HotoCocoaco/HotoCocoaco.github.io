@@ -1,23 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>咖啡厅服务器更新 v0.1</title>
-    <url>/2021/02/11/update-v0-1/</url>
-    <content><![CDATA[<p>不是说新年新气象嘛，乘着我用了三年的主机和FF2服务器终于在3月要关闭了，这里已经做好了数据迁移服务，大家不用担心~</p>
-<ul>
-<li>更新封禁系统 <a href="https://bans.midheart.club/">bans.midheart.club</a></li>
-<li>将SZF服（僵尸模式）纳入统一管理，增加商店。</li>
-</ul>
-<p>还有兴趣多开一个模式的服务器，有啥建议可以和我说。</p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>咖啡厅雪糕跳跃服</title>
     <url>/2021/02/11/newtf2jumpserver/</url>
     <content><![CDATA[<p>好耶，新的服务器开了。是跳跃服，雪糕跳跃服。</p>
@@ -33,76 +16,17 @@
       </tags>
   </entry>
   <entry>
-    <title>TF2特效帽子效果预览</title>
-    <url>/2021/02/01/tf2-unusual-cn/</url>
-    <content><![CDATA[<h1><span id="tf2特效帽子效果预览">TF2特效帽子效果预览</span></h1><p>以下是TF2特效帽的预览。图片来源于TF2Wiki，你可以直接访问：<a href="https://wiki.teamfortress.com/wiki/Unusual">Unusual - Team Fortress Wiki</a></p>
-<p>下面是使用了相册，点击链接进入相册可以看中文名字。</p>
-<p>按照更新系列分类。<a id="more"></a></p>
-<h2><span id="第一代">第一代</span></h2><p><a href="https://img.fghrsh.net/image/CETya"><img src="http://fp1.fghrsh.net/2021/02/01/57d07324bb168d35c544d5d75d8a7644.md.png" alt="57d07324bb168d35c544d5d75d8a7644.md.png"></a></p>
-<p><a href="https://img.fghrsh.net/album/LHjGT">查看更多…</a></p>
-<h2><span id="第二代">第二代</span></h2><p><a href="https://img.fghrsh.net/image/CEs60"><img src="http://fp1.fghrsh.net/2021/02/01/c5981cdb888bff3c1e603400028874b4.md.png" alt="c5981cdb888bff3c1e603400028874b4.md.png"></a></p>
-<p><a href="https://img.fghrsh.net/album/LHRVu">查看更多…</a></p>
-<h2><span id="第三代">第三代</span></h2><p><a href="https://img.fghrsh.net/image/CEHKW"><img src="http://fp1.fghrsh.net/2021/02/01/451c804790471013a528b28f6dccb74b.md.png" alt="451c804790471013a528b28f6dccb74b.md.png"></a></p>
-<p><a href="https://img.fghrsh.net/album/LHMt0">查看更多…</a></p>
-<h2><span id="夏日2020包">夏日2020包</span></h2><p><a href="https://img.fghrsh.net/image/CE6rV"><img src="http://fp1.fghrsh.net/2021/02/01/23a53a994f360a6bae9cc6e0f594adc4.md.png" alt="23a53a994f360a6bae9cc6e0f594adc4.md.png"></a></p>
-<p><a href="https://img.fghrsh.net/album/LHT5j">查看更多…</a></p>
-<h2><span id="非常恐怖的万圣节特约">非常恐怖的万圣节特约</span></h2><p><a href="https://img.fghrsh.net/image/CEEQA"><img src="http://fp1.fghrsh.net/2021/02/01/6efe17a9aff2b5394814a48d40dcb9ac.md.png" alt="6efe17a9aff2b5394814a48d40dcb9ac.md.png"></a></p>
-<p><a href="https://img.fghrsh.net/album/LHhW1">查看更多…</a></p>
-<h2><span id="幽灵万圣节特约">幽灵万圣节特约</span></h2><p><a href="https://img.fghrsh.net/image/CEdZU"><img src="http://fp1.fghrsh.net/2021/02/01/d6d62d76cf3675c4ae18972783b6cfb2.md.png" alt="d6d62d76cf3675c4ae18972783b6cfb2.md.png"></a></p>
-<p><a href="https://img.fghrsh.net/album/LHw25">查看更多…</a></p>
-<h2><span id="尖叫要塞5">尖叫要塞5</span></h2><p><a href="https://img.fghrsh.net/image/CE9o5"><img src="http://fp1.fghrsh.net/2021/02/01/58ff22d648fcaa1d91725ebdcfe83993.md.png" alt="58ff22d648fcaa1d91725ebdcfe83993.md.png"></a></p>
-<p><a href="https://img.fghrsh.net/album/LHNsB">查看更多…</a></p>
-<h2><span id="尖叫要塞6">尖叫要塞6</span></h2><p><a href="https://img.fghrsh.net/image/CVPEY"><img src="http://fp1.fghrsh.net/2021/02/01/ae9f8378ad1a279e041ab4437f541e97.md.png" alt="ae9f8378ad1a279e041ab4437f541e97.md.png"></a></p>
-<p><a href="https://img.fghrsh.net/album/LHQaW">查看更多…</a></p>
-<h2><span id="尖叫要塞7">尖叫要塞7</span></h2><p><a href="https://img.fghrsh.net/image/CVpEV"><img src="http://fp1.fghrsh.net/2021/02/01/e248038e8f9ec60b4802ee4b597d25e9.md.png" alt="e248038e8f9ec60b4802ee4b597d25e9.md.png"></a></p>
-<p><a href="https://img.fghrsh.net/album/LHcDY">查看更多…</a></p>
-<h2><span id="尖叫要塞8">尖叫要塞8</span></h2><p><a href="https://img.fghrsh.net/image/CV5c9"><img src="http://fp1.fghrsh.net/2021/02/01/7845de006205bca770dabb7fe6e8f634.md.png" alt="7845de006205bca770dabb7fe6e8f634.md.png"></a></p>
-<p><a href="https://img.fghrsh.net/album/LHshz">查看更多…</a></p>
-<h2><span id="尖叫要塞10">尖叫要塞10</span></h2><p><a href="https://img.fghrsh.net/image/CV0TU"><img src="http://fp1.fghrsh.net/2021/02/01/286f0871953438d63cff5c689d5c574a.md.png" alt="286f0871953438d63cff5c689d5c574a.md.png"></a></p>
-<p><a href="https://img.fghrsh.net/album/LHXG4">查看更多…</a></p>
-<h2><span id="尖叫要塞11">尖叫要塞11</span></h2><p><a href="https://img.fghrsh.net/image/CVZDw"><img src="http://fp1.fghrsh.net/2021/02/01/100eb356fba6c204ef07b0045ee0cde4.md.png" alt="100eb356fba6c204ef07b0045ee0cde4.md.png"></a></p>
-<p><a href="https://img.fghrsh.net/album/LHYdc">查看更多…</a></p>
-<h2><span id="尖叫要塞12">尖叫要塞12</span></h2><p><a href="https://img.fghrsh.net/image/CdBa9"><img src="http://fp1.fghrsh.net/2021/02/01/51a5d694d855f5c870e239efbde98fde.md.png" alt="51a5d694d855f5c870e239efbde98fde.md.png"></a></p>
-<p><a href="https://img.fghrsh.net/album/LHetI">查看更多…</a></p>
-<h2><span id="圣诞2019">圣诞2019</span></h2><p><a href="https://img.fghrsh.net/image/Cdtws"><img src="http://fp1.fghrsh.net/2021/02/01/0a2ffd7d8bda3afcae5e4d16017e7e2d.md.png" alt="0a2ffd7d8bda3afcae5e4d16017e7e2d.md.png"></a></p>
-<p><a href="https://img.fghrsh.net/album/LH35J">查看更多…</a></p>
-<h2><span id="圣诞2020">圣诞2020</span></h2><p><a href="https://img.fghrsh.net/image/CdYuB"><img src="http://fp1.fghrsh.net/2021/02/01/3d8925c70846459170ea983381429abf.md.png" alt="3d8925c70846459170ea983381429abf.md.png"></a></p>
-<p><a href="https://img.fghrsh.net/album/LH5fw">查看更多…</a></p>
-<h2><span id="机械舞更新">机械舞更新</span></h2><p><a href="https://img.fghrsh.net/image/Cd4lP"><img src="http://fp1.fghrsh.net/2021/02/01/c89de3b95378a254c4b8fa99fa4a57a3.md.png" alt="c89de3b95378a254c4b8fa99fa4a57a3.md.png"></a></p>
-<p><a href="https://img.fghrsh.net/album/LHH2Z">查看更多…</a></p>
-<h2><span id="end-of-the-line-更新">End of the Line 更新</span></h2><p><a href="https://img.fghrsh.net/image/CddnN"><img src="http://fp1.fghrsh.net/2021/02/01/537bc36edff4df51484af4fff0b317b0.md.png" alt="537bc36edff4df51484af4fff0b317b0.md.png"></a></p>
-<p><a href="https://img.fghrsh.net/album/LHrsG">查看更多…</a></p>
-<h2><span id="入侵更新">入侵更新</span></h2><p><a href="https://img.fghrsh.net/image/Cdv4u"><img src="http://fp1.fghrsh.net/2021/02/01/69b586ca963876bab06efaff2df1de20.md.png" alt="69b586ca963876bab06efaff2df1de20.md.png"></a></p>
-<p><a href="https://img.fghrsh.net/album/LH0qK">查看更多…</a></p>
+    <title>咖啡厅服务器更新 v0.1</title>
+    <url>/2021/02/11/update-v0-1/</url>
+    <content><![CDATA[<p>不是说新年新气象嘛，乘着我用了三年的主机和FF2服务器终于在3月要关闭了，这里已经做好了数据迁移服务，大家不用担心~</p>
+<ul>
+<li>更新封禁系统 <a href="https://bans.midheart.club/">bans.midheart.club</a></li>
+<li>将SZF服（僵尸模式）纳入统一管理，增加商店。</li>
+</ul>
+<p>还有兴趣多开一个模式的服务器，有啥建议可以和我说。</p>
 ]]></content>
       <categories>
-        <category>咖啡厅预览</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>咖啡厅模型预览</title>
-    <url>/2021/02/17/tf2modelsreview/</url>
-    <content><![CDATA[<p><strong>点击进入相册</strong></p>
-<h1><span id="artifact纸片人">Artifact纸片人</span></h1><p><a href="https://img.fghrsh.net/image/J8Opg"><img src="https://fp1.fghrsh.net/2021/02/17/15c1ff08c5234a135ebbd67565f3f2e2.png" alt="15c1ff08c5234a135ebbd67565f3f2e2.png"></a></p>
-<p><a href="https://img.fghrsh.net/album/LHUiz">查看更多…</a></p>
-<h1><span id="机器人大军">机器人大军</span></h1><p>都是TF2MVM模式的机器人，我觉得就不用放预览图了</p>
-<p><a href="https://img.fghrsh.net/image/J8D2P"><img src="http://fp1.fghrsh.net/2021/02/17/76734c002b90aaf0b1f52ff6190d7673.png" alt="76734c002b90aaf0b1f52ff6190d7673.png"></a></p>
-<h1><span id="自定义系列">自定义系列</span></h1><p>为什么叫自定义？因为我也不知道叫什么好。</p>
-<p><a href="https://img.fghrsh.net/image/JG3DI"><img src="http://fp1.fghrsh.net/2021/02/17/4d9e5f8eaac09fbc8ac507cba854f615.png" alt="4d9e5f8eaac09fbc8ac507cba854f615.png"></a></p>
-<p><a href="https://img.fghrsh.net/album/LHoX5">查看更多…</a></p>
-<h1><span id="可可自制系列">可可自制系列</span></h1><p>从我一开始不熟悉到后面熟悉的绑定的模型，初期做的很差，比如2233娘和红豆水手服之类的。后面是越做越好的。好耶</p>
-<p>~( •̀ ω •́ )y</p>
-<p><a href="https://img.fghrsh.net/image/JihYn"><img src="http://fp1.fghrsh.net/2021/02/17/f9a946fd69f468b4fe10e14e09e422a4.png" alt="f9a946fd69f468b4fe10e14e09e422a4.png"></a></p>
-<p><a href="https://img.fghrsh.net/album/LHv4B">查看更多…</a></p>
-<h1><span id="自制新增系列">自制新增系列</span></h1><p>2021年之后我做的新模型的图片会在这里。</p>
-<p><a href="https://img.fghrsh.net/image/JSBFK"><img src="http://fp1.fghrsh.net/2021/02/26/21c06ce8074916c2eda222245c748367.png" alt="21c06ce8074916c2eda222245c748367.png"></a></p>
-<p><a href="https://img.fghrsh.net/album/Lnmne">查看更多…</a></p>
-]]></content>
-      <categories>
-        <category>咖啡厅预览</category>
+        <category>更新日志</category>
       </categories>
       <tags>
         <tag>TF2</tag>
@@ -121,20 +45,6 @@
 ]]></content>
       <categories>
         <category>技术分享</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>咖啡厅的暗鬼要塞服务器开服了</title>
-    <url>/2021/02/18/tf2newslenderserver/</url>
-    <content><![CDATA[<p>我又蹭到别人的学生机啦<del>既然这么好以后都蹭好啦</del></p>
-<p>暗鬼要塞服务器，只装了基本的游戏内容和地图，用腾讯云cdn加速下载，点击下面的链接即可进服务器。</p>
-<p><a href="steam://connect/42.193.131.170:27015">点我连接巧克力暗鬼服</a></p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
       </categories>
       <tags>
         <tag>TF2</tag>
@@ -184,6 +94,10 @@
 <li>增加地图：slender_diverge_reboot_v3、slender_enclosed_b1</li>
 <li>Boss组5：增加Hoovy Dundy</li>
 </ul>
+<h2><span id="202131">2021/3/1</span></h2><ul>
+<li>Boss组5：增加Specimen 12</li>
+<li>增加地图：slender_expedition_b3、slender_expeditions_curse_b3b、slender_eyes_b1、slender_facility_b3、slender_frezze_b1_fix、slender_frontier_engineering_final、slender_frostbite_b2</li>
+</ul>
 ]]></content>
       <categories>
         <category>更新日志</category>
@@ -203,6 +117,96 @@
 ]]></content>
       <categories>
         <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>咖啡厅模型预览</title>
+    <url>/2021/02/17/tf2modelsreview/</url>
+    <content><![CDATA[<p><strong>点击进入相册</strong></p>
+<h1><span id="artifact纸片人">Artifact纸片人</span></h1><p><a href="https://img.fghrsh.net/image/J8Opg"><img src="https://fp1.fghrsh.net/2021/02/17/15c1ff08c5234a135ebbd67565f3f2e2.png" alt="15c1ff08c5234a135ebbd67565f3f2e2.png"></a></p>
+<p><a href="https://img.fghrsh.net/album/LHUiz">查看更多…</a></p>
+<h1><span id="机器人大军">机器人大军</span></h1><p>都是TF2MVM模式的机器人，我觉得就不用放预览图了</p>
+<p><a href="https://img.fghrsh.net/image/J8D2P"><img src="http://fp1.fghrsh.net/2021/02/17/76734c002b90aaf0b1f52ff6190d7673.png" alt="76734c002b90aaf0b1f52ff6190d7673.png"></a></p>
+<h1><span id="自定义系列">自定义系列</span></h1><p>为什么叫自定义？因为我也不知道叫什么好。</p>
+<p><a href="https://img.fghrsh.net/image/JG3DI"><img src="http://fp1.fghrsh.net/2021/02/17/4d9e5f8eaac09fbc8ac507cba854f615.png" alt="4d9e5f8eaac09fbc8ac507cba854f615.png"></a></p>
+<p><a href="https://img.fghrsh.net/album/LHoX5">查看更多…</a></p>
+<h1><span id="可可自制系列">可可自制系列</span></h1><p>从我一开始不熟悉到后面熟悉的绑定的模型，初期做的很差，比如2233娘和红豆水手服之类的。后面是越做越好的。好耶</p>
+<p>~( •̀ ω •́ )y</p>
+<p><a href="https://img.fghrsh.net/image/JihYn"><img src="http://fp1.fghrsh.net/2021/02/17/f9a946fd69f468b4fe10e14e09e422a4.png" alt="f9a946fd69f468b4fe10e14e09e422a4.png"></a></p>
+<p><a href="https://img.fghrsh.net/album/LHv4B">查看更多…</a></p>
+<h1><span id="自制新增系列">自制新增系列</span></h1><p>2021年之后我做的新模型的图片会在这里。</p>
+<p><a href="https://img.fghrsh.net/image/JSBFK"><img src="http://fp1.fghrsh.net/2021/02/26/21c06ce8074916c2eda222245c748367.png" alt="21c06ce8074916c2eda222245c748367.png"></a></p>
+<p><a href="https://img.fghrsh.net/album/Lnmne">查看更多…</a></p>
+]]></content>
+      <categories>
+        <category>咖啡厅预览</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>咖啡厅的暗鬼要塞服务器开服了</title>
+    <url>/2021/02/18/tf2newslenderserver/</url>
+    <content><![CDATA[<p>我又蹭到别人的学生机啦<del>既然这么好以后都蹭好啦</del></p>
+<p>暗鬼要塞服务器，只装了基本的游戏内容和地图，用腾讯云cdn加速下载，点击下面的链接即可进服务器。</p>
+<p><a href="steam://connect/42.193.131.170:27015">点我连接巧克力暗鬼服</a></p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>TF2特效帽子效果预览</title>
+    <url>/2021/02/01/tf2-unusual-cn/</url>
+    <content><![CDATA[<h1><span id="tf2特效帽子效果预览">TF2特效帽子效果预览</span></h1><p>以下是TF2特效帽的预览。图片来源于TF2Wiki，你可以直接访问：<a href="https://wiki.teamfortress.com/wiki/Unusual">Unusual - Team Fortress Wiki</a></p>
+<p>下面是使用了相册，点击链接进入相册可以看中文名字。</p>
+<p>按照更新系列分类。<a id="more"></a></p>
+<h2><span id="第一代">第一代</span></h2><p><a href="https://img.fghrsh.net/image/CETya"><img src="http://fp1.fghrsh.net/2021/02/01/57d07324bb168d35c544d5d75d8a7644.md.png" alt="57d07324bb168d35c544d5d75d8a7644.md.png"></a></p>
+<p><a href="https://img.fghrsh.net/album/LHjGT">查看更多…</a></p>
+<h2><span id="第二代">第二代</span></h2><p><a href="https://img.fghrsh.net/image/CEs60"><img src="http://fp1.fghrsh.net/2021/02/01/c5981cdb888bff3c1e603400028874b4.md.png" alt="c5981cdb888bff3c1e603400028874b4.md.png"></a></p>
+<p><a href="https://img.fghrsh.net/album/LHRVu">查看更多…</a></p>
+<h2><span id="第三代">第三代</span></h2><p><a href="https://img.fghrsh.net/image/CEHKW"><img src="http://fp1.fghrsh.net/2021/02/01/451c804790471013a528b28f6dccb74b.md.png" alt="451c804790471013a528b28f6dccb74b.md.png"></a></p>
+<p><a href="https://img.fghrsh.net/album/LHMt0">查看更多…</a></p>
+<h2><span id="夏日2020包">夏日2020包</span></h2><p><a href="https://img.fghrsh.net/image/CE6rV"><img src="http://fp1.fghrsh.net/2021/02/01/23a53a994f360a6bae9cc6e0f594adc4.md.png" alt="23a53a994f360a6bae9cc6e0f594adc4.md.png"></a></p>
+<p><a href="https://img.fghrsh.net/album/LHT5j">查看更多…</a></p>
+<h2><span id="非常恐怖的万圣节特约">非常恐怖的万圣节特约</span></h2><p><a href="https://img.fghrsh.net/image/CEEQA"><img src="http://fp1.fghrsh.net/2021/02/01/6efe17a9aff2b5394814a48d40dcb9ac.md.png" alt="6efe17a9aff2b5394814a48d40dcb9ac.md.png"></a></p>
+<p><a href="https://img.fghrsh.net/album/LHhW1">查看更多…</a></p>
+<h2><span id="幽灵万圣节特约">幽灵万圣节特约</span></h2><p><a href="https://img.fghrsh.net/image/CEdZU"><img src="http://fp1.fghrsh.net/2021/02/01/d6d62d76cf3675c4ae18972783b6cfb2.md.png" alt="d6d62d76cf3675c4ae18972783b6cfb2.md.png"></a></p>
+<p><a href="https://img.fghrsh.net/album/LHw25">查看更多…</a></p>
+<h2><span id="尖叫要塞5">尖叫要塞5</span></h2><p><a href="https://img.fghrsh.net/image/CE9o5"><img src="http://fp1.fghrsh.net/2021/02/01/58ff22d648fcaa1d91725ebdcfe83993.md.png" alt="58ff22d648fcaa1d91725ebdcfe83993.md.png"></a></p>
+<p><a href="https://img.fghrsh.net/album/LHNsB">查看更多…</a></p>
+<h2><span id="尖叫要塞6">尖叫要塞6</span></h2><p><a href="https://img.fghrsh.net/image/CVPEY"><img src="http://fp1.fghrsh.net/2021/02/01/ae9f8378ad1a279e041ab4437f541e97.md.png" alt="ae9f8378ad1a279e041ab4437f541e97.md.png"></a></p>
+<p><a href="https://img.fghrsh.net/album/LHQaW">查看更多…</a></p>
+<h2><span id="尖叫要塞7">尖叫要塞7</span></h2><p><a href="https://img.fghrsh.net/image/CVpEV"><img src="http://fp1.fghrsh.net/2021/02/01/e248038e8f9ec60b4802ee4b597d25e9.md.png" alt="e248038e8f9ec60b4802ee4b597d25e9.md.png"></a></p>
+<p><a href="https://img.fghrsh.net/album/LHcDY">查看更多…</a></p>
+<h2><span id="尖叫要塞8">尖叫要塞8</span></h2><p><a href="https://img.fghrsh.net/image/CV5c9"><img src="http://fp1.fghrsh.net/2021/02/01/7845de006205bca770dabb7fe6e8f634.md.png" alt="7845de006205bca770dabb7fe6e8f634.md.png"></a></p>
+<p><a href="https://img.fghrsh.net/album/LHshz">查看更多…</a></p>
+<h2><span id="尖叫要塞10">尖叫要塞10</span></h2><p><a href="https://img.fghrsh.net/image/CV0TU"><img src="http://fp1.fghrsh.net/2021/02/01/286f0871953438d63cff5c689d5c574a.md.png" alt="286f0871953438d63cff5c689d5c574a.md.png"></a></p>
+<p><a href="https://img.fghrsh.net/album/LHXG4">查看更多…</a></p>
+<h2><span id="尖叫要塞11">尖叫要塞11</span></h2><p><a href="https://img.fghrsh.net/image/CVZDw"><img src="http://fp1.fghrsh.net/2021/02/01/100eb356fba6c204ef07b0045ee0cde4.md.png" alt="100eb356fba6c204ef07b0045ee0cde4.md.png"></a></p>
+<p><a href="https://img.fghrsh.net/album/LHYdc">查看更多…</a></p>
+<h2><span id="尖叫要塞12">尖叫要塞12</span></h2><p><a href="https://img.fghrsh.net/image/CdBa9"><img src="http://fp1.fghrsh.net/2021/02/01/51a5d694d855f5c870e239efbde98fde.md.png" alt="51a5d694d855f5c870e239efbde98fde.md.png"></a></p>
+<p><a href="https://img.fghrsh.net/album/LHetI">查看更多…</a></p>
+<h2><span id="圣诞2019">圣诞2019</span></h2><p><a href="https://img.fghrsh.net/image/Cdtws"><img src="http://fp1.fghrsh.net/2021/02/01/0a2ffd7d8bda3afcae5e4d16017e7e2d.md.png" alt="0a2ffd7d8bda3afcae5e4d16017e7e2d.md.png"></a></p>
+<p><a href="https://img.fghrsh.net/album/LH35J">查看更多…</a></p>
+<h2><span id="圣诞2020">圣诞2020</span></h2><p><a href="https://img.fghrsh.net/image/CdYuB"><img src="http://fp1.fghrsh.net/2021/02/01/3d8925c70846459170ea983381429abf.md.png" alt="3d8925c70846459170ea983381429abf.md.png"></a></p>
+<p><a href="https://img.fghrsh.net/album/LH5fw">查看更多…</a></p>
+<h2><span id="机械舞更新">机械舞更新</span></h2><p><a href="https://img.fghrsh.net/image/Cd4lP"><img src="http://fp1.fghrsh.net/2021/02/01/c89de3b95378a254c4b8fa99fa4a57a3.md.png" alt="c89de3b95378a254c4b8fa99fa4a57a3.md.png"></a></p>
+<p><a href="https://img.fghrsh.net/album/LHH2Z">查看更多…</a></p>
+<h2><span id="end-of-the-line-更新">End of the Line 更新</span></h2><p><a href="https://img.fghrsh.net/image/CddnN"><img src="http://fp1.fghrsh.net/2021/02/01/537bc36edff4df51484af4fff0b317b0.md.png" alt="537bc36edff4df51484af4fff0b317b0.md.png"></a></p>
+<p><a href="https://img.fghrsh.net/album/LHrsG">查看更多…</a></p>
+<h2><span id="入侵更新">入侵更新</span></h2><p><a href="https://img.fghrsh.net/image/Cdv4u"><img src="http://fp1.fghrsh.net/2021/02/01/69b586ca963876bab06efaff2df1de20.md.png" alt="69b586ca963876bab06efaff2df1de20.md.png"></a></p>
+<p><a href="https://img.fghrsh.net/album/LH0qK">查看更多…</a></p>
+]]></content>
+      <categories>
+        <category>咖啡厅预览</category>
       </categories>
       <tags>
         <tag>TF2</tag>
