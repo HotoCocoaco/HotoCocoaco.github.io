@@ -66,6 +66,23 @@
       </tags>
   </entry>
   <entry>
+    <title>咖啡厅服务器更新 v0.1</title>
+    <url>/2021/02/11/update-v0-1/</url>
+    <content><![CDATA[<p>不是说新年新气象嘛，乘着我用了三年的主机和FF2服务器终于在3月要关闭了，这里已经做好了数据迁移服务，大家不用担心~</p>
+<ul>
+<li>更新封禁系统 <a href="https://bans.midheart.club/">bans.midheart.club</a></li>
+<li>将SZF服（僵尸模式）纳入统一管理，增加商店。</li>
+</ul>
+<p>还有兴趣多开一个模式的服务器，有啥建议可以和我说。</p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>咖啡厅模型预览</title>
     <url>/2021/02/17/tf2modelsreview/</url>
     <content><![CDATA[<p><strong>点击进入相册</strong></p>
@@ -92,23 +109,6 @@
       </tags>
   </entry>
   <entry>
-    <title>咖啡厅服务器更新 v0.1</title>
-    <url>/2021/02/11/update-v0-1/</url>
-    <content><![CDATA[<p>不是说新年新气象嘛，乘着我用了三年的主机和FF2服务器终于在3月要关闭了，这里已经做好了数据迁移服务，大家不用担心~</p>
-<ul>
-<li>更新封禁系统 <a href="https://bans.midheart.club/">bans.midheart.club</a></li>
-<li>将SZF服（僵尸模式）纳入统一管理，增加商店。</li>
-</ul>
-<p>还有兴趣多开一个模式的服务器，有啥建议可以和我说。</p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>咖啡厅的暗鬼要塞服务器开服了</title>
     <url>/2021/02/18/tf2newslenderserver/</url>
     <content><![CDATA[<p>我又蹭到别人的学生机啦<del>既然这么好以后都蹭好啦</del></p>
@@ -123,18 +123,16 @@
       </tags>
   </entry>
   <entry>
-    <title>资源包怎么用/TF2的download文件夹如何运作？</title>
-    <url>/2021/02/19/howtf2downloadfolderworks/</url>
-    <content><![CDATA[<h1><span id="简而言之">简而言之</span></h1><p>假如你只是想知道你下载的资源包怎么用，那我可以在这里简单地告诉你。你下载的资源包一般是个压缩包，双击打开后里面一般会有 maps, materials, models, sound 这四个文件夹的任何几种，可能多可能少，但是你只要全选这几个文件夹，然后拖放到你的游戏目录的这个路径之下。</p>
-<p><code>Team Fortress 2\tf\download</code></p>
-<p>然后就安装成功了，你只需要重新进服务器即可。</p>
-<h1><span id="原理">原理</span></h1><p>不仅仅是TF2，像CSS和Gmod等起源游戏，都把从服务器下载的自定义内容，下载到这个download文件夹下。其中下载的内容一般是 maps, materials, models, sound 即地图、贴图、模型、音乐。不过玩家的喷漆并不保存在这里。你同时也会注意到你的tf文件夹，即download的父文件夹，里面一般也有 maps, materials, models, sound 这四个文件夹，假如你熟悉自定义地图，你知道maps里面装的是官方地图，你也可以把你下载到的地图bsp文件放在这里面。</p>
-<p>那么直接把下载的资源包解压到tf文件夹不就好了吗？为什么还要解压到tf\download文件夹下呢？其实，你是<strong>可以</strong>把资源包直接放在tf文件夹下的，但是极不推荐，这不方便你分类管理自定义内容。</p>
-<p>download文件夹里面的maps, materials, models, sound是等同于游戏在加载 tf\maps tf\materials tf\models tf\sound 这四个文件夹的。你也可以把自己在mod网站找到的地图放在 tf\download\maps 也是可以正常使用的。</p>
-<h1><span id="mod文件夹">mod文件夹</span></h1><p>在安装各种mod时，除了vpk文件，你可能会被要求把下载到的压缩包解压到 tf\custom 的。只要你细心就能注意到，里面的文件也是遵从同等加载的办法的。只不过他们以不同的mod文件夹进行分类。</p>
+    <title>暗鬼服游玩警告</title>
+    <url>/2021/02/28/playsf2warning/</url>
+    <content><![CDATA[<h1><span id="警告暗鬼服游玩警告">警告：暗鬼服游玩警告</span></h1><p><a href="https://img.fghrsh.net/image/JSdGe"><img src="http://fp1.fghrsh.net/2021/02/28/cb28106c11376bb9af36e999d2127362.jpg" alt="cb28106c11376bb9af36e999d2127362.jpg"></a></p>
+<p><strong>服务器模式为娱乐性恐怖模式。可能不适合所有人游玩。</strong></p>
+<p><strong>未成年人请不要游玩本服务器！</strong></p>
+<p><strong>心理承受能力弱的玩家请不要游玩本服务器！</strong></p>
+<p><strong>在服务器已经发布告知的情况下，仍坚持错误的行为并因此受到任何伤害的，由其自己承担一切后果！</strong></p>
 ]]></content>
       <categories>
-        <category>技术分享</category>
+        <category>更新日志</category>
       </categories>
       <tags>
         <tag>TF2</tag>
@@ -230,34 +228,6 @@
       </tags>
   </entry>
   <entry>
-    <title>暗鬼服游玩警告</title>
-    <url>/2021/02/28/playsf2warning/</url>
-    <content><![CDATA[<h1><span id="警告暗鬼服游玩警告">警告：暗鬼服游玩警告</span></h1><p><a href="https://img.fghrsh.net/image/JSdGe"><img src="http://fp1.fghrsh.net/2021/02/28/cb28106c11376bb9af36e999d2127362.jpg" alt="cb28106c11376bb9af36e999d2127362.jpg"></a></p>
-<p><strong>服务器模式为娱乐性恐怖模式。可能不适合所有人游玩。</strong></p>
-<p><strong>未成年人请不要游玩本服务器！</strong></p>
-<p><strong>心理承受能力弱的玩家请不要游玩本服务器！</strong></p>
-<p><strong>在服务器已经发布告知的情况下，仍坚持错误的行为并因此受到任何伤害的，由其自己承担一切后果！</strong></p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>商店插件更新</title>
-    <url>/2021/03/11/storepluginupdate/</url>
-    <content><![CDATA[<p>顾名思义，商店插件做了一个小更新，现在玩家皮肤可以分兵种不同装备了。数据库也因此而更新，你们不需要做任何操作。但是所有已装备的物品都被强制卸下了。请自己手动装备回来。<br>也增加了很多头衔，感觉没有括号挺好的</p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>DDOS期间暂时关闭服务器</title>
     <url>/2021/03/08/ddosshutdown/</url>
     <content><![CDATA[<p>最近我的服务器遭受一连串的DDOS攻击，因此决定暂时关闭服务器。恢复时间请留意后续通知。</p>
@@ -279,6 +249,18 @@
     <title>咖啡厅服务器核弹避难所</title>
     <url>/2021/03/10/tf2-nuke-hide-here/</url>
     <content><![CDATA[<p>就字面意思，避免核爆，服务器进入地下室，外部不能再看到服务器情况了。只能直连IP进入。<br><a href="https://blog.midheart.club/fuwuqi/">查看更多…</a></p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>商店插件更新</title>
+    <url>/2021/03/11/storepluginupdate/</url>
+    <content><![CDATA[<p>顾名思义，商店插件做了一个小更新，现在玩家皮肤可以分兵种不同装备了。数据库也因此而更新，你们不需要做任何操作。但是所有已装备的物品都被强制卸下了。请自己手动装备回来。<br>也增加了很多头衔，感觉没有括号挺好的</p>
 ]]></content>
       <categories>
         <category>更新日志</category>
@@ -365,7 +347,8 @@
 </li>
 <li><a href="#%E4%B8%83-%E7%96%91%E9%9A%BE%E8%A7%A3%E7%AD%94">七. 疑难解答</a><ul>
 <li><a href="#a-%E7%8E%A9%E5%AE%B6%E5%87%BA%E7%8E%B0%E4%BA%86missing-map%E7%9A%84%E9%94%99%E8%AF%AF">A. 玩家出现了missing map的错误</a><ul>
-<li><a href="#%E4%BD%86%E6%98%AF%E6%88%91%E6%98%AF%E4%B8%AA%E5%B0%8F%E7%99%BD%E5%AE%8C%E5%85%A8%E4%B8%8D%E6%87%82%E5%BB%BA%E7%AB%99%E8%BF%99%E4%BA%9B%E6%80%8E%E4%B9%88%E5%8A%9E">※. 但是我是个小白，完全不懂建站这些怎么办？</a></li>
+<li><a href="#1-%E4%BD%86%E6%98%AF%E6%88%91%E6%98%AF%E4%B8%AA%E5%B0%8F%E7%99%BD%E5%AE%8C%E5%85%A8%E4%B8%8D%E6%87%82%E5%BB%BA%E7%AB%99%E8%BF%99%E4%BA%9B%E6%80%8E%E4%B9%88%E5%8A%9E">1. 但是我是个小白，完全不懂建站这些怎么办？</a></li>
+<li><a href="#2-%E5%A4%87%E7%94%A8%E6%96%B9%E6%A1%88">2. 备用方案</a></li>
 </ul>
 </li>
 </ul>
@@ -420,7 +403,7 @@ start steamcmd +login anonymous +force_install_dir C:\hlserver +app_update 23225
 </code></pre>
 <h5><span id="5-开始下载更新">5. 开始下载/更新</span></h5><p>运行 <code>update.bat</code> 开始下载，内容将超过8GB，因此你可能需要等待几小时。有时候，会因为网络问题而中断，你可能需要<strong>多次</strong>运行更新脚本直到出现了 <code>Success! App &#39;232250&#39; fully installed.</code> 的字样才算完成了下载/更新。</p>
 <p>每次服务器需要更新时，你都可以运行更新脚本进行更新。</p>
-<h5><span id="6-创建运行服务器的快捷方式">6. 创建运行服务器的快捷方式</span></h5><p>在你的安装TF2服务器的目录下，右键点击hl2.exe，创建快捷方式。重命名其为 <code>Start Server</code> 或其他你喜欢的名字。右键此快捷方式，点击属性。在“目标”文本框中，在srcds.exe后面加一个空格，然后输入以下内容。</p>
+<h5><span id="6-创建运行服务器的快捷方式">6. 创建运行服务器的快捷方式</span></h5><p>在你的安装TF2服务器的目录下，右键点击srcds.exe，创建快捷方式。重命名其为 <code>Start Server</code> 或其他你喜欢的名字。右键此快捷方式，点击属性。在“目标”文本框中，在srcds.exe后面加一个空格，然后输入以下内容。</p>
 <pre><code>-console -game tf +maxplayers 24 -port 27015 +map cp_dustbowl
 </code></pre>
 <p><img src="https://fp1.fghrsh.net/2021/01/31/bd7cc202d7171bc6d6c0287247c73e2e.png" alt="快捷方式"></p>
@@ -650,7 +633,8 @@ sv_downloadurl &quot;http://yourfastdlsite.com/tf&quot;
 <p>在没有设置此值的情况下，客户端会从服务器进行地图传输，但出于此游戏年份久远的缘故，速度会很慢并且有文件大小限制。因此就需要FastDL，从别的站点下载自定义内容。这里举个例子，当我进入一个运行着 cp_hello_world.bsp 地图的服务器时，客户端会在 tf/maps 和 tf/download/maps 寻找这个地图，如果没有，就会开始下载。客户端会请求 <code>http://yourfastdlsite.com/tf/maps/cp_hello_world.bsp</code> 下载此文件。你可以清楚的看到你的sv_downloadurl的值和客户端访问的网址之间的关系。接下来怎么做就显而易见了。</p>
 <p>你可以使用Apache或Nginx等软件建立站点，把文件放在对应的位置，然后你在浏览器测试是否能够正常下载。也可以去购买云服务商的存储服务。</p>
 <p>建议把下载站点与游戏服务器分开架设，这样子玩家下载的时候不会影响正常游玩的玩家。</p>
-<h4><span id="但是我是个小白完全不懂建站这些怎么办">※. 但是我是个小白，完全不懂建站这些怎么办？</span></h4><p>一般来说，我建议你去学习一下，百度搜索能出来许多有用的文章。但若你没有耐心去学，也可以去购买存储服务如腾讯云的对象存储，假如你的文件不多，购买一个虚拟主机也是可以的。要做的只是确保客户端能通过网址获得需要的文件。不过，你也可以手动发文件给玩家，比如QQ群等方式。</p>
+<h4><span id="1-但是我是个小白完全不懂建站这些怎么办">1. 但是我是个小白，完全不懂建站这些怎么办？</span></h4><p>一般来说，我建议你去学习一下，百度搜索能出来许多有用的文章。但若你没有耐心去学，也可以去购买存储服务如腾讯云的对象存储，假如你的文件不多，购买一个虚拟主机也是可以的。要做的只是确保客户端能通过网址获得需要的文件。不过，你也可以手动发文件给玩家，比如QQ群等方式。</p>
+<h4><span id="2-备用方案">2. 备用方案</span></h4><p><a href="https://forums.alliedmods.net/showthread.php?p=2685907">https://forums.alliedmods.net/showthread.php?p=2685907</a></p>
 ]]></content>
       <categories>
         <category>技术分享</category>
@@ -658,6 +642,24 @@ sv_downloadurl &quot;http://yourfastdlsite.com/tf&quot;
       <tags>
         <tag>TF2</tag>
         <tag>云服务器</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>资源包怎么用/TF2的download文件夹如何运作？</title>
+    <url>/2021/02/19/howtf2downloadfolderworks/</url>
+    <content><![CDATA[<h1><span id="简而言之">简而言之</span></h1><p>假如你只是想知道你下载的资源包怎么用，那我可以在这里简单地告诉你。你下载的资源包一般是个压缩包，双击打开后里面一般会有 maps, materials, models, sound 这四个文件夹的任何几种，可能多可能少，但是你只要全选这几个文件夹，然后拖放到你的游戏目录的这个路径之下。</p>
+<p><code>Team Fortress 2\tf\download</code></p>
+<p>然后就安装成功了，你只需要重新进服务器即可。</p>
+<h1><span id="原理">原理</span></h1><p>不仅仅是TF2，像CSS和Gmod等起源游戏，都把从服务器下载的自定义内容，下载到这个download文件夹下。其中下载的内容一般是 maps, materials, models, sound 即地图、贴图、模型、音乐。不过玩家的喷漆并不保存在这里。你同时也会注意到你的tf文件夹，即download的父文件夹，里面一般也有 maps, materials, models, sound 这四个文件夹，假如你熟悉自定义地图，你知道maps里面装的是官方地图，你也可以把你下载到的地图bsp文件放在这里面。</p>
+<p>那么直接把下载的资源包解压到tf文件夹不就好了吗？为什么还要解压到tf\download文件夹下呢？其实，你是<strong>可以</strong>把资源包直接放在tf文件夹下的，但是极不推荐，这不方便你分类管理自定义内容。</p>
+<p>download文件夹里面的maps, materials, models, sound是等同于游戏在加载 tf\maps tf\materials tf\models tf\sound 这四个文件夹的。你也可以把自己在mod网站找到的地图放在 tf\download\maps 也是可以正常使用的。</p>
+<h1><span id="mod文件夹">mod文件夹</span></h1><p>在安装各种mod时，除了vpk文件，你可能会被要求把下载到的压缩包解压到 tf\custom 的。只要你细心就能注意到，里面的文件也是遵从同等加载的办法的。只不过他们以不同的mod文件夹进行分类。</p>
+]]></content>
+      <categories>
+        <category>技术分享</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
       </tags>
   </entry>
 </search>
