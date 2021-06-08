@@ -51,23 +51,6 @@
       </tags>
   </entry>
   <entry>
-    <title>咖啡厅服务器更新 v0.1</title>
-    <url>/2021/02/11/update-v0-1/</url>
-    <content><![CDATA[<p>不是说新年新气象嘛，乘着我用了三年的主机和FF2服务器终于在3月要关闭了，这里已经做好了数据迁移服务，大家不用担心~</p>
-<ul>
-<li>更新封禁系统 <a href="https://bans.midheart.club/">bans.midheart.club</a></li>
-<li>将SZF服（僵尸模式）纳入统一管理，增加商店。</li>
-</ul>
-<p>还有兴趣多开一个模式的服务器，有啥建议可以和我说。</p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>咖啡厅雪糕跳跃服</title>
     <url>/2021/02/11/newtf2jumpserver/</url>
     <content><![CDATA[<p>好耶，新的服务器开了。是跳跃服，雪糕跳跃服。</p>
@@ -83,11 +66,14 @@
       </tags>
   </entry>
   <entry>
-    <title>咖啡厅的暗鬼要塞服务器开服了</title>
-    <url>/2021/02/18/tf2newslenderserver/</url>
-    <content><![CDATA[<p>我又蹭到别人的学生机啦<del>既然这么好以后都蹭好啦</del></p>
-<p>暗鬼要塞服务器，只装了基本的游戏内容和地图，用腾讯云cdn加速下载，点击下面的链接即可进服务器。</p>
-<p><a href="steam://connect/42.193.131.170:27015">点我连接巧克力暗鬼服</a></p>
+    <title>咖啡厅服务器更新 v0.1</title>
+    <url>/2021/02/11/update-v0-1/</url>
+    <content><![CDATA[<p>不是说新年新气象嘛，乘着我用了三年的主机和FF2服务器终于在3月要关闭了，这里已经做好了数据迁移服务，大家不用担心~</p>
+<ul>
+<li>更新封禁系统 <a href="https://bans.midheart.club/">bans.midheart.club</a></li>
+<li>将SZF服（僵尸模式）纳入统一管理，增加商店。</li>
+</ul>
+<p>还有兴趣多开一个模式的服务器，有啥建议可以和我说。</p>
 ]]></content>
       <categories>
         <category>更新日志</category>
@@ -117,6 +103,20 @@
 ]]></content>
       <categories>
         <category>咖啡厅预览</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>咖啡厅的暗鬼要塞服务器开服了</title>
+    <url>/2021/02/18/tf2newslenderserver/</url>
+    <content><![CDATA[<p>我又蹭到别人的学生机啦<del>既然这么好以后都蹭好啦</del></p>
+<p>暗鬼要塞服务器，只装了基本的游戏内容和地图，用腾讯云cdn加速下载，点击下面的链接即可进服务器。</p>
+<p><a href="steam://connect/42.193.131.170:27015">点我连接巧克力暗鬼服</a></p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
       </categories>
       <tags>
         <tag>TF2</tag>
@@ -226,7 +226,10 @@
 <li><del>更新将会不限期停止，恢复时间约为一年后。</del> 以后是随缘更新。</li>
 </ul>
 <h2><span id="202168">2021/6/8</span></h2><ul>
-<li>增加Boss组8：Shin Gojira</li>
+<li>Boss组8：增加Shin Gojira、Creeper Girl、Bearded Expense</li>
+<li>增加Boss组9：Brown Bandits (S.T.A.L.K.E.R)、Gangsta Doctor、孙笑川(嘴臭天皇)、WindGrin</li>
+<li>地图更新：slender_ksopdarn_run_a1、slender_minecraft_a6fix_notnt</li>
+<li>资源包不再更新，目前只能从游戏中下载，以后有机会再放出资源包。</li>
 </ul>
 ]]></content>
       <categories>
