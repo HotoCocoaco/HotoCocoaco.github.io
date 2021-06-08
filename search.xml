@@ -141,22 +141,6 @@
       </tags>
   </entry>
   <entry>
-    <title>暗鬼服游玩警告</title>
-    <url>/2021/02/28/playsf2warning/</url>
-    <content><![CDATA[<h1><span id="警告暗鬼服游玩警告">警告：暗鬼服游玩警告</span></h1><p><a href="https://img.fghrsh.net/image/JSdGe"><img src="http://fp1.fghrsh.net/2021/02/28/cb28106c11376bb9af36e999d2127362.jpg" alt="cb28106c11376bb9af36e999d2127362.jpg"></a></p>
-<p><strong>服务器模式为娱乐性恐怖模式。可能不适合所有人游玩。</strong></p>
-<p><strong>未成年人请不要游玩本服务器！</strong></p>
-<p><strong>心理承受能力弱的玩家请不要游玩本服务器！</strong></p>
-<p><strong>在服务器已经发布告知的情况下，仍坚持错误的行为并因此受到任何伤害的，由其自己承担一切后果！</strong></p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>咖啡厅暗鬼服更新日志</title>
     <url>/2021/02/22/tf2sf2serverupdatelog/</url>
     <content><![CDATA[<h1><span id="更新日志">更新日志</span></h1><p>以后暗鬼服的更新日志直接在这里写。请时常查看本页面是否有更新。<br>感谢Boss提供者：Mleczyk76、Nameless、Astolfo Alter</p>
@@ -253,9 +237,13 @@
       </tags>
   </entry>
   <entry>
-    <title>咖啡厅服务器核弹避难所</title>
-    <url>/2021/03/10/tf2-nuke-hide-here/</url>
-    <content><![CDATA[<p>就字面意思，避免核爆，服务器进入地下室，外部不能再看到服务器情况了。只能直连IP进入。<br><a href="https://blog.midheart.club/fuwuqi/">查看更多…</a></p>
+    <title>暗鬼服游玩警告</title>
+    <url>/2021/02/28/playsf2warning/</url>
+    <content><![CDATA[<h1><span id="警告暗鬼服游玩警告">警告：暗鬼服游玩警告</span></h1><p><a href="https://img.fghrsh.net/image/JSdGe"><img src="http://fp1.fghrsh.net/2021/02/28/cb28106c11376bb9af36e999d2127362.jpg" alt="cb28106c11376bb9af36e999d2127362.jpg"></a></p>
+<p><strong>服务器模式为娱乐性恐怖模式。可能不适合所有人游玩。</strong></p>
+<p><strong>未成年人请不要游玩本服务器！</strong></p>
+<p><strong>心理承受能力弱的玩家请不要游玩本服务器！</strong></p>
+<p><strong>在服务器已经发布告知的情况下，仍坚持错误的行为并因此受到任何伤害的，由其自己承担一切后果！</strong></p>
 ]]></content>
       <categories>
         <category>更新日志</category>
@@ -283,9 +271,9 @@
       </tags>
   </entry>
   <entry>
-    <title>商店插件更新</title>
-    <url>/2021/03/11/storepluginupdate/</url>
-    <content><![CDATA[<p>顾名思义，商店插件做了一个小更新，现在玩家皮肤可以分兵种不同装备了。数据库也因此而更新，你们不需要做任何操作。但是所有已装备的物品都被强制卸下了。请自己手动装备回来。<br>也增加了很多头衔，感觉没有括号挺好的</p>
+    <title>咖啡厅服务器核弹避难所</title>
+    <url>/2021/03/10/tf2-nuke-hide-here/</url>
+    <content><![CDATA[<p>就字面意思，避免核爆，服务器进入地下室，外部不能再看到服务器情况了。只能直连IP进入。<br><a href="https://blog.midheart.club/fuwuqi/">查看更多…</a></p>
 ]]></content>
       <categories>
         <category>更新日志</category>
@@ -300,6 +288,18 @@
     <content><![CDATA[<p>话不多说好吧。</p>
 <p>建议根据你自己的网络运营商选择<br>===暗鬼服（多IP）<br>自动：a.polars.cc:30201<br>电信：a-dx.polars.cc:30201<br>联通：a-lt.polars.cc:30201<br>移动：a-yd.polars.cc:30201</p>
 <p>===死跑服（多IP）<br>自动：a.polars.cc:30203<br>电信：a-dx.polars.cc:30203<br>联通：a-lt.polars.cc:30203<br>移动：a-yd.polars.cc:30203</p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>商店插件更新</title>
+    <url>/2021/03/11/storepluginupdate/</url>
+    <content><![CDATA[<p>顾名思义，商店插件做了一个小更新，现在玩家皮肤可以分兵种不同装备了。数据库也因此而更新，你们不需要做任何操作。但是所有已装备的物品都被强制卸下了。请自己手动装备回来。<br>也增加了很多头衔，感觉没有括号挺好的</p>
 ]]></content>
       <categories>
         <category>更新日志</category>
