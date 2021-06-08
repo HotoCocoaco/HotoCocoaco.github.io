@@ -51,6 +51,23 @@
       </tags>
   </entry>
   <entry>
+    <title>咖啡厅服务器更新 v0.1</title>
+    <url>/2021/02/11/update-v0-1/</url>
+    <content><![CDATA[<p>不是说新年新气象嘛，乘着我用了三年的主机和FF2服务器终于在3月要关闭了，这里已经做好了数据迁移服务，大家不用担心~</p>
+<ul>
+<li>更新封禁系统 <a href="https://bans.midheart.club/">bans.midheart.club</a></li>
+<li>将SZF服（僵尸模式）纳入统一管理，增加商店。</li>
+</ul>
+<p>还有兴趣多开一个模式的服务器，有啥建议可以和我说。</p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>咖啡厅雪糕跳跃服</title>
     <url>/2021/02/11/newtf2jumpserver/</url>
     <content><![CDATA[<p>好耶，新的服务器开了。是跳跃服，雪糕跳跃服。</p>
@@ -66,14 +83,11 @@
       </tags>
   </entry>
   <entry>
-    <title>咖啡厅服务器更新 v0.1</title>
-    <url>/2021/02/11/update-v0-1/</url>
-    <content><![CDATA[<p>不是说新年新气象嘛，乘着我用了三年的主机和FF2服务器终于在3月要关闭了，这里已经做好了数据迁移服务，大家不用担心~</p>
-<ul>
-<li>更新封禁系统 <a href="https://bans.midheart.club/">bans.midheart.club</a></li>
-<li>将SZF服（僵尸模式）纳入统一管理，增加商店。</li>
-</ul>
-<p>还有兴趣多开一个模式的服务器，有啥建议可以和我说。</p>
+    <title>咖啡厅的暗鬼要塞服务器开服了</title>
+    <url>/2021/02/18/tf2newslenderserver/</url>
+    <content><![CDATA[<p>我又蹭到别人的学生机啦<del>既然这么好以后都蹭好啦</del></p>
+<p>暗鬼要塞服务器，只装了基本的游戏内容和地图，用腾讯云cdn加速下载，点击下面的链接即可进服务器。</p>
+<p><a href="steam://connect/42.193.131.170:27015">点我连接巧克力暗鬼服</a></p>
 ]]></content>
       <categories>
         <category>更新日志</category>
@@ -103,20 +117,6 @@
 ]]></content>
       <categories>
         <category>咖啡厅预览</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>咖啡厅的暗鬼要塞服务器开服了</title>
-    <url>/2021/02/18/tf2newslenderserver/</url>
-    <content><![CDATA[<p>我又蹭到别人的学生机啦<del>既然这么好以后都蹭好啦</del></p>
-<p>暗鬼要塞服务器，只装了基本的游戏内容和地图，用腾讯云cdn加速下载，点击下面的链接即可进服务器。</p>
-<p><a href="steam://connect/42.193.131.170:27015">点我连接巧克力暗鬼服</a></p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
       </categories>
       <tags>
         <tag>TF2</tag>
@@ -237,6 +237,22 @@
       </tags>
   </entry>
   <entry>
+    <title>暗鬼服游玩警告</title>
+    <url>/2021/02/28/playsf2warning/</url>
+    <content><![CDATA[<h1><span id="警告暗鬼服游玩警告">警告：暗鬼服游玩警告</span></h1><p><a href="https://img.fghrsh.net/image/JSdGe"><img src="http://fp1.fghrsh.net/2021/02/28/cb28106c11376bb9af36e999d2127362.jpg" alt="cb28106c11376bb9af36e999d2127362.jpg"></a></p>
+<p><strong>服务器模式为娱乐性恐怖模式。可能不适合所有人游玩。</strong></p>
+<p><strong>未成年人请不要游玩本服务器！</strong></p>
+<p><strong>心理承受能力弱的玩家请不要游玩本服务器！</strong></p>
+<p><strong>在服务器已经发布告知的情况下，仍坚持错误的行为并因此受到任何伤害的，由其自己承担一切后果！</strong></p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>DDOS期间暂时关闭服务器</title>
     <url>/2021/03/08/ddosshutdown/</url>
     <content><![CDATA[<p>最近我的服务器遭受一连串的DDOS攻击，因此决定暂时关闭服务器。恢复时间请留意后续通知。</p>
@@ -255,27 +271,9 @@
       </tags>
   </entry>
   <entry>
-    <title>暗鬼服游玩警告</title>
-    <url>/2021/02/28/playsf2warning/</url>
-    <content><![CDATA[<h1><span id="警告暗鬼服游玩警告">警告：暗鬼服游玩警告</span></h1><p><a href="https://img.fghrsh.net/image/JSdGe"><img src="http://fp1.fghrsh.net/2021/02/28/cb28106c11376bb9af36e999d2127362.jpg" alt="cb28106c11376bb9af36e999d2127362.jpg"></a></p>
-<p><strong>服务器模式为娱乐性恐怖模式。可能不适合所有人游玩。</strong></p>
-<p><strong>未成年人请不要游玩本服务器！</strong></p>
-<p><strong>心理承受能力弱的玩家请不要游玩本服务器！</strong></p>
-<p><strong>在服务器已经发布告知的情况下，仍坚持错误的行为并因此受到任何伤害的，由其自己承担一切后果！</strong></p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>有新的服务器啦</title>
-    <url>/2021/06/01/6-1-new-tf2-server/</url>
-    <content><![CDATA[<p>话不多说好吧。</p>
-<p>建议根据你自己的网络运营商选择<br>===暗鬼服（多IP）<br>自动：a.polars.cc:30201<br>电信：a-dx.polars.cc:30201<br>联通：a-lt.polars.cc:30201<br>移动：a-yd.polars.cc:30201</p>
-<p>===死跑服（多IP）<br>自动：a.polars.cc:30203<br>电信：a-dx.polars.cc:30203<br>联通：a-lt.polars.cc:30203<br>移动：a-yd.polars.cc:30203</p>
+    <title>咖啡厅服务器核弹避难所</title>
+    <url>/2021/03/10/tf2-nuke-hide-here/</url>
+    <content><![CDATA[<p>就字面意思，避免核爆，服务器进入地下室，外部不能再看到服务器情况了。只能直连IP进入。<br><a href="https://blog.midheart.club/fuwuqi/">查看更多…</a></p>
 ]]></content>
       <categories>
         <category>更新日志</category>
@@ -297,9 +295,11 @@
       </tags>
   </entry>
   <entry>
-    <title>咖啡厅服务器核弹避难所</title>
-    <url>/2021/03/10/tf2-nuke-hide-here/</url>
-    <content><![CDATA[<p>就字面意思，避免核爆，服务器进入地下室，外部不能再看到服务器情况了。只能直连IP进入。<br><a href="https://blog.midheart.club/fuwuqi/">查看更多…</a></p>
+    <title>有新的服务器啦</title>
+    <url>/2021/06/01/6-1-new-tf2-server/</url>
+    <content><![CDATA[<p>话不多说好吧。</p>
+<p>建议根据你自己的网络运营商选择<br>===暗鬼服（多IP）<br>自动：a.polars.cc:30201<br>电信：a-dx.polars.cc:30201<br>联通：a-lt.polars.cc:30201<br>移动：a-yd.polars.cc:30201</p>
+<p>===死跑服（多IP）<br>自动：a.polars.cc:30203<br>电信：a-dx.polars.cc:30203<br>联通：a-lt.polars.cc:30203<br>移动：a-yd.polars.cc:30203</p>
 ]]></content>
       <categories>
         <category>更新日志</category>
