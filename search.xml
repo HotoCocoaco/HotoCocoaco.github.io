@@ -1,23 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>咖啡厅服务器更新 v0.1</title>
-    <url>/2021/02/11/update-v0-1/</url>
-    <content><![CDATA[<p>不是说新年新气象嘛，乘着我用了三年的主机和FF2服务器终于在3月要关闭了，这里已经做好了数据迁移服务，大家不用担心~</p>
-<ul>
-<li>更新封禁系统 <a href="https://bans.midheart.club/">bans.midheart.club</a></li>
-<li>将SZF服（僵尸模式）纳入统一管理，增加商店。</li>
-</ul>
-<p>还有兴趣多开一个模式的服务器，有啥建议可以和我说。</p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>TF2特效帽子效果预览</title>
     <url>/2021/02/01/tf2-unusual-cn/</url>
     <content><![CDATA[<h1><span id="tf2特效帽子效果预览">TF2特效帽子效果预览</span></h1><p>以下是TF2特效帽的预览。图片来源于TF2Wiki，你可以直接访问：<a href="https://wiki.teamfortress.com/wiki/Unusual">Unusual - Team Fortress Wiki</a></p>
@@ -68,6 +51,23 @@
       </tags>
   </entry>
   <entry>
+    <title>咖啡厅服务器更新 v0.1</title>
+    <url>/2021/02/11/update-v0-1/</url>
+    <content><![CDATA[<p>不是说新年新气象嘛，乘着我用了三年的主机和FF2服务器终于在3月要关闭了，这里已经做好了数据迁移服务，大家不用担心~</p>
+<ul>
+<li>更新封禁系统 <a href="https://bans.midheart.club/">bans.midheart.club</a></li>
+<li>将SZF服（僵尸模式）纳入统一管理，增加商店。</li>
+</ul>
+<p>还有兴趣多开一个模式的服务器，有啥建议可以和我说。</p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>咖啡厅雪糕跳跃服</title>
     <url>/2021/02/11/newtf2jumpserver/</url>
     <content><![CDATA[<p>好耶，新的服务器开了。是跳跃服，雪糕跳跃服。</p>
@@ -109,6 +109,20 @@
       </tags>
   </entry>
   <entry>
+    <title>咖啡厅的暗鬼要塞服务器开服了</title>
+    <url>/2021/02/18/tf2newslenderserver/</url>
+    <content><![CDATA[<p>我又蹭到别人的学生机啦<del>既然这么好以后都蹭好啦</del></p>
+<p>暗鬼要塞服务器，只装了基本的游戏内容和地图，用腾讯云cdn加速下载，点击下面的链接即可进服务器。</p>
+<p><a href="steam://connect/42.193.131.170:27015">点我连接巧克力暗鬼服</a></p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>资源包怎么用/TF2的download文件夹如何运作？</title>
     <url>/2021/02/19/howtf2downloadfolderworks/</url>
     <content><![CDATA[<h1><span id="简而言之">简而言之</span></h1><p>假如你只是想知道你下载的资源包怎么用，那我可以在这里简单地告诉你。你下载的资源包一般是个压缩包，双击打开后里面一般会有 maps, materials, models, sound 这四个文件夹的任何几种，可能多可能少，但是你只要全选这几个文件夹，然后拖放到你的游戏目录的这个路径之下。</p>
@@ -127,11 +141,31 @@
       </tags>
   </entry>
   <entry>
-    <title>咖啡厅的暗鬼要塞服务器开服了</title>
-    <url>/2021/02/18/tf2newslenderserver/</url>
-    <content><![CDATA[<p>我又蹭到别人的学生机啦<del>既然这么好以后都蹭好啦</del></p>
-<p>暗鬼要塞服务器，只装了基本的游戏内容和地图，用腾讯云cdn加速下载，点击下面的链接即可进服务器。</p>
-<p><a href="steam://connect/42.193.131.170:27015">点我连接巧克力暗鬼服</a></p>
+    <title>DDOS期间暂时关闭服务器</title>
+    <url>/2021/03/08/ddosshutdown/</url>
+    <content><![CDATA[<p>最近我的服务器遭受一连串的DDOS攻击，因此决定暂时关闭服务器。恢复时间请留意后续通知。</p>
+<p>受DDOS影响的服务器：挂机服、暗鬼服、竞技服、求生僵尸服、跳跃服</p>
+<p>拒绝访问的服务器：挂机服、暗鬼服、竞技服、求生僵尸服</p>
+<p>不关机的服务器：跳跃服</p>
+<p>未受到攻击的服务器：HKMGE服</p>
+<p>不关机的服务器只是不关机，仍会被攻击，因此不可以保证可用性。</p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+        <tag>云服务器</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>暗鬼服游玩警告</title>
+    <url>/2021/02/28/playsf2warning/</url>
+    <content><![CDATA[<h1><span id="警告暗鬼服游玩警告">警告：暗鬼服游玩警告</span></h1><p><a href="https://img.fghrsh.net/image/JSdGe"><img src="http://fp1.fghrsh.net/2021/02/28/cb28106c11376bb9af36e999d2127362.jpg" alt="cb28106c11376bb9af36e999d2127362.jpg"></a></p>
+<p><strong>服务器模式为娱乐性恐怖模式。可能不适合所有人游玩。</strong></p>
+<p><strong>未成年人请不要游玩本服务器！</strong></p>
+<p><strong>心理承受能力弱的玩家请不要游玩本服务器！</strong></p>
+<p><strong>在服务器已经发布告知的情况下，仍坚持错误的行为并因此受到任何伤害的，由其自己承担一切后果！</strong></p>
 ]]></content>
       <categories>
         <category>更新日志</category>
@@ -234,40 +268,6 @@
       </categories>
       <tags>
         <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>暗鬼服游玩警告</title>
-    <url>/2021/02/28/playsf2warning/</url>
-    <content><![CDATA[<h1><span id="警告暗鬼服游玩警告">警告：暗鬼服游玩警告</span></h1><p><a href="https://img.fghrsh.net/image/JSdGe"><img src="http://fp1.fghrsh.net/2021/02/28/cb28106c11376bb9af36e999d2127362.jpg" alt="cb28106c11376bb9af36e999d2127362.jpg"></a></p>
-<p><strong>服务器模式为娱乐性恐怖模式。可能不适合所有人游玩。</strong></p>
-<p><strong>未成年人请不要游玩本服务器！</strong></p>
-<p><strong>心理承受能力弱的玩家请不要游玩本服务器！</strong></p>
-<p><strong>在服务器已经发布告知的情况下，仍坚持错误的行为并因此受到任何伤害的，由其自己承担一切后果！</strong></p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>DDOS期间暂时关闭服务器</title>
-    <url>/2021/03/08/ddosshutdown/</url>
-    <content><![CDATA[<p>最近我的服务器遭受一连串的DDOS攻击，因此决定暂时关闭服务器。恢复时间请留意后续通知。</p>
-<p>受DDOS影响的服务器：挂机服、暗鬼服、竞技服、求生僵尸服、跳跃服</p>
-<p>拒绝访问的服务器：挂机服、暗鬼服、竞技服、求生僵尸服</p>
-<p>不关机的服务器：跳跃服</p>
-<p>未受到攻击的服务器：HKMGE服</p>
-<p>不关机的服务器只是不关机，仍会被攻击，因此不可以保证可用性。</p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-        <tag>云服务器</tag>
       </tags>
   </entry>
   <entry>
