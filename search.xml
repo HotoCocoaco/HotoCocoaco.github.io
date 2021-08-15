@@ -109,6 +109,24 @@
       </tags>
   </entry>
   <entry>
+    <title>资源包怎么用/TF2的download文件夹如何运作？</title>
+    <url>/2021/02/19/howtf2downloadfolderworks/</url>
+    <content><![CDATA[<h1><span id="简而言之">简而言之</span></h1><p>假如你只是想知道你下载的资源包怎么用，那我可以在这里简单地告诉你。你下载的资源包一般是个压缩包，双击打开后里面一般会有 maps, materials, models, sound 这四个文件夹的任何几种，可能多可能少，但是你只要全选这几个文件夹，然后拖放到你的游戏目录的这个路径之下。</p>
+<p><code>Team Fortress 2\tf\download</code></p>
+<p>然后就安装成功了，你只需要重新进服务器即可。</p>
+<h1><span id="原理">原理</span></h1><p>不仅仅是TF2，像CSS和Gmod等起源游戏，都把从服务器下载的自定义内容，下载到这个download文件夹下。其中下载的内容一般是 maps, materials, models, sound 即地图、贴图、模型、音乐。不过玩家的喷漆并不保存在这里。你同时也会注意到你的tf文件夹，即download的父文件夹，里面一般也有 maps, materials, models, sound 这四个文件夹，假如你熟悉自定义地图，你知道maps里面装的是官方地图，你也可以把你下载到的地图bsp文件放在这里面。</p>
+<p>那么直接把下载的资源包解压到tf文件夹不就好了吗？为什么还要解压到tf\download文件夹下呢？其实，你是<strong>可以</strong>把资源包直接放在tf文件夹下的，但是极不推荐，这不方便你分类管理自定义内容。</p>
+<p>download文件夹里面的maps, materials, models, sound是等同于游戏在加载 tf\maps tf\materials tf\models tf\sound 这四个文件夹的。你也可以把自己在mod网站找到的地图放在 tf\download\maps 也是可以正常使用的。</p>
+<h1><span id="mod文件夹">mod文件夹</span></h1><p>在安装各种mod时，除了vpk文件，你可能会被要求把下载到的压缩包解压到 tf\custom 的。只要你细心就能注意到，里面的文件也是遵从同等加载的办法的。只不过他们以不同的mod文件夹进行分类。</p>
+]]></content>
+      <categories>
+        <category>技术分享</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>咖啡厅的暗鬼要塞服务器开服了</title>
     <url>/2021/02/18/tf2newslenderserver/</url>
     <content><![CDATA[<p>我又蹭到别人的学生机啦<del>既然这么好以后都蹭好啦</del></p>
@@ -123,18 +141,16 @@
       </tags>
   </entry>
   <entry>
-    <title>资源包怎么用/TF2的download文件夹如何运作？</title>
-    <url>/2021/02/19/howtf2downloadfolderworks/</url>
-    <content><![CDATA[<h1><span id="简而言之">简而言之</span></h1><p>假如你只是想知道你下载的资源包怎么用，那我可以在这里简单地告诉你。你下载的资源包一般是个压缩包，双击打开后里面一般会有 maps, materials, models, sound 这四个文件夹的任何几种，可能多可能少，但是你只要全选这几个文件夹，然后拖放到你的游戏目录的这个路径之下。</p>
-<p><code>Team Fortress 2\tf\download</code></p>
-<p>然后就安装成功了，你只需要重新进服务器即可。</p>
-<h1><span id="原理">原理</span></h1><p>不仅仅是TF2，像CSS和Gmod等起源游戏，都把从服务器下载的自定义内容，下载到这个download文件夹下。其中下载的内容一般是 maps, materials, models, sound 即地图、贴图、模型、音乐。不过玩家的喷漆并不保存在这里。你同时也会注意到你的tf文件夹，即download的父文件夹，里面一般也有 maps, materials, models, sound 这四个文件夹，假如你熟悉自定义地图，你知道maps里面装的是官方地图，你也可以把你下载到的地图bsp文件放在这里面。</p>
-<p>那么直接把下载的资源包解压到tf文件夹不就好了吗？为什么还要解压到tf\download文件夹下呢？其实，你是<strong>可以</strong>把资源包直接放在tf文件夹下的，但是极不推荐，这不方便你分类管理自定义内容。</p>
-<p>download文件夹里面的maps, materials, models, sound是等同于游戏在加载 tf\maps tf\materials tf\models tf\sound 这四个文件夹的。你也可以把自己在mod网站找到的地图放在 tf\download\maps 也是可以正常使用的。</p>
-<h1><span id="mod文件夹">mod文件夹</span></h1><p>在安装各种mod时，除了vpk文件，你可能会被要求把下载到的压缩包解压到 tf\custom 的。只要你细心就能注意到，里面的文件也是遵从同等加载的办法的。只不过他们以不同的mod文件夹进行分类。</p>
+    <title>暗鬼服游玩警告</title>
+    <url>/2021/02/28/playsf2warning/</url>
+    <content><![CDATA[<h1><span id="警告暗鬼服游玩警告">警告：暗鬼服游玩警告</span></h1><p><a href="https://img.fghrsh.net/image/JSdGe"><img src="http://fp1.fghrsh.net/2021/02/28/cb28106c11376bb9af36e999d2127362.jpg" alt="cb28106c11376bb9af36e999d2127362.jpg"></a></p>
+<p><strong>服务器模式为娱乐性恐怖模式。可能不适合所有人游玩。</strong></p>
+<p><strong>未成年人请不要游玩本服务器！</strong></p>
+<p><strong>心理承受能力弱的玩家请不要游玩本服务器！</strong></p>
+<p><strong>在服务器已经发布告知的情况下，仍坚持错误的行为并因此受到任何伤害的，由其自己承担一切后果！</strong></p>
 ]]></content>
       <categories>
-        <category>技术分享</category>
+        <category>更新日志</category>
       </categories>
       <tags>
         <tag>TF2</tag>
@@ -254,6 +270,10 @@
 <li>Boss组10：增加 Fiddlesticks [Diviously]</li>
 <li>增加地图：slender_ksopdarn_run_a2、slender_egypt_b1c</li>
 </ul>
+<h2><span id="2021815">2021/8/15</span></h2><ul>
+<li>增加地图：slender_mountaincomplex_v2b、slender_enclosed_b1b、slender_weepers_b3b、slender_overgrown_v2、slender_summercamp_b7b</li>
+<li>更新Sett：增强攻击，增加Pool Party (Summer)变种</li>
+</ul>
 ]]></content>
       <categories>
         <category>更新日志</category>
@@ -263,13 +283,9 @@
       </tags>
   </entry>
   <entry>
-    <title>暗鬼服游玩警告</title>
-    <url>/2021/02/28/playsf2warning/</url>
-    <content><![CDATA[<h1><span id="警告暗鬼服游玩警告">警告：暗鬼服游玩警告</span></h1><p><a href="https://img.fghrsh.net/image/JSdGe"><img src="http://fp1.fghrsh.net/2021/02/28/cb28106c11376bb9af36e999d2127362.jpg" alt="cb28106c11376bb9af36e999d2127362.jpg"></a></p>
-<p><strong>服务器模式为娱乐性恐怖模式。可能不适合所有人游玩。</strong></p>
-<p><strong>未成年人请不要游玩本服务器！</strong></p>
-<p><strong>心理承受能力弱的玩家请不要游玩本服务器！</strong></p>
-<p><strong>在服务器已经发布告知的情况下，仍坚持错误的行为并因此受到任何伤害的，由其自己承担一切后果！</strong></p>
+    <title>咖啡厅服务器核弹避难所</title>
+    <url>/2021/03/10/tf2-nuke-hide-here/</url>
+    <content><![CDATA[<p>就字面意思，避免核爆，服务器进入地下室，外部不能再看到服务器情况了。只能直连IP进入。<br><a href="https://blog.midheart.club/fuwuqi/">查看更多…</a></p>
 ]]></content>
       <categories>
         <category>更新日志</category>
@@ -297,9 +313,10 @@
       </tags>
   </entry>
   <entry>
-    <title>咖啡厅服务器核弹避难所</title>
-    <url>/2021/03/10/tf2-nuke-hide-here/</url>
-    <content><![CDATA[<p>就字面意思，避免核爆，服务器进入地下室，外部不能再看到服务器情况了。只能直连IP进入。<br><a href="https://blog.midheart.club/fuwuqi/">查看更多…</a></p>
+    <title>有新的服务器啦</title>
+    <url>/2021/06/01/6-1-new-tf2-server/</url>
+    <content><![CDATA[<p>话不多说好吧。</p>
+<p>咖啡厅服务器<br>暗鬼服：g2.polarstar.cc:62501<br>挂机服：g2.polarstar.cc:62511</p>
 ]]></content>
       <categories>
         <category>更新日志</category>
@@ -312,19 +329,6 @@
     <title>商店插件更新</title>
     <url>/2021/03/11/storepluginupdate/</url>
     <content><![CDATA[<p>顾名思义，商店插件做了一个小更新，现在玩家皮肤可以分兵种不同装备了。数据库也因此而更新，你们不需要做任何操作。但是所有已装备的物品都被强制卸下了。请自己手动装备回来。<br>也增加了很多头衔，感觉没有括号挺好的</p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>有新的服务器啦</title>
-    <url>/2021/06/01/6-1-new-tf2-server/</url>
-    <content><![CDATA[<p>话不多说好吧。</p>
-<p>咖啡厅服务器<br>暗鬼服：g2.polarstar.cc:62501<br>挂机服：g2.polarstar.cc:62511</p>
 ]]></content>
       <categories>
         <category>更新日志</category>
