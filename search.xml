@@ -1,38 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>咖啡厅雪糕跳跃服</title>
-    <url>/2021/02/11/newtf2jumpserver/</url>
-    <content><![CDATA[<p>好耶，新的服务器开了。是跳跃服，雪糕跳跃服。</p>
-<p>点击右边连接服务器。<a href="steam://connect/47.115.144.75:27015">点我连接雪糕跳跃服</a></p>
-<p>感谢Zero的赞助。</p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-        <tag>云服务器</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>咖啡厅服务器更新 v0.1</title>
-    <url>/2021/02/11/update-v0-1/</url>
-    <content><![CDATA[<p>不是说新年新气象嘛，乘着我用了三年的主机和FF2服务器终于在3月要关闭了，这里已经做好了数据迁移服务，大家不用担心~</p>
-<ul>
-<li>更新封禁系统 <a href="https://bans.midheart.club/">bans.midheart.club</a></li>
-<li>将SZF服（僵尸模式）纳入统一管理，增加商店。</li>
-</ul>
-<p>还有兴趣多开一个模式的服务器，有啥建议可以和我说。</p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>TF2特效帽子效果预览</title>
     <url>/2021/02/01/tf2-unusual-cn/</url>
     <content><![CDATA[<h1><span id="tf2特效帽子效果预览">TF2特效帽子效果预览</span></h1><p>以下是TF2特效帽的预览。图片来源于TF2Wiki，你可以直接访问：<a href="https://wiki.teamfortress.com/wiki/Unusual">Unusual - Team Fortress Wiki</a></p>
@@ -83,6 +51,38 @@
       </tags>
   </entry>
   <entry>
+    <title>咖啡厅雪糕跳跃服</title>
+    <url>/2021/02/11/newtf2jumpserver/</url>
+    <content><![CDATA[<p>好耶，新的服务器开了。是跳跃服，雪糕跳跃服。</p>
+<p>点击右边连接服务器。<a href="steam://connect/47.115.144.75:27015">点我连接雪糕跳跃服</a></p>
+<p>感谢Zero的赞助。</p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+        <tag>云服务器</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>咖啡厅服务器更新 v0.1</title>
+    <url>/2021/02/11/update-v0-1/</url>
+    <content><![CDATA[<p>不是说新年新气象嘛，乘着我用了三年的主机和FF2服务器终于在3月要关闭了，这里已经做好了数据迁移服务，大家不用担心~</p>
+<ul>
+<li>更新封禁系统 <a href="https://bans.midheart.club/">bans.midheart.club</a></li>
+<li>将SZF服（僵尸模式）纳入统一管理，增加商店。</li>
+</ul>
+<p>还有兴趣多开一个模式的服务器，有啥建议可以和我说。</p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>咖啡厅模型预览</title>
     <url>/2021/02/17/tf2modelsreview/</url>
     <content><![CDATA[<p><strong>点击进入相册</strong></p>
@@ -103,36 +103,6 @@
 ]]></content>
       <categories>
         <category>咖啡厅预览</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>咖啡厅的暗鬼要塞服务器开服了</title>
-    <url>/2021/02/18/tf2newslenderserver/</url>
-    <content><![CDATA[<p>我又蹭到别人的学生机啦<del>既然这么好以后都蹭好啦</del></p>
-<p>暗鬼要塞服务器，只装了基本的游戏内容和地图，用腾讯云cdn加速下载，点击下面的链接即可进服务器。</p>
-<p><a href="steam://connect/42.193.131.170:27015">点我连接巧克力暗鬼服</a></p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>暗鬼服游玩警告</title>
-    <url>/2021/02/28/playsf2warning/</url>
-    <content><![CDATA[<h1><span id="警告暗鬼服游玩警告">警告：暗鬼服游玩警告</span></h1><p><a href="https://img.fghrsh.net/image/JSdGe"><img src="http://fp1.fghrsh.net/2021/02/28/cb28106c11376bb9af36e999d2127362.jpg" alt="cb28106c11376bb9af36e999d2127362.jpg"></a></p>
-<p><strong>服务器模式为娱乐性恐怖模式。可能不适合所有人游玩。</strong></p>
-<p><strong>未成年人请不要游玩本服务器！</strong></p>
-<p><strong>心理承受能力弱的玩家请不要游玩本服务器！</strong></p>
-<p><strong>在服务器已经发布告知的情况下，仍坚持错误的行为并因此受到任何伤害的，由其自己承担一切后果！</strong></p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
       </categories>
       <tags>
         <tag>TF2</tag>
@@ -287,9 +257,13 @@
       </tags>
   </entry>
   <entry>
-    <title>咖啡厅服务器核弹避难所</title>
-    <url>/2021/03/10/tf2-nuke-hide-here/</url>
-    <content><![CDATA[<p>就字面意思，避免核爆，服务器进入地下室，外部不能再看到服务器情况了。只能直连IP进入。<br><a href="https://blog.midheart.club/fuwuqi/">查看更多…</a></p>
+    <title>暗鬼服游玩警告</title>
+    <url>/2021/02/28/playsf2warning/</url>
+    <content><![CDATA[<h1><span id="警告暗鬼服游玩警告">警告：暗鬼服游玩警告</span></h1><p><a href="https://img.fghrsh.net/image/JSdGe"><img src="http://fp1.fghrsh.net/2021/02/28/cb28106c11376bb9af36e999d2127362.jpg" alt="cb28106c11376bb9af36e999d2127362.jpg"></a></p>
+<p><strong>服务器模式为娱乐性恐怖模式。可能不适合所有人游玩。</strong></p>
+<p><strong>未成年人请不要游玩本服务器！</strong></p>
+<p><strong>心理承受能力弱的玩家请不要游玩本服务器！</strong></p>
+<p><strong>在服务器已经发布告知的情况下，仍坚持错误的行为并因此受到任何伤害的，由其自己承担一切后果！</strong></p>
 ]]></content>
       <categories>
         <category>更新日志</category>
@@ -317,9 +291,9 @@
       </tags>
   </entry>
   <entry>
-    <title>商店插件更新</title>
-    <url>/2021/03/11/storepluginupdate/</url>
-    <content><![CDATA[<p>顾名思义，商店插件做了一个小更新，现在玩家皮肤可以分兵种不同装备了。数据库也因此而更新，你们不需要做任何操作。但是所有已装备的物品都被强制卸下了。请自己手动装备回来。<br>也增加了很多头衔，感觉没有括号挺好的</p>
+    <title>咖啡厅服务器核弹避难所</title>
+    <url>/2021/03/10/tf2-nuke-hide-here/</url>
+    <content><![CDATA[<p>就字面意思，避免核爆，服务器进入地下室，外部不能再看到服务器情况了。只能直连IP进入。<br><a href="https://blog.midheart.club/fuwuqi/">查看更多…</a></p>
 ]]></content>
       <categories>
         <category>更新日志</category>
@@ -329,11 +303,23 @@
       </tags>
   </entry>
   <entry>
-    <title>22娘模型贴图修复</title>
-    <url>/2021/07/07/fix22materials/</url>
-    <content><![CDATA[<p>现存的22娘存在贴图错误，会导致异常。请下载下面的文件进行覆盖修复。</p>
-<p><a href="https://wwa.lanzoui.com/iiHuNr4i49c">https://wwa.lanzoui.com/iiHuNr4i49c</a></p>
-<p>或者你也可以删除掉 tf\download\materials\indexh\bili2 文件夹来重新获取文件。</p>
+    <title>咖啡厅的暗鬼要塞服务器开服了</title>
+    <url>/2021/02/18/tf2newslenderserver/</url>
+    <content><![CDATA[<p>我又蹭到别人的学生机啦<del>既然这么好以后都蹭好啦</del></p>
+<p>暗鬼要塞服务器，只装了基本的游戏内容和地图，用腾讯云cdn加速下载，点击下面的链接即可进服务器。</p>
+<p><a href="steam://connect/42.193.131.170:27015">点我连接巧克力暗鬼服</a></p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>商店插件更新</title>
+    <url>/2021/03/11/storepluginupdate/</url>
+    <content><![CDATA[<p>顾名思义，商店插件做了一个小更新，现在玩家皮肤可以分兵种不同装备了。数据库也因此而更新，你们不需要做任何操作。但是所有已装备的物品都被强制卸下了。请自己手动装备回来。<br>也增加了很多头衔，感觉没有括号挺好的</p>
 ]]></content>
       <categories>
         <category>更新日志</category>
@@ -731,6 +717,20 @@ sv_downloadurl &quot;http://yourfastdlsite.com/tf&quot;
       </tags>
   </entry>
   <entry>
+    <title>22娘模型贴图修复</title>
+    <url>/2021/07/07/fix22materials/</url>
+    <content><![CDATA[<p>现存的22娘存在贴图错误，会导致异常。请下载下面的文件进行覆盖修复。</p>
+<p><a href="https://wwa.lanzoui.com/iiHuNr4i49c">https://wwa.lanzoui.com/iiHuNr4i49c</a></p>
+<p>或者你也可以删除掉 tf\download\materials\indexh\bili2 文件夹来重新获取文件。</p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>决战霍尔：重制</title>
     <url>/2021/08/28/vsh-rewrite-chi/</url>
     <content><![CDATA[<h1><span id="决战霍尔重制vsh-rewrite">决战霍尔：重制（VSH-Rewrite）</span></h1><p>“决战霍尔：重制”是一次对VSH游戏模式的完全的重写。原始由Eggman在2011年1月1日公开。重制计划由Kenzzer在2017年11月4日开始alpha，然后由42从2018年10月18日进行接手开发。插件然后在2019年9月17日公开。</p>
@@ -1024,139 +1024,139 @@ sv_downloadurl &quot;http://yourfastdlsite.com/tf&quot;
 </li>
 </ul>
 <h2><span id="兵种改动">兵种改动</span></h2><p>关于具体武器的改动，是在原版的基础上+兵种改动基础+特定武器改动。原版属性没说明就代表保留。</p>
-<p>[+]为增益；[-]为减益；[0]为中性效果</p>
+<p>:large_blue_circle:为增益；:red_circle:为减益；:white_circle:为中性效果</p>
 <h3><span id="侦察兵">侦察兵</span></h3><p>//基础改动</p>
-<p>侦察兵：[-]永远被附近的愤怒惊吓到</p>
-<p>次要武器 (手枪)：[+]+67% 最大载弹量，总是有迷你爆击</p>
+<p>侦察兵：:red_circle:永远被附近的愤怒惊吓到</p>
+<p>次要武器 (手枪)：:large_blue_circle:+67% 最大载弹量，总是有迷你爆击</p>
 <p>//独特武器改动</p>
-<p>娃娃脸的冲击波：[-]能量至高需要400伤害才能完全充能，眩晕的时候重置</p>
-<p>游击手：[+]装弹速度加快35%</p>
-<p>原子能饮料：[0]替换原子能效果为防御buff</p>
-<p>边锋球员：[+]踩头造成300伤害</p>
-<p>睡魔：[-]迷你爆击取代爆击</p>
-<p>糖果手杖：[+]命中时掉落2个小医疗包</p>
-<p>军配扇：[0]更换死亡标记为一次愤怒丢失：[-]开火速度减慢100%</p>
-<p>包装纸杀手：[+]一次能拿着2个球</p>
-<p>太阳之杖：[+]对燃烧的目标造成高伤害并熄灭他们</p>
+<p>娃娃脸的冲击波：:red_circle:能量至高需要400伤害才能完全充能，眩晕的时候重置</p>
+<p>游击手：:large_blue_circle:装弹速度加快35%</p>
+<p>原子能饮料：:white_circle:替换原子能效果为防御buff</p>
+<p>边锋球员：:large_blue_circle:踩头造成300伤害</p>
+<p>睡魔：:red_circle:迷你爆击取代爆击</p>
+<p>糖果手杖：:large_blue_circle:命中时掉落2个小医疗包</p>
+<p>军配扇：:white_circle:更换死亡标记为一次愤怒丢失：:red_circle:开火速度减慢100%</p>
+<p>包装纸杀手：:large_blue_circle:一次能拿着2个球</p>
+<p>太阳之杖：:large_blue_circle:对燃烧的目标造成高伤害并熄灭他们</p>
 <h3><span id="士兵">士兵</span></h3><p>//基础改动</p>
-<p>主要武器：[+]当直接瞄准boss时使用爆击火箭</p>
+<p>主要武器：:large_blue_circle:当直接瞄准boss时使用爆击火箭</p>
 <p>//独特武器改动</p>
-<p>火箭伞兵：[0]替换为火箭发射器</p>
-<p>空袭火箭筒：[+]每200伤害增加1装弹量，+20%爆炸范围</p>
-<p>乞丐的火箭筒：[+]装弹速度加快25%</p>
-<p>战旗：[+]使用时可发射迷你爆击火箭弹幕</p>
-<p>炮艇：[+]减少50%的摔落伤害</p>
-<p>军队的支援：[+]使用时生成至多3个僵尸侦察兵</p>
-<p>征服者战旗：[+]使用时增加50%的速度加成和弹药恢复</p>
-<p>正义野牛：[+]永久爆击</p>
-<p>踏步靴：[+]自身爆炸伤害-60%，踩头造成500伤害</p>
-<p>极限降落伞：[+]从医疗包获得的生命值增加50%</p>
-<p>市场花园铁锹：[+]火箭跳时的近战命中造成750伤害：[-]没有爆击</p>
-<p>十字镐：[+]伤害+50%</p>
+<p>火箭伞兵：:white_circle:替换为火箭发射器</p>
+<p>空袭火箭筒：:large_blue_circle:每200伤害增加1装弹量，+20%爆炸范围</p>
+<p>乞丐的火箭筒：:large_blue_circle:装弹速度加快25%</p>
+<p>战旗：:large_blue_circle:使用时可发射迷你爆击火箭弹幕</p>
+<p>炮艇：:large_blue_circle:减少50%的摔落伤害</p>
+<p>军队的支援：:large_blue_circle:使用时生成至多3个僵尸侦察兵</p>
+<p>征服者战旗：:large_blue_circle:使用时增加50%的速度加成和弹药恢复</p>
+<p>正义野牛：:large_blue_circle:永久爆击</p>
+<p>踏步靴：:large_blue_circle:自身爆炸伤害-60%，踩头造成500伤害</p>
+<p>极限降落伞：:large_blue_circle:从医疗包获得的生命值增加50%</p>
+<p>市场花园铁锹：:large_blue_circle:火箭跳时的近战命中造成750伤害：:red_circle:没有爆击</p>
+<p>十字镐：:large_blue_circle:伤害+50%</p>
 <h3><span id="火焰兵">火焰兵</span></h3><p>//基础改动</p>
-<p>主要武器：[+]+200% 后续燃烧伤害：[0]替换压缩空气花费为400伤害值</p>
+<p>主要武器：:large_blue_circle:+200% 后续燃烧伤害：:white_circle:替换压缩空气花费为400伤害值</p>
 <p>//独特武器改动</p>
-<p>偷袭烈焰喷射器：[-]伤害-20%</p>
-<p>燃素喷射器：[-]没有后续燃烧伤害加成</p>
-<p>脱油剂：[+]需要300伤害使用压缩空气</p>
-<p>热能推进器：[+]踩头造成1024伤害</p>
-<p>纵火者的油桶：[+]boss在被点燃的时候爆炸，[-]充能倍率减慢100%</p>
-<p>信号枪：[+]伤害+50%</p>
-<p>三度烧伤：[+]命中时为你的治疗者增加20%的Über，[-]开火速度减慢20%</p>
-<p>熔岩战斧：[+]增加200%后续燃烧伤害，[-]迷你爆击替代爆击</p>
-<p>拆迁者：[+]命中时造成轻微击退，[-]对玩家伤害-80%，开火速度-50%</p>
-<p>强力千斤顶：[+]命中时增加25伤害</p>
-<p>灼热之手：[+]命中队友可以给双方速度加成</p>
+<p>偷袭烈焰喷射器：:red_circle:伤害-20%</p>
+<p>燃素喷射器：:red_circle:没有后续燃烧伤害加成</p>
+<p>脱油剂：:large_blue_circle:需要300伤害使用压缩空气</p>
+<p>热能推进器：:large_blue_circle:踩头造成1024伤害</p>
+<p>纵火者的油桶：:large_blue_circle:boss在被点燃的时候爆炸，:red_circle:充能倍率减慢100%</p>
+<p>信号枪：:large_blue_circle:伤害+50%</p>
+<p>三度烧伤：:large_blue_circle:命中时为你的治疗者增加20%的Über，:red_circle:开火速度减慢20%</p>
+<p>熔岩战斧：:large_blue_circle:增加200%后续燃烧伤害，:red_circle:迷你爆击替代爆击</p>
+<p>拆迁者：:large_blue_circle:命中时造成轻微击退，:red_circle:对玩家伤害-80%，开火速度-50%</p>
+<p>强力千斤顶：:large_blue_circle:命中时增加25伤害</p>
+<p>灼热之手：:large_blue_circle:命中队友可以给双方速度加成</p>
 <h3><span id="爆破手">爆破手</span></h3><p>//基础改动</p>
-<p>次要武器 (盾牌)：[+]主要武器获得迷你爆击：[-]冲能能量在被击中时重置</p>
+<p>次要武器 (盾牌)：:large_blue_circle:主要武器获得迷你爆击：:red_circle:冲能能量在被击中时重置</p>
 <p>//独特武器改动</p>
-<p>双管榴弹发射器：[+]伤害+30%</p>
-<p>脱缰巨炮：[-]-25%弹匣容量</p>
-<p>阿里巴巴的尖头靴：[+]允许踩头造成1024伤害：[+]永远增加10%移动速度</p>
-<p>铁弹发射器：[0]按住开火键装入4发榴弹，松开来迅速地发射它们</p>
-<p>苏格兰防御者：[-]没有击退</p>
-<p>快速黏弹发射器：[+]可以瞬间引爆粘弹，[-]允许的粘弹-4</p>
-<p>黏弹跳跃者：[0]替换为黏性炸弹发射器</p>
-<p>冲锋盾：[+]撞击时：获得6秒的防御加成</p>
-<p>辉煌护盾：[+]撞击时：增加伤害和击退</p>
-<p>力挽狂澜：[+]近战命中时恢复你的冲锋能量75%</p>
-<p>苏格兰长剑：[+]每次命中增加15最大生命值：[-]没有速度加成</p>
-<p>波斯弯刀：[+]能够爬墙</p>
-<p>木柄手榴弹：[0]爆炸会造成大量伤害作为你自杀的最后一搏：[-]手持时获得死亡标记</p>
-<p>摩尔巨剑：[+]命中时恢复25%冲锋能量：[0]替换受到的伤害增加为更慢的开火速度</p>
+<p>双管榴弹发射器：:large_blue_circle:伤害+30%</p>
+<p>脱缰巨炮：:red_circle:-25%弹匣容量</p>
+<p>阿里巴巴的尖头靴：:large_blue_circle:允许踩头造成1024伤害：:large_blue_circle:永远增加10%移动速度</p>
+<p>铁弹发射器：:white_circle:按住开火键装入4发榴弹，松开来迅速地发射它们</p>
+<p>苏格兰防御者：:red_circle:没有击退</p>
+<p>快速黏弹发射器：:large_blue_circle:可以瞬间引爆粘弹，:red_circle:允许的粘弹-4</p>
+<p>黏弹跳跃者：:white_circle:替换为黏性炸弹发射器</p>
+<p>冲锋盾：:large_blue_circle:撞击时：获得6秒的防御加成</p>
+<p>辉煌护盾：:large_blue_circle:撞击时：增加伤害和击退</p>
+<p>力挽狂澜：:large_blue_circle:近战命中时恢复你的冲锋能量75%</p>
+<p>苏格兰长剑：:large_blue_circle:每次命中增加15最大生命值：:red_circle:没有速度加成</p>
+<p>波斯弯刀：:large_blue_circle:能够爬墙</p>
+<p>木柄手榴弹：:white_circle:爆炸会造成大量伤害作为你自杀的最后一搏：:red_circle:手持时获得死亡标记</p>
+<p>摩尔巨剑：:large_blue_circle:命中时恢复25%冲锋能量：:white_circle:替换受到的伤害增加为更慢的开火速度</p>
 <h3><span id="机枪手">机枪手</span></h3><p>//基础改动</p>
-<p>主要武器：[+]25%武器切换加速和机枪预热速度加快25%</p>
+<p>主要武器：:large_blue_circle:25%武器切换加速和机枪预热速度加快25%</p>
 <p>//独特武器改动</p>
-<p>娜塔莎转轮机枪：[+]命中时+8生命值：[-]移除减速的效果</p>
-<p>黄铜野兽：[-]没有机枪预热加成</p>
-<p>汤姆斯拉夫：[+]增加25%武器切换速度，额外20%精确度：[-]-60%超量治疗</p>
-<p>火龙转轮机枪：[+]对燃烧的目标造成迷你爆击</p>
-<p>达勒克斯巧克力块：[+]消耗时恢复100弹药：[-]30秒重新充能</p>
-<p>家族运营枪：[+]命中时获得速度加成：[-]装填速度减慢50%</p>
-<p>三明治：[+]饭盒消费时间变快+200%</p>
-<p>第二名的香蕉：[+]饭盒消费时间变快+200%</p>
-<p>杀戮拳击手套：[+]命中后获得7秒爆击</p>
-<p>紧急逃跑手套：[+]+50%穿戴者移动速度</p>
-<p>钢铁手套：[+]全部来源的伤害-40%：[-]-20%移动速度</p>
-<p>驱逐警告：[0]速度加成被替换为70%跳跃高度增加：[-]受到来源为近战的伤害+400%</p>
-<p>勇士之魂：[+]命中时获得75生命值</p>
-<p>欢乐拳套：[0]替换为拳头</p>
+<p>娜塔莎转轮机枪：:large_blue_circle:命中时+8生命值：:red_circle:移除减速的效果</p>
+<p>黄铜野兽：:red_circle:没有机枪预热加成</p>
+<p>汤姆斯拉夫：:large_blue_circle:增加25%武器切换速度，额外20%精确度：:red_circle:-60%超量治疗</p>
+<p>火龙转轮机枪：:large_blue_circle:对燃烧的目标造成迷你爆击</p>
+<p>达勒克斯巧克力块：:large_blue_circle:消耗时恢复100弹药：:red_circle:30秒重新充能</p>
+<p>家族运营枪：:large_blue_circle:命中时获得速度加成：:red_circle:装填速度减慢50%</p>
+<p>三明治：:large_blue_circle:饭盒消费时间变快+200%</p>
+<p>第二名的香蕉：:large_blue_circle:饭盒消费时间变快+200%</p>
+<p>杀戮拳击手套：:large_blue_circle:命中后获得7秒爆击</p>
+<p>紧急逃跑手套：:large_blue_circle:+50%穿戴者移动速度</p>
+<p>钢铁手套：:large_blue_circle:全部来源的伤害-40%：:red_circle:-20%移动速度</p>
+<p>驱逐警告：:white_circle:速度加成被替换为70%跳跃高度增加：:red_circle:受到来源为近战的伤害+400%</p>
+<p>勇士之魂：:large_blue_circle:命中时获得75生命值</p>
+<p>欢乐拳套：:white_circle:替换为拳头</p>
 <h3><span id="工程师">工程师</span></h3><p>//基础改动</p>
 <p>无，全兵种都有的近战爆击</p>
 <p>//独特武器改动</p>
-<p>边境裁决者：[+]当你的步哨锁定boss的时候可以爆击</p>
-<p>歼灭者 6000：[+]命中时消耗boss相当于200伤害的愤怒值</p>
-<p>短路发生器：[+]球在撞击后爆炸</p>
-<p>遥控手柄：[+]总是迷你爆击</p>
-<p>南部的款待：[+]+25步哨枪范围，+100%补给器范围，[-]不能搬动建筑</p>
+<p>边境裁决者：:large_blue_circle:当你的步哨锁定boss的时候可以爆击</p>
+<p>歼灭者 6000：:large_blue_circle:命中时消耗boss相当于200伤害的愤怒值</p>
+<p>短路发生器：:large_blue_circle:球在撞击后爆炸</p>
+<p>遥控手柄：:large_blue_circle:总是迷你爆击</p>
+<p>南部的款待：:large_blue_circle:+25步哨枪范围，+100%补给器范围，:red_circle:不能搬动建筑</p>
 <h3><span id="医生">医生</span></h3><p>//基础改动</p>
-<p>次要武器：[+]被治疗者获得迷你爆击，可以治疗建筑并且ÜberCharges获得一个范围的效果</p>
+<p>次要武器：:large_blue_circle:被治疗者获得迷你爆击，可以治疗建筑并且ÜberCharges获得一个范围的效果</p>
 <p>//独特武器改动</p>
-<p>注射枪：[+]命中时+5% ÜberCharge</p>
-<p>吸血鬼针筒枪：[+]命中时+3% ÜberCharge，+5生命值</p>
-<p>十字军之弩：[+]伤害+60%</p>
-<p>过载注射枪：[+]命中时+3% ÜberCharge</p>
-<p>闪电战医疗枪：[+]ÜberCharge同时会对自己产生防御buff</p>
-<p>快速医疗枪：[+]+35% ÜberCharge 速率，+20%治疗范围，[0]替换超级治疗为范围内的速度加成</p>
-<p>疫苗接种枪：[0]替换为医疗枪</p>
-<p>维塔锯：[+]+25% ÜberCharge 速率：[-]-30最大生命值</p>
-<p>希波克拉底的塑像：[+]允许你看到boss当前的愤怒值</p>
+<p>注射枪：:large_blue_circle:命中时+5% ÜberCharge</p>
+<p>吸血鬼针筒枪：:large_blue_circle:命中时+3% ÜberCharge，+5生命值</p>
+<p>十字军之弩：:large_blue_circle:伤害+60%</p>
+<p>过载注射枪：:large_blue_circle:命中时+3% ÜberCharge</p>
+<p>闪电战医疗枪：:large_blue_circle:ÜberCharge同时会对自己产生防御buff</p>
+<p>快速医疗枪：:large_blue_circle:+35% ÜberCharge 速率，+20%治疗范围，:white_circle:替换超级治疗为范围内的速度加成</p>
+<p>疫苗接种枪：:white_circle:替换为医疗枪</p>
+<p>维塔锯：:large_blue_circle:+25% ÜberCharge 速率：:red_circle:-30最大生命值</p>
+<p>希波克拉底的塑像：:large_blue_circle:允许你看到boss当前的愤怒值</p>
 <h3><span id="狙击手">狙击手</span></h3><p>//基础改动</p>
-<p>主要武器：[+]命中boss时添加轮廓透视</p>
-<p>次要武器：[+]总是有爆击</p>
-<p>近战：[+]可以进行爬墙</p>
+<p>主要武器：:large_blue_circle:命中boss时添加轮廓透视</p>
+<p>次要武器：:large_blue_circle:总是有爆击</p>
+<p>近战：:large_blue_circle:可以进行爬墙</p>
 <p>//独特武器改动</p>
-<p>猎人短弓：[+]箭矢在撞击后爆炸</p>
-<p>悉尼沉睡者：[-]移除瓶手道的效果，没有轮廓透视</p>
-<p>市场还价者：[+]每次爆头+1头收集</p>
-<p>职业杀手的手感：[+]命中时+40%集中能量</p>
-<p>鬼械神狙：[-]-33%轮廓透视持续时间</p>
-<p>瓶手道尿瓶：[0]替换瓶手道效果为愤怒消耗，移除等同于400伤害的愤怒值</p>
-<p>电击背脊盾：[+]受到的第一次近战攻击吸收全部伤害，没有自我超量治疗的惩罚</p>
-<p>达尔文的危险之盾：[+]没有摔落伤害，+40%跳跃高度</p>
-<p>惬意蹲坑汉：[-]-50%生命值恢复</p>
-<p>扫荡者卡宾：[+]激活小爆击时在爬墙的时候没有自我伤害和爬墙限制，[-]迷你爆击替代爆击</p>
-<p>部落者刮刀：[+]可以在不落地的时候爬墙两次，增加200%爬墙时的空中控制，[-]更少爬墙高度</p>
-<p>灌木丛：[+]更高爬墙高度，移除受到的伤害惩罚，[-]爬墙额外消耗167%生命值</p>
-<p>诸王之王：[+]爬墙获得更多的水平速度，[-]更少爬墙高度</p>
+<p>猎人短弓：:large_blue_circle:箭矢在撞击后爆炸</p>
+<p>悉尼沉睡者：:red_circle:移除瓶手道的效果，没有轮廓透视</p>
+<p>市场还价者：:large_blue_circle:每次爆头+1头收集</p>
+<p>职业杀手的手感：:large_blue_circle:命中时+40%集中能量</p>
+<p>鬼械神狙：:red_circle:-33%轮廓透视持续时间</p>
+<p>瓶手道尿瓶：:white_circle:替换瓶手道效果为愤怒消耗，移除等同于400伤害的愤怒值</p>
+<p>电击背脊盾：:large_blue_circle:受到的第一次近战攻击吸收全部伤害，没有自我超量治疗的惩罚</p>
+<p>达尔文的危险之盾：:large_blue_circle:没有摔落伤害，+40%跳跃高度</p>
+<p>惬意蹲坑汉：:red_circle:-50%生命值恢复</p>
+<p>扫荡者卡宾：:large_blue_circle:激活小爆击时在爬墙的时候没有自我伤害和爬墙限制，:red_circle:迷你爆击替代爆击</p>
+<p>部落者刮刀：:large_blue_circle:可以在不落地的时候爬墙两次，增加200%爬墙时的空中控制，:red_circle:更少爬墙高度</p>
+<p>灌木丛：:large_blue_circle:更高爬墙高度，移除受到的伤害惩罚，:red_circle:爬墙额外消耗167%生命值</p>
+<p>诸王之王：:large_blue_circle:爬墙获得更多的水平速度，:red_circle:更少爬墙高度</p>
 <h3><span id="间谍">间谍</span></h3><p>//基础改动</p>
-<p>主要武器：[+]总是有迷你爆击</p>
-<p>近战：[0]背刺造成1000伤害</p>
-<p>隐身：[+]隐身时有来自boss的近战伤害抗性</p>
+<p>主要武器：:large_blue_circle:总是有迷你爆击</p>
+<p>近战：:white_circle:背刺造成1000伤害</p>
+<p>隐身：:large_blue_circle:隐身时有来自boss的近战伤害抗性</p>
 <p>//独特武器改动</p>
-<p>大使手枪：[+]爆头时获得3秒速度加成</p>
-<p>陌生人：[-]减少命中获得的隐身能量为5%</p>
-<p>菱背响尾蛇：[+]背刺获得+2爆击</p>
-<p>执法者：[+]伪装时获得爆击，[-]爆击伤害被距离影响，没有迷你爆击</p>
-<p>官僚式录音机：[0]替换为电子工兵</p>
-<p>永生的回报：[+]第四次连续造成的背刺造成8000伤害，[-]前三次背刺造成0伤害</p>
-<p>密谋者的苦无：[+]背刺获得220生命值</p>
-<p>暴利杀手：[+]背刺获得100%隐身能量和6秒的速度加成</p>
-<p>神奇的冰柱：[+]背刺后减速受害者5秒，[-]伤害-40%</p>
-<p>隐形刺客：[0]替换为隐形手表</p>
+<p>大使手枪：:large_blue_circle:爆头时获得3秒速度加成</p>
+<p>陌生人：:red_circle:减少命中获得的隐身能量为5%</p>
+<p>菱背响尾蛇：:large_blue_circle:背刺获得+2爆击</p>
+<p>执法者：:large_blue_circle:伪装时获得爆击，:red_circle:爆击伤害被距离影响，没有迷你爆击</p>
+<p>官僚式录音机：:white_circle:替换为电子工兵</p>
+<p>永生的回报：:large_blue_circle:第四次连续造成的背刺造成8000伤害，:red_circle:前三次背刺造成0伤害</p>
+<p>密谋者的苦无：:large_blue_circle:背刺获得220生命值</p>
+<p>暴利杀手：:large_blue_circle:背刺获得100%隐身能量和6秒的速度加成</p>
+<p>神奇的冰柱：:large_blue_circle:背刺后减速受害者5秒，:red_circle:伤害-40%</p>
+<p>隐形刺客：:white_circle:替换为隐形手表</p>
 <h3><span id="多兵种武器">多兵种武器</span></h3><p>//原版属性没说明就代表保留</p>
-<p>座头市之刀：[+]击中时获得50%基本生命值：[-]手持时获得死亡标记</p>
-<p>钉棍：[-]从所有来源受到的伤害值+10%</p>
+<p>座头市之刀：:large_blue_circle:击中时获得50%基本生命值：:red_circle:手持时获得死亡标记</p>
+<p>钉棍：:red_circle:从所有来源受到的伤害值+10%</p>
 <h2><span id="修改器">修改器</span></h2><p>修改器会作用于boss，有可能随机激活，也可以由管理员进行激活。</p>
 <h3><span id="怒了">怒了</span></h3><ul>
 <li>颜色: 棕色</li>
