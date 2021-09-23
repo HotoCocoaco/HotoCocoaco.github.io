@@ -51,18 +51,20 @@
       </tags>
   </entry>
   <entry>
-    <title>咖啡厅雪糕跳跃服</title>
-    <url>/2021/02/11/newtf2jumpserver/</url>
-    <content><![CDATA[<p>好耶，新的服务器开了。是跳跃服，雪糕跳跃服。</p>
-<p>点击右边连接服务器。<a href="steam://connect/47.115.144.75:27015">点我连接雪糕跳跃服</a></p>
-<p>感谢Zero的赞助。</p>
+    <title>咖啡厅服务器更新 v0.1</title>
+    <url>/2021/02/11/update-v0-1/</url>
+    <content><![CDATA[<p>不是说新年新气象嘛，乘着我用了三年的主机和FF2服务器终于在3月要关闭了，这里已经做好了数据迁移服务，大家不用担心~</p>
+<ul>
+<li>更新封禁系统 <a href="https://bans.midheart.club/">bans.midheart.club</a></li>
+<li>将SZF服（僵尸模式）纳入统一管理，增加商店。</li>
+</ul>
+<p>还有兴趣多开一个模式的服务器，有啥建议可以和我说。</p>
 ]]></content>
       <categories>
         <category>更新日志</category>
       </categories>
       <tags>
         <tag>TF2</tag>
-        <tag>云服务器</tag>
       </tags>
   </entry>
   <entry>
@@ -92,20 +94,18 @@
       </tags>
   </entry>
   <entry>
-    <title>咖啡厅服务器更新 v0.1</title>
-    <url>/2021/02/11/update-v0-1/</url>
-    <content><![CDATA[<p>不是说新年新气象嘛，乘着我用了三年的主机和FF2服务器终于在3月要关闭了，这里已经做好了数据迁移服务，大家不用担心~</p>
-<ul>
-<li>更新封禁系统 <a href="https://bans.midheart.club/">bans.midheart.club</a></li>
-<li>将SZF服（僵尸模式）纳入统一管理，增加商店。</li>
-</ul>
-<p>还有兴趣多开一个模式的服务器，有啥建议可以和我说。</p>
+    <title>咖啡厅雪糕跳跃服</title>
+    <url>/2021/02/11/newtf2jumpserver/</url>
+    <content><![CDATA[<p>好耶，新的服务器开了。是跳跃服，雪糕跳跃服。</p>
+<p>点击右边连接服务器。<a href="steam://connect/47.115.144.75:27015">点我连接雪糕跳跃服</a></p>
+<p>感谢Zero的赞助。</p>
 ]]></content>
       <categories>
         <category>更新日志</category>
       </categories>
       <tags>
         <tag>TF2</tag>
+        <tag>云服务器</tag>
       </tags>
   </entry>
   <entry>
@@ -306,9 +306,9 @@
       </tags>
   </entry>
   <entry>
-    <title>咖啡厅服务器核弹避难所</title>
-    <url>/2021/03/10/tf2-nuke-hide-here/</url>
-    <content><![CDATA[<p>就字面意思，避免核爆，服务器进入地下室，外部不能再看到服务器情况了。只能直连IP进入。<br><a href="https://blog.midheart.club/fuwuqi/">查看更多…</a></p>
+    <title>商店插件更新</title>
+    <url>/2021/03/11/storepluginupdate/</url>
+    <content><![CDATA[<p>顾名思义，商店插件做了一个小更新，现在玩家皮肤可以分兵种不同装备了。数据库也因此而更新，你们不需要做任何操作。但是所有已装备的物品都被强制卸下了。请自己手动装备回来。<br>也增加了很多头衔，感觉没有括号挺好的</p>
 ]]></content>
       <categories>
         <category>更新日志</category>
@@ -318,9 +318,9 @@
       </tags>
   </entry>
   <entry>
-    <title>商店插件更新</title>
-    <url>/2021/03/11/storepluginupdate/</url>
-    <content><![CDATA[<p>顾名思义，商店插件做了一个小更新，现在玩家皮肤可以分兵种不同装备了。数据库也因此而更新，你们不需要做任何操作。但是所有已装备的物品都被强制卸下了。请自己手动装备回来。<br>也增加了很多头衔，感觉没有括号挺好的</p>
+    <title>咖啡厅服务器核弹避难所</title>
+    <url>/2021/03/10/tf2-nuke-hide-here/</url>
+    <content><![CDATA[<p>就字面意思，避免核爆，服务器进入地下室，外部不能再看到服务器情况了。只能直连IP进入。<br><a href="https://blog.midheart.club/fuwuqi/">查看更多…</a></p>
 ]]></content>
       <categories>
         <category>更新日志</category>
