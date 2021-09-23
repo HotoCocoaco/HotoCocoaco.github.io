@@ -157,6 +157,24 @@
       </tags>
   </entry>
   <entry>
+    <title>DDOS期间暂时关闭服务器</title>
+    <url>/2021/03/08/ddosshutdown/</url>
+    <content><![CDATA[<p>最近我的服务器遭受一连串的DDOS攻击，因此决定暂时关闭服务器。恢复时间请留意后续通知。</p>
+<p>受DDOS影响的服务器：挂机服、暗鬼服、竞技服、求生僵尸服、跳跃服</p>
+<p>拒绝访问的服务器：挂机服、暗鬼服、竞技服、求生僵尸服</p>
+<p>不关机的服务器：跳跃服</p>
+<p>未受到攻击的服务器：HKMGE服</p>
+<p>不关机的服务器只是不关机，仍会被攻击，因此不可以保证可用性。</p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+        <tag>云服务器</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>咖啡厅暗鬼服更新日志</title>
     <url>/2021/02/22/tf2sf2serverupdatelog/</url>
     <content><![CDATA[<h1><span id="更新日志">更新日志</span></h1><p>以后暗鬼服的更新日志直接在这里写。请时常查看本页面是否有更新。<br>感谢Boss提供者：Mleczyk76、Nameless、Astolfo Alter</p>
@@ -288,36 +306,6 @@
       </tags>
   </entry>
   <entry>
-    <title>咖啡厅服务器核弹避难所</title>
-    <url>/2021/03/10/tf2-nuke-hide-here/</url>
-    <content><![CDATA[<p>就字面意思，避免核爆，服务器进入地下室，外部不能再看到服务器情况了。只能直连IP进入。<br><a href="https://blog.midheart.club/fuwuqi/">查看更多…</a></p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>DDOS期间暂时关闭服务器</title>
-    <url>/2021/03/08/ddosshutdown/</url>
-    <content><![CDATA[<p>最近我的服务器遭受一连串的DDOS攻击，因此决定暂时关闭服务器。恢复时间请留意后续通知。</p>
-<p>受DDOS影响的服务器：挂机服、暗鬼服、竞技服、求生僵尸服、跳跃服</p>
-<p>拒绝访问的服务器：挂机服、暗鬼服、竞技服、求生僵尸服</p>
-<p>不关机的服务器：跳跃服</p>
-<p>未受到攻击的服务器：HKMGE服</p>
-<p>不关机的服务器只是不关机，仍会被攻击，因此不可以保证可用性。</p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-        <tag>云服务器</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>商店插件更新</title>
     <url>/2021/03/11/storepluginupdate/</url>
     <content><![CDATA[<p>顾名思义，商店插件做了一个小更新，现在玩家皮肤可以分兵种不同装备了。数据库也因此而更新，你们不需要做任何操作。但是所有已装备的物品都被强制卸下了。请自己手动装备回来。<br>也增加了很多头衔，感觉没有括号挺好的</p>
@@ -334,6 +322,18 @@
     <url>/2021/06/01/6-1-new-tf2-server/</url>
     <content><![CDATA[<p>话不多说好吧。</p>
 <p>咖啡厅服务器<br>暗鬼服：g2.polarstar.cc:62501<br>挂机服：g2.polarstar.cc:62511</p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>咖啡厅服务器核弹避难所</title>
+    <url>/2021/03/10/tf2-nuke-hide-here/</url>
+    <content><![CDATA[<p>就字面意思，避免核爆，服务器进入地下室，外部不能再看到服务器情况了。只能直连IP进入。<br><a href="https://blog.midheart.club/fuwuqi/">查看更多…</a></p>
 ]]></content>
       <categories>
         <category>更新日志</category>
