@@ -109,6 +109,20 @@
       </tags>
   </entry>
   <entry>
+    <title>咖啡厅的暗鬼要塞服务器开服了</title>
+    <url>/2021/02/18/tf2newslenderserver/</url>
+    <content><![CDATA[<p>我又蹭到别人的学生机啦<del>既然这么好以后都蹭好啦</del></p>
+<p>暗鬼要塞服务器，只装了基本的游戏内容和地图，用腾讯云cdn加速下载，点击下面的链接即可进服务器。</p>
+<p><a href="steam://connect/42.193.131.170:27015">点我连接巧克力暗鬼服</a></p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>资源包怎么用/TF2的download文件夹如何运作？</title>
     <url>/2021/02/19/howtf2downloadfolderworks/</url>
     <content><![CDATA[<h1><span id="简而言之">简而言之</span></h1><p>假如你只是想知道你下载的资源包怎么用，那我可以在这里简单地告诉你。你下载的资源包一般是个压缩包，双击打开后里面一般会有 maps, materials, models, sound 这四个文件夹的任何几种，可能多可能少，但是你只要全选这几个文件夹，然后拖放到你的游戏目录的这个路径之下。</p>
@@ -121,20 +135,6 @@
 ]]></content>
       <categories>
         <category>技术分享</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>咖啡厅的暗鬼要塞服务器开服了</title>
-    <url>/2021/02/18/tf2newslenderserver/</url>
-    <content><![CDATA[<p>我又蹭到别人的学生机啦<del>既然这么好以后都蹭好啦</del></p>
-<p>暗鬼要塞服务器，只装了基本的游戏内容和地图，用腾讯云cdn加速下载，点击下面的链接即可进服务器。</p>
-<p><a href="steam://connect/42.193.131.170:27015">点我连接巧克力暗鬼服</a></p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
       </categories>
       <tags>
         <tag>TF2</tag>
@@ -334,6 +334,20 @@
     <url>/2021/06/01/6-1-new-tf2-server/</url>
     <content><![CDATA[<p>话不多说好吧。</p>
 <p>咖啡厅服务器<br>暗鬼服：g2.polarstar.cc:62501<br>挂机服：g2.polarstar.cc:62511</p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>22娘模型贴图修复</title>
+    <url>/2021/07/07/fix22materials/</url>
+    <content><![CDATA[<p>现存的22娘存在贴图错误，会导致异常。请下载下面的文件进行覆盖修复。</p>
+<p><a href="https://wwa.lanzoui.com/iiHuNr4i49c">https://wwa.lanzoui.com/iiHuNr4i49c</a></p>
+<p>或者你也可以删除掉 tf\download\materials\indexh\bili2 文件夹来重新获取文件。</p>
 ]]></content>
       <categories>
         <category>更新日志</category>
@@ -715,20 +729,6 @@ sv_downloadurl &quot;http://yourfastdlsite.com/tf&quot;
       <tags>
         <tag>TF2</tag>
         <tag>云服务器</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>22娘模型贴图修复</title>
-    <url>/2021/07/07/fix22materials/</url>
-    <content><![CDATA[<p>现存的22娘存在贴图错误，会导致异常。请下载下面的文件进行覆盖修复。</p>
-<p><a href="https://wwa.lanzoui.com/iiHuNr4i49c">https://wwa.lanzoui.com/iiHuNr4i49c</a></p>
-<p>或者你也可以删除掉 tf\download\materials\indexh\bili2 文件夹来重新获取文件。</p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
       </tags>
   </entry>
   <entry>
