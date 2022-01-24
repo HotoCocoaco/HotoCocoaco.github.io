@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>咖啡厅雪糕跳跃服</title>
+    <url>/2021/02/11/newtf2jumpserver/</url>
+    <content><![CDATA[<p>好耶，新的服务器开了。是跳跃服，雪糕跳跃服。</p>
+<p>点击右边连接服务器。<a href="steam://connect/47.115.144.75:27015">点我连接雪糕跳跃服</a></p>
+<p>感谢Zero的赞助。</p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+        <tag>云服务器</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>TF2特效帽子效果预览</title>
     <url>/2021/02/01/tf2-unusual-cn/</url>
     <content><![CDATA[<h1><span id="tf2特效帽子效果预览">TF2特效帽子效果预览</span></h1><p>以下是TF2特效帽的预览。图片来源于TF2Wiki，你可以直接访问：<a href="https://wiki.teamfortress.com/wiki/Unusual">Unusual - Team Fortress Wiki</a></p>
@@ -65,21 +80,6 @@
       </categories>
       <tags>
         <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>咖啡厅雪糕跳跃服</title>
-    <url>/2021/02/11/newtf2jumpserver/</url>
-    <content><![CDATA[<p>好耶，新的服务器开了。是跳跃服，雪糕跳跃服。</p>
-<p>点击右边连接服务器。<a href="steam://connect/47.115.144.75:27015">点我连接雪糕跳跃服</a></p>
-<p>感谢Zero的赞助。</p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-        <tag>云服务器</tag>
       </tags>
   </entry>
   <entry>
@@ -272,6 +272,18 @@
       </tags>
   </entry>
   <entry>
+    <title>咖啡厅服务器核弹避难所</title>
+    <url>/2021/03/10/tf2-nuke-hide-here/</url>
+    <content><![CDATA[<p>就字面意思，避免核爆，服务器进入地下室，外部不能再看到服务器情况了。只能直连IP进入。<br><a href="https://blog.midheart.club/fuwuqi/">查看更多…</a></p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>暗鬼服游玩警告</title>
     <url>/2021/02/28/playsf2warning/</url>
     <content><![CDATA[<h1><span id="警告暗鬼服游玩警告">警告：暗鬼服游玩警告</span></h1><p><a href="https://img.fghrsh.net/image/JSdGe"><img src="http://fp1.fghrsh.net/2021/02/28/cb28106c11376bb9af36e999d2127362.jpg" alt="cb28106c11376bb9af36e999d2127362.jpg"></a></p>
@@ -306,9 +318,11 @@
       </tags>
   </entry>
   <entry>
-    <title>咖啡厅服务器核弹避难所</title>
-    <url>/2021/03/10/tf2-nuke-hide-here/</url>
-    <content><![CDATA[<p>就字面意思，避免核爆，服务器进入地下室，外部不能再看到服务器情况了。只能直连IP进入。<br><a href="https://blog.midheart.club/fuwuqi/">查看更多…</a></p>
+    <title>22娘模型贴图修复</title>
+    <url>/2021/07/07/fix22materials/</url>
+    <content><![CDATA[<p>现存的22娘存在贴图错误，会导致异常。请下载下面的文件进行覆盖修复。</p>
+<p><a href="https://wwa.lanzoui.com/iiHuNr4i49c">https://wwa.lanzoui.com/iiHuNr4i49c</a></p>
+<p>或者你也可以删除掉 tf\download\materials\indexh\bili2 文件夹来重新获取文件。</p>
 ]]></content>
       <categories>
         <category>更新日志</category>
@@ -334,20 +348,6 @@
     <url>/2021/06/01/6-1-new-tf2-server/</url>
     <content><![CDATA[<p>话不多说好吧。</p>
 <p>咖啡厅服务器<br>暗鬼服：g2.polarstar.cc:62501<br>挂机服：g2.polarstar.cc:62511</p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>22娘模型贴图修复</title>
-    <url>/2021/07/07/fix22materials/</url>
-    <content><![CDATA[<p>现存的22娘存在贴图错误，会导致异常。请下载下面的文件进行覆盖修复。</p>
-<p><a href="https://wwa.lanzoui.com/iiHuNr4i49c">https://wwa.lanzoui.com/iiHuNr4i49c</a></p>
-<p>或者你也可以删除掉 tf\download\materials\indexh\bili2 文件夹来重新获取文件。</p>
 ]]></content>
       <categories>
         <category>更新日志</category>
