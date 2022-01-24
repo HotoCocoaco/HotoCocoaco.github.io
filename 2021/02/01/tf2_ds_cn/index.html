@@ -168,10 +168,11 @@
 <p>检查无误后点击“创建安全组”，即可成功创建专用于TF2服务器的安全组。</p>
 <p>点击“实例与镜像”中的实例，点击你刚刚购买的实例，进入实例信息。点击上方的安全组。点击“加入安全组”，将你刚刚做好的安全组添加到实例中，然后移除默认的安全组，即可完成。</p>
 <p>完成了安全组设定之后，就准备开始操作实例了。</p>
-<h2><span id="五-安装tf2服务器">五. 安装TF2服务器</span></h2><h3><span id="a-windows系统">A. Windows系统</span></h3><h4><span id="a-使用便捷的srcds_manager软件来安装服务器">a. 使用便捷的srcds_manager软件来安装服务器</span></h4><p>下载链接</p>
-<p><a target="_blank" rel="noopener" href="https://bbs.93x.net/forum.php?mod=viewthread&tid=95246">帖子链接</a></p>
+<h2><span id="五-安装tf2服务器">五. 安装TF2服务器</span></h2><h3><span id="a-windows系统">A. Windows系统</span></h3><h4><span id="a-使用便捷的srcds_manager软件来安装服务器">a. 使用便捷的srcds_manager软件来安装服务器</span></h4><p><del><a target="_blank" rel="noopener" href="https://bbs.93x.net/forum.php?mod=viewthread&tid=95246">帖子链接</a></del></p>
 <p><img src="https://dzfiles.93x.net/data/attachment/forum/201706/30/190053ptxhvi4triv66dr6.jpg" alt="我觉得已经很简单了"></p>
-<p>点击下载服务器，选择APPID为232250的服务器下载即可。然后设置啥的都有图示，这里不会细说。</p>
+<p><del>点击下载服务器，选择APPID为232250的服务器下载即可。然后设置啥的都有图示，这里不会细说。</del></p>
+<p>原帖丢了。虽然软件仍可用。但是你可以用另一个WindowsGSM。</p>
+<p><a target="_blank" rel="noopener" href="https://windowsgsm.com/">WindowsGSM</a> 使用办法看文档。</p>
 <h4><span id="b-手动安装服务器">b. 手动安装服务器</span></h4><h5><span id="1-进入远程桌面">1. 进入远程桌面</span></h5><p>假如你选择使用Windows Server系统，那你可以使用图形化界面来管理服务器。在此教程中，服务器将安装在目录 <code>C:\hlserver</code> 中。首先你需要登入你的实例，你可以直接使用阿里云提供的VNC的方式进入你的云服务器；也可以选择RDP（远程桌面连接）的方式来进入你的实例。</p>
 <p>VNC登入方式安全简单，仅需在实例信息界面点击登录，点击VNC方式即可。</p>
 <p>RDP登入，需要你在远程桌面连接程序中输入云服务器的外网IP，系统用户名和密码。假如你忘记了密码，你就需要重置密码。</p>
@@ -293,7 +294,7 @@ net_maxfilesize 15
 <p>验证服务器文件完整性。</p>
 <pre><code>./tf2server validate
 </code></pre>
-<h4><span id="b-手动安装服务器熟悉linux系统时">b. 手动安装服务器（熟悉Linux系统时）</span></h4><p>仍然以 CentOS 7 64-bit 为例，假如你有兴趣，可以直接看我在TF2Wiki上的低劣的翻译页面。以下内容也几乎全部来自TF2Wiki。</p>
+<h4><span id="b-手动安装服务器熟悉linux系统时">b. 手动安装服务器（熟悉Linux系统时）</span></h4><p>仍然以 CentOS 7 64-bit 为例，假如你有兴趣，可以直接看我在TF2Wiki上的低劣的翻译页面。以下内容也几乎全部来自TF2Wiki。**(以下内容可能已经过期！)**</p>
 <p><a target="_blank" rel="noopener" href="https://wiki.teamfortress.com/wiki/Linux_dedicated_server/zh-hans">Linux_dedicated_server/zh-hans</a></p>
 <h5><span id="使用docker">※. 使用Docker</span></h5><p>假如你打算使用Docker。</p>
 <pre><code>docker run -d --net=host --name=tf2-dedicated -e SRCDS_TOKEN=&#123;YOURTOKEN&#125; cm2network/tf2
