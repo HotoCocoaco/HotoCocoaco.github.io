@@ -1,21 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>咖啡厅雪糕跳跃服</title>
-    <url>/2021/02/11/newtf2jumpserver/</url>
-    <content><![CDATA[<p>好耶，新的服务器开了。是跳跃服，雪糕跳跃服。</p>
-<p>点击右边连接服务器。<a href="steam://connect/47.115.144.75:27015">点我连接雪糕跳跃服</a></p>
-<p>感谢Zero的赞助。</p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-        <tag>云服务器</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>TF2特效帽子效果预览</title>
     <url>/2021/02/01/tf2-unusual-cn/</url>
     <content><![CDATA[<h1><span id="tf2特效帽子效果预览">TF2特效帽子效果预览</span></h1><p>以下是TF2特效帽的预览。图片来源于TF2Wiki，你可以直接访问：<a href="https://wiki.teamfortress.com/wiki/Unusual">Unusual - Team Fortress Wiki</a></p>
@@ -66,6 +51,21 @@
       </tags>
   </entry>
   <entry>
+    <title>咖啡厅雪糕跳跃服</title>
+    <url>/2021/02/11/newtf2jumpserver/</url>
+    <content><![CDATA[<p>好耶，新的服务器开了。是跳跃服，雪糕跳跃服。</p>
+<p>点击右边连接服务器。<a href="steam://connect/47.115.144.75:27015">点我连接雪糕跳跃服</a></p>
+<p>感谢Zero的赞助。</p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+        <tag>云服务器</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>咖啡厅服务器更新 v0.1</title>
     <url>/2021/02/11/update-v0-1/</url>
     <content><![CDATA[<p>不是说新年新气象嘛，乘着我用了三年的主机和FF2服务器终于在3月要关闭了，这里已经做好了数据迁移服务，大家不用担心~</p>
@@ -103,38 +103,6 @@
 ]]></content>
       <categories>
         <category>咖啡厅预览</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>咖啡厅的暗鬼要塞服务器开服了</title>
-    <url>/2021/02/18/tf2newslenderserver/</url>
-    <content><![CDATA[<p>我又蹭到别人的学生机啦<del>既然这么好以后都蹭好啦</del></p>
-<p>暗鬼要塞服务器，只装了基本的游戏内容和地图，用腾讯云cdn加速下载，点击下面的链接即可进服务器。</p>
-<p><a href="steam://connect/42.193.131.170:27015">点我连接巧克力暗鬼服</a></p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>资源包怎么用/TF2的download文件夹如何运作？</title>
-    <url>/2021/02/19/howtf2downloadfolderworks/</url>
-    <content><![CDATA[<h1><span id="简而言之">简而言之</span></h1><p>假如你只是想知道你下载的资源包怎么用，那我可以在这里简单地告诉你。你下载的资源包一般是个压缩包，双击打开后里面一般会有 maps, materials, models, sound 这四个文件夹的任何几种，可能多可能少，但是你只要全选这几个文件夹，然后拖放到你的游戏目录的这个路径之下。</p>
-<p><code>Team Fortress 2\tf\download</code></p>
-<p>然后就安装成功了，你只需要重新进服务器即可。</p>
-<h1><span id="原理">原理</span></h1><p>不仅仅是TF2，像CSS和Gmod等起源游戏，都把从服务器下载的自定义内容，下载到这个download文件夹下。其中下载的内容一般是 maps, materials, models, sound 即地图、贴图、模型、音乐。不过玩家的喷漆并不保存在这里。你同时也会注意到你的tf文件夹，即download的父文件夹，里面一般也有 maps, materials, models, sound 这四个文件夹，假如你熟悉自定义地图，你知道maps里面装的是官方地图，你也可以把你下载到的地图bsp文件放在这里面。</p>
-<p>那么直接把下载的资源包解压到tf文件夹不就好了吗？为什么还要解压到tf\download文件夹下呢？其实，你是<strong>可以</strong>把资源包直接放在tf文件夹下的，但是极不推荐，这不方便你分类管理自定义内容。</p>
-<p>download文件夹里面的maps, materials, models, sound是等同于游戏在加载 tf\maps tf\materials tf\models tf\sound 这四个文件夹的。你也可以把自己在mod网站找到的地图放在 tf\download\maps 也是可以正常使用的。</p>
-<h1><span id="mod文件夹">mod文件夹</span></h1><p>在安装各种mod时，除了vpk文件，你可能会被要求把下载到的压缩包解压到 tf\custom 的。只要你细心就能注意到，里面的文件也是遵从同等加载的办法的。只不过他们以不同的mod文件夹进行分类。</p>
-]]></content>
-      <categories>
-        <category>技术分享</category>
       </categories>
       <tags>
         <tag>TF2</tag>
@@ -272,12 +240,32 @@
       </tags>
   </entry>
   <entry>
-    <title>咖啡厅服务器核弹避难所</title>
-    <url>/2021/03/10/tf2-nuke-hide-here/</url>
-    <content><![CDATA[<p>就字面意思，避免核爆，服务器进入地下室，外部不能再看到服务器情况了。只能直连IP进入。<br><a href="https://blog.midheart.club/fuwuqi/">查看更多…</a></p>
+    <title>咖啡厅的暗鬼要塞服务器开服了</title>
+    <url>/2021/02/18/tf2newslenderserver/</url>
+    <content><![CDATA[<p>我又蹭到别人的学生机啦<del>既然这么好以后都蹭好啦</del></p>
+<p>暗鬼要塞服务器，只装了基本的游戏内容和地图，用腾讯云cdn加速下载，点击下面的链接即可进服务器。</p>
+<p><a href="steam://connect/42.193.131.170:27015">点我连接巧克力暗鬼服</a></p>
 ]]></content>
       <categories>
         <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>资源包怎么用/TF2的download文件夹如何运作？</title>
+    <url>/2021/02/19/howtf2downloadfolderworks/</url>
+    <content><![CDATA[<h1><span id="简而言之">简而言之</span></h1><p>假如你只是想知道你下载的资源包怎么用，那我可以在这里简单地告诉你。你下载的资源包一般是个压缩包，双击打开后里面一般会有 maps, materials, models, sound 这四个文件夹的任何几种，可能多可能少，但是你只要全选这几个文件夹，然后拖放到你的游戏目录的这个路径之下。</p>
+<p><code>Team Fortress 2\tf\download</code></p>
+<p>然后就安装成功了，你只需要重新进服务器即可。</p>
+<h1><span id="原理">原理</span></h1><p>不仅仅是TF2，像CSS和Gmod等起源游戏，都把从服务器下载的自定义内容，下载到这个download文件夹下。其中下载的内容一般是 maps, materials, models, sound 即地图、贴图、模型、音乐。不过玩家的喷漆并不保存在这里。你同时也会注意到你的tf文件夹，即download的父文件夹，里面一般也有 maps, materials, models, sound 这四个文件夹，假如你熟悉自定义地图，你知道maps里面装的是官方地图，你也可以把你下载到的地图bsp文件放在这里面。</p>
+<p>那么直接把下载的资源包解压到tf文件夹不就好了吗？为什么还要解压到tf\download文件夹下呢？其实，你是<strong>可以</strong>把资源包直接放在tf文件夹下的，但是极不推荐，这不方便你分类管理自定义内容。</p>
+<p>download文件夹里面的maps, materials, models, sound是等同于游戏在加载 tf\maps tf\materials tf\models tf\sound 这四个文件夹的。你也可以把自己在mod网站找到的地图放在 tf\download\maps 也是可以正常使用的。</p>
+<h1><span id="mod文件夹">mod文件夹</span></h1><p>在安装各种mod时，除了vpk文件，你可能会被要求把下载到的压缩包解压到 tf\custom 的。只要你细心就能注意到，里面的文件也是遵从同等加载的办法的。只不过他们以不同的mod文件夹进行分类。</p>
+]]></content>
+      <categories>
+        <category>技术分享</category>
       </categories>
       <tags>
         <tag>TF2</tag>
@@ -318,11 +306,22 @@
       </tags>
   </entry>
   <entry>
-    <title>22娘模型贴图修复</title>
-    <url>/2021/07/07/fix22materials/</url>
-    <content><![CDATA[<p>现存的22娘存在贴图错误，会导致异常。请下载下面的文件进行覆盖修复。</p>
-<p><a href="https://wwa.lanzoui.com/iiHuNr4i49c">https://wwa.lanzoui.com/iiHuNr4i49c</a></p>
-<p>或者你也可以删除掉 tf\download\materials\indexh\bili2 文件夹来重新获取文件。</p>
+    <title>咖啡厅服务器核弹避难所</title>
+    <url>/2021/03/10/tf2-nuke-hide-here/</url>
+    <content><![CDATA[<p>就字面意思，避免核爆，服务器进入地下室，外部不能再看到服务器情况了。只能直连IP进入。<br><a href="https://blog.midheart.club/fuwuqi/">查看更多…</a></p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>有新的服务器啦</title>
+    <url>/2021/06/01/6-1-new-tf2-server/</url>
+    <content><![CDATA[<p>话不多说好吧。</p>
+<p>咖啡厅服务器<br>暗鬼服：g2.polarstar.cc:62501<br>挂机服：g2.polarstar.cc:62511</p>
 ]]></content>
       <categories>
         <category>更新日志</category>
@@ -344,10 +343,393 @@
       </tags>
   </entry>
   <entry>
-    <title>有新的服务器啦</title>
-    <url>/2021/06/01/6-1-new-tf2-server/</url>
-    <content><![CDATA[<p>话不多说好吧。</p>
-<p>咖啡厅服务器<br>暗鬼服：g2.polarstar.cc:62501<br>挂机服：g2.polarstar.cc:62511</p>
+    <title>22娘模型贴图修复</title>
+    <url>/2021/07/07/fix22materials/</url>
+    <content><![CDATA[<p>现存的22娘存在贴图错误，会导致异常。请下载下面的文件进行覆盖修复。</p>
+<p><a href="https://wwa.lanzoui.com/iiHuNr4i49c">https://wwa.lanzoui.com/iiHuNr4i49c</a></p>
+<p>或者你也可以删除掉 tf\download\materials\indexh\bili2 文件夹来重新获取文件。</p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>VSH服BOSS机制介绍</title>
+    <url>/2022/02/01/vsh2-boss/</url>
+    <content><![CDATA[<h1><span id="vsh服boss机制介绍">VSH服BOSS机制介绍</span></h1><h2><span id="通用">通用</span></h2><p>全部BOSS都不会受到掉落伤害。</p>
+<p>每次BOSS受到攻击获得的愤怒值的计算公式为</p>
+<p><img src="/images/boss_gongshi.png" alt="BOSS愤怒值计算公式"></p>
+<blockquote>
+<p>看不懂吧？我也看不懂。</p>
+</blockquote>
+<p>BOSS蹲下时免疫任何伤害击退。</p>
+<p>假如场上只剩下侦察兵，BOSS的愤怒值增加。</p>
+<p>每个BOSS的近战伤害值经过调整，不会出现一刀300+，400+的奇怪伤害。</p>
+<p>非全部BOSS都能瞬间造成200+伤害，除了萨克斯顿霍尔这个澳大利亚大叔。</p>
+<p>下面介绍与原版有所不同的BOSS。玩过VSH-R的玩家可能比较熟悉。</p>
+<h2><span id="vagineer">Vagineer</span></h2><p>激活愤怒时可以建造一个步哨枪，这个步哨枪比较疯狂。</p>
+<h2><span id="脱缰的无头骑士-jr">脱缰的无头骑士 Jr.</span></h2><p>激活愤怒时，变成一个幽灵，不会受到伤害，可以自由飞行，可以吸收周围敌人的生命值。</p>
+<h2><span id="残忍的基督弓手">残忍的基督弓手</span></h2><p>每次击杀之后获得的刀数据不同，信息会在BOSS换刀的时候显示在BOSS屏幕的中央。</p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>VSH服红队数据</title>
+    <url>/2022/02/01/vsh2-red/</url>
+    <content><![CDATA[<h1><span id="vsh服红队数据介绍">VSH服红队数据介绍</span></h1><h2><span id="通用">通用</span></h2><p>全部人的主武器和副武器的弹药都增加了，让红队玩家少和工程师抢夺弹药箱。</p>
+<p>兵种限制：目前全部兵种都只限制5人。</p>
+<p>踩头需要你的速度到290.0才可以踩头，伤害为 （5%的BOSS最大生命值+450.0）。踩头弹射力量为550.0。</p>
+<p>并非所有BOSS都能造成200+的伤害，所以你不用觉得这些数值很低。</p>
+<p>使用大部分爆击近战武器攻击BOSS下半身可以击退BOSS。</p>
+<p>下面的数据不会写详细，因为可能会后期调整。</p>
+<h2><span id="侦察兵">侦察兵</span></h2><p>猎枪：射出的子弹变多了。</p>
+<blockquote>
+<p>热可可：可能不是全部侦察兵的枪法都很好，因此增加射出的子弹数量可以让不是那么厉害的侦察兵也能打多点输出。</p>
+</blockquote>
+<p>自然之力：无调整。</p>
+<blockquote>
+<p>热可可：本来我想调整为弹匣容量为1发，但是其实这个武器本身就很挺平衡了，通常击退也只有第一发有明显作用，加上削弱武器总会被玩家骂，就先放着不动。</p>
+</blockquote>
+<p>偷袭之力：可以发射火箭。</p>
+<blockquote>
+<p>热可可：偷袭之力即使调整为背后攻击为爆击，它的收益也不明显。调整为小型的火箭发射器可以让侦察兵尝试其他的办法。</p>
+</blockquote>
+<p>娃娃脸的冲击波：能量条会随时间减少。</p>
+<blockquote>
+<p>热可可：一个一直跑的超快侦察兵，对于BOSS来说是需要花费九牛二虎之力才能抓到的对象。让侦察兵造成伤害来保持速度是一个不错的平衡办法。</p>
+</blockquote>
+<p>边锋球员：踩头造成额外的1024伤害。</p>
+<blockquote>
+<p>热可可：边锋球员让侦察兵跳得更高，奖励使用边锋球员的侦察兵额外踩头伤害能鼓励侦察兵多使用踩头……同时将自己置身于危险中。</p>
+</blockquote>
+<p>帅气男孩的袖珍手枪：手持时击中BOSS时回血可以超量治疗。</p>
+<blockquote>
+<p>热可可：这把帅气的手枪需要逼迫BOSS避免被击中，以免让侦察兵能抗住BOSS的攻击。</p>
+</blockquote>
+<p>糖果手杖：击中BOSS时掉落医疗包。</p>
+<blockquote>
+<p>热可可：虽然用近战攻击BOSS是一个不那么聪明的选择，但是有时候你打掉的医疗包可能会救你自己或者队友的命。</p>
+</blockquote>
+<p>波士顿狼牙棒：让侦察兵变成中世纪战士。</p>
+<blockquote>
+<p>热可可：嘿你！你终于醒了，你刚刚正在想办法过桥对吧……</p>
+</blockquote>
+<p>军配扇：击中BOSS时可以消除愤怒值。</p>
+<blockquote>
+<p>热可可：哈喽？我的愤怒值怎么又少了？卧槽那个侦察兵拍了我一下就溜了，焯！</p>
+</blockquote>
+<p>睡魔：可以击晕BOSS，球的冷却时间增加。</p>
+<blockquote>
+<p>热可可：击晕是一个需要非常谨慎对待的特性。假如是减速，BOSS也追不上侦察兵。但是玩家热烈的要求击晕，那么就给予它超长的冷却时间吧。</p>
+</blockquote>
+<p>包装纸杀手：获得更多球。</p>
+<blockquote>
+<p>热可可：礼物球！耶！</p>
+</blockquote>
+<p>太阳之杖：对着火敌人迷你爆击，并为他们灭火。敌人剩余着火时间越长，伤害越高。</p>
+<blockquote>
+<p>热可可：原来只有爆击，但是所有近战都有爆击，为了突出太阳之杖的特性，就增加伤害吧。</p>
+</blockquote>
+<h2><span id="士兵">士兵</span></h2><p>所有的空爆（Airshot）：全场播放超帅的音效。</p>
+<p>精确打击者：迷你爆击替换为爆击。</p>
+<blockquote>
+<p>热可可：空爆本身是很难做到的，奖励使用精确打击者空爆成功更多伤害是必须的。</p>
+</blockquote>
+<p>空袭火箭筒：爆炸范围增加。</p>
+<blockquote>
+<p>热可可：空中轰炸机！</p>
+</blockquote>
+<p>乞丐的火箭筒：装弹速度加快。</p>
+<blockquote>
+<p>热可可：更快的自爆！（？）</p>
+</blockquote>
+<p>正义野牛：不需要装填，开火速度增加50%。</p>
+<blockquote>
+<p>热可可：本身正义野牛就比较拉，增强一点不过分吧。</p>
+</blockquote>
+<p>军队的支援：激活时减少受到来自BOSS的伤害，召唤死去的队友作战。</p>
+<blockquote>
+<p>热可可：军队的支援……你的军队来支援啦！</p>
+</blockquote>
+<p>战旗：激活时主武器5秒内可以发射一次火箭弹幕。</p>
+<blockquote>
+<p>热可可：今天我就是博丽灵梦本梦！</p>
+</blockquote>
+<p>征服者战旗：激活时获得30发火箭弹药。</p>
+<blockquote>
+<p>热可可：小海螺给你送弹药箱啦。</p>
+</blockquote>
+<p>踏步靴：火箭跳跃受到的伤害减少，跳得更高远，踩头造成额外1024伤害。</p>
+<blockquote>
+<p>热可可：作为一个本身就用来踩头的武器，大家都能踩头的话，踏步靴需要突出的特点。</p>
+</blockquote>
+<p>炮艇：受到的掉落伤害减少。</p>
+<blockquote>
+<p>热可可：给踏步靴加了火箭跳跃减伤害，那炮艇就需要加些独特的。</p>
+</blockquote>
+<p>极限降落伞：从医疗包获取的生命值+50%。</p>
+<blockquote>
+<p>热可可：这玩意除了搭配空袭火箭筒几乎没用。</p>
+</blockquote>
+<p>市场花园铁锹：攻击速度略微减慢，命中时造成比例伤害。</p>
+<blockquote>
+<p>热可可：就变慢一点点。</p>
+</blockquote>
+<h2><span id="火焰兵">火焰兵</span></h2><p>主武器：手持时击中BOSS时回血可以超量治疗。压缩空气充能时间极大加长，吹中BOSS会增加其愤怒值。</p>
+<blockquote>
+<p>热可可：从远古时代流传下来的国服火焰喷射器能加血的”优良“传统，大家又讨厌压缩空气乱吹。那就这样调整吧。</p>
+</blockquote>
+<p>原配火焰喷射器增加3倍后续燃烧伤害。其他火焰喷射器只有小量加成。</p>
+<blockquote>
+<p>热可可：鼓励原配武器。</p>
+</blockquote>
+<p>脱油剂：压缩空气推力增加。</p>
+<blockquote>
+<p>热可可：吹，吹TMD。</p>
+</blockquote>
+<p>燃素喷射器：激活“呜唔”时减少受到来自BOSS的伤害。回血速度比其他火焰喷射器慢。</p>
+<blockquote>
+<p>热可可：大家都讨厌燃素。</p>
+</blockquote>
+<p>热能推进器：可以空中二次喷射，穿戴者不受掉落伤害。</p>
+<blockquote>
+<p>热可可：这个武器用的人太少啦。而且也不是很好用。</p>
+</blockquote>
+<p>纵火者的油桶：敌人在被点燃时爆炸。</p>
+<blockquote>
+<p>热可可：作为一个油桶能爆炸那也是情理之中？</p>
+</blockquote>
+<p>信号枪：伤害增加。</p>
+<blockquote>
+<p>热可可：谁让其他的信号枪太有特色了。</p>
+</blockquote>
+<p>预备役射手：对空中的敌人爆击。</p>
+<blockquote>
+<p>热可可：子弹不多的，省点用。</p>
+</blockquote>
+<p>起爆者：爆炸可以让你起飞。</p>
+<blockquote>
+<p>热可可：经典武器。</p>
+</blockquote>
+<p>熔人枪：击中后可以恢复生命值。</p>
+<blockquote>
+<p>热可可：这个武器的存在感较低。</p>
+</blockquote>
+<p>三度烧伤：手持时受到治疗者的治疗量增加。医生治疗你时Ubercharge充能速度增加，同时你的武器伤害增加。</p>
+<blockquote>
+<p>热可可：你以为只是医生的拐？实际上是与医生的Combo攻击！</p>
+</blockquote>
+<p>拆迁者：直接攻击BOSS即可击退。</p>
+<blockquote>
+<p>热可可：不用攻击下半身啦！让BOSS远离你！还不会给BOSS增加愤怒值！</p>
+</blockquote>
+<p>熔岩战斧：变身中世纪战士。</p>
+<blockquote>
+<p>热可可：战斗！塔塔开！</p>
+</blockquote>
+<p>灼热之手：增加近战范围，击中队友时给双方提供加速。</p>
+<blockquote>
+<p>热可可：原来你只能扇敌人巴掌来加速，但是现在你可以扇队友一个大巴掌了！还不会被骂！</p>
+</blockquote>
+<h2><span id="爆破手">爆破手</span></h2><p>双管榴弹发射器：伤害增加。</p>
+<blockquote>
+<p>热可可：不命中就碎，让它的变得难以使用。</p>
+</blockquote>
+<p>脱缰巨炮：弹匣调整为3发。</p>
+<blockquote>
+<p>热可可：不许乱丢大炮！特别是配合盾牌提供的爆击！</p>
+</blockquote>
+<p>铁弹发射器：至多装填4发榴弹，然后发射。</p>
+<blockquote>
+<p>热可可：”乞丐的“榴弹发射器。</p>
+</blockquote>
+<p>阿里巴巴的尖头靴：提供的加速不需要装备盾牌也能加速。</p>
+<blockquote>
+<p>热可可：以免有人无聊想用鞋子+粘弹。</p>
+</blockquote>
+<p>苏格兰防御者：无伤害击退。</p>
+<blockquote>
+<p>热可可：你还是可以种海胆。</p>
+</blockquote>
+<p>快速黏弹发射器：发射的粘弹可以瞬间引爆。</p>
+<blockquote>
+<p>热可可：快！</p>
+</blockquote>
+<p>冲锋盾：撞击时获得防御状态。</p>
+<p>辉煌护盾：撞击时击退增加。</p>
+<p>力挽狂澜：近战击中可恢复75%冲锋能量。</p>
+<blockquote>
+<p>热可可：给盾牌加点东西也挺好的。（不一定能正常工作？未来可能移除？）</p>
+</blockquote>
+<p>波斯弯刀：击中敌人可以恢复生命值和冲锋能量，拾取的弹药变成冲锋能量。</p>
+<blockquote>
+<p>热可可：那边的你！可以继续冲了！</p>
+</blockquote>
+<p>木柄手榴弹：牺牲式攻击。</p>
+<blockquote>
+<p>热可可：同时你的手掌也会变大！</p>
+</blockquote>
+<p>装备盾牌时主武器根据冲锋能量条获得爆击或迷你爆击或无爆击。比如你刚冲锋完，就没爆击，等待能量恢复之后获得迷你爆击，然后才获得爆击。</p>
+<h2><span id="机枪手">机枪手</span></h2><p>主武器切换速度加快，预热速度加快。</p>
+<blockquote>
+<p>热可可：让胖子玩得不觉得那么笨重。</p>
+</blockquote>
+<p>娜塔莎转轮机枪：击中时无减速，但是可以恢复生命值。</p>
+<blockquote>
+<p>热可可：减速罪大恶极！</p>
+</blockquote>
+<p>黄铜猛兽：预热速度正常。可以使用怒气击退。武器切换速度轻微加快。</p>
+<blockquote>
+<p>热可可：你还是老老实实当个人肉步哨吧。</p>
+</blockquote>
+<p>火龙转轮机枪：对着火的敌人造成迷你爆击。</p>
+<blockquote>
+<p>热可可：少子弹的火龙或将成为历史。</p>
+</blockquote>
+<p>霰弹枪：击中的伤害可转换为一些生命值。</p>
+<blockquote>
+<p>热可可：另一种回血的办法。</p>
+</blockquote>
+<p>达勒克斯巧克力块：25秒充能。吃完之后恢复弹药。</p>
+<blockquote>
+<p>热可可：自己带着弹药箱，里面附赠的巧克力块。</p>
+</blockquote>
+<p>三明治，第二名的香蕉：吃饭速度加快。</p>
+<blockquote>
+<p>热可可：因为BOSS的压迫力，机枪手被迫快速吃完它的饭。</p>
+</blockquote>
+<p>家族运营枪：击中后获得速度加成，但装填速度变慢。</p>
+<blockquote>
+<p>热可可：Speed Up!</p>
+</blockquote>
+<p>驱逐警告：增加跳跃高度。</p>
+<blockquote>
+<p>热可可：Jump!</p>
+</blockquote>
+<p>勇士之魂：击中BOSS时回血可以超量治疗。</p>
+<blockquote>
+<p>热可可：这年头谁还不能自己超个量了。</p>
+</blockquote>
+<p>钢铁拳套：减伤对近战也有效。</p>
+<blockquote>
+<p>热可可：不这么做这个就是铸币武器。</p>
+</blockquote>
+<h2><span id="工程师">工程师</span></h2><p>边境裁决者：步哨瞄准BOSS时爆击。</p>
+<blockquote>
+<p>热可可：那么，代价是什么？</p>
+</blockquote>
+<p>歼灭者 6000：击中BOSS时可以消除愤怒值。</p>
+<blockquote>
+<p>热可可：这个比较难顶，这个是远程的。但是打不中也没用。</p>
+</blockquote>
+<p>寡妇制造者：减少射击所需的金属。</p>
+<blockquote>
+<p>热可可：本身是牛逼又平衡的枪，只是为了照顾一下枪法差的玩家。</p>
+</blockquote>
+<p>手枪：精确度提升。</p>
+<blockquote>
+<p>热可可：打得准的才是牛仔。</p>
+</blockquote>
+<p>短路发射器：手持时发射的球体命中任何表面会爆炸，可以爆炸跳。</p>
+<blockquote>
+<p>热可可：别抱怨不能自伤跳了，这不来了吗？跳不好那你多练。</p>
+</blockquote>
+<p>遥控手柄：手持时获得迷你爆击。</p>
+<blockquote>
+<p>热可可：迷你爆击的声音听起来很舒服的。</p>
+</blockquote>
+<p>传送扳手：使用扳手传送之后会被眩晕很长时间，添加透轮廓透视，添加极长的冷却时间，增加流血。</p>
+<blockquote>
+<p>热可可：别的服务器会禁止这个武器，但我不同！我允许你用！</p>
+</blockquote>
+<p>南部的款待：增加步哨和补给器范围，但不能搬运建筑。</p>
+<blockquote>
+<p>热可可：这个武器本身存在感很低。</p>
+</blockquote>
+<p>金属会定时自动恢复。</p>
+<blockquote>
+<p>热可可：所以别再喊地图没弹药包了！</p>
+</blockquote>
+<p>工程师可以通过!pad建造加速板与跳跃板，可以帮助自己或队友逃离BOSS的魔爪或到达战术位置。</p>
+<h2><span id="医生">医生</span></h2><p>注射枪：命中后增加Ubercharge能量。</p>
+<p>吸血鬼注射枪：命中后增加更少的Ubercharge能量，回血可以超量治疗。</p>
+<p>过载注射枪：命中后增加更少的Ubercharge能量。</p>
+<p>十字军之弩：永久爆击，命中后增加Ubercharge能量。箭矢击中任何表面后爆炸。</p>
+<blockquote>
+<p>热可可：医生也能爆炸跳。</p>
+</blockquote>
+<p>原配医疗枪：治疗时你的治疗目标获得迷你爆击。</p>
+<p>闪电战医疗枪：激活Ubercharge时使周围的队友都获得爆击。治疗时你的治疗目标获得迷你爆击。</p>
+<p>快速医疗枪：激活Ubercharge时使周围的队友都获得加速。</p>
+<p>疫苗注射枪：增加超量治疗量与持续时间。</p>
+<blockquote>
+<p>热可可：各有利弊，但是注意BOSS的攻击力不是那种动辄300+的，疫苗注射枪提供的超量或许可以救更多的人。</p>
+</blockquote>
+<p>当医生的Uber接近充满时（90%+），会使用Uber作为盾牌来避免医生被击杀。</p>
+<blockquote>
+<p>热可可：别说医生的生存率低啦！</p>
+</blockquote>
+<h2><span id="狙击手">狙击手</span></h2><p>猎人短弓：箭矢击中任何表面后爆炸。击中后恢复生命值。</p>
+<blockquote>
+<p>热可可：狙击手也能爆炸跳。</p>
+</blockquote>
+<p>悉尼沉睡者：命中BOSS可以减少其愤怒值。</p>
+<blockquote>
+<p>热可可：虽然只有1%。</p>
+</blockquote>
+<p>达尔文的危险之盾：增加跳跃高度，不受掉落伤害，最大生命值增加。</p>
+<blockquote>
+<p>热可可：纯纯的好东西了。</p>
+</blockquote>
+<p>扫荡者卡宾：增加精确度。</p>
+<blockquote>
+<p>热可可：我挺喜欢这武器的，可惜太弱了。</p>
+</blockquote>
+<p>近战武器攻击墙面可以爬墙。</p>
+<p>部落者刮刀：爬墙无攻击延迟，但减少爬墙高度。</p>
+<p>灌木丛：极大增加爬墙高度，消耗血量增加。</p>
+<p>诸王之王：生命值少于70时增加爬墙高度。</p>
+<blockquote>
+<p>热可可：各有利弊，自行选择。</p>
+</blockquote>
+<h2><span id="间谍">间谍</span></h2><p>背刺只能造成BOSS最大生命值约10%左右的伤害。</p>
+<p>大使手枪：爆头后获得速度加成。</p>
+<blockquote>
+<p>热可可：打你头就跑！</p>
+</blockquote>
+<p>执法者：伪装时手枪伤害额外增加。但爆击伤害随距离减少。</p>
+<blockquote>
+<p>热可可：这个是稳定的高额输出了。</p>
+</blockquote>
+<p>菱背响尾蛇：背刺后+2爆击。</p>
+<p>永生的回报：背刺后伪装，前三次背刺0伤害，第四次背刺伤害6倍+666。</p>
+<blockquote>
+<p>热可可：哇，你是背刺大佬。</p>
+</blockquote>
+<p>暴利杀手：背刺完全恢复隐身能量。</p>
+<blockquote>
+<p>热可可：背刺+死铃，然后再背刺+再死铃。打不死的死掰。</p>
+</blockquote>
+<p>密谋者的苦无：背刺后增加超量生命值。</p>
+<blockquote>
+<p>热可可：这个也是危险武器？但是不刺中就得死。</p>
+</blockquote>
+<p>隐形刺客：隐身能量正常消耗，隐身时不可拾取弹药箱补充隐身能量，隐身能量充能速度加快。</p>
+<blockquote>
+<p>热可可：只是另一个版本的隐身手表。</p>
+</blockquote>
+<p>电子工兵替换为可以投掷的苦无，命中后可恢复生命值。</p>
+<blockquote>
+<p>热可可：几乎没BOSS可以建造，即使能建造，我也不会让电子工兵干扰BOSS的建筑，那不如让这个武器变成别的东西。</p>
+</blockquote>
 ]]></content>
       <categories>
         <category>更新日志</category>
