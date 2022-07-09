@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>咖啡厅雪糕跳跃服</title>
+    <url>/2021/02/11/newtf2jumpserver/</url>
+    <content><![CDATA[<p>好耶，新的服务器开了。是跳跃服，雪糕跳跃服。</p>
+<p>点击右边连接服务器。<a href="steam://connect/47.115.144.75:27015">点我连接雪糕跳跃服</a></p>
+<p>感谢Zero的赞助。</p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+        <tag>云服务器</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>TF2特效帽子效果预览</title>
     <url>/2021/02/01/tf2-unusual-cn/</url>
     <content><![CDATA[<h1><span id="tf2特效帽子效果预览">TF2特效帽子效果预览</span></h1><p>以下是TF2特效帽的预览。图片来源于TF2Wiki，你可以直接访问：<a href="https://wiki.teamfortress.com/wiki/Unusual">Unusual - Team Fortress Wiki</a></p>
@@ -48,21 +63,6 @@
       </categories>
       <tags>
         <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>咖啡厅雪糕跳跃服</title>
-    <url>/2021/02/11/newtf2jumpserver/</url>
-    <content><![CDATA[<p>好耶，新的服务器开了。是跳跃服，雪糕跳跃服。</p>
-<p>点击右边连接服务器。<a href="steam://connect/47.115.144.75:27015">点我连接雪糕跳跃服</a></p>
-<p>感谢Zero的赞助。</p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-        <tag>云服务器</tag>
       </tags>
   </entry>
   <entry>
@@ -288,6 +288,18 @@
       </tags>
   </entry>
   <entry>
+    <title>咖啡厅服务器核弹避难所</title>
+    <url>/2021/03/10/tf2-nuke-hide-here/</url>
+    <content><![CDATA[<p>就字面意思，避免核爆，服务器进入地下室，外部不能再看到服务器情况了。只能直连IP进入。<br><a href="https://blog.midheart.club/fuwuqi/">查看更多…</a></p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>DDOS期间暂时关闭服务器</title>
     <url>/2021/03/08/ddosshutdown/</url>
     <content><![CDATA[<p>最近我的服务器遭受一连串的DDOS攻击，因此决定暂时关闭服务器。恢复时间请留意后续通知。</p>
@@ -303,18 +315,6 @@
       <tags>
         <tag>TF2</tag>
         <tag>云服务器</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>咖啡厅服务器核弹避难所</title>
-    <url>/2021/03/10/tf2-nuke-hide-here/</url>
-    <content><![CDATA[<p>就字面意思，避免核爆，服务器进入地下室，外部不能再看到服务器情况了。只能直连IP进入。<br><a href="https://blog.midheart.club/fuwuqi/">查看更多…</a></p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
       </tags>
   </entry>
   <entry>
@@ -864,7 +864,8 @@
 <li><a href="#3-%E5%9F%BA%E6%9C%AC%E7%94%A8%E6%B3%95">3. 基本用法</a></li>
 </ul>
 </li>
-<li><a href="#b-%E6%89%8B%E5%8A%A8%E5%AE%89%E8%A3%85%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%86%9F%E6%82%89linux%E7%B3%BB%E7%BB%9F%E6%97%B6">b. 手动安装服务器（熟悉Linux系统时）</a><ul>
+<li><a href="#b-%E4%BD%BF%E7%94%A8-one-click-run_source_server-%E8%84%9A%E6%9C%AC">b. 使用 One-Click-Run_Source_Server 脚本</a></li>
+<li><a href="#c-%E6%89%8B%E5%8A%A8%E5%AE%89%E8%A3%85%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%86%9F%E6%82%89linux%E7%B3%BB%E7%BB%9F%E6%97%B6">c. 手动安装服务器（熟悉Linux系统时）</a><ul>
 <li><a href="#%E4%BD%BF%E7%94%A8docker">※. 使用Docker</a></li>
 <li><a href="#1-%E5%89%8D%E7%BD%AE">1. 前置</a></li>
 <li><a href="#2-%E4%B8%8B%E8%BD%BD%E5%92%8C%E5%AE%89%E8%A3%85steamcmd%E5%B7%A5%E5%85%B7">2. 下载和安装SteamCMD工具</a></li>
@@ -1064,7 +1065,8 @@ net_maxfilesize 15
 <p>验证服务器文件完整性。</p>
 <pre><code>./tf2server validate
 </code></pre>
-<h4><span id="b-手动安装服务器熟悉linux系统时">b. 手动安装服务器（熟悉Linux系统时）</span></h4><p>仍然以 CentOS 7 64-bit 为例，假如你有兴趣，可以直接看我在TF2Wiki上的低劣的翻译页面。以下内容也几乎全部来自TF2Wiki。**(以下内容可能已经过期！)**</p>
+<h4><span id="b-使用-one-click-run_source_server-脚本">b. 使用 One-Click-Run_Source_Server 脚本</span></h4><p><a href="https://github.com/2601677867/One-Click-Run_Source_Server">2601677867/One-Click-Run_Source_Server: 一键在您的服务器上部署Source引擎游戏服务端（支持CSGO，L4D2，TF2，CSS等热门游戏） (github.com)</a></p>
+<h4><span id="c-手动安装服务器熟悉linux系统时">c. 手动安装服务器（熟悉Linux系统时）</span></h4><p>仍然以 CentOS 7 64-bit 为例，假如你有兴趣，可以直接看我在TF2Wiki上的低劣的翻译页面。以下内容也几乎全部来自TF2Wiki。**(以下内容可能已经过期！)**</p>
 <p><a href="https://wiki.teamfortress.com/wiki/Linux_dedicated_server/zh-hans">Linux_dedicated_server/zh-hans</a></p>
 <h5><span id="使用docker">※. 使用Docker</span></h5><p>假如你打算使用Docker。</p>
 <pre><code>docker run -d --net=host --name=tf2-dedicated -e SRCDS_TOKEN=&#123;YOURTOKEN&#125; cm2network/tf2
