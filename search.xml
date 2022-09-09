@@ -1,21 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>咖啡厅雪糕跳跃服</title>
-    <url>/2021/02/11/newtf2jumpserver/</url>
-    <content><![CDATA[<p>好耶，新的服务器开了。是跳跃服，雪糕跳跃服。</p>
-<p>点击右边连接服务器。<a href="steam://connect/47.115.144.75:27015">点我连接雪糕跳跃服</a></p>
-<p>感谢Zero的赞助。</p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-        <tag>云服务器</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>TF2特效帽子效果预览</title>
     <url>/2021/02/01/tf2-unusual-cn/</url>
     <content><![CDATA[<h1><span id="tf2特效帽子效果预览">TF2特效帽子效果预览</span></h1><p>以下是TF2特效帽的预览。图片来源于TF2Wiki，你可以直接访问：<a href="https://wiki.teamfortress.com/wiki/Unusual">Unusual - Team Fortress Wiki</a></p>
@@ -60,770 +45,6 @@
 ]]></content>
       <categories>
         <category>咖啡厅预览</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>咖啡厅服务器更新 v0.1</title>
-    <url>/2021/02/11/update-v0-1/</url>
-    <content><![CDATA[<p>不是说新年新气象嘛，乘着我用了三年的主机和FF2服务器终于在3月要关闭了，这里已经做好了数据迁移服务，大家不用担心~</p>
-<ul>
-<li>更新封禁系统 <a href="https://bans.midheart.club/">bans.midheart.club</a></li>
-<li>将SZF服（僵尸模式）纳入统一管理，增加商店。</li>
-</ul>
-<p>还有兴趣多开一个模式的服务器，有啥建议可以和我说。</p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>咖啡厅模型预览</title>
-    <url>/2021/02/17/tf2modelsreview/</url>
-    <content><![CDATA[<p><strong>点击进入相册</strong></p>
-<h1><span id="artifact纸片人">Artifact纸片人</span></h1><p><a href="https://img.fghrsh.net/image/J8Opg"><img src="https://fp1.fghrsh.net/2021/02/17/15c1ff08c5234a135ebbd67565f3f2e2.png" alt="15c1ff08c5234a135ebbd67565f3f2e2.png"></a></p>
-<p><a href="https://img.fghrsh.net/album/LHUiz">查看更多…</a></p>
-<h1><span id="机器人大军">机器人大军</span></h1><p>都是TF2MVM模式的机器人，我觉得就不用放预览图了</p>
-<p><a href="https://img.fghrsh.net/image/J8D2P"><img src="http://fp1.fghrsh.net/2021/02/17/76734c002b90aaf0b1f52ff6190d7673.png" alt="76734c002b90aaf0b1f52ff6190d7673.png"></a></p>
-<h1><span id="自定义系列">自定义系列</span></h1><p>为什么叫自定义？因为我也不知道叫什么好。</p>
-<p><a href="https://img.fghrsh.net/image/JG3DI"><img src="http://fp1.fghrsh.net/2021/02/17/4d9e5f8eaac09fbc8ac507cba854f615.png" alt="4d9e5f8eaac09fbc8ac507cba854f615.png"></a></p>
-<p><a href="https://img.fghrsh.net/album/LHoX5">查看更多…</a></p>
-<h1><span id="可可自制系列">可可自制系列</span></h1><p>从我一开始不熟悉到后面熟悉的绑定的模型，初期做的很差，比如2233娘和红豆水手服之类的。后面是越做越好的。好耶</p>
-<p>~( •̀ ω •́ )y</p>
-<p><a href="https://img.fghrsh.net/image/JihYn"><img src="http://fp1.fghrsh.net/2021/02/17/f9a946fd69f468b4fe10e14e09e422a4.png" alt="f9a946fd69f468b4fe10e14e09e422a4.png"></a></p>
-<p><a href="https://img.fghrsh.net/album/LHv4B">查看更多…</a></p>
-<h1><span id="自制新增系列">自制新增系列</span></h1><p>2021年之后我做的新模型的图片会在这里。</p>
-<p><a href="https://img.fghrsh.net/image/JSBFK"><img src="http://fp1.fghrsh.net/2021/02/26/21c06ce8074916c2eda222245c748367.png" alt="21c06ce8074916c2eda222245c748367.png"></a></p>
-<p><a href="https://img.fghrsh.net/album/Lnmne">查看更多…</a></p>
-]]></content>
-      <categories>
-        <category>咖啡厅预览</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>咖啡厅的暗鬼要塞服务器开服了</title>
-    <url>/2021/02/18/tf2newslenderserver/</url>
-    <content><![CDATA[<p>我又蹭到别人的学生机啦<del>既然这么好以后都蹭好啦</del></p>
-<p>暗鬼要塞服务器，只装了基本的游戏内容和地图，用腾讯云cdn加速下载，点击下面的链接即可进服务器。</p>
-<p><a href="steam://connect/42.193.131.170:27015">点我连接巧克力暗鬼服</a></p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>资源包怎么用/TF2的download文件夹如何运作？</title>
-    <url>/2021/02/19/howtf2downloadfolderworks/</url>
-    <content><![CDATA[<h1><span id="简而言之">简而言之</span></h1><p>假如你只是想知道你下载的资源包怎么用，那我可以在这里简单地告诉你。你下载的资源包一般是个压缩包，双击打开后里面一般会有 maps, materials, models, sound 这四个文件夹的任何几种，可能多可能少，但是你只要全选这几个文件夹，然后拖放到你的游戏目录的这个路径之下。</p>
-<p><code>Team Fortress 2\tf\download</code></p>
-<p>然后就安装成功了，你只需要重新进服务器即可。</p>
-<h1><span id="原理">原理</span></h1><p>不仅仅是TF2，像CSS和Gmod等起源游戏，都把从服务器下载的自定义内容，下载到这个download文件夹下。其中下载的内容一般是 maps, materials, models, sound 即地图、贴图、模型、音乐。不过玩家的喷漆并不保存在这里。你同时也会注意到你的tf文件夹，即download的父文件夹，里面一般也有 maps, materials, models, sound 这四个文件夹，假如你熟悉自定义地图，你知道maps里面装的是官方地图，你也可以把你下载到的地图bsp文件放在这里面。</p>
-<p>那么直接把下载的资源包解压到tf文件夹不就好了吗？为什么还要解压到tf\download文件夹下呢？其实，你是<strong>可以</strong>把资源包直接放在tf文件夹下的，但是极不推荐，这不方便你分类管理自定义内容。</p>
-<p>download文件夹里面的maps, materials, models, sound是等同于游戏在加载 tf\maps tf\materials tf\models tf\sound 这四个文件夹的。你也可以把自己在mod网站找到的地图放在 tf\download\maps 也是可以正常使用的。</p>
-<h1><span id="mod文件夹">mod文件夹</span></h1><p>在安装各种mod时，除了vpk文件，你可能会被要求把下载到的压缩包解压到 tf\custom 的。只要你细心就能注意到，里面的文件也是遵从同等加载的办法的。只不过他们以不同的mod文件夹进行分类。</p>
-]]></content>
-      <categories>
-        <category>技术分享</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>咖啡厅暗鬼服更新日志</title>
-    <url>/2021/02/22/tf2sf2serverupdatelog/</url>
-    <content><![CDATA[<h1><span id="更新日志">更新日志</span></h1><p>以后暗鬼服的更新日志直接在这里写。请时常查看本页面是否有更新。<br>感谢Boss提供者：Mleczyk76、Nameless、Astolfo Alter</p>
-<h2><span id="2021221">2021/2/21</span></h2><ul>
-<li>创建了本日志，之前的更新记录我忘记次序了所以就这样吧。</li>
-</ul>
-<h2><span id="2021222">2021/2/22</span></h2><ul>
-<li>Core Pack 增加Boss：Marcus、Chaos Insurgency Soldiers</li>
-<li>增加地图：slender_2fort_b1、slender_4way_v3_fix、slender_abandoned_offices_v2、slender_aquatica_v5b、slender_assault_final、slender_asylum_redux_fix2</li>
-<li>Core Pack 增加Boss：Ethre、Hans Volter、Quadralex、BEN Drowned - 14:19</li>
-</ul>
-<h2><span id="2021223">2021/2/23</span></h2><ul>
-<li>Core Pack 增加Boss：Bad Batter、Guilt、Frank Manera、Patriarch and Fleshpound</li>
-<li>增加地图：slender_backrooms_b2、slender_badlands_survive_v3、slender_badwater_basin_wip、slender_biotics_lab_v1b</li>
-<li>增加玩家在默认情况下可以留守的时间10秒。</li>
-</ul>
-<h2><span id="2021224">2021/2/24</span></h2><ul>
-<li>分开了两个Boss组，在地图投票时可以进行投票。<ul>
-<li>Boss组1：Flesh Clown、Fleshpound、Frank Manera、Guardian、Guilt、Hans Volter、OI 2 Insanity、Jaraxxus、Marcus、The Patriarch、Quadralex、Rage Sniper、Sawrunner、Suicide Squidward</li>
-<li>Boss组2：Armless、Bad Batter、BEN Drowned、Big Smoke、Chaos Insurgency、Charlie Metson Jr.、Chris Walker、Corrupted Woody Redux、Corrupted Jessie(有可能成为Woody的伙伴)、Craig、Death Claw、Ethre、Snatcher</li>
-<li>核心组（不可投票，系统随时加载）：包括基础的Slender、Rake、和天使。还有地图限定的如FNAF2、SCPCB、拳击场地图的Boss也在里面。</li>
-</ul>
-</li>
-<li>新增了Boss：Squidward Suicide、Craig</li>
-<li>增加地图：slender_bowser_castle_b1b、slender_broken_v2、slender_cliffroad_b3</li>
-<li>削弱了Snatcher的小弟数量，从12修改为6。</li>
-<li>增加Boss组3：Dead By Daylight Pyramid Head、Queen Vanessa、Neighbor、Bill Cipher、Bulldozer and Skulldozer、Cartoon Cat、Flesher、Half-Life 2 D0g、Reinforced Blood Golem、Team Killer、Horseless Headless Horsemann、Handsome Jack</li>
-</ul>
-<h2><span id="2021225">2021/2/25</span></h2><ul>
-<li>增加Boss组4：Dr Trager、Sett、Jhin、Woormy Charles、Memphis Tennessee、Tinky Winky</li>
-<li>增加地图：slender_clinic_b2、slender_cry_of_fear_a3、slender_dawn_b2f</li>
-<li>削弱InSanity的视野和速度。</li>
-</ul>
-<h2><span id="2021226">2021/2/26</span></h2><ul>
-<li>Boss组4：增加Villager、Ghost、Skeleton、meem</li>
-<li>增加Boss组5：Emily、Garg、Horror、Lucy、Moarg、黑山基地的僵尸</li>
-<li>增加地图：slender_de_dust2_a1_fix1、slender_deathrun_a3_fix、slender_desecration_b2b、slender_lobbys_b2</li>
-</ul>
-<h2><span id="2021228">2021/2/28</span></h2><ul>
-<li>Boss组5：增加Paranoia</li>
-<li>增加地图：slender_diverge_reboot_v3、slender_enclosed_b1</li>
-<li>Boss组5：增加Hoovy Dundy</li>
-</ul>
-<h2><span id="202131">2021/3/1</span></h2><ul>
-<li>Boss组5：增加Specimen 12</li>
-<li>增加地图：slender_expedition_b3、slender_expeditions_curse_b3b、slender_eyes_b1、slender_facility_b3、slender_frezze_b1_fix、slender_frontier_engineering_final、slender_frostbite_b2</li>
-</ul>
-<h2><span id="202132">2021/3/2</span></h2><ul>
-<li>Boss组5：增加HER (IMSCARED)、Manhunt Smileys、Mutant Varients、King Gandalf</li>
-<li>增加地图：slender_frosty_sewer_b2、slender_gate3_a3、slender_grotto_b2</li>
-<li>增加蹲坑检测时间10秒。</li>
-</ul>
-<h2><span id="202134">2021/3/4</span></h2><ul>
-<li>为地图slender_fiveroundsatfreddys_b5添加专用Boss组：FNAF1组</li>
-</ul>
-<h2><span id="202136">2021/3/6</span></h2><ul>
-<li>增加Boss组6：德国boy（键盘毁灭者）、Marauder、T-800、Xenomorph、Jason Voorhees</li>
-<li>增加地图：slender_skyhigh_vshfit_a1、slender_well_a6、slender_turbine_lz_b6b_fix1</li>
-<li>将 slender_hellfire_b1c、slender_parish_b2b、slender_weepers_b3b、slender_abandoned_offices_v2、slender_assault_final、slender_lobbys_b2 移除出地图池</li>
-</ul>
-<h2><span id="202139">2021/3/9</span></h2><ul>
-<li>插件版本更新<ul>
-<li>特殊回合投票现在有了一个新的系统来挑选投票而不会重复导致崩坏。</li>
-<li>Silent Slender现在只生成3个boss而不是4个。</li>
-<li>In The 90s音乐回归并延长。</li>
-<li>自动追逐奔跑人现在依赖于boss的搜索和声音范围。</li>
-<li>幽灵现在使用Collision Hooks而不是noclip。</li>
-<li>增加小弟武器。</li>
-</ul>
-</li>
-<li>德国boyOP版现在不会随机选中。</li>
-<li>Boss组6：增加zubenko、Padoru Nero</li>
-</ul>
-<h2><span id="2021311">2021/3/11</span></h2><ul>
-<li>Boss组6：增加Yandere Dev、Tinky Tank、Padoru Nero、Slendyclaus</li>
-<li>增加Boss组7：Dipsy Chainsaw、Dipsy Lake、Laa Laa、Markiplier、New Corrupted Spongebob、Po Necromorph、Cave Tubbie、Yeti Tubbie、SCP-049 (Proxy Master)、Classic SCP-096、Mace - Cry of Fear</li>
-<li>增加Boss组8：Fleshy Zork、Zork、Scrake、Meth-High Sniper、Mr.Wilson、Sick Simon、Trevor Philips</li>
-<li>增加地图：slender_his_world_a3、slender_industry_b3、slender_island_a1</li>
-<li>下载更新包：链接：<a href="https://pan.baidu.com/s/169ZcRO9aHgLb2ku55ntv2A">https://pan.baidu.com/s/169ZcRO9aHgLb2ku55ntv2A</a>  提取码：l9hp </li>
-</ul>
-<h2><span id="2021313">2021/3/13</span></h2><ul>
-<li>增加地图：slender_krusty_krab_b1、slender_lentimas_town_ptb_v1、slender_long_away_classic3、slender_luigis_mansion_v4、slender_mechanicus_133_a1、slender_midas_v5、slender_minecraft_a6、slender_badlands_v2</li>
-<li><del>更新将会不限期停止，恢复时间约为一年后。</del> 以后是随缘更新。</li>
-</ul>
-<h2><span id="202168">2021/6/8</span></h2><ul>
-<li>Boss组8：增加Shin Gojira、Creeper Girl、Bearded Expense</li>
-<li>增加Boss组9：Brown Bandits (S.T.A.L.K.E.R)、Gangsta Doctor、孙笑川(嘴臭天皇)、WindGrin</li>
-<li>地图更新：slender_ksopdarn_run_a1、slender_minecraft_a6fix_notnt</li>
-<li>资源包不再更新，推荐从游戏中下载，以后有机会再放出新的资源包。<ul>
-<li>下载原有的资源包仍然可以让你跳过许多需要下载的东西。</li>
-</ul>
-</li>
-</ul>
-<h2><span id="2021610">2021/6/10</span></h2><ul>
-<li>Boss组9：增加Astolfo Bean plushie、General Grievous（愚人节Boss）、louis</li>
-<li>更新德国boy</li>
-</ul>
-<h2><span id="2021712">2021/7/12</span></h2><ul>
-<li>Boss组9：增加The Trollge、Rick Astley。</li>
-<li>修复一些以半条命默认动画模型的动画错误。（wantsee）</li>
-</ul>
-<h2><span id="2021723">2021/7/23</span></h2><ul>
-<li>Boss组8：增加DOOM Hunter</li>
-<li>增加地图：slender_shelter_b1、slender_slenderina_a1、slender_offices_v6a</li>
-</ul>
-<h2><span id="2021731">2021/7/31</span></h2><ul>
-<li>Boss组7：添加Keeper</li>
-</ul>
-<h2><span id="202188">2021/8/8</span></h2><ul>
-<li>增加Boss组10：Anonymous、Boyfriend (FNF)、Gorefield、Johnny、Isaac、Classic Memelord、Sexually Challenged Spy、Tom、Zurg [catpyro]</li>
-<li>Boss组10：增加 Fiddlesticks [Diviously]</li>
-<li>增加地图：slender_ksopdarn_run_a2、slender_egypt_b1c</li>
-</ul>
-<h2><span id="2021815">2021/8/15</span></h2><ul>
-<li>增加地图：slender_mountaincomplex_v2b、slender_enclosed_b1b、slender_weepers_b3b、slender_overgrown_v2、slender_summercamp_b7b</li>
-<li>更新Sett：增强攻击，增加Pool Party (Summer)变种</li>
-</ul>
-<h2><span id="2021824">2021/8/24</span></h2><ul>
-<li>Boss组8：增加Lewis Pepper</li>
-<li>Meme：增加Isabelle Buffed</li>
-</ul>
-<h2><span id="2021919">2021/9/19</span></h2><p><a href="https://steamcommunity.com/groups/CoffeeHouseTF2">Steam 社区 :: 组 :: Coffee咖啡厅TF2 (steamcommunity.com)</a> 以后的内容写进Steam组，因为github经常抽风。</p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>暗鬼服游玩警告</title>
-    <url>/2021/02/28/playsf2warning/</url>
-    <content><![CDATA[<h1><span id="警告暗鬼服游玩警告">警告：暗鬼服游玩警告</span></h1><p><a href="https://img.fghrsh.net/image/JSdGe"><img src="http://fp1.fghrsh.net/2021/02/28/cb28106c11376bb9af36e999d2127362.jpg" alt="cb28106c11376bb9af36e999d2127362.jpg"></a></p>
-<p><strong>服务器模式为娱乐性恐怖模式。可能不适合所有人游玩。</strong></p>
-<p><strong>未成年人请不要游玩本服务器！</strong></p>
-<p><strong>心理承受能力弱的玩家请不要游玩本服务器！</strong></p>
-<p><strong>在服务器已经发布告知的情况下，仍坚持错误的行为并因此受到任何伤害的，由其自己承担一切后果！</strong></p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>咖啡厅服务器核弹避难所</title>
-    <url>/2021/03/10/tf2-nuke-hide-here/</url>
-    <content><![CDATA[<p>就字面意思，避免核爆，服务器进入地下室，外部不能再看到服务器情况了。只能直连IP进入。<br><a href="https://blog.midheart.club/fuwuqi/">查看更多…</a></p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>DDOS期间暂时关闭服务器</title>
-    <url>/2021/03/08/ddosshutdown/</url>
-    <content><![CDATA[<p>最近我的服务器遭受一连串的DDOS攻击，因此决定暂时关闭服务器。恢复时间请留意后续通知。</p>
-<p>受DDOS影响的服务器：挂机服、暗鬼服、竞技服、求生僵尸服、跳跃服</p>
-<p>拒绝访问的服务器：挂机服、暗鬼服、竞技服、求生僵尸服</p>
-<p>不关机的服务器：跳跃服</p>
-<p>未受到攻击的服务器：HKMGE服</p>
-<p>不关机的服务器只是不关机，仍会被攻击，因此不可以保证可用性。</p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-        <tag>云服务器</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>商店插件更新</title>
-    <url>/2021/03/11/storepluginupdate/</url>
-    <content><![CDATA[<p>顾名思义，商店插件做了一个小更新，现在玩家皮肤可以分兵种不同装备了。数据库也因此而更新，你们不需要做任何操作。但是所有已装备的物品都被强制卸下了。请自己手动装备回来。<br>也增加了很多头衔，感觉没有括号挺好的</p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>有新的服务器啦</title>
-    <url>/2021/06/01/6-1-new-tf2-server/</url>
-    <content><![CDATA[<p>话不多说好吧。</p>
-<p>咖啡厅服务器<br>暗鬼服：g2.polarstar.cc:62501<br>挂机服：g2.polarstar.cc:62511</p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>22娘模型贴图修复</title>
-    <url>/2021/07/07/fix22materials/</url>
-    <content><![CDATA[<p>现存的22娘存在贴图错误，会导致异常。请下载下面的文件进行覆盖修复。</p>
-<p><a href="https://wwa.lanzoui.com/iiHuNr4i49c">https://wwa.lanzoui.com/iiHuNr4i49c</a></p>
-<p>或者你也可以删除掉 tf\download\materials\indexh\bili2 文件夹来重新获取文件。</p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>VSH服BOSS机制介绍</title>
-    <url>/2022/02/01/vsh2-boss/</url>
-    <content><![CDATA[<h1><span id="vsh服boss机制介绍">VSH服BOSS机制介绍</span></h1><h2><span id="通用">通用</span></h2><p>全部BOSS都不会受到掉落伤害。</p>
-<p>每次BOSS受到攻击获得的愤怒值的计算公式为</p>
-<p><img src="/images/boss_gongshi.png" alt="BOSS愤怒值计算公式"></p>
-<blockquote>
-<p>看不懂吧？我也看不懂。</p>
-</blockquote>
-<p>BOSS蹲下时免疫任何伤害击退。</p>
-<p>假如场上只剩下侦察兵，BOSS的愤怒值增加。</p>
-<p>每个BOSS的近战伤害值经过调整，不会出现一刀300+，400+的奇怪伤害。</p>
-<p>非全部BOSS都能瞬间造成200+伤害，除了萨克斯顿霍尔这个澳大利亚大叔。</p>
-<p>下面介绍与原版有所不同的BOSS。玩过VSH-R的玩家可能比较熟悉。</p>
-<h2><span id="vagineer">Vagineer</span></h2><p>激活愤怒时可以建造一个步哨枪，这个步哨枪比较疯狂。</p>
-<h2><span id="脱缰的无头骑士-jr">脱缰的无头骑士 Jr.</span></h2><p>激活愤怒时，变成一个幽灵，不会受到伤害，可以自由飞行，可以吸收周围敌人的生命值。</p>
-<h2><span id="残忍的基督弓手">残忍的基督弓手</span></h2><p>每次击杀之后获得的刀数据不同，信息会在BOSS换刀的时候显示在BOSS屏幕的中央。</p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>VSH服红队数据</title>
-    <url>/2022/02/01/vsh2-red/</url>
-    <content><![CDATA[<h1><span id="vsh服红队数据介绍">VSH服红队数据介绍</span></h1><h2><span id="通用">通用</span></h2><p>全部人的主武器和副武器的弹药都增加了，让红队玩家少和工程师抢夺弹药箱。</p>
-<p>兵种限制：目前全部兵种都只限制5人。</p>
-<p>踩头需要你的速度到290.0才可以踩头，伤害为 （5%的BOSS最大生命值+450.0）。踩头弹射力量为550.0。</p>
-<p>并非所有BOSS都能造成200+的伤害，所以你不用觉得这些数值很低。</p>
-<p>使用大部分爆击近战武器攻击BOSS下半身可以击退BOSS。</p>
-<p>下面的数据不会写详细，因为可能会后期调整。</p>
-<h2><span id="侦察兵">侦察兵</span></h2><p>猎枪：射出的子弹变多了。</p>
-<blockquote>
-<p>热可可：可能不是全部侦察兵的枪法都很好，因此增加射出的子弹数量可以让不是那么厉害的侦察兵也能打多点输出。</p>
-</blockquote>
-<p>自然之力：无调整。</p>
-<blockquote>
-<p>热可可：本来我想调整为弹匣容量为1发，但是其实这个武器本身就很挺平衡了，通常击退也只有第一发有明显作用，加上削弱武器总会被玩家骂，就先放着不动。</p>
-</blockquote>
-<p>偷袭之力：可以发射火箭。</p>
-<blockquote>
-<p>热可可：偷袭之力即使调整为背后攻击为爆击，它的收益也不明显。调整为小型的火箭发射器可以让侦察兵尝试其他的办法。</p>
-</blockquote>
-<p>娃娃脸的冲击波：能量条会随时间减少。</p>
-<blockquote>
-<p>热可可：一个一直跑的超快侦察兵，对于BOSS来说是需要花费九牛二虎之力才能抓到的对象。让侦察兵造成伤害来保持速度是一个不错的平衡办法。</p>
-</blockquote>
-<p>边锋球员：踩头造成额外的1024伤害。</p>
-<blockquote>
-<p>热可可：边锋球员让侦察兵跳得更高，奖励使用边锋球员的侦察兵额外踩头伤害能鼓励侦察兵多使用踩头……同时将自己置身于危险中。</p>
-</blockquote>
-<p>帅气男孩的袖珍手枪：手持时击中BOSS时回血可以超量治疗。</p>
-<blockquote>
-<p>热可可：这把帅气的手枪需要逼迫BOSS避免被击中，以免让侦察兵能抗住BOSS的攻击。</p>
-</blockquote>
-<p>糖果手杖：击中BOSS时掉落医疗包。</p>
-<blockquote>
-<p>热可可：虽然用近战攻击BOSS是一个不那么聪明的选择，但是有时候你打掉的医疗包可能会救你自己或者队友的命。</p>
-</blockquote>
-<p>波士顿狼牙棒：让侦察兵变成中世纪战士。</p>
-<blockquote>
-<p>热可可：嘿你！你终于醒了，你刚刚正在想办法过桥对吧……</p>
-</blockquote>
-<p>军配扇：击中BOSS时可以消除愤怒值。</p>
-<blockquote>
-<p>热可可：哈喽？我的愤怒值怎么又少了？卧槽那个侦察兵拍了我一下就溜了，焯！</p>
-</blockquote>
-<p>睡魔：可以击晕BOSS，球的冷却时间增加。</p>
-<blockquote>
-<p>热可可：击晕是一个需要非常谨慎对待的特性。假如是减速，BOSS也追不上侦察兵。但是玩家热烈的要求击晕，那么就给予它超长的冷却时间吧。</p>
-</blockquote>
-<p>包装纸杀手：获得更多球。</p>
-<blockquote>
-<p>热可可：礼物球！耶！</p>
-</blockquote>
-<p>太阳之杖：对着火敌人迷你爆击，并为他们灭火。敌人剩余着火时间越长，伤害越高。</p>
-<blockquote>
-<p>热可可：原来只有爆击，但是所有近战都有爆击，为了突出太阳之杖的特性，就增加伤害吧。</p>
-</blockquote>
-<h2><span id="士兵">士兵</span></h2><p>所有的空爆（Airshot）：全场播放超帅的音效。</p>
-<p>精确打击者：迷你爆击替换为爆击。</p>
-<blockquote>
-<p>热可可：空爆本身是很难做到的，奖励使用精确打击者空爆成功更多伤害是必须的。</p>
-</blockquote>
-<p>空袭火箭筒：爆炸范围增加。</p>
-<blockquote>
-<p>热可可：空中轰炸机！</p>
-</blockquote>
-<p>乞丐的火箭筒：装弹速度加快。</p>
-<blockquote>
-<p>热可可：更快的自爆！（？）</p>
-</blockquote>
-<p>正义野牛：不需要装填，开火速度增加50%。</p>
-<blockquote>
-<p>热可可：本身正义野牛就比较拉，增强一点不过分吧。</p>
-</blockquote>
-<p>军队的支援：激活时减少受到来自BOSS的伤害，召唤死去的队友作战。</p>
-<blockquote>
-<p>热可可：军队的支援……你的军队来支援啦！</p>
-</blockquote>
-<p>战旗：激活时主武器5秒内可以发射一次火箭弹幕。</p>
-<blockquote>
-<p>热可可：今天我就是博丽灵梦本梦！</p>
-</blockquote>
-<p>征服者战旗：激活时获得30发火箭弹药。</p>
-<blockquote>
-<p>热可可：小海螺给你送弹药箱啦。</p>
-</blockquote>
-<p>踏步靴：火箭跳跃受到的伤害减少，跳得更高远，踩头造成额外1024伤害。</p>
-<blockquote>
-<p>热可可：作为一个本身就用来踩头的武器，大家都能踩头的话，踏步靴需要突出的特点。</p>
-</blockquote>
-<p>炮艇：受到的掉落伤害减少。</p>
-<blockquote>
-<p>热可可：给踏步靴加了火箭跳跃减伤害，那炮艇就需要加些独特的。</p>
-</blockquote>
-<p>极限降落伞：从医疗包获取的生命值+50%。</p>
-<blockquote>
-<p>热可可：这玩意除了搭配空袭火箭筒几乎没用。</p>
-</blockquote>
-<p>市场花园铁锹：攻击速度略微减慢，命中时造成比例伤害。</p>
-<blockquote>
-<p>热可可：就变慢一点点。</p>
-</blockquote>
-<h2><span id="火焰兵">火焰兵</span></h2><p>主武器：手持时击中BOSS时回血可以超量治疗。压缩空气充能时间极大加长，吹中BOSS会增加其愤怒值。</p>
-<blockquote>
-<p>热可可：从远古时代流传下来的国服火焰喷射器能加血的”优良“传统，大家又讨厌压缩空气乱吹。那就这样调整吧。</p>
-</blockquote>
-<p>原配火焰喷射器增加3倍后续燃烧伤害。其他火焰喷射器只有小量加成。</p>
-<blockquote>
-<p>热可可：鼓励原配武器。</p>
-</blockquote>
-<p>脱油剂：压缩空气推力增加。</p>
-<blockquote>
-<p>热可可：吹，吹TMD。</p>
-</blockquote>
-<p>燃素喷射器：激活“呜唔”时减少受到来自BOSS的伤害。回血速度比其他火焰喷射器慢。</p>
-<blockquote>
-<p>热可可：大家都讨厌燃素。</p>
-</blockquote>
-<p>热能推进器：可以空中二次喷射，穿戴者不受掉落伤害。</p>
-<blockquote>
-<p>热可可：这个武器用的人太少啦。而且也不是很好用。</p>
-</blockquote>
-<p>纵火者的油桶：敌人在被点燃时爆炸。</p>
-<blockquote>
-<p>热可可：作为一个油桶能爆炸那也是情理之中？</p>
-</blockquote>
-<p>信号枪：伤害增加。</p>
-<blockquote>
-<p>热可可：谁让其他的信号枪太有特色了。</p>
-</blockquote>
-<p>预备役射手：对空中的敌人爆击。</p>
-<blockquote>
-<p>热可可：子弹不多的，省点用。</p>
-</blockquote>
-<p>起爆者：爆炸可以让你起飞。</p>
-<blockquote>
-<p>热可可：经典武器。</p>
-</blockquote>
-<p>熔人枪：击中后可以恢复生命值。</p>
-<blockquote>
-<p>热可可：这个武器的存在感较低。</p>
-</blockquote>
-<p>三度烧伤：手持时受到治疗者的治疗量增加。医生治疗你时Ubercharge充能速度增加，同时你的武器伤害增加。</p>
-<blockquote>
-<p>热可可：你以为只是医生的拐？实际上是与医生的Combo攻击！</p>
-</blockquote>
-<p>拆迁者：直接攻击BOSS即可击退。</p>
-<blockquote>
-<p>热可可：不用攻击下半身啦！让BOSS远离你！还不会给BOSS增加愤怒值！</p>
-</blockquote>
-<p>熔岩战斧：变身中世纪战士。</p>
-<blockquote>
-<p>热可可：战斗！塔塔开！</p>
-</blockquote>
-<p>灼热之手：增加近战范围，击中队友时给双方提供加速。</p>
-<blockquote>
-<p>热可可：原来你只能扇敌人巴掌来加速，但是现在你可以扇队友一个大巴掌了！还不会被骂！</p>
-</blockquote>
-<h2><span id="爆破手">爆破手</span></h2><p>双管榴弹发射器：伤害增加。</p>
-<blockquote>
-<p>热可可：不命中就碎，让它的变得难以使用。</p>
-</blockquote>
-<p>脱缰巨炮：弹匣调整为3发。</p>
-<blockquote>
-<p>热可可：不许乱丢大炮！特别是配合盾牌提供的爆击！</p>
-</blockquote>
-<p>铁弹发射器：至多装填4发榴弹，然后发射。</p>
-<blockquote>
-<p>热可可：”乞丐的“榴弹发射器。</p>
-</blockquote>
-<p>阿里巴巴的尖头靴：提供的加速不需要装备盾牌也能加速。</p>
-<blockquote>
-<p>热可可：以免有人无聊想用鞋子+粘弹。</p>
-</blockquote>
-<p>苏格兰防御者：无伤害击退。</p>
-<blockquote>
-<p>热可可：你还是可以种海胆。</p>
-</blockquote>
-<p>快速黏弹发射器：发射的粘弹可以瞬间引爆。</p>
-<blockquote>
-<p>热可可：快！</p>
-</blockquote>
-<p>冲锋盾：撞击时获得防御状态。</p>
-<p>辉煌护盾：撞击时击退增加。</p>
-<p>力挽狂澜：近战击中可恢复75%冲锋能量。</p>
-<blockquote>
-<p>热可可：给盾牌加点东西也挺好的。（不一定能正常工作？未来可能移除？）</p>
-</blockquote>
-<p>波斯弯刀：击中敌人可以恢复生命值和冲锋能量，拾取的弹药变成冲锋能量。</p>
-<blockquote>
-<p>热可可：那边的你！可以继续冲了！</p>
-</blockquote>
-<p>木柄手榴弹：牺牲式攻击。</p>
-<blockquote>
-<p>热可可：同时你的手掌也会变大！</p>
-</blockquote>
-<p>装备盾牌时主武器根据冲锋能量条获得爆击或迷你爆击或无爆击。比如你刚冲锋完，就没爆击，等待能量恢复之后获得迷你爆击，然后才获得爆击。</p>
-<h2><span id="机枪手">机枪手</span></h2><p>主武器切换速度加快，预热速度加快。</p>
-<blockquote>
-<p>热可可：让胖子玩得不觉得那么笨重。</p>
-</blockquote>
-<p>娜塔莎转轮机枪：击中时无减速，但是可以恢复生命值。</p>
-<blockquote>
-<p>热可可：减速罪大恶极！</p>
-</blockquote>
-<p>黄铜猛兽：预热速度正常。可以使用怒气击退。武器切换速度轻微加快。</p>
-<blockquote>
-<p>热可可：你还是老老实实当个人肉步哨吧。</p>
-</blockquote>
-<p>火龙转轮机枪：对着火的敌人造成迷你爆击。</p>
-<blockquote>
-<p>热可可：少子弹的火龙或将成为历史。</p>
-</blockquote>
-<p>霰弹枪：击中的伤害可转换为一些生命值。</p>
-<blockquote>
-<p>热可可：另一种回血的办法。</p>
-</blockquote>
-<p>达勒克斯巧克力块：25秒充能。吃完之后恢复弹药。</p>
-<blockquote>
-<p>热可可：自己带着弹药箱，里面附赠的巧克力块。</p>
-</blockquote>
-<p>三明治，第二名的香蕉：吃饭速度加快。</p>
-<blockquote>
-<p>热可可：因为BOSS的压迫力，机枪手被迫快速吃完它的饭。</p>
-</blockquote>
-<p>家族运营枪：击中后获得速度加成，但装填速度变慢。</p>
-<blockquote>
-<p>热可可：Speed Up!</p>
-</blockquote>
-<p>驱逐警告：增加跳跃高度。</p>
-<blockquote>
-<p>热可可：Jump!</p>
-</blockquote>
-<p>勇士之魂：击中BOSS时回血可以超量治疗。</p>
-<blockquote>
-<p>热可可：这年头谁还不能自己超个量了。</p>
-</blockquote>
-<p>钢铁拳套：减伤对近战也有效。</p>
-<blockquote>
-<p>热可可：不这么做这个就是铸币武器。</p>
-</blockquote>
-<h2><span id="工程师">工程师</span></h2><p>边境裁决者：步哨瞄准BOSS时爆击。</p>
-<blockquote>
-<p>热可可：那么，代价是什么？</p>
-</blockquote>
-<p>歼灭者 6000：击中BOSS时可以消除愤怒值。</p>
-<blockquote>
-<p>热可可：这个比较难顶，这个是远程的。但是打不中也没用。</p>
-</blockquote>
-<p>寡妇制造者：减少射击所需的金属。</p>
-<blockquote>
-<p>热可可：本身是牛逼又平衡的枪，只是为了照顾一下枪法差的玩家。</p>
-</blockquote>
-<p>手枪：精确度提升。</p>
-<blockquote>
-<p>热可可：打得准的才是牛仔。</p>
-</blockquote>
-<p>短路发射器：手持时发射的球体命中任何表面会爆炸，可以爆炸跳。</p>
-<blockquote>
-<p>热可可：别抱怨不能自伤跳了，这不来了吗？跳不好那你多练。</p>
-</blockquote>
-<p>遥控手柄：手持时获得迷你爆击。</p>
-<blockquote>
-<p>热可可：迷你爆击的声音听起来很舒服的。</p>
-</blockquote>
-<p>传送扳手：使用扳手传送之后会被眩晕很长时间，添加透轮廓透视，添加极长的冷却时间，增加流血。</p>
-<blockquote>
-<p>热可可：别的服务器会禁止这个武器，但我不同！我允许你用！</p>
-</blockquote>
-<p>南部的款待：增加步哨和补给器范围，但不能搬运建筑。</p>
-<blockquote>
-<p>热可可：这个武器本身存在感很低。</p>
-</blockquote>
-<p>金属会定时自动恢复。</p>
-<blockquote>
-<p>热可可：所以别再喊地图没弹药包了！</p>
-</blockquote>
-<p>工程师可以通过!pad建造加速板与跳跃板，可以帮助自己或队友逃离BOSS的魔爪或到达战术位置。</p>
-<h2><span id="医生">医生</span></h2><p>注射枪：命中后增加Ubercharge能量。</p>
-<p>吸血鬼注射枪：命中后增加更少的Ubercharge能量，回血可以超量治疗。</p>
-<p>过载注射枪：命中后增加更少的Ubercharge能量。</p>
-<p>十字军之弩：永久爆击，命中后增加Ubercharge能量。箭矢击中任何表面后爆炸。</p>
-<blockquote>
-<p>热可可：医生也能爆炸跳。</p>
-</blockquote>
-<p>原配医疗枪：治疗时你的治疗目标获得迷你爆击。</p>
-<p>闪电战医疗枪：激活Ubercharge时使周围的队友都获得爆击。治疗时你的治疗目标获得迷你爆击。</p>
-<p>快速医疗枪：激活Ubercharge时使周围的队友都获得加速。</p>
-<p>疫苗注射枪：增加超量治疗量与持续时间。</p>
-<blockquote>
-<p>热可可：各有利弊，但是注意BOSS的攻击力不是那种动辄300+的，疫苗注射枪提供的超量或许可以救更多的人。</p>
-</blockquote>
-<p>当医生的Uber接近充满时（90%+），会使用Uber作为盾牌来避免医生被击杀。</p>
-<blockquote>
-<p>热可可：别说医生的生存率低啦！</p>
-</blockquote>
-<h2><span id="狙击手">狙击手</span></h2><p>猎人短弓：箭矢击中任何表面后爆炸。击中后恢复生命值。</p>
-<blockquote>
-<p>热可可：狙击手也能爆炸跳。</p>
-</blockquote>
-<p>悉尼沉睡者：命中BOSS可以减少其愤怒值。</p>
-<blockquote>
-<p>热可可：虽然只有1%。</p>
-</blockquote>
-<p>达尔文的危险之盾：增加跳跃高度，不受掉落伤害，最大生命值增加。</p>
-<blockquote>
-<p>热可可：纯纯的好东西了。</p>
-</blockquote>
-<p>扫荡者卡宾：增加精确度。</p>
-<blockquote>
-<p>热可可：我挺喜欢这武器的，可惜太弱了。</p>
-</blockquote>
-<p>近战武器攻击墙面可以爬墙。</p>
-<p>部落者刮刀：爬墙无攻击延迟，但减少爬墙高度。</p>
-<p>灌木丛：极大增加爬墙高度，消耗血量增加。</p>
-<p>诸王之王：生命值少于70时增加爬墙高度。</p>
-<blockquote>
-<p>热可可：各有利弊，自行选择。</p>
-</blockquote>
-<h2><span id="间谍">间谍</span></h2><p>背刺只能造成BOSS最大生命值约10%左右的伤害。</p>
-<p>大使手枪：爆头后获得速度加成。</p>
-<blockquote>
-<p>热可可：打你头就跑！</p>
-</blockquote>
-<p>执法者：伪装时手枪伤害额外增加。但爆击伤害随距离减少。</p>
-<blockquote>
-<p>热可可：这个是稳定的高额输出了。</p>
-</blockquote>
-<p>菱背响尾蛇：背刺后+2爆击。</p>
-<p>永生的回报：背刺后伪装，前三次背刺0伤害，第四次背刺伤害6倍+666。</p>
-<blockquote>
-<p>热可可：哇，你是背刺大佬。</p>
-</blockquote>
-<p>暴利杀手：背刺完全恢复隐身能量。</p>
-<blockquote>
-<p>热可可：背刺+死铃，然后再背刺+再死铃。打不死的死掰。</p>
-</blockquote>
-<p>密谋者的苦无：背刺后增加超量生命值。</p>
-<blockquote>
-<p>热可可：这个也是危险武器？但是不刺中就得死。</p>
-</blockquote>
-<p>隐形刺客：隐身能量正常消耗，隐身时不可拾取弹药箱补充隐身能量，隐身能量充能速度加快。</p>
-<blockquote>
-<p>热可可：只是另一个版本的隐身手表。</p>
-</blockquote>
-<p>电子工兵替换为可以投掷的苦无，命中后可恢复生命值。</p>
-<blockquote>
-<p>热可可：几乎没BOSS可以建造，即使能建造，我也不会让电子工兵干扰BOSS的建筑，那不如让这个武器变成别的东西。</p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>VSH服 琪露诺更新</title>
-    <url>/2022/04/16/vsh-2022-4-16/</url>
-    <content><![CDATA[<p>BOSS</p>
-<p>琪露诺</p>
-<ul>
-<li>无近战武器，发射蓝色弹幕进行攻击。</li>
-<li>基础伤害7.5，对被冰冻的玩家基础伤害65.0。</li>
-<li>红队玩家持续受到伤害达到一定数值之后，会被冰冻。</li>
-<li>红队玩家保持4秒内不被琪露诺伤害之后，伤害计算和冰冻状态解除。</li>
-<li>愤怒技能会将周围的敌人冰冻。</li>
-<li>模型有自定义动画。</li>
-</ul>
-<p>红队</p>
-<ul>
-<li><p>通用</p>
-</li>
-<li><ul>
-<li>全部兵种嘲讽爆击时间增加。</li>
-<li>安全区完全缩小时间更改为120秒。</li>
-</ul>
-</li>
-<li><p>侦察兵</p>
-</li>
-<li><ul>
-<li>混混的菜刀命中后可以给侦察兵恢复生命值。</li>
-</ul>
-</li>
-<li><p>士兵</p>
-</li>
-<li><ul>
-<li>十字镐命中敌人后可获得速度加成。</li>
-</ul>
-</li>
-<li><p>火焰兵</p>
-</li>
-<li><ul>
-<li>火焰粒子速度增加20%，意味着火焰粒子可以比原来飘得更远。</li>
-<li>火焰喷射器命中BOSS恢复的生命值增加。</li>
-</ul>
-</li>
-<li><p>爆破手</p>
-</li>
-<li><ul>
-<li>装备阿里巴巴的尖头靴和假腿时，爆炸跳跃伤害减少30%。</li>
-</ul>
-</li>
-<li><p>机枪手</p>
-</li>
-<li><ul>
-<li>略微增加除汤姆斯拉夫以外的机枪的预热和武器切换的速度。</li>
-</ul>
-</li>
-<li><p>工程师</p>
-</li>
-<li><ul>
-<li>增加火线救兵的弹药。</li>
-</ul>
-</li>
-<li><p>医生</p>
-</li>
-<li><ul>
-<li>增加主武器的弹药。</li>
-</ul>
-</li>
-<li><p>狙击手</p>
-</li>
-<li><ul>
-<li>增加SMG和扫荡者卡宾的弹药。</li>
-</ul>
-</li>
-<li><p>间谍</p>
-</li>
-<li><ul>
-<li>电子工兵不再被替换为苦无。</li>
-<li>当手持电子工兵时，跳跃高度增加。</li>
-</ul>
-</li>
-</ul>
-<p>其他</p>
-<ul>
-<li>部署了新的召唤套用，希望能修复阿库娅的召唤问题。</li>
-</ul>
-]]></content>
-      <categories>
-        <category>更新日志</category>
       </categories>
       <tags>
         <tag>TF2</tag>
@@ -1205,6 +426,312 @@ sv_downloadurl &quot;http://yourfastdlsite.com/tf&quot;
       <tags>
         <tag>TF2</tag>
         <tag>云服务器</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>咖啡厅雪糕跳跃服</title>
+    <url>/2021/02/11/newtf2jumpserver/</url>
+    <content><![CDATA[<p>好耶，新的服务器开了。是跳跃服，雪糕跳跃服。</p>
+<p>点击右边连接服务器。<a href="steam://connect/47.115.144.75:27015">点我连接雪糕跳跃服</a></p>
+<p>感谢Zero的赞助。</p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+        <tag>云服务器</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>咖啡厅服务器更新 v0.1</title>
+    <url>/2021/02/11/update-v0-1/</url>
+    <content><![CDATA[<p>不是说新年新气象嘛，乘着我用了三年的主机和FF2服务器终于在3月要关闭了，这里已经做好了数据迁移服务，大家不用担心~</p>
+<ul>
+<li>更新封禁系统 <a href="https://bans.midheart.club/">bans.midheart.club</a></li>
+<li>将SZF服（僵尸模式）纳入统一管理，增加商店。</li>
+</ul>
+<p>还有兴趣多开一个模式的服务器，有啥建议可以和我说。</p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>咖啡厅模型预览</title>
+    <url>/2021/02/17/tf2modelsreview/</url>
+    <content><![CDATA[<p><strong>点击进入相册</strong></p>
+<h1><span id="artifact纸片人">Artifact纸片人</span></h1><p><a href="https://img.fghrsh.net/image/J8Opg"><img src="https://fp1.fghrsh.net/2021/02/17/15c1ff08c5234a135ebbd67565f3f2e2.png" alt="15c1ff08c5234a135ebbd67565f3f2e2.png"></a></p>
+<p><a href="https://img.fghrsh.net/album/LHUiz">查看更多…</a></p>
+<h1><span id="机器人大军">机器人大军</span></h1><p>都是TF2MVM模式的机器人，我觉得就不用放预览图了</p>
+<p><a href="https://img.fghrsh.net/image/J8D2P"><img src="http://fp1.fghrsh.net/2021/02/17/76734c002b90aaf0b1f52ff6190d7673.png" alt="76734c002b90aaf0b1f52ff6190d7673.png"></a></p>
+<h1><span id="自定义系列">自定义系列</span></h1><p>为什么叫自定义？因为我也不知道叫什么好。</p>
+<p><a href="https://img.fghrsh.net/image/JG3DI"><img src="http://fp1.fghrsh.net/2021/02/17/4d9e5f8eaac09fbc8ac507cba854f615.png" alt="4d9e5f8eaac09fbc8ac507cba854f615.png"></a></p>
+<p><a href="https://img.fghrsh.net/album/LHoX5">查看更多…</a></p>
+<h1><span id="可可自制系列">可可自制系列</span></h1><p>从我一开始不熟悉到后面熟悉的绑定的模型，初期做的很差，比如2233娘和红豆水手服之类的。后面是越做越好的。好耶</p>
+<p>~( •̀ ω •́ )y</p>
+<p><a href="https://img.fghrsh.net/image/JihYn"><img src="http://fp1.fghrsh.net/2021/02/17/f9a946fd69f468b4fe10e14e09e422a4.png" alt="f9a946fd69f468b4fe10e14e09e422a4.png"></a></p>
+<p><a href="https://img.fghrsh.net/album/LHv4B">查看更多…</a></p>
+<h1><span id="自制新增系列">自制新增系列</span></h1><p>2021年之后我做的新模型的图片会在这里。</p>
+<p><a href="https://img.fghrsh.net/image/JSBFK"><img src="http://fp1.fghrsh.net/2021/02/26/21c06ce8074916c2eda222245c748367.png" alt="21c06ce8074916c2eda222245c748367.png"></a></p>
+<p><a href="https://img.fghrsh.net/album/Lnmne">查看更多…</a></p>
+]]></content>
+      <categories>
+        <category>咖啡厅预览</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>咖啡厅的暗鬼要塞服务器开服了</title>
+    <url>/2021/02/18/tf2newslenderserver/</url>
+    <content><![CDATA[<p>我又蹭到别人的学生机啦<del>既然这么好以后都蹭好啦</del></p>
+<p>暗鬼要塞服务器，只装了基本的游戏内容和地图，用腾讯云cdn加速下载，点击下面的链接即可进服务器。</p>
+<p><a href="steam://connect/42.193.131.170:27015">点我连接巧克力暗鬼服</a></p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>资源包怎么用/TF2的download文件夹如何运作？</title>
+    <url>/2021/02/19/howtf2downloadfolderworks/</url>
+    <content><![CDATA[<h1><span id="简而言之">简而言之</span></h1><p>假如你只是想知道你下载的资源包怎么用，那我可以在这里简单地告诉你。你下载的资源包一般是个压缩包，双击打开后里面一般会有 maps, materials, models, sound 这四个文件夹的任何几种，可能多可能少，但是你只要全选这几个文件夹，然后拖放到你的游戏目录的这个路径之下。</p>
+<p><code>Team Fortress 2\tf\download</code></p>
+<p>然后就安装成功了，你只需要重新进服务器即可。</p>
+<h1><span id="原理">原理</span></h1><p>不仅仅是TF2，像CSS和Gmod等起源游戏，都把从服务器下载的自定义内容，下载到这个download文件夹下。其中下载的内容一般是 maps, materials, models, sound 即地图、贴图、模型、音乐。不过玩家的喷漆并不保存在这里。你同时也会注意到你的tf文件夹，即download的父文件夹，里面一般也有 maps, materials, models, sound 这四个文件夹，假如你熟悉自定义地图，你知道maps里面装的是官方地图，你也可以把你下载到的地图bsp文件放在这里面。</p>
+<p>那么直接把下载的资源包解压到tf文件夹不就好了吗？为什么还要解压到tf\download文件夹下呢？其实，你是<strong>可以</strong>把资源包直接放在tf文件夹下的，但是极不推荐，这不方便你分类管理自定义内容。</p>
+<p>download文件夹里面的maps, materials, models, sound是等同于游戏在加载 tf\maps tf\materials tf\models tf\sound 这四个文件夹的。你也可以把自己在mod网站找到的地图放在 tf\download\maps 也是可以正常使用的。</p>
+<h1><span id="mod文件夹">mod文件夹</span></h1><p>在安装各种mod时，除了vpk文件，你可能会被要求把下载到的压缩包解压到 tf\custom 的。只要你细心就能注意到，里面的文件也是遵从同等加载的办法的。只不过他们以不同的mod文件夹进行分类。</p>
+]]></content>
+      <categories>
+        <category>技术分享</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>咖啡厅暗鬼服更新日志</title>
+    <url>/2021/02/22/tf2sf2serverupdatelog/</url>
+    <content><![CDATA[<h1><span id="更新日志">更新日志</span></h1><p>以后暗鬼服的更新日志直接在这里写。请时常查看本页面是否有更新。<br>感谢Boss提供者：Mleczyk76、Nameless、Astolfo Alter</p>
+<h2><span id="2021221">2021/2/21</span></h2><ul>
+<li>创建了本日志，之前的更新记录我忘记次序了所以就这样吧。</li>
+</ul>
+<h2><span id="2021222">2021/2/22</span></h2><ul>
+<li>Core Pack 增加Boss：Marcus、Chaos Insurgency Soldiers</li>
+<li>增加地图：slender_2fort_b1、slender_4way_v3_fix、slender_abandoned_offices_v2、slender_aquatica_v5b、slender_assault_final、slender_asylum_redux_fix2</li>
+<li>Core Pack 增加Boss：Ethre、Hans Volter、Quadralex、BEN Drowned - 14:19</li>
+</ul>
+<h2><span id="2021223">2021/2/23</span></h2><ul>
+<li>Core Pack 增加Boss：Bad Batter、Guilt、Frank Manera、Patriarch and Fleshpound</li>
+<li>增加地图：slender_backrooms_b2、slender_badlands_survive_v3、slender_badwater_basin_wip、slender_biotics_lab_v1b</li>
+<li>增加玩家在默认情况下可以留守的时间10秒。</li>
+</ul>
+<h2><span id="2021224">2021/2/24</span></h2><ul>
+<li>分开了两个Boss组，在地图投票时可以进行投票。<ul>
+<li>Boss组1：Flesh Clown、Fleshpound、Frank Manera、Guardian、Guilt、Hans Volter、OI 2 Insanity、Jaraxxus、Marcus、The Patriarch、Quadralex、Rage Sniper、Sawrunner、Suicide Squidward</li>
+<li>Boss组2：Armless、Bad Batter、BEN Drowned、Big Smoke、Chaos Insurgency、Charlie Metson Jr.、Chris Walker、Corrupted Woody Redux、Corrupted Jessie(有可能成为Woody的伙伴)、Craig、Death Claw、Ethre、Snatcher</li>
+<li>核心组（不可投票，系统随时加载）：包括基础的Slender、Rake、和天使。还有地图限定的如FNAF2、SCPCB、拳击场地图的Boss也在里面。</li>
+</ul>
+</li>
+<li>新增了Boss：Squidward Suicide、Craig</li>
+<li>增加地图：slender_bowser_castle_b1b、slender_broken_v2、slender_cliffroad_b3</li>
+<li>削弱了Snatcher的小弟数量，从12修改为6。</li>
+<li>增加Boss组3：Dead By Daylight Pyramid Head、Queen Vanessa、Neighbor、Bill Cipher、Bulldozer and Skulldozer、Cartoon Cat、Flesher、Half-Life 2 D0g、Reinforced Blood Golem、Team Killer、Horseless Headless Horsemann、Handsome Jack</li>
+</ul>
+<h2><span id="2021225">2021/2/25</span></h2><ul>
+<li>增加Boss组4：Dr Trager、Sett、Jhin、Woormy Charles、Memphis Tennessee、Tinky Winky</li>
+<li>增加地图：slender_clinic_b2、slender_cry_of_fear_a3、slender_dawn_b2f</li>
+<li>削弱InSanity的视野和速度。</li>
+</ul>
+<h2><span id="2021226">2021/2/26</span></h2><ul>
+<li>Boss组4：增加Villager、Ghost、Skeleton、meem</li>
+<li>增加Boss组5：Emily、Garg、Horror、Lucy、Moarg、黑山基地的僵尸</li>
+<li>增加地图：slender_de_dust2_a1_fix1、slender_deathrun_a3_fix、slender_desecration_b2b、slender_lobbys_b2</li>
+</ul>
+<h2><span id="2021228">2021/2/28</span></h2><ul>
+<li>Boss组5：增加Paranoia</li>
+<li>增加地图：slender_diverge_reboot_v3、slender_enclosed_b1</li>
+<li>Boss组5：增加Hoovy Dundy</li>
+</ul>
+<h2><span id="202131">2021/3/1</span></h2><ul>
+<li>Boss组5：增加Specimen 12</li>
+<li>增加地图：slender_expedition_b3、slender_expeditions_curse_b3b、slender_eyes_b1、slender_facility_b3、slender_frezze_b1_fix、slender_frontier_engineering_final、slender_frostbite_b2</li>
+</ul>
+<h2><span id="202132">2021/3/2</span></h2><ul>
+<li>Boss组5：增加HER (IMSCARED)、Manhunt Smileys、Mutant Varients、King Gandalf</li>
+<li>增加地图：slender_frosty_sewer_b2、slender_gate3_a3、slender_grotto_b2</li>
+<li>增加蹲坑检测时间10秒。</li>
+</ul>
+<h2><span id="202134">2021/3/4</span></h2><ul>
+<li>为地图slender_fiveroundsatfreddys_b5添加专用Boss组：FNAF1组</li>
+</ul>
+<h2><span id="202136">2021/3/6</span></h2><ul>
+<li>增加Boss组6：德国boy（键盘毁灭者）、Marauder、T-800、Xenomorph、Jason Voorhees</li>
+<li>增加地图：slender_skyhigh_vshfit_a1、slender_well_a6、slender_turbine_lz_b6b_fix1</li>
+<li>将 slender_hellfire_b1c、slender_parish_b2b、slender_weepers_b3b、slender_abandoned_offices_v2、slender_assault_final、slender_lobbys_b2 移除出地图池</li>
+</ul>
+<h2><span id="202139">2021/3/9</span></h2><ul>
+<li>插件版本更新<ul>
+<li>特殊回合投票现在有了一个新的系统来挑选投票而不会重复导致崩坏。</li>
+<li>Silent Slender现在只生成3个boss而不是4个。</li>
+<li>In The 90s音乐回归并延长。</li>
+<li>自动追逐奔跑人现在依赖于boss的搜索和声音范围。</li>
+<li>幽灵现在使用Collision Hooks而不是noclip。</li>
+<li>增加小弟武器。</li>
+</ul>
+</li>
+<li>德国boyOP版现在不会随机选中。</li>
+<li>Boss组6：增加zubenko、Padoru Nero</li>
+</ul>
+<h2><span id="2021311">2021/3/11</span></h2><ul>
+<li>Boss组6：增加Yandere Dev、Tinky Tank、Padoru Nero、Slendyclaus</li>
+<li>增加Boss组7：Dipsy Chainsaw、Dipsy Lake、Laa Laa、Markiplier、New Corrupted Spongebob、Po Necromorph、Cave Tubbie、Yeti Tubbie、SCP-049 (Proxy Master)、Classic SCP-096、Mace - Cry of Fear</li>
+<li>增加Boss组8：Fleshy Zork、Zork、Scrake、Meth-High Sniper、Mr.Wilson、Sick Simon、Trevor Philips</li>
+<li>增加地图：slender_his_world_a3、slender_industry_b3、slender_island_a1</li>
+<li>下载更新包：链接：<a href="https://pan.baidu.com/s/169ZcRO9aHgLb2ku55ntv2A">https://pan.baidu.com/s/169ZcRO9aHgLb2ku55ntv2A</a>  提取码：l9hp </li>
+</ul>
+<h2><span id="2021313">2021/3/13</span></h2><ul>
+<li>增加地图：slender_krusty_krab_b1、slender_lentimas_town_ptb_v1、slender_long_away_classic3、slender_luigis_mansion_v4、slender_mechanicus_133_a1、slender_midas_v5、slender_minecraft_a6、slender_badlands_v2</li>
+<li><del>更新将会不限期停止，恢复时间约为一年后。</del> 以后是随缘更新。</li>
+</ul>
+<h2><span id="202168">2021/6/8</span></h2><ul>
+<li>Boss组8：增加Shin Gojira、Creeper Girl、Bearded Expense</li>
+<li>增加Boss组9：Brown Bandits (S.T.A.L.K.E.R)、Gangsta Doctor、孙笑川(嘴臭天皇)、WindGrin</li>
+<li>地图更新：slender_ksopdarn_run_a1、slender_minecraft_a6fix_notnt</li>
+<li>资源包不再更新，推荐从游戏中下载，以后有机会再放出新的资源包。<ul>
+<li>下载原有的资源包仍然可以让你跳过许多需要下载的东西。</li>
+</ul>
+</li>
+</ul>
+<h2><span id="2021610">2021/6/10</span></h2><ul>
+<li>Boss组9：增加Astolfo Bean plushie、General Grievous（愚人节Boss）、louis</li>
+<li>更新德国boy</li>
+</ul>
+<h2><span id="2021712">2021/7/12</span></h2><ul>
+<li>Boss组9：增加The Trollge、Rick Astley。</li>
+<li>修复一些以半条命默认动画模型的动画错误。（wantsee）</li>
+</ul>
+<h2><span id="2021723">2021/7/23</span></h2><ul>
+<li>Boss组8：增加DOOM Hunter</li>
+<li>增加地图：slender_shelter_b1、slender_slenderina_a1、slender_offices_v6a</li>
+</ul>
+<h2><span id="2021731">2021/7/31</span></h2><ul>
+<li>Boss组7：添加Keeper</li>
+</ul>
+<h2><span id="202188">2021/8/8</span></h2><ul>
+<li>增加Boss组10：Anonymous、Boyfriend (FNF)、Gorefield、Johnny、Isaac、Classic Memelord、Sexually Challenged Spy、Tom、Zurg [catpyro]</li>
+<li>Boss组10：增加 Fiddlesticks [Diviously]</li>
+<li>增加地图：slender_ksopdarn_run_a2、slender_egypt_b1c</li>
+</ul>
+<h2><span id="2021815">2021/8/15</span></h2><ul>
+<li>增加地图：slender_mountaincomplex_v2b、slender_enclosed_b1b、slender_weepers_b3b、slender_overgrown_v2、slender_summercamp_b7b</li>
+<li>更新Sett：增强攻击，增加Pool Party (Summer)变种</li>
+</ul>
+<h2><span id="2021824">2021/8/24</span></h2><ul>
+<li>Boss组8：增加Lewis Pepper</li>
+<li>Meme：增加Isabelle Buffed</li>
+</ul>
+<h2><span id="2021919">2021/9/19</span></h2><p><a href="https://steamcommunity.com/groups/CoffeeHouseTF2">Steam 社区 :: 组 :: Coffee咖啡厅TF2 (steamcommunity.com)</a> 以后的内容写进Steam组，因为github经常抽风。</p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>暗鬼服游玩警告</title>
+    <url>/2021/02/28/playsf2warning/</url>
+    <content><![CDATA[<h1><span id="警告暗鬼服游玩警告">警告：暗鬼服游玩警告</span></h1><p><a href="https://img.fghrsh.net/image/JSdGe"><img src="http://fp1.fghrsh.net/2021/02/28/cb28106c11376bb9af36e999d2127362.jpg" alt="cb28106c11376bb9af36e999d2127362.jpg"></a></p>
+<p><strong>服务器模式为娱乐性恐怖模式。可能不适合所有人游玩。</strong></p>
+<p><strong>未成年人请不要游玩本服务器！</strong></p>
+<p><strong>心理承受能力弱的玩家请不要游玩本服务器！</strong></p>
+<p><strong>在服务器已经发布告知的情况下，仍坚持错误的行为并因此受到任何伤害的，由其自己承担一切后果！</strong></p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>DDOS期间暂时关闭服务器</title>
+    <url>/2021/03/08/ddosshutdown/</url>
+    <content><![CDATA[<p>最近我的服务器遭受一连串的DDOS攻击，因此决定暂时关闭服务器。恢复时间请留意后续通知。</p>
+<p>受DDOS影响的服务器：挂机服、暗鬼服、竞技服、求生僵尸服、跳跃服</p>
+<p>拒绝访问的服务器：挂机服、暗鬼服、竞技服、求生僵尸服</p>
+<p>不关机的服务器：跳跃服</p>
+<p>未受到攻击的服务器：HKMGE服</p>
+<p>不关机的服务器只是不关机，仍会被攻击，因此不可以保证可用性。</p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+        <tag>云服务器</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>咖啡厅服务器核弹避难所</title>
+    <url>/2021/03/10/tf2-nuke-hide-here/</url>
+    <content><![CDATA[<p>就字面意思，避免核爆，服务器进入地下室，外部不能再看到服务器情况了。只能直连IP进入。<br><a href="https://blog.midheart.club/fuwuqi/">查看更多…</a></p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>商店插件更新</title>
+    <url>/2021/03/11/storepluginupdate/</url>
+    <content><![CDATA[<p>顾名思义，商店插件做了一个小更新，现在玩家皮肤可以分兵种不同装备了。数据库也因此而更新，你们不需要做任何操作。但是所有已装备的物品都被强制卸下了。请自己手动装备回来。<br>也增加了很多头衔，感觉没有括号挺好的</p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>有新的服务器啦</title>
+    <url>/2021/06/01/6-1-new-tf2-server/</url>
+    <content><![CDATA[<p>话不多说好吧。</p>
+<p>咖啡厅服务器<br>暗鬼服：g2.polarstar.cc:62501<br>挂机服：g2.polarstar.cc:62511</p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>22娘模型贴图修复</title>
+    <url>/2021/07/07/fix22materials/</url>
+    <content><![CDATA[<p>现存的22娘存在贴图错误，会导致异常。请下载下面的文件进行覆盖修复。</p>
+<p><a href="https://wwa.lanzoui.com/iiHuNr4i49c">https://wwa.lanzoui.com/iiHuNr4i49c</a></p>
+<p>或者你也可以删除掉 tf\download\materials\indexh\bili2 文件夹来重新获取文件。</p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
       </tags>
   </entry>
   <entry>
@@ -1691,6 +1218,525 @@ sv_downloadurl &quot;http://yourfastdlsite.com/tf&quot;
 <p>那为什么不需要所有人都能自由跳来跳去的功能呢？因为不是全部的Boss都能超级跳！正如你在上面看到的，有些Boss是没有超级跳的。况且胖子还有能跳高的近战武器，狙击手也可以爬墙。但是我打算移除原来在FF2医生的爆炸跳，理由也是前面的，能跳来跳去的都是士兵爆破手这两个。你要是想输出，就选十字弩，要是想快速拿uber能量，就选注射枪。而且Boss的近战伤害不像FF2那样子奇怪，比如侦察兵和间谍boss会莫名有300多的近战伤害。在这里，最高的如霍尔本人，近战伤害是182，胖子可以抗两下，超量治疗之后可以抗3下。虽然当boss靠近你面前的时候能活下来的概率本来就不高，也不应该变高。</p>
 <p>还有，假如担心某人玩的boss太强了，那这个模式还会自动对boss进行排名，进行一个动态平衡。就很强。</p>
 <p>拒绝重复性极强的模板化boss，创造独特能力的boss吧！FF2里面全是一群千篇一律的套皮boss，除了部分数值不一样，其他基本是一样的。</p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>VSH服红队数据</title>
+    <url>/2022/02/01/vsh2-red/</url>
+    <content><![CDATA[<h1><span id="vsh服红队数据介绍">VSH服红队数据介绍</span></h1><h2><span id="通用">通用</span></h2><p>全部人的主武器和副武器的弹药都增加了，让红队玩家少和工程师抢夺弹药箱。</p>
+<p>兵种限制：目前全部兵种都只限制5人。</p>
+<p>踩头需要你的速度到290.0才可以踩头，伤害为 （5%的BOSS最大生命值+450.0）。踩头弹射力量为550.0。</p>
+<p>并非所有BOSS都能造成200+的伤害，所以你不用觉得这些数值很低。</p>
+<p>使用大部分爆击近战武器攻击BOSS下半身可以击退BOSS。</p>
+<p>下面的数据不会写详细，因为可能会后期调整。</p>
+<h2><span id="侦察兵">侦察兵</span></h2><p>猎枪：射出的子弹变多了。</p>
+<blockquote>
+<p>热可可：可能不是全部侦察兵的枪法都很好，因此增加射出的子弹数量可以让不是那么厉害的侦察兵也能打多点输出。</p>
+</blockquote>
+<p>自然之力：无调整。</p>
+<blockquote>
+<p>热可可：本来我想调整为弹匣容量为1发，但是其实这个武器本身就很挺平衡了，通常击退也只有第一发有明显作用，加上削弱武器总会被玩家骂，就先放着不动。</p>
+</blockquote>
+<p>偷袭之力：可以发射火箭。</p>
+<blockquote>
+<p>热可可：偷袭之力即使调整为背后攻击为爆击，它的收益也不明显。调整为小型的火箭发射器可以让侦察兵尝试其他的办法。</p>
+</blockquote>
+<p>娃娃脸的冲击波：能量条会随时间减少。</p>
+<blockquote>
+<p>热可可：一个一直跑的超快侦察兵，对于BOSS来说是需要花费九牛二虎之力才能抓到的对象。让侦察兵造成伤害来保持速度是一个不错的平衡办法。</p>
+</blockquote>
+<p>边锋球员：踩头造成额外的1024伤害。</p>
+<blockquote>
+<p>热可可：边锋球员让侦察兵跳得更高，奖励使用边锋球员的侦察兵额外踩头伤害能鼓励侦察兵多使用踩头……同时将自己置身于危险中。</p>
+</blockquote>
+<p>帅气男孩的袖珍手枪：手持时击中BOSS时回血可以超量治疗。</p>
+<blockquote>
+<p>热可可：这把帅气的手枪需要逼迫BOSS避免被击中，以免让侦察兵能抗住BOSS的攻击。</p>
+</blockquote>
+<p>糖果手杖：击中BOSS时掉落医疗包。</p>
+<blockquote>
+<p>热可可：虽然用近战攻击BOSS是一个不那么聪明的选择，但是有时候你打掉的医疗包可能会救你自己或者队友的命。</p>
+</blockquote>
+<p>波士顿狼牙棒：让侦察兵变成中世纪战士。</p>
+<blockquote>
+<p>热可可：嘿你！你终于醒了，你刚刚正在想办法过桥对吧……</p>
+</blockquote>
+<p>军配扇：击中BOSS时可以消除愤怒值。</p>
+<blockquote>
+<p>热可可：哈喽？我的愤怒值怎么又少了？卧槽那个侦察兵拍了我一下就溜了，焯！</p>
+</blockquote>
+<p>睡魔：可以击晕BOSS，球的冷却时间增加。</p>
+<blockquote>
+<p>热可可：击晕是一个需要非常谨慎对待的特性。假如是减速，BOSS也追不上侦察兵。但是玩家热烈的要求击晕，那么就给予它超长的冷却时间吧。</p>
+</blockquote>
+<p>包装纸杀手：获得更多球。</p>
+<blockquote>
+<p>热可可：礼物球！耶！</p>
+</blockquote>
+<p>太阳之杖：对着火敌人迷你爆击，并为他们灭火。敌人剩余着火时间越长，伤害越高。</p>
+<blockquote>
+<p>热可可：原来只有爆击，但是所有近战都有爆击，为了突出太阳之杖的特性，就增加伤害吧。</p>
+</blockquote>
+<h2><span id="士兵">士兵</span></h2><p>所有的空爆（Airshot）：全场播放超帅的音效。</p>
+<p>精确打击者：迷你爆击替换为爆击。</p>
+<blockquote>
+<p>热可可：空爆本身是很难做到的，奖励使用精确打击者空爆成功更多伤害是必须的。</p>
+</blockquote>
+<p>空袭火箭筒：爆炸范围增加。</p>
+<blockquote>
+<p>热可可：空中轰炸机！</p>
+</blockquote>
+<p>乞丐的火箭筒：装弹速度加快。</p>
+<blockquote>
+<p>热可可：更快的自爆！（？）</p>
+</blockquote>
+<p>正义野牛：不需要装填，开火速度增加50%。</p>
+<blockquote>
+<p>热可可：本身正义野牛就比较拉，增强一点不过分吧。</p>
+</blockquote>
+<p>军队的支援：激活时减少受到来自BOSS的伤害，召唤死去的队友作战。</p>
+<blockquote>
+<p>热可可：军队的支援……你的军队来支援啦！</p>
+</blockquote>
+<p>战旗：激活时主武器5秒内可以发射一次火箭弹幕。</p>
+<blockquote>
+<p>热可可：今天我就是博丽灵梦本梦！</p>
+</blockquote>
+<p>征服者战旗：激活时获得30发火箭弹药。</p>
+<blockquote>
+<p>热可可：小海螺给你送弹药箱啦。</p>
+</blockquote>
+<p>踏步靴：火箭跳跃受到的伤害减少，跳得更高远，踩头造成额外1024伤害。</p>
+<blockquote>
+<p>热可可：作为一个本身就用来踩头的武器，大家都能踩头的话，踏步靴需要突出的特点。</p>
+</blockquote>
+<p>炮艇：受到的掉落伤害减少。</p>
+<blockquote>
+<p>热可可：给踏步靴加了火箭跳跃减伤害，那炮艇就需要加些独特的。</p>
+</blockquote>
+<p>极限降落伞：从医疗包获取的生命值+50%。</p>
+<blockquote>
+<p>热可可：这玩意除了搭配空袭火箭筒几乎没用。</p>
+</blockquote>
+<p>市场花园铁锹：攻击速度略微减慢，命中时造成比例伤害。</p>
+<blockquote>
+<p>热可可：就变慢一点点。</p>
+</blockquote>
+<h2><span id="火焰兵">火焰兵</span></h2><p>主武器：手持时击中BOSS时回血可以超量治疗。压缩空气充能时间极大加长，吹中BOSS会增加其愤怒值。</p>
+<blockquote>
+<p>热可可：从远古时代流传下来的国服火焰喷射器能加血的”优良“传统，大家又讨厌压缩空气乱吹。那就这样调整吧。</p>
+</blockquote>
+<p>原配火焰喷射器增加3倍后续燃烧伤害。其他火焰喷射器只有小量加成。</p>
+<blockquote>
+<p>热可可：鼓励原配武器。</p>
+</blockquote>
+<p>脱油剂：压缩空气推力增加。</p>
+<blockquote>
+<p>热可可：吹，吹TMD。</p>
+</blockquote>
+<p>燃素喷射器：激活“呜唔”时减少受到来自BOSS的伤害。回血速度比其他火焰喷射器慢。</p>
+<blockquote>
+<p>热可可：大家都讨厌燃素。</p>
+</blockquote>
+<p>热能推进器：可以空中二次喷射，穿戴者不受掉落伤害。</p>
+<blockquote>
+<p>热可可：这个武器用的人太少啦。而且也不是很好用。</p>
+</blockquote>
+<p>纵火者的油桶：敌人在被点燃时爆炸。</p>
+<blockquote>
+<p>热可可：作为一个油桶能爆炸那也是情理之中？</p>
+</blockquote>
+<p>信号枪：伤害增加。</p>
+<blockquote>
+<p>热可可：谁让其他的信号枪太有特色了。</p>
+</blockquote>
+<p>预备役射手：对空中的敌人爆击。</p>
+<blockquote>
+<p>热可可：子弹不多的，省点用。</p>
+</blockquote>
+<p>起爆者：爆炸可以让你起飞。</p>
+<blockquote>
+<p>热可可：经典武器。</p>
+</blockquote>
+<p>熔人枪：击中后可以恢复生命值。</p>
+<blockquote>
+<p>热可可：这个武器的存在感较低。</p>
+</blockquote>
+<p>三度烧伤：手持时受到治疗者的治疗量增加。医生治疗你时Ubercharge充能速度增加，同时你的武器伤害增加。</p>
+<blockquote>
+<p>热可可：你以为只是医生的拐？实际上是与医生的Combo攻击！</p>
+</blockquote>
+<p>拆迁者：直接攻击BOSS即可击退。</p>
+<blockquote>
+<p>热可可：不用攻击下半身啦！让BOSS远离你！还不会给BOSS增加愤怒值！</p>
+</blockquote>
+<p>熔岩战斧：变身中世纪战士。</p>
+<blockquote>
+<p>热可可：战斗！塔塔开！</p>
+</blockquote>
+<p>灼热之手：增加近战范围，击中队友时给双方提供加速。</p>
+<blockquote>
+<p>热可可：原来你只能扇敌人巴掌来加速，但是现在你可以扇队友一个大巴掌了！还不会被骂！</p>
+</blockquote>
+<h2><span id="爆破手">爆破手</span></h2><p>双管榴弹发射器：伤害增加。</p>
+<blockquote>
+<p>热可可：不命中就碎，让它的变得难以使用。</p>
+</blockquote>
+<p>脱缰巨炮：弹匣调整为3发。</p>
+<blockquote>
+<p>热可可：不许乱丢大炮！特别是配合盾牌提供的爆击！</p>
+</blockquote>
+<p>铁弹发射器：至多装填4发榴弹，然后发射。</p>
+<blockquote>
+<p>热可可：”乞丐的“榴弹发射器。</p>
+</blockquote>
+<p>阿里巴巴的尖头靴：提供的加速不需要装备盾牌也能加速。</p>
+<blockquote>
+<p>热可可：以免有人无聊想用鞋子+粘弹。</p>
+</blockquote>
+<p>苏格兰防御者：无伤害击退。</p>
+<blockquote>
+<p>热可可：你还是可以种海胆。</p>
+</blockquote>
+<p>快速黏弹发射器：发射的粘弹可以瞬间引爆。</p>
+<blockquote>
+<p>热可可：快！</p>
+</blockquote>
+<p>冲锋盾：撞击时获得防御状态。</p>
+<p>辉煌护盾：撞击时击退增加。</p>
+<p>力挽狂澜：近战击中可恢复75%冲锋能量。</p>
+<blockquote>
+<p>热可可：给盾牌加点东西也挺好的。（不一定能正常工作？未来可能移除？）</p>
+</blockquote>
+<p>波斯弯刀：击中敌人可以恢复生命值和冲锋能量，拾取的弹药变成冲锋能量。</p>
+<blockquote>
+<p>热可可：那边的你！可以继续冲了！</p>
+</blockquote>
+<p>木柄手榴弹：牺牲式攻击。</p>
+<blockquote>
+<p>热可可：同时你的手掌也会变大！</p>
+</blockquote>
+<p>装备盾牌时主武器根据冲锋能量条获得爆击或迷你爆击或无爆击。比如你刚冲锋完，就没爆击，等待能量恢复之后获得迷你爆击，然后才获得爆击。</p>
+<h2><span id="机枪手">机枪手</span></h2><p>主武器切换速度加快，预热速度加快。</p>
+<blockquote>
+<p>热可可：让胖子玩得不觉得那么笨重。</p>
+</blockquote>
+<p>娜塔莎转轮机枪：击中时无减速，但是可以恢复生命值。</p>
+<blockquote>
+<p>热可可：减速罪大恶极！</p>
+</blockquote>
+<p>黄铜猛兽：预热速度正常。可以使用怒气击退。武器切换速度轻微加快。</p>
+<blockquote>
+<p>热可可：你还是老老实实当个人肉步哨吧。</p>
+</blockquote>
+<p>火龙转轮机枪：对着火的敌人造成迷你爆击。</p>
+<blockquote>
+<p>热可可：少子弹的火龙或将成为历史。</p>
+</blockquote>
+<p>霰弹枪：击中的伤害可转换为一些生命值。</p>
+<blockquote>
+<p>热可可：另一种回血的办法。</p>
+</blockquote>
+<p>达勒克斯巧克力块：25秒充能。吃完之后恢复弹药。</p>
+<blockquote>
+<p>热可可：自己带着弹药箱，里面附赠的巧克力块。</p>
+</blockquote>
+<p>三明治，第二名的香蕉：吃饭速度加快。</p>
+<blockquote>
+<p>热可可：因为BOSS的压迫力，机枪手被迫快速吃完它的饭。</p>
+</blockquote>
+<p>家族运营枪：击中后获得速度加成，但装填速度变慢。</p>
+<blockquote>
+<p>热可可：Speed Up!</p>
+</blockquote>
+<p>驱逐警告：增加跳跃高度。</p>
+<blockquote>
+<p>热可可：Jump!</p>
+</blockquote>
+<p>勇士之魂：击中BOSS时回血可以超量治疗。</p>
+<blockquote>
+<p>热可可：这年头谁还不能自己超个量了。</p>
+</blockquote>
+<p>钢铁拳套：减伤对近战也有效。</p>
+<blockquote>
+<p>热可可：不这么做这个就是铸币武器。</p>
+</blockquote>
+<h2><span id="工程师">工程师</span></h2><p>边境裁决者：步哨瞄准BOSS时爆击。</p>
+<blockquote>
+<p>热可可：那么，代价是什么？</p>
+</blockquote>
+<p>歼灭者 6000：击中BOSS时可以消除愤怒值。</p>
+<blockquote>
+<p>热可可：这个比较难顶，这个是远程的。但是打不中也没用。</p>
+</blockquote>
+<p>寡妇制造者：减少射击所需的金属。</p>
+<blockquote>
+<p>热可可：本身是牛逼又平衡的枪，只是为了照顾一下枪法差的玩家。</p>
+</blockquote>
+<p>手枪：精确度提升。</p>
+<blockquote>
+<p>热可可：打得准的才是牛仔。</p>
+</blockquote>
+<p>短路发射器：手持时发射的球体命中任何表面会爆炸，可以爆炸跳。</p>
+<blockquote>
+<p>热可可：别抱怨不能自伤跳了，这不来了吗？跳不好那你多练。</p>
+</blockquote>
+<p>遥控手柄：手持时获得迷你爆击。</p>
+<blockquote>
+<p>热可可：迷你爆击的声音听起来很舒服的。</p>
+</blockquote>
+<p>传送扳手：使用扳手传送之后会被眩晕很长时间，添加透轮廓透视，添加极长的冷却时间，增加流血。</p>
+<blockquote>
+<p>热可可：别的服务器会禁止这个武器，但我不同！我允许你用！</p>
+</blockquote>
+<p>南部的款待：增加步哨和补给器范围，但不能搬运建筑。</p>
+<blockquote>
+<p>热可可：这个武器本身存在感很低。</p>
+</blockquote>
+<p>金属会定时自动恢复。</p>
+<blockquote>
+<p>热可可：所以别再喊地图没弹药包了！</p>
+</blockquote>
+<p>工程师可以通过!pad建造加速板与跳跃板，可以帮助自己或队友逃离BOSS的魔爪或到达战术位置。</p>
+<h2><span id="医生">医生</span></h2><p>注射枪：命中后增加Ubercharge能量。</p>
+<p>吸血鬼注射枪：命中后增加更少的Ubercharge能量，回血可以超量治疗。</p>
+<p>过载注射枪：命中后增加更少的Ubercharge能量。</p>
+<p>十字军之弩：永久爆击，命中后增加Ubercharge能量。箭矢击中任何表面后爆炸。</p>
+<blockquote>
+<p>热可可：医生也能爆炸跳。</p>
+</blockquote>
+<p>原配医疗枪：治疗时你的治疗目标获得迷你爆击。</p>
+<p>闪电战医疗枪：激活Ubercharge时使周围的队友都获得爆击。治疗时你的治疗目标获得迷你爆击。</p>
+<p>快速医疗枪：激活Ubercharge时使周围的队友都获得加速。</p>
+<p>疫苗注射枪：增加超量治疗量与持续时间。</p>
+<blockquote>
+<p>热可可：各有利弊，但是注意BOSS的攻击力不是那种动辄300+的，疫苗注射枪提供的超量或许可以救更多的人。</p>
+</blockquote>
+<p>当医生的Uber接近充满时（90%+），会使用Uber作为盾牌来避免医生被击杀。</p>
+<blockquote>
+<p>热可可：别说医生的生存率低啦！</p>
+</blockquote>
+<h2><span id="狙击手">狙击手</span></h2><p>猎人短弓：箭矢击中任何表面后爆炸。击中后恢复生命值。</p>
+<blockquote>
+<p>热可可：狙击手也能爆炸跳。</p>
+</blockquote>
+<p>悉尼沉睡者：命中BOSS可以减少其愤怒值。</p>
+<blockquote>
+<p>热可可：虽然只有1%。</p>
+</blockquote>
+<p>达尔文的危险之盾：增加跳跃高度，不受掉落伤害，最大生命值增加。</p>
+<blockquote>
+<p>热可可：纯纯的好东西了。</p>
+</blockquote>
+<p>扫荡者卡宾：增加精确度。</p>
+<blockquote>
+<p>热可可：我挺喜欢这武器的，可惜太弱了。</p>
+</blockquote>
+<p>近战武器攻击墙面可以爬墙。</p>
+<p>部落者刮刀：爬墙无攻击延迟，但减少爬墙高度。</p>
+<p>灌木丛：极大增加爬墙高度，消耗血量增加。</p>
+<p>诸王之王：生命值少于70时增加爬墙高度。</p>
+<blockquote>
+<p>热可可：各有利弊，自行选择。</p>
+</blockquote>
+<h2><span id="间谍">间谍</span></h2><p>背刺只能造成BOSS最大生命值约10%左右的伤害。</p>
+<p>大使手枪：爆头后获得速度加成。</p>
+<blockquote>
+<p>热可可：打你头就跑！</p>
+</blockquote>
+<p>执法者：伪装时手枪伤害额外增加。但爆击伤害随距离减少。</p>
+<blockquote>
+<p>热可可：这个是稳定的高额输出了。</p>
+</blockquote>
+<p>菱背响尾蛇：背刺后+2爆击。</p>
+<p>永生的回报：背刺后伪装，前三次背刺0伤害，第四次背刺伤害6倍+666。</p>
+<blockquote>
+<p>热可可：哇，你是背刺大佬。</p>
+</blockquote>
+<p>暴利杀手：背刺完全恢复隐身能量。</p>
+<blockquote>
+<p>热可可：背刺+死铃，然后再背刺+再死铃。打不死的死掰。</p>
+</blockquote>
+<p>密谋者的苦无：背刺后增加超量生命值。</p>
+<blockquote>
+<p>热可可：这个也是危险武器？但是不刺中就得死。</p>
+</blockquote>
+<p>隐形刺客：隐身能量正常消耗，隐身时不可拾取弹药箱补充隐身能量，隐身能量充能速度加快。</p>
+<blockquote>
+<p>热可可：只是另一个版本的隐身手表。</p>
+</blockquote>
+<p>电子工兵替换为可以投掷的苦无，命中后可恢复生命值。</p>
+<blockquote>
+<p>热可可：几乎没BOSS可以建造，即使能建造，我也不会让电子工兵干扰BOSS的建筑，那不如让这个武器变成别的东西。</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>VSH服BOSS机制介绍</title>
+    <url>/2022/02/01/vsh2-boss/</url>
+    <content><![CDATA[<h1><span id="vsh服boss机制介绍">VSH服BOSS机制介绍</span></h1><h2><span id="通用">通用</span></h2><p>全部BOSS都不会受到掉落伤害。</p>
+<p>每次BOSS受到攻击获得的愤怒值的计算公式为</p>
+<p><img src="/images/boss_gongshi.png" alt="BOSS愤怒值计算公式"></p>
+<blockquote>
+<p>看不懂吧？我也看不懂。</p>
+</blockquote>
+<p>BOSS蹲下时免疫任何伤害击退。</p>
+<p>假如场上只剩下侦察兵，BOSS的愤怒值增加。</p>
+<p>每个BOSS的近战伤害值经过调整，不会出现一刀300+，400+的奇怪伤害。</p>
+<p>非全部BOSS都能瞬间造成200+伤害，除了萨克斯顿霍尔这个澳大利亚大叔。</p>
+<p>下面介绍与原版有所不同的BOSS。玩过VSH-R的玩家可能比较熟悉。</p>
+<h2><span id="vagineer">Vagineer</span></h2><p>激活愤怒时可以建造一个步哨枪，这个步哨枪比较疯狂。</p>
+<h2><span id="脱缰的无头骑士-jr">脱缰的无头骑士 Jr.</span></h2><p>激活愤怒时，变成一个幽灵，不会受到伤害，可以自由飞行，可以吸收周围敌人的生命值。</p>
+<h2><span id="残忍的基督弓手">残忍的基督弓手</span></h2><p>每次击杀之后获得的刀数据不同，信息会在BOSS换刀的时候显示在BOSS屏幕的中央。</p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>VSH服 琪露诺更新</title>
+    <url>/2022/04/16/vsh-2022-4-16/</url>
+    <content><![CDATA[<p>BOSS</p>
+<p>琪露诺</p>
+<ul>
+<li>无近战武器，发射蓝色弹幕进行攻击。</li>
+<li>基础伤害7.5，对被冰冻的玩家基础伤害65.0。</li>
+<li>红队玩家持续受到伤害达到一定数值之后，会被冰冻。</li>
+<li>红队玩家保持4秒内不被琪露诺伤害之后，伤害计算和冰冻状态解除。</li>
+<li>愤怒技能会将周围的敌人冰冻。</li>
+<li>模型有自定义动画。</li>
+</ul>
+<p>红队</p>
+<ul>
+<li><p>通用</p>
+</li>
+<li><ul>
+<li>全部兵种嘲讽爆击时间增加。</li>
+<li>安全区完全缩小时间更改为120秒。</li>
+</ul>
+</li>
+<li><p>侦察兵</p>
+</li>
+<li><ul>
+<li>混混的菜刀命中后可以给侦察兵恢复生命值。</li>
+</ul>
+</li>
+<li><p>士兵</p>
+</li>
+<li><ul>
+<li>十字镐命中敌人后可获得速度加成。</li>
+</ul>
+</li>
+<li><p>火焰兵</p>
+</li>
+<li><ul>
+<li>火焰粒子速度增加20%，意味着火焰粒子可以比原来飘得更远。</li>
+<li>火焰喷射器命中BOSS恢复的生命值增加。</li>
+</ul>
+</li>
+<li><p>爆破手</p>
+</li>
+<li><ul>
+<li>装备阿里巴巴的尖头靴和假腿时，爆炸跳跃伤害减少30%。</li>
+</ul>
+</li>
+<li><p>机枪手</p>
+</li>
+<li><ul>
+<li>略微增加除汤姆斯拉夫以外的机枪的预热和武器切换的速度。</li>
+</ul>
+</li>
+<li><p>工程师</p>
+</li>
+<li><ul>
+<li>增加火线救兵的弹药。</li>
+</ul>
+</li>
+<li><p>医生</p>
+</li>
+<li><ul>
+<li>增加主武器的弹药。</li>
+</ul>
+</li>
+<li><p>狙击手</p>
+</li>
+<li><ul>
+<li>增加SMG和扫荡者卡宾的弹药。</li>
+</ul>
+</li>
+<li><p>间谍</p>
+</li>
+<li><ul>
+<li>电子工兵不再被替换为苦无。</li>
+<li>当手持电子工兵时，跳跃高度增加。</li>
+</ul>
+</li>
+</ul>
+<p>其他</p>
+<ul>
+<li>部署了新的召唤套用，希望能修复阿库娅的召唤问题。</li>
+</ul>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>VSH服 河城荷取来啦 河童重工世界第一！</title>
+    <url>/2022/09/10/vsh-nitori-update/</url>
+    <content><![CDATA[<h1><span id="首先祝大家中秋快乐海上生明月天涯共此时">首先祝大家中秋快乐！海上生明月，天涯共此时。</span></h1><p><a href="https://imgloc.com/i/9JC9p"><img src="https://s1.328888.xyz/2022/09/10/9JC9p.png" alt="9JC9p.png"></a></p>
+<h1><span id="怪兽打熊孩子服河城荷取更新">怪兽打熊孩子服：河城荷取更新</span></h1><h2><span id="新增boss河城荷取made-by-热可可希">新增BOSS：河城荷取（made by 热可可希）</span></h2><p><a href="https://imgloc.com/i/9Ja7o"><img src="https://s1.328888.xyz/2022/09/10/9Ja7o.jpg" alt="9Ja7o.jpg"></a></p>
+<p>妖怪之山的全能水利工程师，河童的首领。</p>
+<ul>
+<li>河童重工造喷气背包：切换为副武器使用，可以在空中使用。</li>
+<li>水迷彩：在水中时会隐身。</li>
+<li>河童重工造建筑：可以建造建筑物，可以建造更多步哨，建造的传送装置不可被破坏。</li>
+<li>三平战机&amp;河口浪潮：愤怒满时按E使用，使你现有的步哨枪瞬间升级为3级并强化。使所有人进入游泳，获得无敌与暴击。</li>
+<li>生命值相对于其他BOSS来说比较少，普通攻击不强，两次近战才能完全打死一个满血侦察兵（一次近战约120伤害）。虽然有主武器但是威力不强（毕竟是飞行物类武器）。在没有愤怒之前可以通过步哨枪来限制敌人走位，用补给器恢复金属（虽然弹药包会更快）。使用传送器进行双向远距传送为自己创造优势。</li>
+<li>剪辑了全新的日语语音。</li>
+</ul>
+<h2><span id="boss队">Boss队</span></h2><h3><span id="克苏鲁之眼">克苏鲁之眼</span></h3><ul>
+<li>提高冲撞伤害至200。</li>
+<li>移除召唤的小弟的武器削弱，现在小弟可以造成正常伤害，对建筑则造成2.25倍伤害。</li>
+<li>修改Boss重力为90%。</li>
+</ul>
+<h3><span id="灵乌路空">灵乌路空</span></h3><ul>
+<li>修改炸弹引爆时间从1.0秒为0.5秒。</li>
+</ul>
+<h3><span id="soldine">Soldine</span></h3><ul>
+<li>提高全部火箭筒的伤害。</li>
+</ul>
+<h2><span id="红队">红队</span></h2><h3><span id="火焰兵">火焰兵</span></h3><ul>
+<li>削弱燃素的攻击回血从2改为1。</li>
+</ul>
+<h3><span id="工程师">工程师</span></h3><ul>
+<li>修改边境裁决者的换弹速度惩罚从40%为30%。</li>
+</ul>
+<h3><span id="狙击手">狙击手</span></h3><ul>
+<li>全部弓箭伤害额外增加10%，命中回血从40修改为50。</li>
+</ul>
+<h1><span id="服务器商店">服务器商店</span></h1><ul>
+<li>增加了crepper提供的聊天音效。</li>
+<li>在QQ群676081646开始了中秋抽奖。</li>
+</ul>
 ]]></content>
       <categories>
         <category>更新日志</category>
