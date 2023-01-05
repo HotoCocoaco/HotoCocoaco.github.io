@@ -501,6 +501,40 @@ sv_downloadurl &quot;http://yourfastdlsite.com/tf&quot;
       </tags>
   </entry>
   <entry>
+    <title>暗鬼服游玩警告</title>
+    <url>/2021/02/28/playsf2warning/</url>
+    <content><![CDATA[<h1><span id="警告暗鬼服游玩警告">警告：暗鬼服游玩警告</span></h1><p><a href="https://img.fghrsh.net/image/JSdGe"><img src="http://fp1.fghrsh.net/2021/02/28/cb28106c11376bb9af36e999d2127362.jpg" alt="cb28106c11376bb9af36e999d2127362.jpg"></a></p>
+<p><strong>服务器模式为娱乐性恐怖模式。可能不适合所有人游玩。</strong></p>
+<p><strong>未成年人请不要游玩本服务器！</strong></p>
+<p><strong>心理承受能力弱的玩家请不要游玩本服务器！</strong></p>
+<p><strong>在服务器已经发布告知的情况下，仍坚持错误的行为并因此受到任何伤害的，由其自己承担一切后果！</strong></p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>资源包怎么用/TF2的download文件夹如何运作？</title>
+    <url>/2021/02/19/howtf2downloadfolderworks/</url>
+    <content><![CDATA[<h1><span id="简而言之">简而言之</span></h1><p>假如你只是想知道你下载的资源包怎么用，那我可以在这里简单地告诉你。你下载的资源包一般是个压缩包，双击打开后里面一般会有 maps, materials, models, sound 这四个文件夹的任何几种，可能多可能少，但是你只要全选这几个文件夹，然后拖放到你的游戏目录的这个路径之下。</p>
+<p><code>Team Fortress 2\tf\download</code></p>
+<p>然后就安装成功了，你只需要重新进服务器即可。</p>
+<h1><span id="原理">原理</span></h1><p>不仅仅是TF2，像CSS和Gmod等起源游戏，都把从服务器下载的自定义内容，下载到这个download文件夹下。其中下载的内容一般是 maps, materials, models, sound 即地图、贴图、模型、音乐。不过玩家的喷漆并不保存在这里。你同时也会注意到你的tf文件夹，即download的父文件夹，里面一般也有 maps, materials, models, sound 这四个文件夹，假如你熟悉自定义地图，你知道maps里面装的是官方地图，你也可以把你下载到的地图bsp文件放在这里面。</p>
+<p>那么直接把下载的资源包解压到tf文件夹不就好了吗？为什么还要解压到tf\download文件夹下呢？其实，你是<strong>可以</strong>把资源包直接放在tf文件夹下的，但是极不推荐，这不方便你分类管理自定义内容。</p>
+<p>download文件夹里面的maps, materials, models, sound是等同于游戏在加载 tf\maps tf\materials tf\models tf\sound 这四个文件夹的。你也可以把自己在mod网站找到的地图放在 tf\download\maps 也是可以正常使用的。</p>
+<h1><span id="mod文件夹">mod文件夹</span></h1><p>在安装各种mod时，除了vpk文件，你可能会被要求把下载到的压缩包解压到 tf\custom 的。只要你细心就能注意到，里面的文件也是遵从同等加载的办法的。只不过他们以不同的mod文件夹进行分类。</p>
+]]></content>
+      <categories>
+        <category>技术分享</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>咖啡厅暗鬼服更新日志</title>
     <url>/2021/02/22/tf2sf2serverupdatelog/</url>
     <content><![CDATA[<h1><span id="更新日志">更新日志</span></h1><p>以后暗鬼服的更新日志直接在这里写。请时常查看本页面是否有更新。<br>感谢Boss提供者：Mleczyk76、Nameless、Astolfo Alter</p>
@@ -632,40 +666,6 @@ sv_downloadurl &quot;http://yourfastdlsite.com/tf&quot;
       </tags>
   </entry>
   <entry>
-    <title>资源包怎么用/TF2的download文件夹如何运作？</title>
-    <url>/2021/02/19/howtf2downloadfolderworks/</url>
-    <content><![CDATA[<h1><span id="简而言之">简而言之</span></h1><p>假如你只是想知道你下载的资源包怎么用，那我可以在这里简单地告诉你。你下载的资源包一般是个压缩包，双击打开后里面一般会有 maps, materials, models, sound 这四个文件夹的任何几种，可能多可能少，但是你只要全选这几个文件夹，然后拖放到你的游戏目录的这个路径之下。</p>
-<p><code>Team Fortress 2\tf\download</code></p>
-<p>然后就安装成功了，你只需要重新进服务器即可。</p>
-<h1><span id="原理">原理</span></h1><p>不仅仅是TF2，像CSS和Gmod等起源游戏，都把从服务器下载的自定义内容，下载到这个download文件夹下。其中下载的内容一般是 maps, materials, models, sound 即地图、贴图、模型、音乐。不过玩家的喷漆并不保存在这里。你同时也会注意到你的tf文件夹，即download的父文件夹，里面一般也有 maps, materials, models, sound 这四个文件夹，假如你熟悉自定义地图，你知道maps里面装的是官方地图，你也可以把你下载到的地图bsp文件放在这里面。</p>
-<p>那么直接把下载的资源包解压到tf文件夹不就好了吗？为什么还要解压到tf\download文件夹下呢？其实，你是<strong>可以</strong>把资源包直接放在tf文件夹下的，但是极不推荐，这不方便你分类管理自定义内容。</p>
-<p>download文件夹里面的maps, materials, models, sound是等同于游戏在加载 tf\maps tf\materials tf\models tf\sound 这四个文件夹的。你也可以把自己在mod网站找到的地图放在 tf\download\maps 也是可以正常使用的。</p>
-<h1><span id="mod文件夹">mod文件夹</span></h1><p>在安装各种mod时，除了vpk文件，你可能会被要求把下载到的压缩包解压到 tf\custom 的。只要你细心就能注意到，里面的文件也是遵从同等加载的办法的。只不过他们以不同的mod文件夹进行分类。</p>
-]]></content>
-      <categories>
-        <category>技术分享</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>暗鬼服游玩警告</title>
-    <url>/2021/02/28/playsf2warning/</url>
-    <content><![CDATA[<h1><span id="警告暗鬼服游玩警告">警告：暗鬼服游玩警告</span></h1><p><a href="https://img.fghrsh.net/image/JSdGe"><img src="http://fp1.fghrsh.net/2021/02/28/cb28106c11376bb9af36e999d2127362.jpg" alt="cb28106c11376bb9af36e999d2127362.jpg"></a></p>
-<p><strong>服务器模式为娱乐性恐怖模式。可能不适合所有人游玩。</strong></p>
-<p><strong>未成年人请不要游玩本服务器！</strong></p>
-<p><strong>心理承受能力弱的玩家请不要游玩本服务器！</strong></p>
-<p><strong>在服务器已经发布告知的情况下，仍坚持错误的行为并因此受到任何伤害的，由其自己承担一切后果！</strong></p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>DDOS期间暂时关闭服务器</title>
     <url>/2021/03/08/ddosshutdown/</url>
     <content><![CDATA[<p>最近我的服务器遭受一连串的DDOS攻击，因此决定暂时关闭服务器。恢复时间请留意后续通知。</p>
@@ -696,10 +696,11 @@ sv_downloadurl &quot;http://yourfastdlsite.com/tf&quot;
       </tags>
   </entry>
   <entry>
-    <title>有新的服务器啦</title>
-    <url>/2021/06/01/6-1-new-tf2-server/</url>
-    <content><![CDATA[<p>话不多说好吧。</p>
-<p>咖啡厅服务器<br>暗鬼服：g2.polarstar.cc:62501<br>挂机服：g2.polarstar.cc:62511</p>
+    <title>22娘模型贴图修复</title>
+    <url>/2021/07/07/fix22materials/</url>
+    <content><![CDATA[<p>现存的22娘存在贴图错误，会导致异常。请下载下面的文件进行覆盖修复。</p>
+<p><a href="https://wwa.lanzoui.com/iiHuNr4i49c">https://wwa.lanzoui.com/iiHuNr4i49c</a></p>
+<p>或者你也可以删除掉 tf\download\materials\indexh\bili2 文件夹来重新获取文件。</p>
 ]]></content>
       <categories>
         <category>更新日志</category>
@@ -721,36 +722,10 @@ sv_downloadurl &quot;http://yourfastdlsite.com/tf&quot;
       </tags>
   </entry>
   <entry>
-    <title>22娘模型贴图修复</title>
-    <url>/2021/07/07/fix22materials/</url>
-    <content><![CDATA[<p>现存的22娘存在贴图错误，会导致异常。请下载下面的文件进行覆盖修复。</p>
-<p><a href="https://wwa.lanzoui.com/iiHuNr4i49c">https://wwa.lanzoui.com/iiHuNr4i49c</a></p>
-<p>或者你也可以删除掉 tf\download\materials\indexh\bili2 文件夹来重新获取文件。</p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>VSH服BOSS机制介绍</title>
-    <url>/2022/02/01/vsh2-boss/</url>
-    <content><![CDATA[<h1><span id="vsh服boss机制介绍">VSH服BOSS机制介绍</span></h1><h2><span id="通用">通用</span></h2><p>全部BOSS都不会受到掉落伤害。</p>
-<p>每次BOSS受到攻击获得的愤怒值的计算公式为</p>
-<p><img src="/images/boss_gongshi.png" alt="BOSS愤怒值计算公式"></p>
-<blockquote>
-<p>看不懂吧？我也看不懂。</p>
-</blockquote>
-<p>BOSS蹲下时免疫任何伤害击退。</p>
-<p>假如场上只剩下侦察兵，BOSS的愤怒值增加。</p>
-<p>每个BOSS的近战伤害值经过调整，不会出现一刀300+，400+的奇怪伤害。</p>
-<p>非全部BOSS都能瞬间造成200+伤害，除了萨克斯顿霍尔这个澳大利亚大叔。</p>
-<p>下面介绍与原版有所不同的BOSS。玩过VSH-R的玩家可能比较熟悉。</p>
-<h2><span id="vagineer">Vagineer</span></h2><p>激活愤怒时可以建造一个步哨枪，这个步哨枪比较疯狂。</p>
-<h2><span id="脱缰的无头骑士-jr">脱缰的无头骑士 Jr.</span></h2><p>激活愤怒时，变成一个幽灵，不会受到伤害，可以自由飞行，可以吸收周围敌人的生命值。</p>
-<h2><span id="残忍的基督弓手">残忍的基督弓手</span></h2><p>每次击杀之后获得的刀数据不同，信息会在BOSS换刀的时候显示在BOSS屏幕的中央。</p>
+    <title>有新的服务器啦</title>
+    <url>/2021/06/01/6-1-new-tf2-server/</url>
+    <content><![CDATA[<p>话不多说好吧。</p>
+<p>咖啡厅服务器<br>暗鬼服：g2.polarstar.cc:62501<br>挂机服：g2.polarstar.cc:62511</p>
 ]]></content>
       <categories>
         <category>更新日志</category>
@@ -1252,143 +1227,6 @@ sv_downloadurl &quot;http://yourfastdlsite.com/tf&quot;
       </tags>
   </entry>
   <entry>
-    <title>VSH服 河城荷取来啦 河童重工世界第一！</title>
-    <url>/2022/09/10/vsh-nitori-update/</url>
-    <content><![CDATA[<h1><span id="首先祝大家中秋快乐海上生明月天涯共此时">首先祝大家中秋快乐！海上生明月，天涯共此时。</span></h1><p><a href="https://imgloc.com/i/9JC9p"><img src="https://s1.328888.xyz/2022/09/10/9JC9p.png" alt="9JC9p.png"></a></p>
-<h1><span id="怪兽打熊孩子服河城荷取更新">怪兽打熊孩子服：河城荷取更新</span></h1><h2><span id="新增boss河城荷取made-by-热可可希">新增BOSS：河城荷取（made by 热可可希）</span></h2><p><a href="https://imgloc.com/i/9Ja7o"><img src="https://s1.328888.xyz/2022/09/10/9Ja7o.jpg" alt="9Ja7o.jpg"></a></p>
-<p>妖怪之山的全能水利工程师，河童的首领。</p>
-<ul>
-<li>河童重工造喷气背包：切换为副武器使用，可以在空中使用。</li>
-<li>水迷彩：在水中时会隐身。</li>
-<li>河童重工造建筑：可以建造建筑物，可以建造更多步哨，建造的传送装置不可被破坏。</li>
-<li>三平战机&amp;河口浪潮：愤怒满时按E使用，使你现有的步哨枪瞬间升级为3级并强化。使所有人进入游泳，获得无敌与暴击。</li>
-<li>生命值相对于其他BOSS来说比较少，普通攻击不强，两次近战才能完全打死一个满血侦察兵（一次近战约120伤害）。虽然有主武器但是威力不强（毕竟是飞行物类武器）。在没有愤怒之前可以通过步哨枪来限制敌人走位，用补给器恢复金属（虽然弹药包会更快）。使用传送器进行双向远距传送为自己创造优势。</li>
-<li>剪辑了全新的日语语音。</li>
-</ul>
-<h2><span id="boss队">Boss队</span></h2><h3><span id="克苏鲁之眼">克苏鲁之眼</span></h3><ul>
-<li>提高冲撞伤害至200。</li>
-<li>移除召唤的小弟的武器削弱，现在小弟可以造成正常伤害，对建筑则造成2.25倍伤害。</li>
-<li>修改Boss重力为90%。</li>
-</ul>
-<h3><span id="灵乌路空">灵乌路空</span></h3><ul>
-<li>修改炸弹引爆时间从1.0秒为0.5秒。</li>
-</ul>
-<h3><span id="soldine">Soldine</span></h3><ul>
-<li>提高全部火箭筒的伤害。</li>
-</ul>
-<h2><span id="红队">红队</span></h2><h3><span id="火焰兵">火焰兵</span></h3><ul>
-<li>削弱燃素的攻击回血从2改为1。</li>
-</ul>
-<h3><span id="工程师">工程师</span></h3><ul>
-<li>修改边境裁决者的换弹速度惩罚从40%为30%。</li>
-</ul>
-<h3><span id="狙击手">狙击手</span></h3><ul>
-<li>全部弓箭伤害额外增加10%，命中回血从40修改为50。</li>
-</ul>
-<h1><span id="服务器商店">服务器商店</span></h1><ul>
-<li>增加了crepper提供的聊天音效。</li>
-<li>在QQ群676081646开始了中秋抽奖。</li>
-</ul>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>VSH服 琪露诺更新</title>
-    <url>/2022/04/16/vsh-2022-4-16/</url>
-    <content><![CDATA[<p>BOSS</p>
-<p>琪露诺</p>
-<ul>
-<li>无近战武器，发射蓝色弹幕进行攻击。</li>
-<li>基础伤害7.5，对被冰冻的玩家基础伤害65.0。</li>
-<li>红队玩家持续受到伤害达到一定数值之后，会被冰冻。</li>
-<li>红队玩家保持4秒内不被琪露诺伤害之后，伤害计算和冰冻状态解除。</li>
-<li>愤怒技能会将周围的敌人冰冻。</li>
-<li>模型有自定义动画。</li>
-</ul>
-<p>红队</p>
-<ul>
-<li><p>通用</p>
-</li>
-<li><ul>
-<li>全部兵种嘲讽爆击时间增加。</li>
-<li>安全区完全缩小时间更改为120秒。</li>
-</ul>
-</li>
-<li><p>侦察兵</p>
-</li>
-<li><ul>
-<li>混混的菜刀命中后可以给侦察兵恢复生命值。</li>
-</ul>
-</li>
-<li><p>士兵</p>
-</li>
-<li><ul>
-<li>十字镐命中敌人后可获得速度加成。</li>
-</ul>
-</li>
-<li><p>火焰兵</p>
-</li>
-<li><ul>
-<li>火焰粒子速度增加20%，意味着火焰粒子可以比原来飘得更远。</li>
-<li>火焰喷射器命中BOSS恢复的生命值增加。</li>
-</ul>
-</li>
-<li><p>爆破手</p>
-</li>
-<li><ul>
-<li>装备阿里巴巴的尖头靴和假腿时，爆炸跳跃伤害减少30%。</li>
-</ul>
-</li>
-<li><p>机枪手</p>
-</li>
-<li><ul>
-<li>略微增加除汤姆斯拉夫以外的机枪的预热和武器切换的速度。</li>
-</ul>
-</li>
-<li><p>工程师</p>
-</li>
-<li><ul>
-<li>增加火线救兵的弹药。</li>
-</ul>
-</li>
-<li><p>医生</p>
-</li>
-<li><ul>
-<li>增加主武器的弹药。</li>
-</ul>
-</li>
-<li><p>狙击手</p>
-</li>
-<li><ul>
-<li>增加SMG和扫荡者卡宾的弹药。</li>
-</ul>
-</li>
-<li><p>间谍</p>
-</li>
-<li><ul>
-<li>电子工兵不再被替换为苦无。</li>
-<li>当手持电子工兵时，跳跃高度增加。</li>
-</ul>
-</li>
-</ul>
-<p>其他</p>
-<ul>
-<li>部署了新的召唤套用，希望能修复阿库娅的召唤问题。</li>
-</ul>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>VSH服红队数据</title>
     <url>/2022/02/01/vsh2-red/</url>
     <content><![CDATA[<h1><span id="vsh服红队数据介绍">VSH服红队数据介绍</span></h1><h2><span id="通用">通用</span></h2><p>全部人的主武器和副武器的弹药都增加了，让红队玩家少和工程师抢夺弹药箱。</p>
@@ -1737,6 +1575,168 @@ sv_downloadurl &quot;http://yourfastdlsite.com/tf&quot;
 <blockquote>
 <p>热可可：几乎没BOSS可以建造，即使能建造，我也不会让电子工兵干扰BOSS的建筑，那不如让这个武器变成别的东西。</p>
 </blockquote>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>VSH服 琪露诺更新</title>
+    <url>/2022/04/16/vsh-2022-4-16/</url>
+    <content><![CDATA[<p>BOSS</p>
+<p>琪露诺</p>
+<ul>
+<li>无近战武器，发射蓝色弹幕进行攻击。</li>
+<li>基础伤害7.5，对被冰冻的玩家基础伤害65.0。</li>
+<li>红队玩家持续受到伤害达到一定数值之后，会被冰冻。</li>
+<li>红队玩家保持4秒内不被琪露诺伤害之后，伤害计算和冰冻状态解除。</li>
+<li>愤怒技能会将周围的敌人冰冻。</li>
+<li>模型有自定义动画。</li>
+</ul>
+<p>红队</p>
+<ul>
+<li><p>通用</p>
+</li>
+<li><ul>
+<li>全部兵种嘲讽爆击时间增加。</li>
+<li>安全区完全缩小时间更改为120秒。</li>
+</ul>
+</li>
+<li><p>侦察兵</p>
+</li>
+<li><ul>
+<li>混混的菜刀命中后可以给侦察兵恢复生命值。</li>
+</ul>
+</li>
+<li><p>士兵</p>
+</li>
+<li><ul>
+<li>十字镐命中敌人后可获得速度加成。</li>
+</ul>
+</li>
+<li><p>火焰兵</p>
+</li>
+<li><ul>
+<li>火焰粒子速度增加20%，意味着火焰粒子可以比原来飘得更远。</li>
+<li>火焰喷射器命中BOSS恢复的生命值增加。</li>
+</ul>
+</li>
+<li><p>爆破手</p>
+</li>
+<li><ul>
+<li>装备阿里巴巴的尖头靴和假腿时，爆炸跳跃伤害减少30%。</li>
+</ul>
+</li>
+<li><p>机枪手</p>
+</li>
+<li><ul>
+<li>略微增加除汤姆斯拉夫以外的机枪的预热和武器切换的速度。</li>
+</ul>
+</li>
+<li><p>工程师</p>
+</li>
+<li><ul>
+<li>增加火线救兵的弹药。</li>
+</ul>
+</li>
+<li><p>医生</p>
+</li>
+<li><ul>
+<li>增加主武器的弹药。</li>
+</ul>
+</li>
+<li><p>狙击手</p>
+</li>
+<li><ul>
+<li>增加SMG和扫荡者卡宾的弹药。</li>
+</ul>
+</li>
+<li><p>间谍</p>
+</li>
+<li><ul>
+<li>电子工兵不再被替换为苦无。</li>
+<li>当手持电子工兵时，跳跃高度增加。</li>
+</ul>
+</li>
+</ul>
+<p>其他</p>
+<ul>
+<li>部署了新的召唤套用，希望能修复阿库娅的召唤问题。</li>
+</ul>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>VSH服BOSS机制介绍</title>
+    <url>/2022/02/01/vsh2-boss/</url>
+    <content><![CDATA[<h1><span id="vsh服boss机制介绍">VSH服BOSS机制介绍</span></h1><h2><span id="通用">通用</span></h2><p>全部BOSS都不会受到掉落伤害。</p>
+<p>每次BOSS受到攻击获得的愤怒值的计算公式为</p>
+<p><img src="/images/boss_gongshi.png" alt="BOSS愤怒值计算公式"></p>
+<blockquote>
+<p>看不懂吧？我也看不懂。</p>
+</blockquote>
+<p>BOSS蹲下时免疫任何伤害击退。</p>
+<p>假如场上只剩下侦察兵，BOSS的愤怒值增加。</p>
+<p>每个BOSS的近战伤害值经过调整，不会出现一刀300+，400+的奇怪伤害。</p>
+<p>非全部BOSS都能瞬间造成200+伤害，除了萨克斯顿霍尔这个澳大利亚大叔。</p>
+<p>下面介绍与原版有所不同的BOSS。玩过VSH-R的玩家可能比较熟悉。</p>
+<h2><span id="vagineer">Vagineer</span></h2><p>激活愤怒时可以建造一个步哨枪，这个步哨枪比较疯狂。</p>
+<h2><span id="脱缰的无头骑士-jr">脱缰的无头骑士 Jr.</span></h2><p>激活愤怒时，变成一个幽灵，不会受到伤害，可以自由飞行，可以吸收周围敌人的生命值。</p>
+<h2><span id="残忍的基督弓手">残忍的基督弓手</span></h2><p>每次击杀之后获得的刀数据不同，信息会在BOSS换刀的时候显示在BOSS屏幕的中央。</p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>VSH服 河城荷取来啦 河童重工世界第一！</title>
+    <url>/2022/09/10/vsh-nitori-update/</url>
+    <content><![CDATA[<h1><span id="首先祝大家中秋快乐海上生明月天涯共此时">首先祝大家中秋快乐！海上生明月，天涯共此时。</span></h1><p><a href="https://imgloc.com/i/9JC9p"><img src="https://s1.328888.xyz/2022/09/10/9JC9p.png" alt="9JC9p.png"></a></p>
+<h1><span id="怪兽打熊孩子服河城荷取更新">怪兽打熊孩子服：河城荷取更新</span></h1><h2><span id="新增boss河城荷取made-by-热可可希">新增BOSS：河城荷取（made by 热可可希）</span></h2><p><a href="https://imgloc.com/i/9Ja7o"><img src="https://s1.328888.xyz/2022/09/10/9Ja7o.jpg" alt="9Ja7o.jpg"></a></p>
+<p>妖怪之山的全能水利工程师，河童的首领。</p>
+<ul>
+<li>河童重工造喷气背包：切换为副武器使用，可以在空中使用。</li>
+<li>水迷彩：在水中时会隐身。</li>
+<li>河童重工造建筑：可以建造建筑物，可以建造更多步哨，建造的传送装置不可被破坏。</li>
+<li>三平战机&amp;河口浪潮：愤怒满时按E使用，使你现有的步哨枪瞬间升级为3级并强化。使所有人进入游泳，获得无敌与暴击。</li>
+<li>生命值相对于其他BOSS来说比较少，普通攻击不强，两次近战才能完全打死一个满血侦察兵（一次近战约120伤害）。虽然有主武器但是威力不强（毕竟是飞行物类武器）。在没有愤怒之前可以通过步哨枪来限制敌人走位，用补给器恢复金属（虽然弹药包会更快）。使用传送器进行双向远距传送为自己创造优势。</li>
+<li>剪辑了全新的日语语音。</li>
+</ul>
+<h2><span id="boss队">Boss队</span></h2><h3><span id="克苏鲁之眼">克苏鲁之眼</span></h3><ul>
+<li>提高冲撞伤害至200。</li>
+<li>移除召唤的小弟的武器削弱，现在小弟可以造成正常伤害，对建筑则造成2.25倍伤害。</li>
+<li>修改Boss重力为90%。</li>
+</ul>
+<h3><span id="灵乌路空">灵乌路空</span></h3><ul>
+<li>修改炸弹引爆时间从1.0秒为0.5秒。</li>
+</ul>
+<h3><span id="soldine">Soldine</span></h3><ul>
+<li>提高全部火箭筒的伤害。</li>
+</ul>
+<h2><span id="红队">红队</span></h2><h3><span id="火焰兵">火焰兵</span></h3><ul>
+<li>削弱燃素的攻击回血从2改为1。</li>
+</ul>
+<h3><span id="工程师">工程师</span></h3><ul>
+<li>修改边境裁决者的换弹速度惩罚从40%为30%。</li>
+</ul>
+<h3><span id="狙击手">狙击手</span></h3><ul>
+<li>全部弓箭伤害额外增加10%，命中回血从40修改为50。</li>
+</ul>
+<h1><span id="服务器商店">服务器商店</span></h1><ul>
+<li>增加了crepper提供的聊天音效。</li>
+<li>在QQ群676081646开始了中秋抽奖。</li>
+</ul>
 ]]></content>
       <categories>
         <category>更新日志</category>
