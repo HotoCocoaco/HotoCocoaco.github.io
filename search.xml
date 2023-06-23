@@ -501,22 +501,6 @@ sv_downloadurl &quot;http://yourfastdlsite.com/tf&quot;
       </tags>
   </entry>
   <entry>
-    <title>暗鬼服游玩警告</title>
-    <url>/2021/02/28/playsf2warning/</url>
-    <content><![CDATA[<h1><span id="警告暗鬼服游玩警告">警告：暗鬼服游玩警告</span></h1><p><a href="https://img.fghrsh.net/image/JSdGe"><img src="http://fp1.fghrsh.net/2021/02/28/cb28106c11376bb9af36e999d2127362.jpg" alt="cb28106c11376bb9af36e999d2127362.jpg"></a></p>
-<p><strong>服务器模式为娱乐性恐怖模式。可能不适合所有人游玩。</strong></p>
-<p><strong>未成年人请不要游玩本服务器！</strong></p>
-<p><strong>心理承受能力弱的玩家请不要游玩本服务器！</strong></p>
-<p><strong>在服务器已经发布告知的情况下，仍坚持错误的行为并因此受到任何伤害的，由其自己承担一切后果！</strong></p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>资源包怎么用/TF2的download文件夹如何运作？</title>
     <url>/2021/02/19/howtf2downloadfolderworks/</url>
     <content><![CDATA[<h1><span id="简而言之">简而言之</span></h1><p>假如你只是想知道你下载的资源包怎么用，那我可以在这里简单地告诉你。你下载的资源包一般是个压缩包，双击打开后里面一般会有 maps, materials, models, sound 这四个文件夹的任何几种，可能多可能少，但是你只要全选这几个文件夹，然后拖放到你的游戏目录的这个路径之下。</p>
@@ -666,6 +650,22 @@ sv_downloadurl &quot;http://yourfastdlsite.com/tf&quot;
       </tags>
   </entry>
   <entry>
+    <title>暗鬼服游玩警告</title>
+    <url>/2021/02/28/playsf2warning/</url>
+    <content><![CDATA[<h1><span id="警告暗鬼服游玩警告">警告：暗鬼服游玩警告</span></h1><p><a href="https://img.fghrsh.net/image/JSdGe"><img src="http://fp1.fghrsh.net/2021/02/28/cb28106c11376bb9af36e999d2127362.jpg" alt="cb28106c11376bb9af36e999d2127362.jpg"></a></p>
+<p><strong>服务器模式为娱乐性恐怖模式。可能不适合所有人游玩。</strong></p>
+<p><strong>未成年人请不要游玩本服务器！</strong></p>
+<p><strong>心理承受能力弱的玩家请不要游玩本服务器！</strong></p>
+<p><strong>在服务器已经发布告知的情况下，仍坚持错误的行为并因此受到任何伤害的，由其自己承担一切后果！</strong></p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>DDOS期间暂时关闭服务器</title>
     <url>/2021/03/08/ddosshutdown/</url>
     <content><![CDATA[<p>最近我的服务器遭受一连串的DDOS攻击，因此决定暂时关闭服务器。恢复时间请留意后续通知。</p>
@@ -684,9 +684,34 @@ sv_downloadurl &quot;http://yourfastdlsite.com/tf&quot;
       </tags>
   </entry>
   <entry>
+    <title>咖啡厅服务器核弹避难所</title>
+    <url>/2021/03/10/tf2-nuke-hide-here/</url>
+    <content><![CDATA[<p>就字面意思，避免核爆，服务器进入地下室，外部不能再看到服务器情况了。只能直连IP进入。<br><a href="https://blog.midheart.club/fuwuqi/">查看更多…</a></p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>商店插件更新</title>
     <url>/2021/03/11/storepluginupdate/</url>
     <content><![CDATA[<p>顾名思义，商店插件做了一个小更新，现在玩家皮肤可以分兵种不同装备了。数据库也因此而更新，你们不需要做任何操作。但是所有已装备的物品都被强制卸下了。请自己手动装备回来。<br>也增加了很多头衔，感觉没有括号挺好的</p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>有新的服务器啦</title>
+    <url>/2021/06/01/6-1-new-tf2-server/</url>
+    <content><![CDATA[<p>话不多说好吧。</p>
+<p>咖啡厅服务器<br>暗鬼服：g2.polarstar.cc:62501<br>挂机服：g2.polarstar.cc:62511</p>
 ]]></content>
       <categories>
         <category>更新日志</category>
@@ -701,31 +726,6 @@ sv_downloadurl &quot;http://yourfastdlsite.com/tf&quot;
     <content><![CDATA[<p>现存的22娘存在贴图错误，会导致异常。请下载下面的文件进行覆盖修复。</p>
 <p><a href="https://wwa.lanzoui.com/iiHuNr4i49c">https://wwa.lanzoui.com/iiHuNr4i49c</a></p>
 <p>或者你也可以删除掉 tf\download\materials\indexh\bili2 文件夹来重新获取文件。</p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>咖啡厅服务器核弹避难所</title>
-    <url>/2021/03/10/tf2-nuke-hide-here/</url>
-    <content><![CDATA[<p>就字面意思，避免核爆，服务器进入地下室，外部不能再看到服务器情况了。只能直连IP进入。<br><a href="https://blog.midheart.club/fuwuqi/">查看更多…</a></p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>有新的服务器啦</title>
-    <url>/2021/06/01/6-1-new-tf2-server/</url>
-    <content><![CDATA[<p>话不多说好吧。</p>
-<p>咖啡厅服务器<br>暗鬼服：g2.polarstar.cc:62501<br>挂机服：g2.polarstar.cc:62511</p>
 ]]></content>
       <categories>
         <category>更新日志</category>
@@ -1227,6 +1227,31 @@ sv_downloadurl &quot;http://yourfastdlsite.com/tf&quot;
       </tags>
   </entry>
   <entry>
+    <title>VSH服BOSS机制介绍</title>
+    <url>/2022/02/01/vsh2-boss/</url>
+    <content><![CDATA[<h1><span id="vsh服boss机制介绍">VSH服BOSS机制介绍</span></h1><h2><span id="通用">通用</span></h2><p>全部BOSS都不会受到掉落伤害。</p>
+<p>每次BOSS受到攻击获得的愤怒值的计算公式为</p>
+<p><img src="/images/boss_gongshi.png" alt="BOSS愤怒值计算公式"></p>
+<blockquote>
+<p>看不懂吧？我也看不懂。</p>
+</blockquote>
+<p>BOSS蹲下时免疫任何伤害击退。</p>
+<p>假如场上只剩下侦察兵，BOSS的愤怒值增加。</p>
+<p>每个BOSS的近战伤害值经过调整，不会出现一刀300+，400+的奇怪伤害。</p>
+<p>非全部BOSS都能瞬间造成200+伤害，除了萨克斯顿霍尔这个澳大利亚大叔。</p>
+<p>下面介绍与原版有所不同的BOSS。玩过VSH-R的玩家可能比较熟悉。</p>
+<h2><span id="vagineer">Vagineer</span></h2><p>激活愤怒时可以建造一个步哨枪，这个步哨枪比较疯狂。</p>
+<h2><span id="脱缰的无头骑士-jr">脱缰的无头骑士 Jr.</span></h2><p>激活愤怒时，变成一个幽灵，不会受到伤害，可以自由飞行，可以吸收周围敌人的生命值。</p>
+<h2><span id="残忍的基督弓手">残忍的基督弓手</span></h2><p>每次击杀之后获得的刀数据不同，信息会在BOSS换刀的时候显示在BOSS屏幕的中央。</p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>VSH服红队数据</title>
     <url>/2022/02/01/vsh2-red/</url>
     <content><![CDATA[<h1><span id="vsh服红队数据介绍">VSH服红队数据介绍</span></h1><h2><span id="通用">通用</span></h2><p>全部人的主武器和副武器的弹药都增加了，让红队玩家少和工程师抢夺弹药箱。</p>
@@ -1675,31 +1700,6 @@ sv_downloadurl &quot;http://yourfastdlsite.com/tf&quot;
       </tags>
   </entry>
   <entry>
-    <title>VSH服BOSS机制介绍</title>
-    <url>/2022/02/01/vsh2-boss/</url>
-    <content><![CDATA[<h1><span id="vsh服boss机制介绍">VSH服BOSS机制介绍</span></h1><h2><span id="通用">通用</span></h2><p>全部BOSS都不会受到掉落伤害。</p>
-<p>每次BOSS受到攻击获得的愤怒值的计算公式为</p>
-<p><img src="/images/boss_gongshi.png" alt="BOSS愤怒值计算公式"></p>
-<blockquote>
-<p>看不懂吧？我也看不懂。</p>
-</blockquote>
-<p>BOSS蹲下时免疫任何伤害击退。</p>
-<p>假如场上只剩下侦察兵，BOSS的愤怒值增加。</p>
-<p>每个BOSS的近战伤害值经过调整，不会出现一刀300+，400+的奇怪伤害。</p>
-<p>非全部BOSS都能瞬间造成200+伤害，除了萨克斯顿霍尔这个澳大利亚大叔。</p>
-<p>下面介绍与原版有所不同的BOSS。玩过VSH-R的玩家可能比较熟悉。</p>
-<h2><span id="vagineer">Vagineer</span></h2><p>激活愤怒时可以建造一个步哨枪，这个步哨枪比较疯狂。</p>
-<h2><span id="脱缰的无头骑士-jr">脱缰的无头骑士 Jr.</span></h2><p>激活愤怒时，变成一个幽灵，不会受到伤害，可以自由飞行，可以吸收周围敌人的生命值。</p>
-<h2><span id="残忍的基督弓手">残忍的基督弓手</span></h2><p>每次击杀之后获得的刀数据不同，信息会在BOSS换刀的时候显示在BOSS屏幕的中央。</p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>VSH服 河城荷取来啦 河童重工世界第一！</title>
     <url>/2022/09/10/vsh-nitori-update/</url>
     <content><![CDATA[<h1><span id="首先祝大家中秋快乐海上生明月天涯共此时">首先祝大家中秋快乐！海上生明月，天涯共此时。</span></h1><p><a href="https://imgloc.com/i/9JC9p"><img src="https://s1.328888.xyz/2022/09/10/9JC9p.png" alt="9JC9p.png"></a></p>
@@ -1743,6 +1743,44 @@ sv_downloadurl &quot;http://yourfastdlsite.com/tf&quot;
       </categories>
       <tags>
         <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>VSH服 藤原妹红 飘上月球，不死之烟</title>
+    <url>/2023/06/23/vsh-mokou-update/</url>
+    <content><![CDATA[<h1><span id="新boss-藤原妹红">新BOSS - 藤原妹红</span></h1><p><img src="/images/%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A21.jpg" alt="妹红"></p>
+<p>生生生生暗生始，死死死死冥死终。</p>
+<ul>
+<li>火焰超级跳：超级跳时，会短暂点燃太靠近的敌人。超级跳的冷却时长比一般BOSS要久。会有一个火圈特效。</li>
+<li>近战攻击伤害一般，但是对点燃的敌人有爆击。</li>
+<li>有一个彩虹喷灯，伤害低，没后续燃烧伤害，用于点燃敌人。</li>
+<li>因为不老不死的特性，在游戏中可抗拒一次满目疮痍，获得继续战斗的能力，恢复的血量根据剩余人数计算。</li>
+<li>自灭火焰大旋风：在地面时激活愤怒技能，会短暂充能后释放，点燃大范围1000单位内的敌人，同时对于太靠近500单位的敌人，还会附加爆炸。</li>
+<li>不死鸟的超高温羽毛：在浮空时激活愤怒技能，会产生一个持续20秒的燃烧立场，靠近的敌人就会被瞬间点燃。自己获得无击退，防御，加速加成。</li>
+</ul>
+<h1><span id="特殊回合更新">特殊回合更新</span></h1><ul>
+<li>APose：平民模式，大家都是良民。</li>
+<li>逮虾户：全部人都成为老司机。</li>
+</ul>
+<h1><span id="boss更新">BOSS更新</span></h1><h2><span id="终结者">终结者</span></h2><ul>
+<li>武器改为沙包说很土的短路发生器。</li>
+<li>增加检查是否为幽灵猎手死亡，这样子死掉的幽灵猎手不会变成小红。</li>
+<li>不论变成小红还是幽灵猎手均无超量治疗。</li>
+</ul>
+<h2><span id="b_s_brony">B_S_Brony</span></h2><p>取消迷你步哨建造，改为普通步哨。</p>
+<h2><span id="德克萨斯">德克萨斯</span></h2><p>降低剑雨高度。</p>
+<h1><span id="红队更新">红队更新</span></h1><h2><span id="侦察兵">侦察兵</span></h2><p>增加猎枪子弹。</p>
+<h2><span id="机枪手">机枪手</span></h2><p>开局一小段时间会获得速度加成，方便速度缓慢的胖子到达想要的位置。</p>
+<h2><span id="工程师">工程师</span></h2><p>开局一小段时间会获得建造速度加成，免得你什么也没干就被打死了。</p>
+<h2><span id="狙击手">狙击手</span></h2><p>弓箭的伤害太超模了，射得BOSS连妈妈都不知道是谁，削弱10%伤害。</p>
+<h1><span id="修复">修复</span></h1><p>特殊回合：避免救世主模式产生Invalid memory access错误；使用一种更加安全的办法在回合结束时删除掉所有人的钩爪。</p>
+<p>DIO: 放弃使用 tank_destruction 实体作为爆炸效果，而转为使用 env_shake 和 info_particle_system 来表现震动和爆炸粒子效果。</p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>-TF2</tag>
       </tags>
   </entry>
 </search>
