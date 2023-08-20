@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>咖啡厅服务器更新 v0.1</title>
+    <url>/2021/02/11/update-v0-1/</url>
+    <content><![CDATA[<p>不是说新年新气象嘛，乘着我用了三年的主机和FF2服务器终于在3月要关闭了，这里已经做好了数据迁移服务，大家不用担心~</p>
+<ul>
+<li>更新封禁系统 <a href="https://bans.midheart.club/">bans.midheart.club</a></li>
+<li>将SZF服（僵尸模式）纳入统一管理，增加商店。</li>
+</ul>
+<p>还有兴趣多开一个模式的服务器，有啥建议可以和我说。</p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>TF2特效帽子效果预览</title>
     <url>/2021/02/01/tf2-unusual-cn/</url>
     <content><![CDATA[<h1><span id="tf2特效帽子效果预览">TF2特效帽子效果预览</span></h1><p>以下是TF2特效帽的预览。图片来源于TF2Wiki，你可以直接访问：<a href="https://wiki.teamfortress.com/wiki/Unusual">Unusual - Team Fortress Wiki</a></p>
@@ -48,6 +65,21 @@
       </categories>
       <tags>
         <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>咖啡厅雪糕跳跃服</title>
+    <url>/2021/02/11/newtf2jumpserver/</url>
+    <content><![CDATA[<p>好耶，新的服务器开了。是跳跃服，雪糕跳跃服。</p>
+<p>点击右边连接服务器。<a href="steam://connect/47.115.144.75:27015">点我连接雪糕跳跃服</a></p>
+<p>感谢Zero的赞助。</p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+        <tag>云服务器</tag>
       </tags>
   </entry>
   <entry>
@@ -429,29 +461,11 @@ sv_downloadurl &quot;http://yourfastdlsite.com/tf&quot;
       </tags>
   </entry>
   <entry>
-    <title>咖啡厅雪糕跳跃服</title>
-    <url>/2021/02/11/newtf2jumpserver/</url>
-    <content><![CDATA[<p>好耶，新的服务器开了。是跳跃服，雪糕跳跃服。</p>
-<p>点击右边连接服务器。<a href="steam://connect/47.115.144.75:27015">点我连接雪糕跳跃服</a></p>
-<p>感谢Zero的赞助。</p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-        <tag>云服务器</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>咖啡厅服务器更新 v0.1</title>
-    <url>/2021/02/11/update-v0-1/</url>
-    <content><![CDATA[<p>不是说新年新气象嘛，乘着我用了三年的主机和FF2服务器终于在3月要关闭了，这里已经做好了数据迁移服务，大家不用担心~</p>
-<ul>
-<li>更新封禁系统 <a href="https://bans.midheart.club/">bans.midheart.club</a></li>
-<li>将SZF服（僵尸模式）纳入统一管理，增加商店。</li>
-</ul>
-<p>还有兴趣多开一个模式的服务器，有啥建议可以和我说。</p>
+    <title>咖啡厅的暗鬼要塞服务器开服了</title>
+    <url>/2021/02/18/tf2newslenderserver/</url>
+    <content><![CDATA[<p>我又蹭到别人的学生机啦<del>既然这么好以后都蹭好啦</del></p>
+<p>暗鬼要塞服务器，只装了基本的游戏内容和地图，用腾讯云cdn加速下载，点击下面的链接即可进服务器。</p>
+<p><a href="steam://connect/42.193.131.170:27015">点我连接巧克力暗鬼服</a></p>
 ]]></content>
       <categories>
         <category>更新日志</category>
@@ -481,20 +495,6 @@ sv_downloadurl &quot;http://yourfastdlsite.com/tf&quot;
 ]]></content>
       <categories>
         <category>咖啡厅预览</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>咖啡厅的暗鬼要塞服务器开服了</title>
-    <url>/2021/02/18/tf2newslenderserver/</url>
-    <content><![CDATA[<p>我又蹭到别人的学生机啦<del>既然这么好以后都蹭好啦</del></p>
-<p>暗鬼要塞服务器，只装了基本的游戏内容和地图，用腾讯云cdn加速下载，点击下面的链接即可进服务器。</p>
-<p><a href="steam://connect/42.193.131.170:27015">点我连接巧克力暗鬼服</a></p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
       </categories>
       <tags>
         <tag>TF2</tag>
@@ -650,22 +650,6 @@ sv_downloadurl &quot;http://yourfastdlsite.com/tf&quot;
       </tags>
   </entry>
   <entry>
-    <title>暗鬼服游玩警告</title>
-    <url>/2021/02/28/playsf2warning/</url>
-    <content><![CDATA[<h1><span id="警告暗鬼服游玩警告">警告：暗鬼服游玩警告</span></h1><p><a href="https://img.fghrsh.net/image/JSdGe"><img src="http://fp1.fghrsh.net/2021/02/28/cb28106c11376bb9af36e999d2127362.jpg" alt="cb28106c11376bb9af36e999d2127362.jpg"></a></p>
-<p><strong>服务器模式为娱乐性恐怖模式。可能不适合所有人游玩。</strong></p>
-<p><strong>未成年人请不要游玩本服务器！</strong></p>
-<p><strong>心理承受能力弱的玩家请不要游玩本服务器！</strong></p>
-<p><strong>在服务器已经发布告知的情况下，仍坚持错误的行为并因此受到任何伤害的，由其自己承担一切后果！</strong></p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>DDOS期间暂时关闭服务器</title>
     <url>/2021/03/08/ddosshutdown/</url>
     <content><![CDATA[<p>最近我的服务器遭受一连串的DDOS攻击，因此决定暂时关闭服务器。恢复时间请留意后续通知。</p>
@@ -681,6 +665,22 @@ sv_downloadurl &quot;http://yourfastdlsite.com/tf&quot;
       <tags>
         <tag>TF2</tag>
         <tag>云服务器</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>暗鬼服游玩警告</title>
+    <url>/2021/02/28/playsf2warning/</url>
+    <content><![CDATA[<h1><span id="警告暗鬼服游玩警告">警告：暗鬼服游玩警告</span></h1><p><a href="https://img.fghrsh.net/image/JSdGe"><img src="http://fp1.fghrsh.net/2021/02/28/cb28106c11376bb9af36e999d2127362.jpg" alt="cb28106c11376bb9af36e999d2127362.jpg"></a></p>
+<p><strong>服务器模式为娱乐性恐怖模式。可能不适合所有人游玩。</strong></p>
+<p><strong>未成年人请不要游玩本服务器！</strong></p>
+<p><strong>心理承受能力弱的玩家请不要游玩本服务器！</strong></p>
+<p><strong>在服务器已经发布告知的情况下，仍坚持错误的行为并因此受到任何伤害的，由其自己承担一切后果！</strong></p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
       </tags>
   </entry>
   <entry>
@@ -1796,6 +1796,54 @@ sv_downloadurl &quot;http://yourfastdlsite.com/tf&quot;
       </tags>
   </entry>
   <entry>
+    <title>Coffee僵尸逃跑服地图一览</title>
+    <url>/2023/08/20/coffee-tf2-ze-mapcycle/</url>
+    <content><![CDATA[<p>在？看看地图。图片多，请注意。</p>
+<!-- toc -->
+
+<ul>
+<li><a href="#ascension">Ascension</a></li>
+<li><a href="#persona">Persona</a></li>
+<li><a href="#ryujin">Ryujin</a></li>
+<li><a href="#boat-escape-101">Boat Escape 101</a></li>
+<li><a href="#swamp-facility">Swamp Facility</a></li>
+<li><a href="#zk-fape-scape">ZK Fape Scape</a></li>
+<li><a href="#quick-sand">Quick Sand</a></li>
+<li><a href="#minecraft">Minecraft</a></li>
+<li><a href="#jungle-lab">Jungle Lab</a></li>
+<li><a href="#moon-base">Moon Base</a></li>
+</ul>
+<!-- tocstop -->
+
+<h1><span id="ascension">Ascension</span></h1><p><img src="/images/zemaps/ascension_p1.jpg" alt="ascension_p1"></p>
+<p><img src="/images/zemaps/ascension_p2.jpg" alt="ascension_p2"></p>
+<h1><span id="persona">Persona</span></h1><p><img src="/images/zemaps/persona_p1.jpg" alt="persona_p1"></p>
+<p><img src="/images/zemaps/persona_p2.jpg" alt="persona_p2"></p>
+<h1><span id="ryujin">Ryujin</span></h1><p><img src="/images/zemaps/ryujin_p1.jpg" alt="ryujin_p1"></p>
+<p><img src="/images/zemaps/ryujin_p2.jpg" alt="ryujin_p2"></p>
+<h1><span id="boat-escape-101">Boat Escape 101</span></h1><p><img src="/images/zemaps/boatescape_p1.jpg" alt="boatescape_p1"></p>
+<p><img src="/images/zemaps/boatescape_p2.jpg" alt="boatescape_p2"></p>
+<h1><span id="swamp-facility">Swamp Facility</span></h1><p><img src="/images/zemaps/swamp_facility_p1.jpg" alt="swamp_facility_p1"></p>
+<p><img src="/images/zemaps/swamp_facility_p2.jpg" alt="swamp_facility_p2"></p>
+<h1><span id="zk-fape-scape">ZK Fape Scape</span></h1><p><img src="/images/zemaps/zk_fapescape_p1.jpg" alt="zk_fapescape_p1"></p>
+<p><img src="/images/zemaps/zk_fapescape_p2.jpg" alt="zk_fapescape_p2"></p>
+<h1><span id="quick-sand">Quick Sand</span></h1><p><img src="/images/zemaps/quicksand_p1.jpg" alt="quicksand_p1"></p>
+<p><img src="/images/zemaps/quicksand_p2.jpg" alt="quicksand_p2"></p>
+<h1><span id="minecraft">Minecraft</span></h1><p><img src="/images/zemaps/minecraft_p1.jpg" alt="minecraft_p1"></p>
+<p><img src="/images/zemaps/minecraft_p2.jpg" alt="minecraft_p2"></p>
+<h1><span id="jungle-lab">Jungle Lab</span></h1><p><img src="/images/zemaps/junglelab_p1.jpg" alt="junglelab_p1"></p>
+<p><img src="/images/zemaps/junglelab_p2.jpg" alt="junglelab_p2"></p>
+<h1><span id="moon-base">Moon Base</span></h1><p><img src="/images/zemaps/moonbase_p1.jpg" alt="moonbase_p1"></p>
+<p><img src="/images/zemaps/moonbase_p2.jpg" alt="moonbase_p2"></p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>-TF2</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Coffee服地图作图指南</title>
     <url>/2023/08/15/coffee-tf2-ze-mapping-guide/</url>
     <content><![CDATA[<p>WIP.<br>建设中。</p>
@@ -1821,54 +1869,6 @@ sv_downloadurl &quot;http://yourfastdlsite.com/tf&quot;
 <h1><span id="8月20日">8月20日</span></h1><p>模拟CS:S的prop_physics，当玩家卡在某个运动中的prop_physics实体中时，玩家将被卡住，解救的办法是把物体射/打走，或使用!stuck。</p>
 <p>这一功能允许人类通过使用攻击的办法移动这些物体，做成阻挡僵尸的掩体。</p>
 <p>所有的prop_physics及其变种实体的重量将乘5倍，此数值如有过头，需要调整再跟我说。</p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>-TF2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Coffee僵尸逃跑服地图一览</title>
-    <url>/2023/08/20/coffee-tf2-ze-mapcycle/</url>
-    <content><![CDATA[<p>在？看看地图。图片多，请注意。</p>
-<!-- toc -->
-
-<ul>
-<li><a href="#ascension">Ascension</a></li>
-<li><a href="#persona">Persona</a></li>
-<li><a href="#ryujin">Ryujin</a></li>
-<li><a href="#boat-escape-101">Boat Escape 101</a></li>
-<li><a href="#swamp-facility">Swamp Facility</a></li>
-<li><a href="#zk-fape-scape">ZK Fape Scape</a></li>
-<li><a href="#quick-sand">Quick Sand</a></li>
-<li><a href="#minecraft">Minecraft</a></li>
-<li><a href="#jungle-lab">Jungle Lab</a></li>
-<li><a href="#moon-base">Moon Base</a></li>
-</ul>
-<!-- tocstop -->
-
-<h1><span id="ascension">Ascension</span></h1><p><img src="/images/zemaps/ascension_p1.jpg" alt="ascension_p1"></p>
-<p><img src="/images/zemaps/ascension_p2.jpg" alt="ascension_p2"></p>
-<h1><span id="persona">Persona</span></h1><p><img src="/images/zemaps/ascension_p1.jpg" alt="persona_p1"></p>
-<p><img src="/images/zemaps/ascension_p2.jpg" alt="persona_p2"></p>
-<h1><span id="ryujin">Ryujin</span></h1><p><img src="/images/zemaps/ryujin_p1.jpg" alt="ryujin_p1"></p>
-<p><img src="/images/zemaps/ryujin_p2.jpg" alt="ryujin_p2"></p>
-<h1><span id="boat-escape-101">Boat Escape 101</span></h1><p><img src="/images/zemaps/boatescape_p1.jpg" alt="boatescape_p1"></p>
-<p><img src="/images/zemaps/boatescape_p2.jpg" alt="boatescape_p2"></p>
-<h1><span id="swamp-facility">Swamp Facility</span></h1><p><img src="/images/zemaps/swamp_facility_p1.jpg" alt="swamp_facility_p1"></p>
-<p><img src="/images/zemaps/swamp_facility_p2.jpg" alt="swamp_facility_p2"></p>
-<h1><span id="zk-fape-scape">ZK Fape Scape</span></h1><p><img src="/images/zemaps/zk_fapescape_p1.jpg" alt="zk_fapescape_p1"></p>
-<p><img src="/images/zemaps/zk_fapescape_p2.jpg" alt="zk_fapescape_p2"></p>
-<h1><span id="quick-sand">Quick Sand</span></h1><p><img src="/images/zemaps/quicksand_p1.jpg" alt="quicksand_p1"></p>
-<p><img src="/images/zemaps/quicksand_p2.jpg" alt="quicksand_p2"></p>
-<h1><span id="minecraft">Minecraft</span></h1><p><img src="/images/zemaps/minecraft_p1.jpg" alt="minecraft_p1"></p>
-<p><img src="/images/zemaps/minecraft_p2.jpg" alt="minecraft_p2"></p>
-<h1><span id="jungle-lab">Jungle Lab</span></h1><p><img src="/images/zemaps/junglelab_p1.jpg" alt="junglelab_p1"></p>
-<p><img src="/images/zemaps/junglelab_p2.jpg" alt="junglelab_p2"></p>
-<h1><span id="moon-base">Moon Base</span></h1><p><img src="/images/zemaps/moonbase_p1.jpg" alt="moonbase_p1"></p>
-<p><img src="/images/zemaps/moonbase_p2.jpg" alt="moonbase_p2"></p>
 ]]></content>
       <categories>
         <category>更新日志</category>
