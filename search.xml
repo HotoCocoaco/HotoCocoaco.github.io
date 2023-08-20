@@ -51,209 +51,6 @@
       </tags>
   </entry>
   <entry>
-    <title>咖啡厅雪糕跳跃服</title>
-    <url>/2021/02/11/newtf2jumpserver/</url>
-    <content><![CDATA[<p>好耶，新的服务器开了。是跳跃服，雪糕跳跃服。</p>
-<p>点击右边连接服务器。<a href="steam://connect/47.115.144.75:27015">点我连接雪糕跳跃服</a></p>
-<p>感谢Zero的赞助。</p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-        <tag>云服务器</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>咖啡厅服务器更新 v0.1</title>
-    <url>/2021/02/11/update-v0-1/</url>
-    <content><![CDATA[<p>不是说新年新气象嘛，乘着我用了三年的主机和FF2服务器终于在3月要关闭了，这里已经做好了数据迁移服务，大家不用担心~</p>
-<ul>
-<li>更新封禁系统 <a href="https://bans.midheart.club/">bans.midheart.club</a></li>
-<li>将SZF服（僵尸模式）纳入统一管理，增加商店。</li>
-</ul>
-<p>还有兴趣多开一个模式的服务器，有啥建议可以和我说。</p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>咖啡厅的暗鬼要塞服务器开服了</title>
-    <url>/2021/02/18/tf2newslenderserver/</url>
-    <content><![CDATA[<p>我又蹭到别人的学生机啦<del>既然这么好以后都蹭好啦</del></p>
-<p>暗鬼要塞服务器，只装了基本的游戏内容和地图，用腾讯云cdn加速下载，点击下面的链接即可进服务器。</p>
-<p><a href="steam://connect/42.193.131.170:27015">点我连接巧克力暗鬼服</a></p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>咖啡厅暗鬼服更新日志</title>
-    <url>/2021/02/22/tf2sf2serverupdatelog/</url>
-    <content><![CDATA[<h1><span id="更新日志">更新日志</span></h1><p>以后暗鬼服的更新日志直接在这里写。请时常查看本页面是否有更新。<br>感谢Boss提供者：Mleczyk76、Nameless、Astolfo Alter</p>
-<h2><span id="2021221">2021/2/21</span></h2><ul>
-<li>创建了本日志，之前的更新记录我忘记次序了所以就这样吧。</li>
-</ul>
-<h2><span id="2021222">2021/2/22</span></h2><ul>
-<li>Core Pack 增加Boss：Marcus、Chaos Insurgency Soldiers</li>
-<li>增加地图：slender_2fort_b1、slender_4way_v3_fix、slender_abandoned_offices_v2、slender_aquatica_v5b、slender_assault_final、slender_asylum_redux_fix2</li>
-<li>Core Pack 增加Boss：Ethre、Hans Volter、Quadralex、BEN Drowned - 14:19</li>
-</ul>
-<h2><span id="2021223">2021/2/23</span></h2><ul>
-<li>Core Pack 增加Boss：Bad Batter、Guilt、Frank Manera、Patriarch and Fleshpound</li>
-<li>增加地图：slender_backrooms_b2、slender_badlands_survive_v3、slender_badwater_basin_wip、slender_biotics_lab_v1b</li>
-<li>增加玩家在默认情况下可以留守的时间10秒。</li>
-</ul>
-<h2><span id="2021224">2021/2/24</span></h2><ul>
-<li>分开了两个Boss组，在地图投票时可以进行投票。<ul>
-<li>Boss组1：Flesh Clown、Fleshpound、Frank Manera、Guardian、Guilt、Hans Volter、OI 2 Insanity、Jaraxxus、Marcus、The Patriarch、Quadralex、Rage Sniper、Sawrunner、Suicide Squidward</li>
-<li>Boss组2：Armless、Bad Batter、BEN Drowned、Big Smoke、Chaos Insurgency、Charlie Metson Jr.、Chris Walker、Corrupted Woody Redux、Corrupted Jessie(有可能成为Woody的伙伴)、Craig、Death Claw、Ethre、Snatcher</li>
-<li>核心组（不可投票，系统随时加载）：包括基础的Slender、Rake、和天使。还有地图限定的如FNAF2、SCPCB、拳击场地图的Boss也在里面。</li>
-</ul>
-</li>
-<li>新增了Boss：Squidward Suicide、Craig</li>
-<li>增加地图：slender_bowser_castle_b1b、slender_broken_v2、slender_cliffroad_b3</li>
-<li>削弱了Snatcher的小弟数量，从12修改为6。</li>
-<li>增加Boss组3：Dead By Daylight Pyramid Head、Queen Vanessa、Neighbor、Bill Cipher、Bulldozer and Skulldozer、Cartoon Cat、Flesher、Half-Life 2 D0g、Reinforced Blood Golem、Team Killer、Horseless Headless Horsemann、Handsome Jack</li>
-</ul>
-<h2><span id="2021225">2021/2/25</span></h2><ul>
-<li>增加Boss组4：Dr Trager、Sett、Jhin、Woormy Charles、Memphis Tennessee、Tinky Winky</li>
-<li>增加地图：slender_clinic_b2、slender_cry_of_fear_a3、slender_dawn_b2f</li>
-<li>削弱InSanity的视野和速度。</li>
-</ul>
-<h2><span id="2021226">2021/2/26</span></h2><ul>
-<li>Boss组4：增加Villager、Ghost、Skeleton、meem</li>
-<li>增加Boss组5：Emily、Garg、Horror、Lucy、Moarg、黑山基地的僵尸</li>
-<li>增加地图：slender_de_dust2_a1_fix1、slender_deathrun_a3_fix、slender_desecration_b2b、slender_lobbys_b2</li>
-</ul>
-<h2><span id="2021228">2021/2/28</span></h2><ul>
-<li>Boss组5：增加Paranoia</li>
-<li>增加地图：slender_diverge_reboot_v3、slender_enclosed_b1</li>
-<li>Boss组5：增加Hoovy Dundy</li>
-</ul>
-<h2><span id="202131">2021/3/1</span></h2><ul>
-<li>Boss组5：增加Specimen 12</li>
-<li>增加地图：slender_expedition_b3、slender_expeditions_curse_b3b、slender_eyes_b1、slender_facility_b3、slender_frezze_b1_fix、slender_frontier_engineering_final、slender_frostbite_b2</li>
-</ul>
-<h2><span id="202132">2021/3/2</span></h2><ul>
-<li>Boss组5：增加HER (IMSCARED)、Manhunt Smileys、Mutant Varients、King Gandalf</li>
-<li>增加地图：slender_frosty_sewer_b2、slender_gate3_a3、slender_grotto_b2</li>
-<li>增加蹲坑检测时间10秒。</li>
-</ul>
-<h2><span id="202134">2021/3/4</span></h2><ul>
-<li>为地图slender_fiveroundsatfreddys_b5添加专用Boss组：FNAF1组</li>
-</ul>
-<h2><span id="202136">2021/3/6</span></h2><ul>
-<li>增加Boss组6：德国boy（键盘毁灭者）、Marauder、T-800、Xenomorph、Jason Voorhees</li>
-<li>增加地图：slender_skyhigh_vshfit_a1、slender_well_a6、slender_turbine_lz_b6b_fix1</li>
-<li>将 slender_hellfire_b1c、slender_parish_b2b、slender_weepers_b3b、slender_abandoned_offices_v2、slender_assault_final、slender_lobbys_b2 移除出地图池</li>
-</ul>
-<h2><span id="202139">2021/3/9</span></h2><ul>
-<li>插件版本更新<ul>
-<li>特殊回合投票现在有了一个新的系统来挑选投票而不会重复导致崩坏。</li>
-<li>Silent Slender现在只生成3个boss而不是4个。</li>
-<li>In The 90s音乐回归并延长。</li>
-<li>自动追逐奔跑人现在依赖于boss的搜索和声音范围。</li>
-<li>幽灵现在使用Collision Hooks而不是noclip。</li>
-<li>增加小弟武器。</li>
-</ul>
-</li>
-<li>德国boyOP版现在不会随机选中。</li>
-<li>Boss组6：增加zubenko、Padoru Nero</li>
-</ul>
-<h2><span id="2021311">2021/3/11</span></h2><ul>
-<li>Boss组6：增加Yandere Dev、Tinky Tank、Padoru Nero、Slendyclaus</li>
-<li>增加Boss组7：Dipsy Chainsaw、Dipsy Lake、Laa Laa、Markiplier、New Corrupted Spongebob、Po Necromorph、Cave Tubbie、Yeti Tubbie、SCP-049 (Proxy Master)、Classic SCP-096、Mace - Cry of Fear</li>
-<li>增加Boss组8：Fleshy Zork、Zork、Scrake、Meth-High Sniper、Mr.Wilson、Sick Simon、Trevor Philips</li>
-<li>增加地图：slender_his_world_a3、slender_industry_b3、slender_island_a1</li>
-<li>下载更新包：链接：<a href="https://pan.baidu.com/s/169ZcRO9aHgLb2ku55ntv2A">https://pan.baidu.com/s/169ZcRO9aHgLb2ku55ntv2A</a>  提取码：l9hp </li>
-</ul>
-<h2><span id="2021313">2021/3/13</span></h2><ul>
-<li>增加地图：slender_krusty_krab_b1、slender_lentimas_town_ptb_v1、slender_long_away_classic3、slender_luigis_mansion_v4、slender_mechanicus_133_a1、slender_midas_v5、slender_minecraft_a6、slender_badlands_v2</li>
-<li><del>更新将会不限期停止，恢复时间约为一年后。</del> 以后是随缘更新。</li>
-</ul>
-<h2><span id="202168">2021/6/8</span></h2><ul>
-<li>Boss组8：增加Shin Gojira、Creeper Girl、Bearded Expense</li>
-<li>增加Boss组9：Brown Bandits (S.T.A.L.K.E.R)、Gangsta Doctor、孙笑川(嘴臭天皇)、WindGrin</li>
-<li>地图更新：slender_ksopdarn_run_a1、slender_minecraft_a6fix_notnt</li>
-<li>资源包不再更新，推荐从游戏中下载，以后有机会再放出新的资源包。<ul>
-<li>下载原有的资源包仍然可以让你跳过许多需要下载的东西。</li>
-</ul>
-</li>
-</ul>
-<h2><span id="2021610">2021/6/10</span></h2><ul>
-<li>Boss组9：增加Astolfo Bean plushie、General Grievous（愚人节Boss）、louis</li>
-<li>更新德国boy</li>
-</ul>
-<h2><span id="2021712">2021/7/12</span></h2><ul>
-<li>Boss组9：增加The Trollge、Rick Astley。</li>
-<li>修复一些以半条命默认动画模型的动画错误。（wantsee）</li>
-</ul>
-<h2><span id="2021723">2021/7/23</span></h2><ul>
-<li>Boss组8：增加DOOM Hunter</li>
-<li>增加地图：slender_shelter_b1、slender_slenderina_a1、slender_offices_v6a</li>
-</ul>
-<h2><span id="2021731">2021/7/31</span></h2><ul>
-<li>Boss组7：添加Keeper</li>
-</ul>
-<h2><span id="202188">2021/8/8</span></h2><ul>
-<li>增加Boss组10：Anonymous、Boyfriend (FNF)、Gorefield、Johnny、Isaac、Classic Memelord、Sexually Challenged Spy、Tom、Zurg [catpyro]</li>
-<li>Boss组10：增加 Fiddlesticks [Diviously]</li>
-<li>增加地图：slender_ksopdarn_run_a2、slender_egypt_b1c</li>
-</ul>
-<h2><span id="2021815">2021/8/15</span></h2><ul>
-<li>增加地图：slender_mountaincomplex_v2b、slender_enclosed_b1b、slender_weepers_b3b、slender_overgrown_v2、slender_summercamp_b7b</li>
-<li>更新Sett：增强攻击，增加Pool Party (Summer)变种</li>
-</ul>
-<h2><span id="2021824">2021/8/24</span></h2><ul>
-<li>Boss组8：增加Lewis Pepper</li>
-<li>Meme：增加Isabelle Buffed</li>
-</ul>
-<h2><span id="2021919">2021/9/19</span></h2><p><a href="https://steamcommunity.com/groups/CoffeeHouseTF2">Steam 社区 :: 组 :: Coffee咖啡厅TF2 (steamcommunity.com)</a> 以后的内容写进Steam组，因为github经常抽风。</p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>咖啡厅模型预览</title>
-    <url>/2021/02/17/tf2modelsreview/</url>
-    <content><![CDATA[<p><strong>点击进入相册</strong></p>
-<h1><span id="artifact纸片人">Artifact纸片人</span></h1><p><a href="https://img.fghrsh.net/image/J8Opg"><img src="https://fp1.fghrsh.net/2021/02/17/15c1ff08c5234a135ebbd67565f3f2e2.png" alt="15c1ff08c5234a135ebbd67565f3f2e2.png"></a></p>
-<p><a href="https://img.fghrsh.net/album/LHUiz">查看更多…</a></p>
-<h1><span id="机器人大军">机器人大军</span></h1><p>都是TF2MVM模式的机器人，我觉得就不用放预览图了</p>
-<p><a href="https://img.fghrsh.net/image/J8D2P"><img src="http://fp1.fghrsh.net/2021/02/17/76734c002b90aaf0b1f52ff6190d7673.png" alt="76734c002b90aaf0b1f52ff6190d7673.png"></a></p>
-<h1><span id="自定义系列">自定义系列</span></h1><p>为什么叫自定义？因为我也不知道叫什么好。</p>
-<p><a href="https://img.fghrsh.net/image/JG3DI"><img src="http://fp1.fghrsh.net/2021/02/17/4d9e5f8eaac09fbc8ac507cba854f615.png" alt="4d9e5f8eaac09fbc8ac507cba854f615.png"></a></p>
-<p><a href="https://img.fghrsh.net/album/LHoX5">查看更多…</a></p>
-<h1><span id="可可自制系列">可可自制系列</span></h1><p>从我一开始不熟悉到后面熟悉的绑定的模型，初期做的很差，比如2233娘和红豆水手服之类的。后面是越做越好的。好耶</p>
-<p>~( •̀ ω •́ )y</p>
-<p><a href="https://img.fghrsh.net/image/JihYn"><img src="http://fp1.fghrsh.net/2021/02/17/f9a946fd69f468b4fe10e14e09e422a4.png" alt="f9a946fd69f468b4fe10e14e09e422a4.png"></a></p>
-<p><a href="https://img.fghrsh.net/album/LHv4B">查看更多…</a></p>
-<h1><span id="自制新增系列">自制新增系列</span></h1><p>2021年之后我做的新模型的图片会在这里。</p>
-<p><a href="https://img.fghrsh.net/image/JSBFK"><img src="http://fp1.fghrsh.net/2021/02/26/21c06ce8074916c2eda222245c748367.png" alt="21c06ce8074916c2eda222245c748367.png"></a></p>
-<p><a href="https://img.fghrsh.net/album/Lnmne">查看更多…</a></p>
-]]></content>
-      <categories>
-        <category>咖啡厅预览</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>TF2社区服务器开服教程</title>
     <url>/2021/02/01/tf2_ds_cn/</url>
     <content><![CDATA[<h1><span id="tf2社区服务器开服教程">TF2社区服务器开服教程</span></h1><h2><span id="一-前言">一. 前言</span></h2><p>写在开头，由于国内TF2社区不断地缩小，流失的玩家数量比不上新加入的玩家数量，所以你在一腔热血之开服时最好还是思考一下：是不是我真的想当服主？我有什么办法让玩家来玩我的服务器？有不少需要你操心的东西。假如你只是想建一个朋友玩玩的服务器就好，那可以不用太理会上面的问题。</p>
@@ -632,9 +429,276 @@ sv_downloadurl &quot;http://yourfastdlsite.com/tf&quot;
       </tags>
   </entry>
   <entry>
+    <title>咖啡厅雪糕跳跃服</title>
+    <url>/2021/02/11/newtf2jumpserver/</url>
+    <content><![CDATA[<p>好耶，新的服务器开了。是跳跃服，雪糕跳跃服。</p>
+<p>点击右边连接服务器。<a href="steam://connect/47.115.144.75:27015">点我连接雪糕跳跃服</a></p>
+<p>感谢Zero的赞助。</p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+        <tag>云服务器</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>咖啡厅服务器更新 v0.1</title>
+    <url>/2021/02/11/update-v0-1/</url>
+    <content><![CDATA[<p>不是说新年新气象嘛，乘着我用了三年的主机和FF2服务器终于在3月要关闭了，这里已经做好了数据迁移服务，大家不用担心~</p>
+<ul>
+<li>更新封禁系统 <a href="https://bans.midheart.club/">bans.midheart.club</a></li>
+<li>将SZF服（僵尸模式）纳入统一管理，增加商店。</li>
+</ul>
+<p>还有兴趣多开一个模式的服务器，有啥建议可以和我说。</p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>咖啡厅模型预览</title>
+    <url>/2021/02/17/tf2modelsreview/</url>
+    <content><![CDATA[<p><strong>点击进入相册</strong></p>
+<h1><span id="artifact纸片人">Artifact纸片人</span></h1><p><a href="https://img.fghrsh.net/image/J8Opg"><img src="https://fp1.fghrsh.net/2021/02/17/15c1ff08c5234a135ebbd67565f3f2e2.png" alt="15c1ff08c5234a135ebbd67565f3f2e2.png"></a></p>
+<p><a href="https://img.fghrsh.net/album/LHUiz">查看更多…</a></p>
+<h1><span id="机器人大军">机器人大军</span></h1><p>都是TF2MVM模式的机器人，我觉得就不用放预览图了</p>
+<p><a href="https://img.fghrsh.net/image/J8D2P"><img src="http://fp1.fghrsh.net/2021/02/17/76734c002b90aaf0b1f52ff6190d7673.png" alt="76734c002b90aaf0b1f52ff6190d7673.png"></a></p>
+<h1><span id="自定义系列">自定义系列</span></h1><p>为什么叫自定义？因为我也不知道叫什么好。</p>
+<p><a href="https://img.fghrsh.net/image/JG3DI"><img src="http://fp1.fghrsh.net/2021/02/17/4d9e5f8eaac09fbc8ac507cba854f615.png" alt="4d9e5f8eaac09fbc8ac507cba854f615.png"></a></p>
+<p><a href="https://img.fghrsh.net/album/LHoX5">查看更多…</a></p>
+<h1><span id="可可自制系列">可可自制系列</span></h1><p>从我一开始不熟悉到后面熟悉的绑定的模型，初期做的很差，比如2233娘和红豆水手服之类的。后面是越做越好的。好耶</p>
+<p>~( •̀ ω •́ )y</p>
+<p><a href="https://img.fghrsh.net/image/JihYn"><img src="http://fp1.fghrsh.net/2021/02/17/f9a946fd69f468b4fe10e14e09e422a4.png" alt="f9a946fd69f468b4fe10e14e09e422a4.png"></a></p>
+<p><a href="https://img.fghrsh.net/album/LHv4B">查看更多…</a></p>
+<h1><span id="自制新增系列">自制新增系列</span></h1><p>2021年之后我做的新模型的图片会在这里。</p>
+<p><a href="https://img.fghrsh.net/image/JSBFK"><img src="http://fp1.fghrsh.net/2021/02/26/21c06ce8074916c2eda222245c748367.png" alt="21c06ce8074916c2eda222245c748367.png"></a></p>
+<p><a href="https://img.fghrsh.net/album/Lnmne">查看更多…</a></p>
+]]></content>
+      <categories>
+        <category>咖啡厅预览</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>咖啡厅的暗鬼要塞服务器开服了</title>
+    <url>/2021/02/18/tf2newslenderserver/</url>
+    <content><![CDATA[<p>我又蹭到别人的学生机啦<del>既然这么好以后都蹭好啦</del></p>
+<p>暗鬼要塞服务器，只装了基本的游戏内容和地图，用腾讯云cdn加速下载，点击下面的链接即可进服务器。</p>
+<p><a href="steam://connect/42.193.131.170:27015">点我连接巧克力暗鬼服</a></p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>资源包怎么用/TF2的download文件夹如何运作？</title>
+    <url>/2021/02/19/howtf2downloadfolderworks/</url>
+    <content><![CDATA[<h1><span id="简而言之">简而言之</span></h1><p>假如你只是想知道你下载的资源包怎么用，那我可以在这里简单地告诉你。你下载的资源包一般是个压缩包，双击打开后里面一般会有 maps, materials, models, sound 这四个文件夹的任何几种，可能多可能少，但是你只要全选这几个文件夹，然后拖放到你的游戏目录的这个路径之下。</p>
+<p><code>Team Fortress 2\tf\download</code></p>
+<p>然后就安装成功了，你只需要重新进服务器即可。</p>
+<h1><span id="原理">原理</span></h1><p>不仅仅是TF2，像CSS和Gmod等起源游戏，都把从服务器下载的自定义内容，下载到这个download文件夹下。其中下载的内容一般是 maps, materials, models, sound 即地图、贴图、模型、音乐。不过玩家的喷漆并不保存在这里。你同时也会注意到你的tf文件夹，即download的父文件夹，里面一般也有 maps, materials, models, sound 这四个文件夹，假如你熟悉自定义地图，你知道maps里面装的是官方地图，你也可以把你下载到的地图bsp文件放在这里面。</p>
+<p>那么直接把下载的资源包解压到tf文件夹不就好了吗？为什么还要解压到tf\download文件夹下呢？其实，你是<strong>可以</strong>把资源包直接放在tf文件夹下的，但是极不推荐，这不方便你分类管理自定义内容。</p>
+<p>download文件夹里面的maps, materials, models, sound是等同于游戏在加载 tf\maps tf\materials tf\models tf\sound 这四个文件夹的。你也可以把自己在mod网站找到的地图放在 tf\download\maps 也是可以正常使用的。</p>
+<h1><span id="mod文件夹">mod文件夹</span></h1><p>在安装各种mod时，除了vpk文件，你可能会被要求把下载到的压缩包解压到 tf\custom 的。只要你细心就能注意到，里面的文件也是遵从同等加载的办法的。只不过他们以不同的mod文件夹进行分类。</p>
+]]></content>
+      <categories>
+        <category>技术分享</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>咖啡厅暗鬼服更新日志</title>
+    <url>/2021/02/22/tf2sf2serverupdatelog/</url>
+    <content><![CDATA[<h1><span id="更新日志">更新日志</span></h1><p>以后暗鬼服的更新日志直接在这里写。请时常查看本页面是否有更新。<br>感谢Boss提供者：Mleczyk76、Nameless、Astolfo Alter</p>
+<h2><span id="2021221">2021/2/21</span></h2><ul>
+<li>创建了本日志，之前的更新记录我忘记次序了所以就这样吧。</li>
+</ul>
+<h2><span id="2021222">2021/2/22</span></h2><ul>
+<li>Core Pack 增加Boss：Marcus、Chaos Insurgency Soldiers</li>
+<li>增加地图：slender_2fort_b1、slender_4way_v3_fix、slender_abandoned_offices_v2、slender_aquatica_v5b、slender_assault_final、slender_asylum_redux_fix2</li>
+<li>Core Pack 增加Boss：Ethre、Hans Volter、Quadralex、BEN Drowned - 14:19</li>
+</ul>
+<h2><span id="2021223">2021/2/23</span></h2><ul>
+<li>Core Pack 增加Boss：Bad Batter、Guilt、Frank Manera、Patriarch and Fleshpound</li>
+<li>增加地图：slender_backrooms_b2、slender_badlands_survive_v3、slender_badwater_basin_wip、slender_biotics_lab_v1b</li>
+<li>增加玩家在默认情况下可以留守的时间10秒。</li>
+</ul>
+<h2><span id="2021224">2021/2/24</span></h2><ul>
+<li>分开了两个Boss组，在地图投票时可以进行投票。<ul>
+<li>Boss组1：Flesh Clown、Fleshpound、Frank Manera、Guardian、Guilt、Hans Volter、OI 2 Insanity、Jaraxxus、Marcus、The Patriarch、Quadralex、Rage Sniper、Sawrunner、Suicide Squidward</li>
+<li>Boss组2：Armless、Bad Batter、BEN Drowned、Big Smoke、Chaos Insurgency、Charlie Metson Jr.、Chris Walker、Corrupted Woody Redux、Corrupted Jessie(有可能成为Woody的伙伴)、Craig、Death Claw、Ethre、Snatcher</li>
+<li>核心组（不可投票，系统随时加载）：包括基础的Slender、Rake、和天使。还有地图限定的如FNAF2、SCPCB、拳击场地图的Boss也在里面。</li>
+</ul>
+</li>
+<li>新增了Boss：Squidward Suicide、Craig</li>
+<li>增加地图：slender_bowser_castle_b1b、slender_broken_v2、slender_cliffroad_b3</li>
+<li>削弱了Snatcher的小弟数量，从12修改为6。</li>
+<li>增加Boss组3：Dead By Daylight Pyramid Head、Queen Vanessa、Neighbor、Bill Cipher、Bulldozer and Skulldozer、Cartoon Cat、Flesher、Half-Life 2 D0g、Reinforced Blood Golem、Team Killer、Horseless Headless Horsemann、Handsome Jack</li>
+</ul>
+<h2><span id="2021225">2021/2/25</span></h2><ul>
+<li>增加Boss组4：Dr Trager、Sett、Jhin、Woormy Charles、Memphis Tennessee、Tinky Winky</li>
+<li>增加地图：slender_clinic_b2、slender_cry_of_fear_a3、slender_dawn_b2f</li>
+<li>削弱InSanity的视野和速度。</li>
+</ul>
+<h2><span id="2021226">2021/2/26</span></h2><ul>
+<li>Boss组4：增加Villager、Ghost、Skeleton、meem</li>
+<li>增加Boss组5：Emily、Garg、Horror、Lucy、Moarg、黑山基地的僵尸</li>
+<li>增加地图：slender_de_dust2_a1_fix1、slender_deathrun_a3_fix、slender_desecration_b2b、slender_lobbys_b2</li>
+</ul>
+<h2><span id="2021228">2021/2/28</span></h2><ul>
+<li>Boss组5：增加Paranoia</li>
+<li>增加地图：slender_diverge_reboot_v3、slender_enclosed_b1</li>
+<li>Boss组5：增加Hoovy Dundy</li>
+</ul>
+<h2><span id="202131">2021/3/1</span></h2><ul>
+<li>Boss组5：增加Specimen 12</li>
+<li>增加地图：slender_expedition_b3、slender_expeditions_curse_b3b、slender_eyes_b1、slender_facility_b3、slender_frezze_b1_fix、slender_frontier_engineering_final、slender_frostbite_b2</li>
+</ul>
+<h2><span id="202132">2021/3/2</span></h2><ul>
+<li>Boss组5：增加HER (IMSCARED)、Manhunt Smileys、Mutant Varients、King Gandalf</li>
+<li>增加地图：slender_frosty_sewer_b2、slender_gate3_a3、slender_grotto_b2</li>
+<li>增加蹲坑检测时间10秒。</li>
+</ul>
+<h2><span id="202134">2021/3/4</span></h2><ul>
+<li>为地图slender_fiveroundsatfreddys_b5添加专用Boss组：FNAF1组</li>
+</ul>
+<h2><span id="202136">2021/3/6</span></h2><ul>
+<li>增加Boss组6：德国boy（键盘毁灭者）、Marauder、T-800、Xenomorph、Jason Voorhees</li>
+<li>增加地图：slender_skyhigh_vshfit_a1、slender_well_a6、slender_turbine_lz_b6b_fix1</li>
+<li>将 slender_hellfire_b1c、slender_parish_b2b、slender_weepers_b3b、slender_abandoned_offices_v2、slender_assault_final、slender_lobbys_b2 移除出地图池</li>
+</ul>
+<h2><span id="202139">2021/3/9</span></h2><ul>
+<li>插件版本更新<ul>
+<li>特殊回合投票现在有了一个新的系统来挑选投票而不会重复导致崩坏。</li>
+<li>Silent Slender现在只生成3个boss而不是4个。</li>
+<li>In The 90s音乐回归并延长。</li>
+<li>自动追逐奔跑人现在依赖于boss的搜索和声音范围。</li>
+<li>幽灵现在使用Collision Hooks而不是noclip。</li>
+<li>增加小弟武器。</li>
+</ul>
+</li>
+<li>德国boyOP版现在不会随机选中。</li>
+<li>Boss组6：增加zubenko、Padoru Nero</li>
+</ul>
+<h2><span id="2021311">2021/3/11</span></h2><ul>
+<li>Boss组6：增加Yandere Dev、Tinky Tank、Padoru Nero、Slendyclaus</li>
+<li>增加Boss组7：Dipsy Chainsaw、Dipsy Lake、Laa Laa、Markiplier、New Corrupted Spongebob、Po Necromorph、Cave Tubbie、Yeti Tubbie、SCP-049 (Proxy Master)、Classic SCP-096、Mace - Cry of Fear</li>
+<li>增加Boss组8：Fleshy Zork、Zork、Scrake、Meth-High Sniper、Mr.Wilson、Sick Simon、Trevor Philips</li>
+<li>增加地图：slender_his_world_a3、slender_industry_b3、slender_island_a1</li>
+<li>下载更新包：链接：<a href="https://pan.baidu.com/s/169ZcRO9aHgLb2ku55ntv2A">https://pan.baidu.com/s/169ZcRO9aHgLb2ku55ntv2A</a>  提取码：l9hp </li>
+</ul>
+<h2><span id="2021313">2021/3/13</span></h2><ul>
+<li>增加地图：slender_krusty_krab_b1、slender_lentimas_town_ptb_v1、slender_long_away_classic3、slender_luigis_mansion_v4、slender_mechanicus_133_a1、slender_midas_v5、slender_minecraft_a6、slender_badlands_v2</li>
+<li><del>更新将会不限期停止，恢复时间约为一年后。</del> 以后是随缘更新。</li>
+</ul>
+<h2><span id="202168">2021/6/8</span></h2><ul>
+<li>Boss组8：增加Shin Gojira、Creeper Girl、Bearded Expense</li>
+<li>增加Boss组9：Brown Bandits (S.T.A.L.K.E.R)、Gangsta Doctor、孙笑川(嘴臭天皇)、WindGrin</li>
+<li>地图更新：slender_ksopdarn_run_a1、slender_minecraft_a6fix_notnt</li>
+<li>资源包不再更新，推荐从游戏中下载，以后有机会再放出新的资源包。<ul>
+<li>下载原有的资源包仍然可以让你跳过许多需要下载的东西。</li>
+</ul>
+</li>
+</ul>
+<h2><span id="2021610">2021/6/10</span></h2><ul>
+<li>Boss组9：增加Astolfo Bean plushie、General Grievous（愚人节Boss）、louis</li>
+<li>更新德国boy</li>
+</ul>
+<h2><span id="2021712">2021/7/12</span></h2><ul>
+<li>Boss组9：增加The Trollge、Rick Astley。</li>
+<li>修复一些以半条命默认动画模型的动画错误。（wantsee）</li>
+</ul>
+<h2><span id="2021723">2021/7/23</span></h2><ul>
+<li>Boss组8：增加DOOM Hunter</li>
+<li>增加地图：slender_shelter_b1、slender_slenderina_a1、slender_offices_v6a</li>
+</ul>
+<h2><span id="2021731">2021/7/31</span></h2><ul>
+<li>Boss组7：添加Keeper</li>
+</ul>
+<h2><span id="202188">2021/8/8</span></h2><ul>
+<li>增加Boss组10：Anonymous、Boyfriend (FNF)、Gorefield、Johnny、Isaac、Classic Memelord、Sexually Challenged Spy、Tom、Zurg [catpyro]</li>
+<li>Boss组10：增加 Fiddlesticks [Diviously]</li>
+<li>增加地图：slender_ksopdarn_run_a2、slender_egypt_b1c</li>
+</ul>
+<h2><span id="2021815">2021/8/15</span></h2><ul>
+<li>增加地图：slender_mountaincomplex_v2b、slender_enclosed_b1b、slender_weepers_b3b、slender_overgrown_v2、slender_summercamp_b7b</li>
+<li>更新Sett：增强攻击，增加Pool Party (Summer)变种</li>
+</ul>
+<h2><span id="2021824">2021/8/24</span></h2><ul>
+<li>Boss组8：增加Lewis Pepper</li>
+<li>Meme：增加Isabelle Buffed</li>
+</ul>
+<h2><span id="2021919">2021/9/19</span></h2><p><a href="https://steamcommunity.com/groups/CoffeeHouseTF2">Steam 社区 :: 组 :: Coffee咖啡厅TF2 (steamcommunity.com)</a> 以后的内容写进Steam组，因为github经常抽风。</p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>暗鬼服游玩警告</title>
+    <url>/2021/02/28/playsf2warning/</url>
+    <content><![CDATA[<h1><span id="警告暗鬼服游玩警告">警告：暗鬼服游玩警告</span></h1><p><a href="https://img.fghrsh.net/image/JSdGe"><img src="http://fp1.fghrsh.net/2021/02/28/cb28106c11376bb9af36e999d2127362.jpg" alt="cb28106c11376bb9af36e999d2127362.jpg"></a></p>
+<p><strong>服务器模式为娱乐性恐怖模式。可能不适合所有人游玩。</strong></p>
+<p><strong>未成年人请不要游玩本服务器！</strong></p>
+<p><strong>心理承受能力弱的玩家请不要游玩本服务器！</strong></p>
+<p><strong>在服务器已经发布告知的情况下，仍坚持错误的行为并因此受到任何伤害的，由其自己承担一切后果！</strong></p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>DDOS期间暂时关闭服务器</title>
+    <url>/2021/03/08/ddosshutdown/</url>
+    <content><![CDATA[<p>最近我的服务器遭受一连串的DDOS攻击，因此决定暂时关闭服务器。恢复时间请留意后续通知。</p>
+<p>受DDOS影响的服务器：挂机服、暗鬼服、竞技服、求生僵尸服、跳跃服</p>
+<p>拒绝访问的服务器：挂机服、暗鬼服、竞技服、求生僵尸服</p>
+<p>不关机的服务器：跳跃服</p>
+<p>未受到攻击的服务器：HKMGE服</p>
+<p>不关机的服务器只是不关机，仍会被攻击，因此不可以保证可用性。</p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+        <tag>云服务器</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>咖啡厅服务器核弹避难所</title>
     <url>/2021/03/10/tf2-nuke-hide-here/</url>
     <content><![CDATA[<p>就字面意思，避免核爆，服务器进入地下室，外部不能再看到服务器情况了。只能直连IP进入。<br><a href="https://blog.midheart.club/fuwuqi/">查看更多…</a></p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>TF2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>商店插件更新</title>
+    <url>/2021/03/11/storepluginupdate/</url>
+    <content><![CDATA[<p>顾名思义，商店插件做了一个小更新，现在玩家皮肤可以分兵种不同装备了。数据库也因此而更新，你们不需要做任何操作。但是所有已装备的物品都被强制卸下了。请自己手动装备回来。<br>也增加了很多头衔，感觉没有括号挺好的</p>
 ]]></content>
       <categories>
         <category>更新日志</category>
@@ -648,18 +712,6 @@ sv_downloadurl &quot;http://yourfastdlsite.com/tf&quot;
     <url>/2021/06/01/6-1-new-tf2-server/</url>
     <content><![CDATA[<p>话不多说好吧。</p>
 <p>咖啡厅服务器<br>暗鬼服：g2.polarstar.cc:62501<br>挂机服：g2.polarstar.cc:62511</p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>商店插件更新</title>
-    <url>/2021/03/11/storepluginupdate/</url>
-    <content><![CDATA[<p>顾名思义，商店插件做了一个小更新，现在玩家皮肤可以分兵种不同装备了。数据库也因此而更新，你们不需要做任何操作。但是所有已装备的物品都被强制卸下了。请自己手动装备回来。<br>也增加了很多头衔，感觉没有括号挺好的</p>
 ]]></content>
       <categories>
         <category>更新日志</category>
@@ -1175,18 +1227,25 @@ sv_downloadurl &quot;http://yourfastdlsite.com/tf&quot;
       </tags>
   </entry>
   <entry>
-    <title>资源包怎么用/TF2的download文件夹如何运作？</title>
-    <url>/2021/02/19/howtf2downloadfolderworks/</url>
-    <content><![CDATA[<h1><span id="简而言之">简而言之</span></h1><p>假如你只是想知道你下载的资源包怎么用，那我可以在这里简单地告诉你。你下载的资源包一般是个压缩包，双击打开后里面一般会有 maps, materials, models, sound 这四个文件夹的任何几种，可能多可能少，但是你只要全选这几个文件夹，然后拖放到你的游戏目录的这个路径之下。</p>
-<p><code>Team Fortress 2\tf\download</code></p>
-<p>然后就安装成功了，你只需要重新进服务器即可。</p>
-<h1><span id="原理">原理</span></h1><p>不仅仅是TF2，像CSS和Gmod等起源游戏，都把从服务器下载的自定义内容，下载到这个download文件夹下。其中下载的内容一般是 maps, materials, models, sound 即地图、贴图、模型、音乐。不过玩家的喷漆并不保存在这里。你同时也会注意到你的tf文件夹，即download的父文件夹，里面一般也有 maps, materials, models, sound 这四个文件夹，假如你熟悉自定义地图，你知道maps里面装的是官方地图，你也可以把你下载到的地图bsp文件放在这里面。</p>
-<p>那么直接把下载的资源包解压到tf文件夹不就好了吗？为什么还要解压到tf\download文件夹下呢？其实，你是<strong>可以</strong>把资源包直接放在tf文件夹下的，但是极不推荐，这不方便你分类管理自定义内容。</p>
-<p>download文件夹里面的maps, materials, models, sound是等同于游戏在加载 tf\maps tf\materials tf\models tf\sound 这四个文件夹的。你也可以把自己在mod网站找到的地图放在 tf\download\maps 也是可以正常使用的。</p>
-<h1><span id="mod文件夹">mod文件夹</span></h1><p>在安装各种mod时，除了vpk文件，你可能会被要求把下载到的压缩包解压到 tf\custom 的。只要你细心就能注意到，里面的文件也是遵从同等加载的办法的。只不过他们以不同的mod文件夹进行分类。</p>
+    <title>VSH服BOSS机制介绍</title>
+    <url>/2022/02/01/vsh2-boss/</url>
+    <content><![CDATA[<h1><span id="vsh服boss机制介绍">VSH服BOSS机制介绍</span></h1><h2><span id="通用">通用</span></h2><p>全部BOSS都不会受到掉落伤害。</p>
+<p>每次BOSS受到攻击获得的愤怒值的计算公式为</p>
+<p><img src="/images/boss_gongshi.png" alt="BOSS愤怒值计算公式"></p>
+<blockquote>
+<p>看不懂吧？我也看不懂。</p>
+</blockquote>
+<p>BOSS蹲下时免疫任何伤害击退。</p>
+<p>假如场上只剩下侦察兵，BOSS的愤怒值增加。</p>
+<p>每个BOSS的近战伤害值经过调整，不会出现一刀300+，400+的奇怪伤害。</p>
+<p>非全部BOSS都能瞬间造成200+伤害，除了萨克斯顿霍尔这个澳大利亚大叔。</p>
+<p>下面介绍与原版有所不同的BOSS。玩过VSH-R的玩家可能比较熟悉。</p>
+<h2><span id="vagineer">Vagineer</span></h2><p>激活愤怒时可以建造一个步哨枪，这个步哨枪比较疯狂。</p>
+<h2><span id="脱缰的无头骑士-jr">脱缰的无头骑士 Jr.</span></h2><p>激活愤怒时，变成一个幽灵，不会受到伤害，可以自由飞行，可以吸收周围敌人的生命值。</p>
+<h2><span id="残忍的基督弓手">残忍的基督弓手</span></h2><p>每次击杀之后获得的刀数据不同，信息会在BOSS换刀的时候显示在BOSS屏幕的中央。</p>
 ]]></content>
       <categories>
-        <category>技术分享</category>
+        <category>更新日志</category>
       </categories>
       <tags>
         <tag>TF2</tag>
@@ -1641,31 +1700,6 @@ sv_downloadurl &quot;http://yourfastdlsite.com/tf&quot;
       </tags>
   </entry>
   <entry>
-    <title>VSH服BOSS机制介绍</title>
-    <url>/2022/02/01/vsh2-boss/</url>
-    <content><![CDATA[<h1><span id="vsh服boss机制介绍">VSH服BOSS机制介绍</span></h1><h2><span id="通用">通用</span></h2><p>全部BOSS都不会受到掉落伤害。</p>
-<p>每次BOSS受到攻击获得的愤怒值的计算公式为</p>
-<p><img src="/images/boss_gongshi.png" alt="BOSS愤怒值计算公式"></p>
-<blockquote>
-<p>看不懂吧？我也看不懂。</p>
-</blockquote>
-<p>BOSS蹲下时免疫任何伤害击退。</p>
-<p>假如场上只剩下侦察兵，BOSS的愤怒值增加。</p>
-<p>每个BOSS的近战伤害值经过调整，不会出现一刀300+，400+的奇怪伤害。</p>
-<p>非全部BOSS都能瞬间造成200+伤害，除了萨克斯顿霍尔这个澳大利亚大叔。</p>
-<p>下面介绍与原版有所不同的BOSS。玩过VSH-R的玩家可能比较熟悉。</p>
-<h2><span id="vagineer">Vagineer</span></h2><p>激活愤怒时可以建造一个步哨枪，这个步哨枪比较疯狂。</p>
-<h2><span id="脱缰的无头骑士-jr">脱缰的无头骑士 Jr.</span></h2><p>激活愤怒时，变成一个幽灵，不会受到伤害，可以自由飞行，可以吸收周围敌人的生命值。</p>
-<h2><span id="残忍的基督弓手">残忍的基督弓手</span></h2><p>每次击杀之后获得的刀数据不同，信息会在BOSS换刀的时候显示在BOSS屏幕的中央。</p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>VSH服 河城荷取来啦 河童重工世界第一！</title>
     <url>/2022/09/10/vsh-nitori-update/</url>
     <content><![CDATA[<h1><span id="首先祝大家中秋快乐海上生明月天涯共此时">首先祝大家中秋快乐！海上生明月，天涯共此时。</span></h1><p><a href="https://imgloc.com/i/9JC9p"><img src="https://s1.328888.xyz/2022/09/10/9JC9p.png" alt="9JC9p.png"></a></p>
@@ -1712,36 +1746,6 @@ sv_downloadurl &quot;http://yourfastdlsite.com/tf&quot;
       </tags>
   </entry>
   <entry>
-    <title>DDOS期间暂时关闭服务器</title>
-    <url>/2021/03/08/ddosshutdown/</url>
-    <content><![CDATA[<p>最近我的服务器遭受一连串的DDOS攻击，因此决定暂时关闭服务器。恢复时间请留意后续通知。</p>
-<p>受DDOS影响的服务器：挂机服、暗鬼服、竞技服、求生僵尸服、跳跃服</p>
-<p>拒绝访问的服务器：挂机服、暗鬼服、竞技服、求生僵尸服</p>
-<p>不关机的服务器：跳跃服</p>
-<p>未受到攻击的服务器：HKMGE服</p>
-<p>不关机的服务器只是不关机，仍会被攻击，因此不可以保证可用性。</p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>TF2</tag>
-        <tag>云服务器</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>新的ZE服务器。</title>
-    <url>/2023/08/10/new-tf2-ze/</url>
-    <content><![CDATA[<p>IP: 1.15.128.191:29266<br>如你所见目前只是测试这个插件，很多地方会不完善。<br>地图只有3张，若需要提前下载地图文件，还是请你加公告群，群号676081646。<br>如有问题反馈，请在群内打开我的私聊告诉我，不要在游戏中发。</p>
-]]></content>
-      <categories>
-        <category>更新日志</category>
-      </categories>
-      <tags>
-        <tag>-TF2</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>VSH服 藤原妹红 飘上月球，不死之烟</title>
     <url>/2023/06/23/vsh-mokou-update/</url>
     <content><![CDATA[<h1><span id="新boss-藤原妹红">新BOSS - 藤原妹红</span></h1><p><img src="/images/%E8%97%A4%E5%8E%9F%E5%A6%B9%E7%BA%A21.jpg" alt="妹红"></p>
@@ -1780,19 +1784,97 @@ sv_downloadurl &quot;http://yourfastdlsite.com/tf&quot;
       </tags>
   </entry>
   <entry>
-    <title>暗鬼服游玩警告</title>
-    <url>/2021/02/28/playsf2warning/</url>
-    <content><![CDATA[<h1><span id="警告暗鬼服游玩警告">警告：暗鬼服游玩警告</span></h1><p><a href="https://img.fghrsh.net/image/JSdGe"><img src="http://fp1.fghrsh.net/2021/02/28/cb28106c11376bb9af36e999d2127362.jpg" alt="cb28106c11376bb9af36e999d2127362.jpg"></a></p>
-<p><strong>服务器模式为娱乐性恐怖模式。可能不适合所有人游玩。</strong></p>
-<p><strong>未成年人请不要游玩本服务器！</strong></p>
-<p><strong>心理承受能力弱的玩家请不要游玩本服务器！</strong></p>
-<p><strong>在服务器已经发布告知的情况下，仍坚持错误的行为并因此受到任何伤害的，由其自己承担一切后果！</strong></p>
+    <title>新的ZE服务器。</title>
+    <url>/2023/08/10/new-tf2-ze/</url>
+    <content><![CDATA[<p>IP: 1.15.128.191:29266<br>如你所见目前只是测试这个插件，很多地方会不完善。<br>地图只有3张，若需要提前下载地图文件，还是请你加公告群，群号676081646。<br>如有问题反馈，请在群内打开我的私聊告诉我，不要在游戏中发。</p>
 ]]></content>
       <categories>
         <category>更新日志</category>
       </categories>
       <tags>
-        <tag>TF2</tag>
+        <tag>-TF2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Coffee服地图作图指南</title>
+    <url>/2023/08/15/coffee-tf2-ze-mapping-guide/</url>
+    <content><![CDATA[<p>WIP.<br>建设中。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Coffee僵尸逃跑服更新日志-8月20日</title>
+    <url>/2023/08/20/coffee-tf2-ze-820-review/</url>
+    <content><![CDATA[<p>这里将记录从开服到现在的更新日志。从2023年8月9日到现在8月20日，我准备把重心转向自己的生活了。</p>
+<h1><span id="8月9日">8月9日</span></h1><p>开发了人类无限弹药。但有几个例外：全部需要充能的武器（如三明治），短路发生器（仍然要消耗金属，但可自动恢复）。<br>开发了开局宽限期，僵尸宽限期内使用自杀指令会直接重生，而不会导致僵尸全死亡的情况发生。<br>开发了限制武器，替换武器的框架。<br>开发了地图人物缩小，手动计时器功能。<br>在人类开局多个事件中修改人类生命值确保他们的生命值不会被超量带到下一局。<br>开发了僵尸/人类伤害功能<br>-僵尸的摔落伤害会修改为1。<br>-僵尸爆破手冲锋时若受到伤害会取消冲锋。<br>-根据玩家的意见修改了击退力量与冷却时间。<br>-人类爆破手与间谍可以对抗感染，血量不足时才会被感染（<img src="file:///C:\Users\MSI\AppData\Roaming\Tencent\QQTempSys\JHR}WMGRAACM224DB3[@298.png" alt="img">喝威士忌喝的；抽香烟抽的）。</p>
+<h1><span id="8月10日">8月10日</span></h1><p>步哨枪弹药会自动减少直到0，然后摧毁。<br>StatusHUD使用1秒的重复timer。<br>试图重生玩家时若玩家未选择兵种会选择机枪手。<br>优化击退。<br>削弱火焰兵的压缩空气。<br>每5名玩家增加一只初始僵尸，最大为4。<br>使用重生波而不是每个玩家单独的计时器来计算重生时间（死亡时候屏幕上面的计时）。<br>每个僵尸只有5次重生机会。<br>修复其他bug。</p>
+<h1><span id="8月11日">8月11日</span></h1><h2><span id="part1">Part1</span></h2><p>步哨不会取消僵尸爆破手的冲锋了。<br>尝试DHook近战武器攻击函数，使近战忽视队友，除非是鞭子。<br>尝试识别火焰伤害，现在火焰只能够将僵尸减速，而不能造成击退。</p>
+<h2><span id="part2">Part2</span></h2><p>使用bool数组的办法来判断玩家是否为僵尸，而不是使用队伍判断。<br>上条更改使得近战攻击时可以忽略队友，并成功感染人类（理论上）。<br>尝试让func_breakable受到伤害时给玩家输出伤害数字显示。<br>制作BOSS血条框架。</p>
+<p>僵尸间谍的普通攻击将不能够感染人类，只有背刺才可以瞬间感染。<br>僵尸间谍可以保留隐身手表。<br>僵尸工程师没收建造工具，以后想办法怎么做他的特性再说。</p>
+<h1><span id="8月12日">8月12日</span></h1><p>僵尸侦察兵替换睡魔和包装纸杀手。<br>僵尸工程师不会丢掉建造工具了。建造的步哨也不能感染人类。</p>
+<p>步哨不会自己减少弹药了。</p>
+<p>步哨伤害只能减速僵尸。<br>医生禁止用快速医疗枪。如何处理以后再说。<br>已支持ryujin的地图道具。</p>
+<h1><span id="8月13日">8月13日</span></h1><p>禁止僵尸假死和蹲坑表。<br>士兵火箭不与队友碰撞。<br>禁止降落伞。<br>禁用力挽狂澜。</p>
+<h1><span id="8月14日">8月14日</span></h1><p>允许移除爆破手盾牌。<br>部署僵尸血量设定不再需要等待0.2秒。<br>当玩家使用近战攻击时，等同于让玩家执行+use（未测试）。<br>在僵尸重新补给的时候也走 PrepareZombie 。<br>准备阶段的非自杀死亡也会复活玩家。</p>
+<h1><span id="8月15日">8月15日</span></h1><p>增加3个BOSS相关ServerCommand指令<br>ze_map_boss_bar {entityname}<br>ze_map_boss_grenade_on {entityname}<br>ze_map_boss_grenade_off {entityname}</p>
+<p>不给僵尸工程师建造奇怪的东西，比如三级步哨。<br>修复boss血条。</p>
+<h1><span id="8月19日">8月19日</span></h1><p>更改楼梯处理方式，可以悬挂可以自由移动<br>在BOSS实体生命值归零时，尝试隐藏血条HUD。<br>允许prop_dynamic作为地图物品。<br>提升对于func_button的使用检测机制。<br>在服务器只有一个玩家的时候，游戏不会正常开始，即不会产生母体僵尸，也不会因为僵尸队没人而结束。<br>性能提升。</p>
+<h1><span id="8月20日">8月20日</span></h1><p>模拟CS:S的prop_physics，当玩家卡在某个运动中的prop_physics实体中时，玩家将被卡住，解救的办法是把物体射/打走，或使用!stuck。</p>
+<p>这一功能允许人类通过使用攻击的办法移动这些物体，做成阻挡僵尸的掩体。</p>
+<p>所有的prop_physics及其变种实体的重量将乘5倍，此数值如有过头，需要调整再跟我说。</p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>-TF2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Coffee僵尸逃跑服地图一览</title>
+    <url>/2023/08/20/coffee-tf2-ze-mapcycle/</url>
+    <content><![CDATA[<p>在？看看地图。图片多，请注意。</p>
+<!-- toc -->
+
+<ul>
+<li><a href="#ascension">Ascension</a></li>
+<li><a href="#persona">Persona</a></li>
+<li><a href="#ryujin">Ryujin</a></li>
+<li><a href="#boat-escape-101">Boat Escape 101</a></li>
+<li><a href="#swamp-facility">Swamp Facility</a></li>
+<li><a href="#zk-fape-scape">ZK Fape Scape</a></li>
+<li><a href="#quick-sand">Quick Sand</a></li>
+<li><a href="#minecraft">Minecraft</a></li>
+<li><a href="#jungle-lab">Jungle Lab</a></li>
+<li><a href="#moon-base">Moon Base</a></li>
+</ul>
+<!-- tocstop -->
+
+<h1><span id="ascension">Ascension</span></h1><p><img src="/images/zemaps/ascension_p1.jpg" alt="ascension_p1"></p>
+<p><img src="/images/zemaps/ascension_p2.jpg" alt="ascension_p2"></p>
+<h1><span id="persona">Persona</span></h1><p><img src="/images/zemaps/ascension_p1.jpg" alt="persona_p1"></p>
+<p><img src="/images/zemaps/ascension_p2.jpg" alt="persona_p2"></p>
+<h1><span id="ryujin">Ryujin</span></h1><p><img src="/images/zemaps/ryujin_p1.jpg" alt="ryujin_p1"></p>
+<p><img src="/images/zemaps/ryujin_p2.jpg" alt="ryujin_p2"></p>
+<h1><span id="boat-escape-101">Boat Escape 101</span></h1><p><img src="/images/zemaps/boatescape_p1.jpg" alt="boatescape_p1"></p>
+<p><img src="/images/zemaps/boatescape_p2.jpg" alt="boatescape_p2"></p>
+<h1><span id="swamp-facility">Swamp Facility</span></h1><p><img src="/images/zemaps/swamp_facility_p1.jpg" alt="swamp_facility_p1"></p>
+<p><img src="/images/zemaps/swamp_facility_p2.jpg" alt="swamp_facility_p2"></p>
+<h1><span id="zk-fape-scape">ZK Fape Scape</span></h1><p><img src="/images/zemaps/zk_fapescape_p1.jpg" alt="zk_fapescape_p1"></p>
+<p><img src="/images/zemaps/zk_fapescape_p2.jpg" alt="zk_fapescape_p2"></p>
+<h1><span id="quick-sand">Quick Sand</span></h1><p><img src="/images/zemaps/quicksand_p1.jpg" alt="quicksand_p1"></p>
+<p><img src="/images/zemaps/quicksand_p2.jpg" alt="quicksand_p2"></p>
+<h1><span id="minecraft">Minecraft</span></h1><p><img src="/images/zemaps/minecraft_p1.jpg" alt="minecraft_p1"></p>
+<p><img src="/images/zemaps/minecraft_p2.jpg" alt="minecraft_p2"></p>
+<h1><span id="jungle-lab">Jungle Lab</span></h1><p><img src="/images/zemaps/junglelab_p1.jpg" alt="junglelab_p1"></p>
+<p><img src="/images/zemaps/junglelab_p2.jpg" alt="junglelab_p2"></p>
+<h1><span id="moon-base">Moon Base</span></h1><p><img src="/images/zemaps/moonbase_p1.jpg" alt="moonbase_p1"></p>
+<p><img src="/images/zemaps/moonbase_p2.jpg" alt="moonbase_p2"></p>
+]]></content>
+      <categories>
+        <category>更新日志</category>
+      </categories>
+      <tags>
+        <tag>-TF2</tag>
       </tags>
   </entry>
 </search>

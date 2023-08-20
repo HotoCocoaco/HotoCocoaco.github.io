@@ -1,0 +1,196 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN" class="loading">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Coffee僵尸逃跑服更新日志-8月20日 - 快乐的写一写</title>
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="google" content="notranslate" />
+    <meta name="keywords" content="TF2, Cocoa, Sourcemod, 军团要塞2, 咖啡厅, MidHeart,"> 
+    <meta name="description" content="我用来乱写东西的,这里将记录从开服到现在的更新日志。从2023年8月9日到现在8月20日，我准备把重心转向自己的生活了。
+8月9日开发了人类无限弹药。但有几个例外：全部需要充能的武器（如三明治），短路发生器（仍然要消,"> 
+    <meta name="author" content="热可可"> 
+    <link rel="alternative" href="atom.xml" title="快乐的写一写" type="application/atom+xml"> 
+    <link rel="icon" href="/img/favicon.png"> 
+    
+    
+<link rel="stylesheet" href="/css/diaspora.css">
+
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+         (adsbygoogle = window.adsbygoogle || []).push({
+              google_ad_client: "ca-pub-8691406134231910",
+              enable_page_level_ads: true
+         });
+    </script>
+    <script async custom-element="amp-auto-ads"
+        src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js">
+    </script>
+<meta name="generator" content="Hexo 5.3.0"></head>
+
+<body class="loading">
+    <span id="config-title" style="display:none">快乐的写一写</span>
+    <div id="loader"></div>
+    <div id="single">
+    <div id="top" style="display: block;">
+    <div class="bar" style="width: 0;"></div>
+    <a class="iconfont icon-home image-icon" href="javascript:;" data-url="https://blog.midheart.club"></a>
+    <div title="播放/暂停" class="iconfont icon-play"></div>
+    <h3 class="subtitle">Coffee僵尸逃跑服更新日志-8月20日</h3>
+    <div class="social">
+        <div>
+            <div class="share">
+                <a title="获取二维码" class="iconfont icon-scan" href="javascript:;"></a>
+            </div>
+            <div id="qr"></div>
+        </div>
+    </div>
+    <div class="scrollbar"></div>
+</div>
+
+    <div class="section">
+        <div class="article">
+    <div class='main'>
+        <h1 class="title">Coffee僵尸逃跑服更新日志-8月20日</h1>
+        <div class="stuff">
+            <span>八月 20, 2023</span>
+            
+  <ul class="post-tags-list" itemprop="keywords"><li class="post-tags-list-item"><a class="post-tags-list-link" href="/tags/TF2/" rel="tag">-TF2</a></li></ul>
+
+
+        </div>
+        <div class="content markdown">
+            <p>这里将记录从开服到现在的更新日志。从2023年8月9日到现在8月20日，我准备把重心转向自己的生活了。</p>
+<h1><span id="8月9日">8月9日</span></h1><p>开发了人类无限弹药。但有几个例外：全部需要充能的武器（如三明治），短路发生器（仍然要消耗金属，但可自动恢复）。<br>开发了开局宽限期，僵尸宽限期内使用自杀指令会直接重生，而不会导致僵尸全死亡的情况发生。<br>开发了限制武器，替换武器的框架。<br>开发了地图人物缩小，手动计时器功能。<br>在人类开局多个事件中修改人类生命值确保他们的生命值不会被超量带到下一局。<br>开发了僵尸/人类伤害功能<br>-僵尸的摔落伤害会修改为1。<br>-僵尸爆破手冲锋时若受到伤害会取消冲锋。<br>-根据玩家的意见修改了击退力量与冷却时间。<br>-人类爆破手与间谍可以对抗感染，血量不足时才会被感染（<img src="file:///C:\Users\MSI\AppData\Roaming\Tencent\QQTempSys\JHR}WMGRAACM224DB3[@298.png" alt="img">喝威士忌喝的；抽香烟抽的）。</p>
+<h1><span id="8月10日">8月10日</span></h1><p>步哨枪弹药会自动减少直到0，然后摧毁。<br>StatusHUD使用1秒的重复timer。<br>试图重生玩家时若玩家未选择兵种会选择机枪手。<br>优化击退。<br>削弱火焰兵的压缩空气。<br>每5名玩家增加一只初始僵尸，最大为4。<br>使用重生波而不是每个玩家单独的计时器来计算重生时间（死亡时候屏幕上面的计时）。<br>每个僵尸只有5次重生机会。<br>修复其他bug。</p>
+<h1><span id="8月11日">8月11日</span></h1><h2><span id="part1">Part1</span></h2><p>步哨不会取消僵尸爆破手的冲锋了。<br>尝试DHook近战武器攻击函数，使近战忽视队友，除非是鞭子。<br>尝试识别火焰伤害，现在火焰只能够将僵尸减速，而不能造成击退。</p>
+<h2><span id="part2">Part2</span></h2><p>使用bool数组的办法来判断玩家是否为僵尸，而不是使用队伍判断。<br>上条更改使得近战攻击时可以忽略队友，并成功感染人类（理论上）。<br>尝试让func_breakable受到伤害时给玩家输出伤害数字显示。<br>制作BOSS血条框架。</p>
+<p>僵尸间谍的普通攻击将不能够感染人类，只有背刺才可以瞬间感染。<br>僵尸间谍可以保留隐身手表。<br>僵尸工程师没收建造工具，以后想办法怎么做他的特性再说。</p>
+<h1><span id="8月12日">8月12日</span></h1><p>僵尸侦察兵替换睡魔和包装纸杀手。<br>僵尸工程师不会丢掉建造工具了。建造的步哨也不能感染人类。</p>
+<p>步哨不会自己减少弹药了。</p>
+<p>步哨伤害只能减速僵尸。<br>医生禁止用快速医疗枪。如何处理以后再说。<br>已支持ryujin的地图道具。</p>
+<h1><span id="8月13日">8月13日</span></h1><p>禁止僵尸假死和蹲坑表。<br>士兵火箭不与队友碰撞。<br>禁止降落伞。<br>禁用力挽狂澜。</p>
+<h1><span id="8月14日">8月14日</span></h1><p>允许移除爆破手盾牌。<br>部署僵尸血量设定不再需要等待0.2秒。<br>当玩家使用近战攻击时，等同于让玩家执行+use（未测试）。<br>在僵尸重新补给的时候也走 PrepareZombie 。<br>准备阶段的非自杀死亡也会复活玩家。</p>
+<h1><span id="8月15日">8月15日</span></h1><p>增加3个BOSS相关ServerCommand指令<br>ze_map_boss_bar {entityname}<br>ze_map_boss_grenade_on {entityname}<br>ze_map_boss_grenade_off {entityname}</p>
+<p>不给僵尸工程师建造奇怪的东西，比如三级步哨。<br>修复boss血条。</p>
+<h1><span id="8月19日">8月19日</span></h1><p>更改楼梯处理方式，可以悬挂可以自由移动<br>在BOSS实体生命值归零时，尝试隐藏血条HUD。<br>允许prop_dynamic作为地图物品。<br>提升对于func_button的使用检测机制。<br>在服务器只有一个玩家的时候，游戏不会正常开始，即不会产生母体僵尸，也不会因为僵尸队没人而结束。<br>性能提升。</p>
+<h1><span id="8月20日">8月20日</span></h1><p>模拟CS:S的prop_physics，当玩家卡在某个运动中的prop_physics实体中时，玩家将被卡住，解救的办法是把物体射/打走，或使用!stuck。</p>
+<p>这一功能允许人类通过使用攻击的办法移动这些物体，做成阻挡僵尸的掩体。</p>
+<p>所有的prop_physics及其变种实体的重量将乘5倍，此数值如有过头，需要调整再跟我说。</p>
+
+            <!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+            <audio id="audio" loop="1" preload="auto" controls="controls" data-autoplay="false">
+                <source type="audio/mpeg" src="">
+            </audio>
+            
+                <ul id="audio-list" style="display:none">
+                    
+                        
+                            <li title='0' data-url='http://link.hhtjim.com/163/425570952.mp3'></li>
+                        
+                    
+                        
+                            <li title='1' data-url='http://link.hhtjim.com/163/425570952.mp3'></li>
+                        
+                    
+                </ul>
+            
+        </div>
+        
+    <div id='gitalk-container' class="comment link"
+		data-enable='false'
+        data-ae='false'
+        data-ci='403511690e3bfba16452'
+        data-cs='d5c081b0817e718943933f1387e54c66cb198da9'
+        data-r='blog-gittalk'
+        data-o='HotoCocoaco'
+        data-a='HotoCocoaco'
+        data-d='false'
+    >查看评论</div>
+
+
+    </div>
+    
+        <div class='side'>
+			<ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link"><span class="toc-number">1.</span> <span class="toc-text">8月9日</span></a></li><li class="toc-item toc-level-1"><a class="toc-link"><span class="toc-number">2.</span> <span class="toc-text">8月10日</span></a></li><li class="toc-item toc-level-1"><a class="toc-link"><span class="toc-number">3.</span> <span class="toc-text">8月11日</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link"><span class="toc-number">3.1.</span> <span class="toc-text">Part1</span></a></li><li class="toc-item toc-level-2"><a class="toc-link"><span class="toc-number">3.2.</span> <span class="toc-text">Part2</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link"><span class="toc-number">4.</span> <span class="toc-text">8月12日</span></a></li><li class="toc-item toc-level-1"><a class="toc-link"><span class="toc-number">5.</span> <span class="toc-text">8月13日</span></a></li><li class="toc-item toc-level-1"><a class="toc-link"><span class="toc-number">6.</span> <span class="toc-text">8月14日</span></a></li><li class="toc-item toc-level-1"><a class="toc-link"><span class="toc-number">7.</span> <span class="toc-text">8月15日</span></a></li><li class="toc-item toc-level-1"><a class="toc-link"><span class="toc-number">8.</span> <span class="toc-text">8月19日</span></a></li><li class="toc-item toc-level-1"><a class="toc-link"><span class="toc-number">9.</span> <span class="toc-text">8月20日</span></a></li></ol>	
+        </div>
+    
+</div>
+
+
+    </div>
+</div>
+</body>
+
+
+<script src="//lib.baomitu.com/jquery/1.8.3/jquery.min.js"></script>
+<script src="/js/plugin.js"></script>
+<script src="/js/typed.js"></script>
+<script src="/js/diaspora.js"></script>
+
+
+<link rel="stylesheet" href="/photoswipe/photoswipe.css">
+<link rel="stylesheet" href="/photoswipe/default-skin/default-skin.css">
+
+
+<script src="/photoswipe/photoswipe.min.js"></script>
+<script src="/photoswipe/photoswipe-ui-default.min.js"></script>
+
+
+<!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+    <!-- Background of PhotoSwipe. 
+         It's a separate element as animating opacity is faster than rgba(). -->
+    <div class="pswp__bg"></div>
+    <!-- Slides wrapper with overflow:hidden. -->
+    <div class="pswp__scroll-wrap">
+        <!-- Container that holds slides. 
+            PhotoSwipe keeps only 3 of them in the DOM to save memory.
+            Don't modify these 3 pswp__item elements, data is added later on. -->
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+        <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+        <div class="pswp__ui pswp__ui--hidden">
+            <div class="pswp__top-bar">
+                <!--  Controls are self-explanatory. Order can be changed. -->
+                <div class="pswp__counter"></div>
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+                <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+                <!-- element will get class pswp__preloader--active when preloader is running -->
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                      <div class="pswp__preloader__cut">
+                        <div class="pswp__preloader__donut"></div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div> 
+            </div>
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+</html>
